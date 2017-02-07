@@ -1,0 +1,1985 @@
+
+
+Easting: 
+
+383473.486 m 
+ 
+
+CRAIGOW-1 
+
+ 
+
+WELL COMPLETION REPORT 
+
+BASIC DATA 
+
+ 
+
+T/47P 
+
+ 
+
+ 
+
+ 
+
+BASS BASIN 
+
+Tasmania 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tap Oil Ltd 
+
+March 2011 
+
+
+TABLE OF CONTENTS 
+
+ 
+WELL INDEX SHEET 1 
+1 OPERATIONS SUMMARY 3 
+1.1 Rig Mobilisation and Rig Up 3 
+1.2 Craigow-1 Drilling Operations 3 
+1.2.1 36” Hole Section and 30 x 20” Conductor 3 
+1.2.2 17 ½” Hole Section and 13 3/8” Surface Casing. 3 
+1.2.3 Run BOP’s 4 
+1.2.4 12 ¼” Hole Section 4 
+1.3 Plug and Abandon 5 
+1.4 Pull Anchors and Move Off Location 6 
+2 DRILLING AND COMPLETION DATA 8 
+2.1 Hole Sizes and Depths 8 
+2.2 Casing Data – Craigow-1 8 
+2.3 Cementing Data 8 
+2.4 Surveys 10 
+2.5 Bit Record 10 
+2.6 Mud Data 10 
+2.7 Testing 10 
+3 FORMATION EVALUATION 12 
+3.1 Mudlogging 12 
+3.1.1 Mudlogging 12 
+3.1.2 Ditch Cutting Samples 12 
+3.1.3 Hydrocarbon Indications 13 
+3.2 Coring 13 
+3.2.1 Coring 13 
+3.2.2 Sidewall Cores 13 
+3.3 MWD/LWD Logging 13 
+3.4 Wireline Logging 14 
+3.5 Temperature Surveys 14 
+3.6 Velocity Survey 14 
+4 POST WELL ANALYSIS (BASIC DATA) 14 
+
+
+ 
+
+
+FIGURES, TABLES, APPENDICES AND ENCLOSURES 
+
+ 
+
+ 
+
+LIST OF TABLES 
+
+ 
+Table 1: Casing Data 8 
+Table 2: Craigow-1 Final Geodetic Survey Listing 11 
+Table 3: Cuttings Sample Collection Summary 12 
+Table 4: MWD/LWD Logging Data 13 
+Table 5: Wireline Logging data 14 
+
+
+LIST OF FIGURES 
+
+ 
+Figure 1: Craigow-1 Location Map 2 
+Figure 2: Craigow-1 Drilling Time/Depth Curve 7 
+Figure 3: Craigow-1 P&A Schematic 9 
+
+
+LIST OF APPENDICES 
+
+ 
+Appendix 1: Drilling End of Well Report 
+Appendix 2: Daily Drilling Reports 
+Appendix 3: Rig Positioning Report 
+Appendix 4: Directional Drilling MWD and LWD End of Well Report 
+Appendix 5: Mudlogging End of Well Report 
+Appendix 6: Daily Geological Reports 
+Appendix 7: Cuttings Descriptions 
+Appendix 8: Wireline Logging Diary 
+Appendix 9: FLAIR Report 
+Appendix 10: Wireline QA/QC Report 
+
+
+ 
+
+LIST OF ENCLOSURES 
+
+ 
+Enclosure 1: Mudlogs 
+Enclosure 2: Gas Ratio Logs 
+Enclosure 3: Drill Logs 
+Enclosure 4: Pressure Logs 
+Enclosure 5: FLAIR Log 
+WELL INDEX SHEET 
+
+CRAIGOW-1 
+
+Page 1 of 1 
+
+
+
+ 
+
+LOCATION: 
+
+Survey: 
+
+Labatt 3D 
+
+ 
+
+PERMIT: 
+
+T/47P 
+
+ 
+
+InLine: 
+
+1894 
+
+ 
+
+BASIN: 
+
+Offshore Bass Basin 
+
+ 
+
+Xline: 
+
+4290 
+
+ 
+
+PARTICIPANTS: 
+
+Tap Oil Ltd 100% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SURFACE 
+
+Latitude: 
+
+39° 35’ 31.686” S 
+
+ 
+
+WELL DESIGNATION: 
+
+Exploration 
+
+LOCATION: 
+
+Longitude: 
+
+145° 38’ 34.586” E 
+
+ 
+
+STATUS: 
+
+Plugged and Abandoned 
+
+ 
+
+
+
+ 
+
+STRUCTURE TYPE: 
+
+Anticline 
+
+ 
+
+Northing: 
+
+5616630.646 m 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RIG NAME AND TYPE: 
+
+Kan Tan IV 
+
+ 
+
+Datum: 
+
+GDA94 
+
+ 
+
+ 
+
+Jack-Up, MODU. 
+
+ 
+
+Spheroid: 
+
+GRS80 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Map Grid: 
+
+MGA 94 
+
+ 
+
+RIG CONTRACTOR: 
+
+Maersk Drilling Pty Ltd 
+
+ 
+
+Projection: 
+
+UTM Zone 55, CM 147 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+TOTAL DEPTH: 
+
+(mMD) 
+
+(mTVDSS) 
+
+ 
+
+HOLE SIZES: 
+
+Size 
+
+Interval (mMD) 
+
+Driller: 
+
+1800.0 
+
+1799.8 
+
+ 
+
+ 
+
+36” 
+
+100.0 - 159.0 
+
+Logger: 
+
+1764.0 
+
+1764.0 
+
+ 
+
+ 
+
+17 ½” 
+
+159.0 - 745.0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 ¼” 
+
+745.0 - 1800.0 
+
+ELEVATION: 
+
+Datum: 
+
+MSL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RT-ASL (MSL): 
+
+26.0m 
+
+ 
+
+CASING: 
+
+Size 
+
+Shoe (mMD) 
+
+ 
+
+WD (MSL): 
+
+74.0m 
+
+ 
+
+ 
+
+30” x 20” 
+
+157.0 
+
+ 
+
+RT-ML: 
+
+100.0m 
+
+ 
+
+ 
+
+13 3/8” 
+
+735.0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPUD DATE: 
+
+03:00hrs 
+
+24/12/2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REACHED TD: 
+
+12:30hrs 
+
+31/12/2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RIG RELEASED: 
+
+14:30hrs 
+
+07/01/2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LWD LOGS 
+
+DATE 
+
+HOLE SIZE 
+
+RUN NUMBER 
+
+MEASUREMENT 
+
+INTERVAL 
+
+25-26/12/2010 
+
+17 ½” 
+
+1 
+
+D/DGW 
+
+157.0 to 745.0m 
+
+29-30/12/2010 
+
+12 ¼” 
+
+2 
+
+PFE 
+
+745.0 to 1311.0m 
+
+30-31/12/2010 
+
+12 ¼” 
+
+3 
+
+PFE 
+
+1311.0 to 1800.0m 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WIRELINE LOGS 
+
+LOG TYPE 
+
+SUITE/RUN 
+
+INTERVAL mRT 
+
+BHT/TIME 
+
+PPC-MSIP-HRLA-SP-PEX-GR 
+
+1/1 
+
+1745.5 to 734.5.0 
+GR recorded to seafloor 
+
+76.0 deg C / 13.17hrs 
+
+
+
+ 
+
+DRILL STEM TESTING - NIL 
+
+TEST 
+
+TEST INTERVAL 
+
+FLOW RATE 
+
+CHOKE 
+
+FWHP 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+CEMENT PLUGS 
+
+PLUG 
+
+INTERVAL 
+
+CEMENT TYPE 
+
+CEMENT VOLUME 
+
+1 
+
+1070 to 1220m 
+
+Class G Abandonment 
+
+94 bbls / 15.8ppg 
+
+2 
+
+576 to 770m 
+
+Class G Abandonment 
+
+100 bbls / 15.8 ppg 
+
+3 
+
+130 to 230m 
+
+Class G Abandonment 
+
+50 bbls / 15.8 ppg 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ C:\Users\Home\Desktop\Capture.JPG
+
+
+Figure 1: Craigow-1 Location Map 
+
+ 
+
+
+1 OPERATIONS SUMMARY 
+
+1.1 Rig Mobilisation and Rig Up 
+
+The Maersk semi-submersible drilling rig “Kan Tan IV” came on contract to Tap Oil Ltd for 
+the Craigow-1 well at 14:30 hrs on 22nd December 2010, when the rig was under tight tow 
+from previous well Silvereye-1 (Origin). The rig completed the tow at 22:00 hrs on 22nd 
+December 2010 and began anchor running operations which were completed at 15:30hrs 
+on the 23 December 2010 when all eight anchors had been run and cross tensioned. 
+
+ 
+
+The rig was ballasted down to an operational draft of 19.8 m (65 ft), with the final rig 
+position at 2.22 m from the intended location which is within the specified tolerance of 10 m 
+radius. The ROV was launched and a seabed survey was conducted. 
+
+ 
+
+The Kan Tan IV rig elevation was 26m from Rotary Table to sea level. Water depth was 
+recorded as 74 m MSL. 
+
+ 
+
+1.2 Craigow-1 Drilling Operations 
+
+ 
+
+1.2.1 36” Hole Section and 30 x 20” Conductor 
+
+The 36” x 26” drilling BHA was made up comprising a 26” Smith XR-VCPS milled 
+tooth bit and a 36” hole opener which was run in to tag seabed at 100mMDRT. The 
+36” hole was then drilled from 100mMDRT to section TD at 159mMDRT in 1.5hrs. 
+The first 10m was drilled with PHG mud then drilling continued to 159m with sea 
+water while pumping 50bbls PHG pills every 15m and spotting PHG around the 
+BHA on connections. At section TD a 100bbls hi vis pill was pumped around and 
+the well was displaced to 360bbl of 8.6ppg PHG mud. A final Anderdrift survey 
+taken at section TD recording 0.5° before the BHA was pulled out of hole to run the 
+conductor. 
+
+ 
+
+The 30” x 20” shoe joint was made up before running the conductor string inside 
+the PGB in the moonpool. The conductor string was landed and latched inside the 
+PGB. The HAC control lines were connected and checked. Guidelines were 
+attached to the guideposts on the PGB and the assembly was run in hole on drill 
+pipe to 157mMDRT where circulation was established. 
+
+ 
+
+Cementing lines were rigged up and tested before the 30” conductor was cemented 
+with 264 bbls of 15.8 ppg Class G cement slurry and displaced with 39 bbls of 
+seawater. The ROV observed returns throughout the cement job, with no obvious 
+signs of cement or mica at the seabed. Subsequent to waiting on cement for 4 hrs 
+the wellhead housing running tool was released and pulled out of hole. 
+
+1.2.2 17 ½” Hole Section and 13 3/8” Surface Casing. 
+
+
+A 17.5” Smith VR+VEJ3PS milled tooth bit was made up to a BHA including MWD 
+with directional and GR sensors. The BHA was run in the hole and tagged top of 
+cement (TOC) at 150mMDRT. The 17.5” hole was then drilled from 159m to 
+section TD at 745 m MDRT with sea water and PHG pills (70 bbls of Hi Vis Guar 
+Gum sweeps at half stand and 70bbls of Hi Vis PHG around the BHA on 
+connections). At section TD 100 bbl of Hi-Vis PHG and 100bbls of Guar Gum Hi- 
+Vis sweeps were circulated and the well was then displaced to 1000 bbls of 9.0 ppg 
+PHG mud prior to pulling out of hole to surface. The 17.5” hole section was drilled 
+from 159m to 745mMDRT (586m section) in one run, in a total of 18 hrs with an 
+average ROP of 32.5 m/hr. 
+
+ 
+
+A two joint shoe track was made up and the 13 3/8” casing was run to a setting 
+depth at 735m MDRT. The surface lines were pressure tested with the cementing 
+unit to 3000 psi. At that stage the cement unit hose failed on the additive system 
+and a temporary repair was made to continue the operation and. An 80 bbls 
+seawater spacer was pumped before the 380bbls of 12.5ppg lead slurry and 
+104bbls of 15.8ppg tail slurry was pumped. The 18 ¾” wellhead running tool was 
+released and the running tool was pulled out of hole to surface in preparation to run 
+BOP’s. 
+
+ 
+
+ 
+
+1.2.3 Run BOP’s 
+
+The riser double was prepared and BOP stack was skidded to the well centre when 
+operations were suspended due to high wind. After waiting on weather for 9 hours, 
+the riser double was made up to the BOP stack. The stack was run and landed out 
+on the wellhead and a 50 Klbs over-pull test was performed. The BOP connector 
+and the 13 ¾” casing were successfully pressure tested against the blind shear rams 
+to 2500psi. The BOP had previously been pressure tested on the test stump. The 
+BOP landing joint was then laid out and the Diverter was installed. 
+
+ 
+
+ 
+
+1.2.4 12 ¼” Hole Section 
+
+A 12 ¼” BHA was made up with a Reed Hycalog RSR616M PDC bit, Sperrydrill 
+motor with 0.78 deg bend, MWD tools with DIR-GR-RES sensors. The BHA was 
+run in the hole and TOC was found at 696m. The cement was drilled with sea 
+water and Guar Gum Hi-Vis sweeps to 732m, at which point the well was displaced 
+to 9.8ppg KCL PHPA mud while drilling cement to 735m (shoe depth). The rat hole 
+was cleaned out to 745m and 3m of new formation was drilled to 748m prior to 
+pulling the BHA into casing shoe to perform a LOT (14.9ppg EMW). 
+
+ 
+
+The 12 ¼” section was then drilled from 748 to 1311mMDRT. While drilling a 
+dolomite stinger at 1266mMDRT, the ROP dropped to 10-15m/hr and did not 
+increase again when bit was went back into shale. Drilling parameters were varied 
+
+
+in an attempt to increase the ROP with no improvement. 45bbls of Steelseal pill 
+(20lbs/bbls) was pumped in an attempt to clear possible bit balling with (no effect). 
+
+The decision was made to make pull ut of hole. While pulling out at 1243mMDRT a 
+tight spot was observed requiring 55 Klbs over-pull and the well swabbing. From 
+that depth it required was neccesary to pump out of hole to the casing shoe. At the 
+casing shoe the well was circulated the BHA was pulled ouf hole to surface. Once 
+at surface the bit was graded 2-6-LT-N-X-I-CT-PR, having drilled from 745 to 
+1311mMDRT (566m of formation) in 13.5hr on bottom (19hr IADC time) with an 
+average on bottom ROP of 41.9m/hr. 
+
+ 
+
+The bit was changed to a Reed Hycalog RSR516S PDC and the BHA was run back 
+to bottom (washed through two tight spots at 756 and 784mMDRT. Drilling 
+continued to well TD at 1800mMDRT without problems. 
+
+ 
+
+At section TD, the well was circulated clean and the BHA was pulled to surface 
+(pumping out from 1655 to 1300mMDRT due to high drag). At surface, the bit was 
+graded 1-6-WT-T-X-I-ER-TD, having drilled from 1311 to 1800mMDRT (489m) in 
+12.9hr on bottom (IADC drilling time 17.5hr) with 37.9 m/hr on bottom ROP. 
+
+ 
+
+The following wireline suite was run: 
+
+ 
+
+Run #1: PPC-MSIP-HRLA-SP-PEX 
+
+ 
+
+While running in the hole, the tool string hung up at 1762mMDRT. Several 
+attempts were made to pass that depth without success, and section was logged 
+up to the casing shoe. 
+
+ 
+
+1.3 Plug and Abandon here I am addind stuck pipe 
+
+The well was plugged and abandoned as per the well schematic in Figure 3. 
+
+ 
+
+Craigow-1 was abandoned with three (3) cement plugs set in the well. A 2 7/8” cement 
+stinger, consisting of 19 joints of tubing and mule a shoe was made up to 5” drill pipe and 
+run in hole to 1370mMDRT. A 94 bbl, 11 ppg hi-vis pill was spotted from 1220 to 
+1370mMDRT to support abandonment plug #1. Plug #1 was set across the interval 1070 - 
+1220mMDRT with 94 bbls of 15.8 ppg Class G cement. 
+
+ 
+
+The cement stinger was pulled to 920mMDRT and a 94bbl, 11ppg hi-vis pill was spotted 
+from 770 to 920mMDRT to support cement plug #2. Cement plug #2 was set across the 
+casing shoe from 576 (tagged) to 770mMDRT with 94bbls of 15.8ppg Class G cement. 
+The cement stinger was pulled to 540mMDRT and casing above the cement plug was 
+displaced to inhibited 10ppg KCL PHPA mud. The plug was tagged with 10Klbs and 
+pressure tested to 1000psi for 10min after 8hr waiting on cement. 
+
+
+ 
+
+An 82bbls, 11ppg inhibited hi-vis pill was spotted from 380 to 230mMDRT to support 
+cement plug #3 which was set from 230m to 130mMDRT with 50 bbls of 15.8 ppg Class G 
+cement with a top of cement at set 30m below seabed. Excess drill pipe were laid out and 
+the wellhead was jetted prior to pulling the BOPs. 
+
+ 
+
+The Dril-Quip Hydraulic Abandonment Connector (HAC) was functioned using the ROV 
+while rigging down the riser handling equipment. The 30” x 20” casing cutting assembly 
+was then run to the wellhead. The assembly was latched into the wellhead and the 13 3/8” 
+casing was cut at 111.4mMDRT. The PGB, wellhead and casing stump was then 
+successfully recovered to surface. 
+
+ 
+
+The ROV performed a seabed clearance check offline prior to commencing rig move 
+operations. 
+
+ 
+
+After completing the abandonment operations on the well, the rig was handed over to the 
+Consortium to offload all 3rd party equipment in preparation for the rig demobilisation. 
+
+ 
+
+1.4 Pull Anchors and Move Off Location 
+
+After finishing with ballast tank repairs (as a preparation for the long tow), and backloading 
+all equipment from the rig, the anchors were retrieved. The anchor retrieval operations 
+were completed at 14:30 hrs on the 7th of January 2011. 67.5hrs were subtracted from 
+that time to reflect true well operations time. The end of Craigow-1 well operations was at 
+19:00 hrs on the 4th of January 2011. 
+
+
+ 
+
+ 
+
+Figure 2: Craigow-1 Drilling Time/Depth Curve 
+
+
+2 DRILLING AND COMPLETION DATA 
+
+The drilling and engineering end of well report, prepared by Australian Drilling Associates Pty 
+Ltd (ADA) on behalf of Tap Oil Ltd is contained in Appendix 1. Copies of the Daily Drilling 
+Reports are contained in Appendix 2. Documentation of the rig move and the final well 
+location survey prepared by Fugro is contained in Appendix 3 and Attachment 11 of Appendix 
+1. A schematic diagram of the well bore after plug and abandonment is shown in Figure 3. 
+
+ 
+
+ 
+
+2.1 Hole Sizes and Depths 
+
+Hole sizes and the depths for to which they were drilled in Craigow-1 were as follows: 
+
+36” x 20” 100.0 to 159.0mMD 
+
+17 ½” 159.0 to 745.0mMD 
+
+12 ¼” 745.0 to 1800.0mMD 
+
+ 
+
+ 
+
+2.2 Casing Data – Craigow-1 
+
+TYPE 
+
+Size 
+
+Weight/Wall 
+
+(in/ppf) 
+
+Grade 
+
+Thread 
+
+Shoe Depth 
+
+Conductor (30” x 20” 
+tapered shoe joint) 
+
+30” 
+
+1.5” / 1” 
+
+X52 
+
+SF-60 
+
+148.8 
+
+20” 
+
+0.625” 
+
+X52 
+
+Welded 
+
+157.0 
+
+Surface Casing 
+
+13 3/8” 
+
+68 
+
+K-55 
+
+BTC 
+
+735.0 
+
+
+
+Table 1: Casing Data 
+
+A full casing report for Craigow-1 is contained in Appendix 1, Attachment 4. 
+
+ 
+
+ 
+
+2.3 Cementing Data 
+
+Cementing operations on Craigow-1 are detailed in the cementing report contained in 
+Appendix 1, Attachment 5. 
+
+ 
+
+
+ 
+
+Figure 3: Craigow-1 P&A Schematic 
+
+ 
+
+
+ 
+
+2.4 Surveys 
+
+Directional surveying of the well path was conducted by Sperry Sun using Measurement 
+While Drilling (MWD) equipment. The final Geodetic Survey is listed in Table 2 on the 
+following page. A full report is contained in Appendix 1, Attachment 7 and also in Appendix 
+4 of this report. 
+
+ 
+
+ 
+
+2.5 Bit Record 
+
+The bit and BHA record for Craigow-1 is included in Appendix 1, Attachment 2. 
+
+ 
+
+ 
+
+2.6 Mud Data 
+
+Baroid Fluid Services provided the drilling mud for Craigow-1. A full report of drilling fluids, 
+physical mud properties and chemicals used are provided in Appendix 1, Attachment 3. 
+
+ 
+
+ 
+
+2.7 Testing 
+
+No wireline formation test or DST’s were carried out in Craigow-1. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+Table 2: Craigow-1 Final Geodetic Survey Listing 
+
+
+ 
+
+3 FORMATION EVALUATION 
+
+3.1 Mudlogging 
+
+3.1.1 Mudlogging 
+
+Geoservices provided mudlogging, formation evaluation and monitoring of drilling 
+parameters from spud. Full mudlogging services, including cuttings collection and 
+gas detection were provided from first returns (745mMD) to total depth using a high 
+speed gas chromatograph system (Reserval). 
+
+ 
+
+The mudlog, gas log, drill log and pressure logs recording lithology, penetration 
+rate, mud gas, drilling and other data were prepared and are contained in Enclosure 
+1, 2, 3 and 4 of this report and the Geoservices Final Well Report is contained in 
+Appendix 5. 
+
+ 
+
+Geochemical and isotope logging were provided from first returns (745mMD) to total 
+depth using FLAIR logging services. The FLAIR service was employed on the well 
+for quantitative gas acquisition in the C1-C5 range, determination of any fluid 
+variation and/or fluid contacts to better locate eventual pay zones within the 
+investigated intervals, establish typical fluid signatures to correlate to offset wells 
+and to monitor for the presence of Ethene, if any, generated by drilling / bit artifact. 
+
+ 
+
+The FLAIR log is contained in Enclosure 5 of this report. The Geoservices Final 
+FLAIR evaluation report is contained in Appendix 9. 
+
+ 
+
+3.1.2 Ditch Cutting Samples 
+
+Cuttings were collected and described from 745mMD (first returns) to TD at 
+1800.0mMD. The sampling intervals are described in Appendix 5, Section 2.5. The 
+numbers of cuttings samples sets are tabulated below. 
+
+ 
+
+Formation and Mud Samples 
+
+Type 
+
+No. of Sets 
+
+Quantity 
+
+Set No 
+
+Lightly washed dried and bagged cuttings 
+(Palaeontology). 
+
+1 
+
+200g 
+
+A 
+
+ 
+
+ 
+
+ 
+
+Type 
+
+No. of Sets 
+
+Quantity 
+
+Set No 
+
+Washed and dried and bagged cuttings. 
+
+1 
+
+200g 
+
+B 
+
+1 
+
+200g 
+
+C 
+
+1 
+
+200g 
+
+D 
+
+1 
+
+Samplex 
+
+E 
+
+
+
+Table 3: Cuttings Sample Collection Summary 
+
+The wellsite daily geological reports are provided in Appendix 6 and the Wellsite 
+Geologists’ cuttings sample descriptions are contained in Appendix 7. 
+
+ 
+
+
+Two sets of washed and dried cuttings samples were delived to Mineral Resources 
+Tasmania and Geoscience Australia respectively. A third set of washed and dried 
+samples, along with a set of lightly washed cuttings and a set of Samplex Trays was 
+sent to Core Laboritories Australia Pty Ltd (Perth) for storage. 
+
+ 
+
+One set of 3 Isotubes with surface collected (atmospheric pressure) gas samples 
+from 1250m, 1350m and 1507m has been stored at Core Laboritories in Perth. 
+
+ 
+
+3.1.3 Hydrocarbon Indications 
+
+Craigow-1 was drilled with seawater and high viscosity Bentonite sweeps in the 36” 
+and 16” hole sections with no returns. The 12 ¼” hole was drilled with a KCl / 
+Polymer mud system. Gas was monitored from first returns at 1886mMD and 
+significant peaks and breakdowns are recorded in Appendix 5, Section 3.6 and on 
+the Mudlog and Gas Ratio Logs (Enclosures 1 and 2). 
+
+ 
+
+Geoservices FLAIR Fluid and Isotope Logging with analysis in real time was 
+employed on Craigow-1. However due to equipment shortfalls coupled with the 
+very low gas levels detected in the well, no conclusions could be made. The FLAIR 
+log is contained in Enclosure 5 of this report. And the Geoservices Final FLAIR 
+evaluation report is contained in Appendix 9. 
+
+ 
+
+3.2 Coring 
+
+3.2.1 Coring 
+
+No conventional cores were taken in Craigow-1. 
+
+ 
+
+3.2.2 Sidewall Cores 
+
+No wireline rotary or percussion cores were taken in Craigow-1. 
+
+ 
+
+3.3 MWD/LWD Logging 
+
+Real-time and recorded MWD /LWD data acquisition was provided by Sperry Sun in the 
+445mm (17 ½) and 311mm (12 ¼”) hole sections. Run summaries are tabulated below. 
+
+ 
+
+Run 
+
+Hole Size 
+mm 
+
+MWD/LWD Services 
+
+Start 
+Depth 
+(m) 
+
+Stop 
+Depth 
+(m) 
+
+Distance 
+(m) 
+
+Start Date 
+
+Stop Date 
+
+1 
+
+17 ½” 
+
+Directional 
+
+157.0 
+
+745.0 
+
+588.0 
+
+24/12/10 
+
+26/12/10 
+
+2 
+
+12 ¼” 
+
+DDS-DGR-EWR-P4 
+
+745.0 
+
+1311.0 
+
+566.0 
+
+28/12/10 
+
+30/12/10 
+
+3 
+
+12 ¼” 
+
+DDS-DGR-EWR-P4 
+
+1311.0 
+
+1800.0 
+
+489.0 
+
+30/12/10 
+
+31/12/10 
+
+
+
+Table 4: MWD/LWD Logging Data 
+
+The Sperry Sun End of Well Report is contained in Appendix 4 of this report. 
+
+ 
+
+
+3.4 Wireline Logging 
+
+Schlumberger Wireline acquired open hole logging data in the 12 ¼” hole hole in Craigow-1 
+in one TD logging run. Details are summarised in the following table. 
+
+ 
+
+Log Tool String 
+
+Suite/Run 
+
+Interval mRT 
+
+Comments 
+
+MSIP-HRLT-SP-PEX-GR 
+
+1/1 
+
+1745.5 - 734.5.0 
+
+GR recorded through casing to seafloor. Sonic 
+recorded through casing till loss of signal 
+DEPTH?. 
+
+
+
+Table 5: Wireline Logging data 
+
+ 
+
+The wellsite geologist logging diary is contained in Appendix 8. 
+
+ 
+
+LQC Group also provided pre drill and wellsite logging QA/QC for the Craigow-1 logging 
+program and their report is contained in Appendix 10. 
+
+ 
+
+3.5 Temperature Surveys 
+
+Wireline logs recorded the following maximum temperature; 
+
+ 
+
+Logging Tool String 
+
+Temp 
+
+Temp 
+
+Temp 
+
+Depth 
+
+Time After Last Circulation 
+
+ 
+
+(Deg C) 
+
+(Deg C) 
+
+(Deg C) 
+
+(mMD) 
+
+(Hours) 
+
+MSIP-HRLT-SP-PEX-GR 
+
+76 
+
+76 
+
+76 
+
+1745.5 
+
+13:10 
+
+
+
+ 
+
+Using the LWD BHT (EWTEMP) an approximate maximum BHT of 80 Deg C is assumed. 
+
+ 
+
+ 
+
+3.6 Velocity Survey 
+
+No borehole seismic survey was carried out in Craigow-1. 
+
+ 
+
+4 POST WELL ANALYSIS (BASIC DATA) 
+
+No post well analysis has been carried out on Craigow-1. 
+
+
+ 
+
+Appendices 
+
+
+
+Appendix 1: Drilling End of Well Report 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+End of Well Report 
+
+ 
+
+Craigow-1 
+
+ 
+
+ 
+
+ 
+
+Document Number: 10-03-02-02-03 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+0 
+
+Issued for comment 
+
+DE 
+
+DS 
+
+DM 
+
+22/02/11 
+
+ 
+
+Issue 
+
+ 
+
+Rev 
+
+ 
+
+Description 
+
+Prepared 
+By: 
+
+Reviewed 
+By: 
+
+Approved 
+
+By: 
+
+Date: 
+
+
+
+ 
+
+
+TABLE OF CONTENTS 
+
+ 
+1. DISTRIBUTION LIST ................................................................................................... 3 
+2. APPROVALS ............................................................................................................... 4 
+3. EXECUTIVE SUMMARY .............................................................................................. 5 
+4. WELL SUMMARY & OVERVIEW ................................................................................ 6 
+4.1 Well Summary .................................................................................................................... 6 
+4.2 Casing and Cementing Data ............................................................................................. 8 
+4.3 Operations Summary ........................................................................................................ 9 
+4.4 Health, Safety and Environment (HSE) ......................................................................... 14 
+4.5 Well Highlights ................................................................................................................. 17 
+4.6 Well Lowlights .................................................................................................................. 17 
+5. TIME ANALYSIS ........................................................................................................ 18 
+5.1 Breakdown by Well Phase .............................................................................................. 18 
+5.2 Non Productive Time Analysis ....................................................................................... 21 
+5.3 Time Depth Curve ............................................................................................................ 24 
+6. WELL SCHEMATIC ................................................................................................... 25 
+7. RECOMMENDATIONS .............................................................................................. 26 
+8. ATTACHMENTS ........................................................................................................ 27 
+4.1.1 License and Field data .................................................................................................... 6 
+4.1.2 Surface Location ............................................................................................................. 6 
+4.1.3 MODU Data ..................................................................................................................... 6 
+4.1.4 Key Dates........................................................................................................................ 6 
+4.1.5 Bottom Hole Location ...................................................................................................... 7 
+4.1.6 Hole Section and Casing Summary ................................................................................ 7 
+4.2.1 Casing Data .................................................................................................................... 8 
+4.2.2 Cementing Data .............................................................................................................. 8 
+4.3.1 Rig Mobilisation and Rig Up ............................................................................................ 9 
+4.3.2 Drilling 36in Hole section ................................................................................................. 9 
+4.3.3 Setting 30in Conductor .................................................................................................... 9 
+4.3.4 Drilling 17.5in Hole Section ........................................................................................... 10 
+4.3.5 Setting 13.375in Casing ................................................................................................ 10 
+4.3.6 Running BOPs .............................................................................................................. 11 
+4.3.7 Drilling 12.25in Hole ...................................................................................................... 11 
+4.3.8 Logging ......................................................................................................................... 12 
+4.3.9 Well Abandonment ........................................................................................................ 12 
+4.3.10 Anchor Retrieval ........................................................................................................... 13 
+1 Well Montage and Performance Report 
+
+2 Bit Record (IDS) 
+
+3 Mud Report (Halliburton 
+
+4 Casing Report 
+
+5 Cementing Report (Halliburton) 
+
+6 LOT/FIT Report 
+
+7 Deviation Survey and MWD Report (Sperry) 
+
+8 Activity Summary Reports (IDS) 
+
+9 NPT Summary (IDS) 
+
+10 ROV EOWR (Fugro) 
+
+11 Final Rig Position Summary (Fugro) 
+
+12 Seabed Clearance Certificate (Fugro) 
+
+
+1. Distribution List 
+
+ 
+
+Copy 
+
+Location 
+
+Recipient 
+
+Hard Copy 
+
+E-Copy 
+
+1 
+
+ADA 
+
+Document Control (File) 
+
+- 
+
+1 
+
+2 
+
+Tap Oil 
+
+Engineering and Development 
+Manager 
+
+- 
+
+1 
+
+3 
+
+Tap Oil 
+
+Project Geologist 
+
+- 
+
+1 
+
+4 
+
+ADA 
+
+Drilling Manager 
+
+- 
+
+1 
+
+5 
+
+ADA 
+
+Drilling Superintendent 
+
+- 
+
+1 
+
+6 
+
+ADA 
+
+Senior Drilling Engineer 
+
+- 
+
+1 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+2. Approvals 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tap Oil Engineering and Development Manager Date 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer 
+
+This document has been prepared on behalf of and for the use of Tap Oil Limited (Tap) in 
+accordance with generally accepted consulting practices, and is issued in accordance with the 
+agreement between Tap and Australian Drilling Associates Pty Ltd (ADA). The information 
+contained in this document is provided as a guide only. Although every effort has been made to 
+ensure the accuracy of the information, ADA disclaims any liability or responsibility for the accuracy 
+of the information contained herein. 
+
+
+
+ 
+
+
+3. Executive Summary 
+
+ 
+
+Craigow-1 exploration well was drilled by the operator Tap Oil Limited (Tap) in Permit T/47P in the 
+Bass Basin, Tasmania. The objective of the well was to drill and evaluate the sandstone 
+reservoirs of the Eastern View Coal Measures (EVCM). The well was drilled to a total depth of 
+1,800 m MDRT but no hydrocarbons were found. 
+
+ 
+
+The Maersk semi-submersible drilling rig “Kan Tan IV” came on contract to Tap for the Craigow-1 
+well at 14:00 hrs on 22 December 2010, on completion of the previous well Silvereye-1 (Origin 
+Energy). The well was spudded at 03:00 hrs on the 24 December 2010. The well was spudded in 
+74m (MSL) of water with the rotary table elevation at 26 m above sea level. 
+
+ 
+
+The 36in conductor hole was drilled to 159 m MDRT and the 30in conductor with a 20in shoe was 
+run to 157 m MDRT and cemented to sea bed. The 17.5in surface hole was drilled to 745 m 
+MDRT with returns to sea bed. The 13.375 casing and 18.75in wellhead was run to 735 m MDRT 
+and cemented to sea bed. The BOP stack and riser were successfully run and landed onto the 
+wellhead. The 12.25in hole was then drilled to well TD at 1,800m MDRT (1799.8m TVDRT) with 2 
+bit runs. 
+
+ 
+
+One logging run was performed at TD to evaluate the formation. The following logging suite was 
+run: PPC-MSIP-HRLA-SP-PEX 
+
+ 
+
+The well was subsequently plugged and abandoned with three (3) cement plugs according to 
+regulatory requirements. Operations on Craigow-1 were completed at 14:30 hrs on 7 January 
+2011, with the rig on tight tow to Western Port, Melbourne. 2.81 days were subtracted from that 
+date to reflect actual well time and account for time spent to backload all equipment and prepare 
+the rig for a tow at the end of Kan Tan IV Consortium campaign. 
+
+ 
+
+The total time spent on Craigow-1 was 13.21 days, compared with the total AFE time for the well 
+of 19.0 days. The well duration was 5.8 days (30.5 %) under the AFE. 
+
+ 
+
+Of the 13.21 days spent on Craigow-1 a total of 0.5 day (3.8 %) of operations were recorded as 
+non-productive time (NPT) for the well, 0.38 days (2.8 %) due to waiting on weather and the 
+remaining 0.12 days (1 %) was due to other reasons. 
+
+ 
+
+At the time of writing this end of well report the final cost for Craigow-1 is estimated to be US$ 
+12.22 million against the AFE estimate of US$17.43 million which is US$5.21 million (29.9%) 
+under the AFE. 
+
+ 
+
+ 
+
+
+4. Well Summary & Overview 
+
+ 
+
+4.1 Well Summary 
+
+ 
+
+4.1.1 License and Field data 
+
+ 
+
+Well Name 
+
+Craigow-1 
+
+Well Type 
+
+Exploration 
+
+Field Name 
+
+n/a 
+
+License/Permit 
+
+T/47P 
+
+Well Operator 
+
+Tap Oil Limited 
+
+Permit Operator 
+
+Tap Oil Limited 
+
+Partners 
+
+- 
+
+Total Depth 
+
+1800mMDRT / 1799.8mTVDRT 
+
+Well Profile 
+
+Vertical 
+
+Water Depth 
+
+74m MSL 
+
+
+
+ 
+
+4.1.2 Surface Location 
+
+ 
+
+Spheroid and Datum 
+
+GDA94 
+
+Latitude 
+
+039º 35’ 31.6857” S 
+
+Longitude 
+
+145º 38’ 34.5855” E 
+
+Projection 
+
+UTM (south) Zone 55 
+
+Easting 
+
+383 473.486mE 
+
+Northing 
+
+5616630.646mN 
+
+
+
+ 
+
+4.1.3 MODU Data 
+
+ 
+
+Drilling Unit 
+
+Kan Tan IV 
+
+Drilling Unit Type 
+
+Semi Submersible 
+
+Drilling Unit Owner 
+
+Sinopec Star Petroleum Company Ltd 
+
+Drilling Contractor 
+
+Maersk Drilling Pty Ltd 
+
+Depth Measurement Units 
+
+Metres (m) 
+
+Measurement Datum 
+
+Rotary Table (RT) 
+
+Datum Elevation 
+
+26m above Sea Level 
+
+Rig Heading 
+
+248.11° (True) 
+
+
+
+ 
+
+4.1.4 Key Dates 
+
+ 
+
+Well Start 
+
+1400 hrs on 22-December-2010 
+
+Rig on Location 
+
+2200 hrs on 22-December-2010 
+
+Spud Date 
+
+0300 hrs on 24-December-2010 
+
+Reached TD 
+
+1230 hrs on 31-December-2010 
+
+End of Well 
+
+1900 hrs on 4-January-2011 
+
+Total Days on Operations 
+
+13.2 days 
+
+Total Days AFE 
+
+19.0 days 
+
+
+
+ 
+
+ 
+
+

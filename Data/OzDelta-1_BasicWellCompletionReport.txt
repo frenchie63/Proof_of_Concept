@@ -1,0 +1,1877 @@
+Basic Well Completion Report rev1 
+
+ 
+
+OzDelta-1, EP128 
+
+ 
+
+South Georgina Basin 
+
+Northern Territory, Australia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+(This page intentionally left blank)
+
+
+(This page intentionally left blank) 
+
+
+ 
+
+ 
+
+QUALITY ASSURANCE MATRIX FOR MILESTONE DOCUMENTS 
+
+Document: Basic Well Completion Report 
+
+Well: OzDelta-1 Date: 18 Nov 2014 
+
+SECTION/CHAPTER 
+
+REV. NO. 
+
+AUTHOR 
+
+VERIFIED BY 
+
+RECOMMENDED BY 
+
+1, 4, 5, 6 
+
+1 
+
+Linn Arnesen 
+
+Griffiths Weste 
+
+ 
+
+ 
+
+Alv Sigve Teigen 
+
+3 
+
+1 
+
+Greg Halliday 
+
+Joel Gordon 
+
+2 
+
+1 
+
+Luis Tarazona 
+
+Brad Ahlquist 
+
+App A-D 
+
+1 
+
+Luis Tarazona/ 
+Joel Gordon 
+
+Brad Ahlquist/ 
+
+App E-G 
+
+0 
+
+Linn Arnesen 
+
+Griffiths Weste 
+
+
+
+ 
+
+
+
+
+(This page intentionally left blank)
+
+
+Table of contents 
+
+ 
+
+ 
+1 General Data .................................................................................................................................................. 9 
+1.1 Well Objective ................................................................................................................................................. 9 
+1.2 Well Outcome ................................................................................................................................................. 9 
+1.3 Well Summary Table..................................................................................................................................... 11 
+2 Drilling.......................................................................................................................................................... 14 
+2.1 Drilling Summary........................................................................................................................................... 14 
+2.1.1 Non-productive time summary ...................................................................................................................... 15 
+2.1.2 Time versus Depth Curve ............................................................................................................................. 15 
+2.2 Casings ......................................................................................................................................................... 17 
+2.3 Well Path - Directional Data .......................................................................................................................... 17 
+2.4 BHA Records ................................................................................................................................................ 17 
+2.5 Cementing Summary .................................................................................................................................... 19 
+2.6 Bit Records ................................................................................................................................................... 21 
+2.7 Drilling Fluids ................................................................................................................................................ 21 
+3 Completions Operations ............................................................................................................................ 23 
+3.1 Completions Summary.................................................................................................................................. 23 
+3.1.1 Non-productive time summary ...................................................................................................................... 24 
+3.2 Wellbore Preparation .................................................................................................................................... 24 
+3.3 Fracture Stimulation ...................................................................................................................................... 25 
+3.4 Production Testing ........................................................................................................................................ 26 
+3.5 Permanent Plug and Abandonment .............................................................................................................. 26 
+3.5.1 Plugging ........................................................................................................................................................ 26 
+4 Well Evaluation Logs .................................................................................................................................. 28 
+5 Cores, Cuttings and samples .................................................................................................................... 29 
+5.1 Coring, cores and samples ........................................................................................................................... 29 
+5.2 Cuttings ......................................................................................................................................................... 29 
+6 Pore Pressures and Temperature ............................................................................................................. 29 
+6.1 Pore pressure and stress .............................................................................................................................. 29 
+6.2 Formation temperature ................................................................................................................................. 29 
+App A Directional Data – surveys ......................................................................................................................... 30 
+App B Well Schematics.......................................................................................................................................... 31 
+App C Wellhead ...................................................................................................................................................... 33 
+App D Well Barriers ................................................................................................................................................ 34 
+App E Pore Pressure and Fracture Gradient Plot ............................................................................................... 35 
+App F Core Intervals and Preserved Samples .................................................................................................... 36 
+App G Cuttings and Core Descriptions ............................................................................................................... 37 
+
+
+
+Enclosures to OzDelta-1 Basic Well Completion Report (DVD) 
+
+ 
+
+OzDelta-1 Core images, white and UV light 
+
+Mudlog and gas recordings (pdf and LAS) 
+
+Openhole Wireline logs (pdf and LAS) 
+
+Core and Cuttings Sample Manifests 
+
+Cased Hole logs (pdf and LAS) 
+
+
+
+
+1 General Data 
+
+1.1 Well Objective 
+
+The OzDelta-1 exploration well was one of five 2014 Statoil wells drilled to de-risk the unconventional play in the Middle 
+Cambrian carbonate deposits; the Arthur Creek Hot Shale and the Thorntonia Limestone (dolomitized) in the South 
+Georgina Basin. The OzDelta-1 well was located in the south-eastern part of EP 128. Permeabilities in these formations 
+are expected to be too low for conventional production methods and the most prospective wells are planned to be 
+stimulated through hydraulic fracturing. OzDelta-1 was drilled and prepared as one of the candidates for stimulation. No 
+commercial production rates can be expected from this vertical exploration well with the aim being to prove and sample 
+any movable hydrocarbons. The results of testing will form the basis for future project planning and the acquired data will 
+be vital input for future well designs and completion strategies. 
+
+ 
+
+The well was located at a tectonically undisturbed location to best assess the presence of hydrocarbons. Extensive 
+coring and wireline logging were performed to better understand the rock properties and perform a hydrocarbon potential 
+evaluation. 
+
+ 
+
+The drilling objective for the OzDelta-1 well included two hole sections. The upper section (12 ¼” hole and 9 5/8” surface 
+casing) was designed to be cased and cemented to surface to: 
+
+ - isolate the aquifers, 
+
+ - achieve kick tolerance, 
+
+ - ensure well integrity towards underlying potential hydrocarbon bearing zones. 
+
+ 
+
+The lower 7 7/8” drilling section included continuous coring through the basal Arthur Creek Hot Shale and into the 
+underlying Thorntonia Limestone. 
+
+ 
+
+The final objective of the drilling phase was to run 4½” production casing to TD and cement to surface to provide isolation 
+for hydraulic stimulation and testing in the next phase of operations. 
+
+ 
+
+The objective of the completions phase was to verify the well integrity for hydraulic fracturing operations and 
+subsequently perform pre-fracture geomechanical diagnostic testing, single stage fracture stimulation, and production 
+testing operations. Following production testing operations the well was to be plugged and abandoned as per the NT 
+DME requirements. 
+
+1.2 Well Outcome 
+
+The conductor was preset at 15.2m MD and 12 ¼” hole was drilled to 357m MD RKB. 9 5/8” surface casing was run to 
+355m MD RKB and cemented to surface, isolating the aquifers. Kick tolerance and well integrity were confirmed with a 
+formation integrity test of 13.7ppg EMW. 
+
+ 
+
+77/8” production hole was then drilled to the pre-defined coring point at 722m MD RKB. 31/2” wireline retrieved coring was 
+conducted using 18m core barrels. Good recovery was achieved through the lower Arthur Creek Formation and the 
+Arthur Creek Hot Shale. On intersecting the Thorntonia Limestone, core recovery became poor. Broken core packed off 
+the core barrel, resulting in only 0.3m to 1.6m of core recovered per run. Coring was terminated at 756.6m in the 
+Thorntonia Limestone. Conventional drilling was resumed and drilling was terminated in metavolcanic basement at 840m 
+MD RKB. 
+
+ 
+
+
+Wireline logging was conducted before production casing was run. OzDelta-1 was then temporarily suspended awaiting 
+stimulation and production testing. 
+
+ 
+
+Once the completions operations commenced, cased hole wireline logging and casing pressure testing was performed, 
+which verified the well integrity. Pre-frac diagnostic testing was carried out followed by the primary fracture stimulation of 
+the target formation. Production testing was performed using a coiled tubing deployed jet pump and swabbing using 
+coiled tubing. After completing the production testing operations the well was plugged and abandoned using coiled 
+tubing and the wellhead cut-off using an abrasive jet cutter. 
+
+
+
+
+1.3 Well Summary Table 
+
+WELL SUMMARY 
+
+ 
+
+ 
+
+WELL NAME 
+
+OzDelta-1 
+
+OFFSET WELLS 
+
+Ross 1, Sandover 13, OzGamma-1 
+
+WELL CLASS 
+
+Exploration 
+
+LOCATION DETAILS 
+
+BASIN 
+
+Southern Georgina Basin 
+
+NORTHING 
+
+7613131.2mN 
+
+LICENCE 
+
+EP 128 
+
+EASTING 
+
+673579.21mE 
+
+LOCATION 
+
+Northern Territory 
+
+ZONE 
+
+53 S 
+
+SEISMIC SURVEY 
+
+PFC-12-101/PFC-12-108 
+
+LATITUDE 
+
+21o34'34.82"S 
+
+SEISMIC REF. 
+
+101: Trace 1960 / CDP 2059 / SP 6533 
+
+108: Trace 1452/ CDP 1551/ SP 177979 
+
+LONGITUDE 
+
+136°40'35.47"E 
+
+ELEVATIONS 
+
+Elevation: 272.5m, Kelly height: 4.2m 
+
+GRID 
+
+GDA’94 
+
+OPERATION DETAILS 
+
+OPERATOR 
+
+Statoil Australia Theta B. V. 
+
+DRILLING RIG / 
+
+EDA Rig # 2 
+
+PRIMARY OBJECTIVE 
+
+SECONDARY OBJECTIVE 
+
+Arthur Creek Formation ‘Hot Shale’ 
+
+Thorntonia Limestone 
+
+SPUD DATE 
+
+20/06/2014 
+
+STRUCTURE 
+
+Unconventional Stratigraphic 
+
+RIG RELEASE 
+
+28/06/2014 
+
+WELL TYPE 
+
+Vertical 
+
+TD DATE OzDelta-1 
+
+27/06/2014 
+
+DRILLER TD 
+
+840.4 m MD 
+
+OPERATION DAYS 
+
+9 
+
+COMPLETION 
+SERVICES 
+
+Weatherford wireline unit, Halliburton hydraulic 
+fracturing, Halliburton coiled tubing, Farley Riggs 
+production testing 
+
+WELL 
+DIAGNOSTIC 
+
+5 – 21/09/2014 
+
+STIMULATION 
+
+22 – 23/092014 
+
+WELL TESTING 
+
+23/09 – 08/10/2014 
+
+OPERATION DAYS 
+
+16 (well diagnostic) + 15 (stim and test), total 31 days 
+
+PERMANENT P&A 
+
+8 – 9/10/2014 
+
+ 
+
+ 
+
+HOLE SUMMARY OzDelta-1 
+
+HOLE SIZE 
+
+HOLE DEPTH 
+
+CASING SIZE 
+
+SHOE DEPTH 
+
+CASING TYPE 
+
+15” (381mm) 
+
+15.5 mMD 
+
+13 3/8”(340mm) 
+
+15 mMD 
+
+Conductor 
+
+12 ¼” (316mm) 
+
+357. mMD 
+
+9 5/8” (244mm) 
+
+355 mMD 
+
+36 ppf J-55 BTC 
+
+7 7/8” (200mm) 
+
+840.4 mMD 
+
+4 ½”(144mm) 
+
+837.6 mMD 
+
+13.5 ppf L-80 Tenaris 
+Blue 
+
+ 
+
+MWD-LWD & LOGGING SUMMARY OzDelta-1 
+
+RUN 
+
+IN 
+(mMD) 
+
+OUT 
+(mMD) 
+
+TOOLS STRING 
+
+REMARKS 
+
+1 
+
+840.4 
+
+700 
+
+MCG-CMI (image log)-CXD (sonic) 
+
+Image log (CMI) run separately. Max. BHT 47°C at TD. 
+
+1a 
+
+840.4 
+
+355 
+
+MCG-CMI (image log)-CXD (sonic) 
+
+Sonic log (CXD) to csg shoe 
+
+2 
+
+840.4 
+
+189.3 
+
+MCG-SGS-MDN-MPD-MLE-MMR 
+
+High resolution (840.4 -652 m MD) 
+
+SuperCombo: spontaneous potential, gamma (to surface), 
+spectral gamma, neutron, density, laterolog, microres. 
+
+2a 
+
+167 
+
+0 
+
+MCG-SGS-MDN-MPD-MLE-MMR 
+
+Missing data from 144.7-191 m MD due to power failure. 
+
+ 
+
+CORING: OzDelta-1 
+
+RUN 
+
+INTERVAL (mMDKB) 
+
+RECOVERY m (%) 
+
+COMMENT 
+
+1-9 
+
+722.5 – 756.6 
+
+97.4% 
+
+Wireline retrieved coring 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORMATION TESTS 
+
+Lower part of Arthur Creek Hot Shale was stimulated and production tested 
+
+
+
+statoil_horizontal_rgb_HD 
+
+
+The OzDelta-1 well is located in the central part of the Southern Georgina Basin; see Figure 1 and Figure 2. 
+
+
+ 
+
+ 
+
+ 
+
+
+Figure 1 Map of the Statoil licenses area and position of the OzDelta-1 well location in EP128 
+
+ 
+
+
+ 
+
+Figure 2 Survey certificate 
+
+
+2 Drilling 
+
+All depths in this section are measured depths to the Kelly bushing height (4.2m AGL), unless otherwise stated. 
+
+2.1 Drilling Summary 
+
+OzDelta-1 was spudded June 20th 2014 and took a total of 9 days to complete the drilling, logging and running/cementing 
+production casing. The well was temporarily suspended awaiting potential stimulation and testing operations and the rig 
+was released on June 28th 2014. 
+
+ 
+
+15” top hole (0 – 15.5m) 
+
+15” tophole was pre drilled by Western Auger Drilling to 15.5m and the 13 3/8” conductor set at 15.2m. 
+
+ 
+
+12 ¼” surface hole (15.5m to 357m) 
+
+The 12 1/4" hole was drilled from 15.5 m whilst taking returns from the cellar to the shakers/mud system. At 62m the mud 
+system was switched over to flocculate in the sump and drilling continued towards the surface hole planned total depth at 357m. 
+From approximately 300m losses of 5-10bbl/hr were registered. Single shot magnetic surveys were performed as per plan every 
+200m. 
+
+ 
+
+The 9 5/8" J55 BTC casing was run to 355m and cementing operations took place with full returns. Cement was observed 
+at surface. 
+
+ 
+
+The BOP was nippled up and function tested. Whilst installing the wear bushing on the pup joint, 1.5hrs of down time was 
+incurred when the assembly turned in the wrong direction on the bushing and started to back out of the joints. The connections 
+were tightened with the iron rough neck so that the wear bushing could be released and re-set. 
+
+ 
+
+7 7/8” production hole (357m – 840m) 
+
+After drilling 3.5m of new formation below surface casing shoe to 360.5m, a FIT was successfully performed to 13.7ppg 
+EMW. 
+
+ 
+
+Drilling resumed and reached the planned coring depth of 722m with no issues. A CorePro 7 7/8” coring assembly with 
+wireline retrieved 18m core barrel for 3 ½” core was run in the hole and coring commenced. On the second coring run top 
+Thorntonia Limestone was intersected 27m shallow to prognosis and the core packed off halfway into the run. Seven 
+more attempts were made to core the Thorntonia Limestone, with only 0.3 – 1.6m recovery. The interconnected vugs and 
+weak zones in the Thorntonia Limestone were believed to be the cause for the core breaking up and jamming inside the 
+core barrel, resulting in short trips and core material of very poor quality. Conventional drilling was recommenced at 
+756.6m and TD was called at 840m after observing metavolcanic basement in cuttings from 812 m. 
+
+ 
+
+The wireline logging operation experienced several problems due to a malfunctioning wireline unit and there was a total 
+of 4 hours of down time. The required logging runs were performed and the logging coverage was almost complete, 
+except for the loss of 47m of data from 144 – 191m due to a power failure on the rig whilst logging the surface casing 
+section. 
+
+ 
+
+4 ½” L80 Tenaris Blue production casing was run to 837.6m. Cement was not seen at surface and a top up cement job 
+was performed with 16bbls of cement. Cement returns was observed on surface after 12bbl were pumped. 
+
+ 
+
+A casing mandrel hanger / pack-off tool was installed and tested successfully, the BPV installed, and the BOP was 
+nippled down. The well head adapter was installed and nippled up and the seals were pressure tested successfully after 
+2 attempts to land the pack off assembly. The well was suspended awaiting for later stimulation and testing operations. 
+
+
+A time overview for the OzDelta-1 activities can be seen in Table 2-1. 
+
+Table 2-1 Summary of operations for OzDelta-1 
+
+Section 
+
+Start time 
+
+End time 
+
+Rig name 
+
+AU OZDELTA-1 Move-In, Rig Up 
+
+12.Jun.2014 03:45 
+
+20.Jun.2014 06:00 
+
+EDA 2 
+
+AU OZDELTA-1 Drilling, Surface 
+
+20.Jun.2014 06:00 
+
+21.Jun.2014 22:00 
+
+EDA 2 
+
+AU OZDELTA-1 Casing, Surface 
+
+21.Jun.2014 22:00 
+
+23.Jun.2014 09:15 
+
+EDA 2 
+
+AU OZDELTA-1 Drilling, Production 
+
+23.Jun.2014 09:15 
+
+27.Jun.2014 07:30 
+
+EDA 2 
+
+AU OZDELTA-1 Formation evaluation, Production 
+
+27.Jun.2014 07:30 
+
+27.Jun.2014 23:15 
+
+EDA 2 
+
+AU OZDELTA-1 Casing, Production 
+
+27.Jun.2014 23:15 
+
+28.Jun.2014 22:00 
+
+EDA 2 
+
+AU OZDELTA-1 Rig Down 
+
+28.Jun.2014 22:00 
+
+29.Jun.2014 02:00 
+
+EDA 2 
+
+
+
+2.1.1 Non-productive time summary 
+
+Table 2-2 Summary of the non-productive time for OzDelta-1 
+
+Well 
+
+Date 
+
+Incident 
+
+Category 
+
+Company 
+
+Hours 
+
+OzDelta-1 
+
+27.Jun.2014 
+
+EWL-E01 Primary mechanical 
+
+Formation Evaluation 
+
+Weatherford 
+
+4 
+
+OzDelta-1 
+
+22.Jun.2014 
+
+XMAS-03 Procedure not followed 
+
+Casing, Surface 
+
+FMC 
+
+1.5 
+
+OzDelta-1 
+
+28.Jun.2014 
+
+XMAS-01 Procedure 
+
+Casing, production 
+
+FMC 
+
+1.5 
+
+ 
+
+Total hours : 
+
+7 
+
+
+
+2.1.2 Time versus Depth Curve 
+
+The time versus depth illustration with explanatory remarks can be seen in Figure 3 on the next page. 
+
+ 
+
+
+ 
+
+
+Figure 3 Time versus depth curve for OzDelta-1 
+
+
+2.2 Casings 
+
+The overview of the run casings in OzDelta-1 is presented in the table below. 
+
+Table 2-3 Casing summary for OzDelta-1 
+
+Category/String type 
+
+Diameters 
+
+RKB hanger 
+m MD 
+
+Air gap 
+m MD 
+
+From depth 
+m MD 
+
+To depth 
+m MD 
+
+Date 
+
+Description 
+
+Conductor 
+
+13 3/8” 
+
+4.2 
+
+4.2 
+
+4.2 
+
+15.2 
+
+15/06/14 
+
+ 
+
+Item type 
+
+No. of 
+joints 
+
+Diam. 
+inch 
+
+Grade 
+
+Coupling 
+
+Weight 
+lbs/ft 
+
+From depth 
+m MD 
+
+To depth 
+m MD 
+
+Remarks 
+
+Casing 
+
+2 
+
+13 3/8” 
+
+J55 
+
+API5B BTC 
+
+54.5 
+
+4.2 
+
+15.2 
+
+Pre-installed by Western 
+Auger Drilling 
+
+ 
+
+Category/String type 
+
+Diameters 
+
+RKB hanger 
+m MD 
+
+Air gap 
+m MD 
+
+From depth 
+m MD 
+
+To depth 
+m MD 
+
+Date 
+
+Description 
+
+Casing, surface 
+
+9 5/8” 
+
+4.2 
+
+4.2 
+
+5.2 
+
+355.4 
+
+22/06/14 
+
+ 
+
+Item type 
+
+No. of 
+joints 
+
+Diam. 
+inch 
+
+Grade 
+
+Coupling 
+
+Weight 
+lbs/ft 
+
+From depth 
+m MD 
+
+To depth 
+m MD 
+
+Remarks 
+
+Hanger 
+
+1 
+
+9 5/8” 
+
+J55 
+
+API5B BTC 
+
+36.0 
+
+4.2 
+
+5.2 
+
+ 
+
+Casing 
+
+30 
+
+9 5/8” 
+
+J55 
+
+API5B BTC 
+
+36.0 
+
+5.2 
+
+343.0 
+
+ 
+
+Float Collar 
+
+1 
+
+9 5/8” 
+
+J55 
+
+API5B BTC 
+
+36.0 
+
+343.0 
+
+343.3 
+
+ 
+
+Casing 
+
+1 
+
+9 5/8” 
+
+J55 
+
+API5B BTC 
+
+36.0 
+
+343.3 
+
+355.0 
+
+ 
+
+Shoe 
+
+1 
+
+9 5/8” 
+
+J55 
+
+API5B BTC 
+
+36.0 
+
+355.0 
+
+355.4 
+
+ 
+
+ 
+
+Category/String type 
+
+Diameters 
+
+RKB hanger 
+m MD 
+
+Air gap 
+m MD 
+
+From depth 
+m MD 
+
+To depth 
+m MD 
+
+Date 
+
+Description 
+
+Casing, production 
+
+4 ½” 
+
+5.4 
+
+4.2 
+
+4.4 
+
+837.1 
+
+28/06/14 
+
+ 
+
+Item type 
+
+No. of 
+joints 
+
+Diam. 
+inch 
+
+Grade 
+
+Coupling 
+
+Weight 
+lbs/ft 
+
+From depth 
+m MD 
+
+To depth 
+m MD 
+
+Remarks 
+
+Hanger 
+
+1 
+
+4 ½” 
+
+L-80 
+
+TSH Blue 
+
+13.5 
+
+4.2 
+
+4.4 
+
+ 
+
+Casing 
+
+71 
+
+4 ½” 
+
+L-80 
+
+TSH Blue 
+
+13.5 
+
+4.4 
+
+813.5 
+
+Hanger landed at 4.4 
+
+Float Collar 
+
+1 
+
+4 ½” 
+
+L-80 
+
+TSH Blue 
+
+13.5 
+
+813.5 
+
+813.7 
+
+ 
+
+Casing 
+
+2 
+
+4 ½” 
+
+L-80 
+
+TSH Blue 
+
+13.5 
+
+813.7 
+
+836.6 
+
+ 
+
+Shoe 
+
+1 
+
+4 ½” 
+
+L-80 
+
+TSH Blue 
+
+13.5 
+
+836.6 
+
+837.1 
+
+ 
+
+
+
+2.3 Well Path - Directional Data 
+
+The well inclination was monitored with single shot surveys. See App A for the inclination measured from the single shot 
+surveys. The verticality analysis from the dipole sonic run shows that the well was turning towards an azimuth of 50deg at 
+360m MD and back towards 350deg at TD. 
+
+2.4 BHA Records 
+
+All the bottom hole assemblies utilized in the OzDelta-1 can be viewed on the next pages. 
+
+ 
+
+
+
+
+WELLBORE: AU OZDELTA-1 
+
+BHA NO: 1 
+
+RUN TYPE: Drilling run 
+
+DESCRIPTION: 12 1/4" PDC Assy 
+
+RUN NAME: 1 
+
+String component 
+
+OD in 
+
+ID in 
+
+Length m 
+
+Acc length m 
+
+BIT 
+
+12.250 
+
+ 2.750 
+
+ 0.41 
+
+ 0.41 
+
+BIT SUB 
+
+ 8.000 
+
+ 2.000 
+
+ 0.92 
+
+ 1.33 
+
+SHOCK SUB 
+
+ 8.125 
+
+ 2.500 
+
+ 2.92 
+
+ 4.25 
+
+DRILL COLLAR 
+
+ 8.000 
+
+ 3.000 
+
+ 9.05 
+
+13.30 
+
+STABILIZER 
+
+12.250 
+
+ 2.870 
+
+ 2.46 
+
+15.76 
+
+DRILL COLLAR 
+
+ 8.000 
+
+ 3.000 
+
+ 9.04 
+
+24.80 
+
+X-OVER 
+
+ 8.000 
+
+ 2.120 
+
+ 0.25 
+
+25.05 
+
+X-OVER 
+
+ 7.000 
+
+ 2.120 
+
+ 0.38 
+
+25.43 
+
+DRILL COLLAR 
+
+ 6.250 
+
+ 2.120 
+
+92.33 
+
+117.76 
+
+X-OVER 
+
+ 7.500 
+
+ 2.500 
+
+ 0.21 
+
+117.97 
+
+
+
+ 
+
+BHA NO: 2 
+
+RUN TYPE: Drilling run 
+
+DESCRIPTION: 7 7/8" PDC Assy 
+
+RUN NAME: 2 
+
+String component 
+
+OD in 
+
+ID in 
+
+Length m 
+
+Acc length m 
+
+BIT 
+
+ 7.875 
+
+ 2.250 
+
+ 0.26 
+
+ 0.26 
+
+MUD MOTOR 
+
+ 6.750 
+
+ 1.500 
+
+ 8.15 
+
+ 8.41 
+
+FLOAT SUB 
+
+ 
+
+ 2.250 
+
+ 0.69 
+
+ 9.10 
+
+X-OVER 
+
+ 6.620 
+
+ 2.250 
+
+ 0.60 
+
+ 9.70 
+
+STABILIZER 
+
+ 7.750 
+
+ 2.870 
+
+ 1.86 
+
+11.56 
+
+X-OVER 
+
+ 6.500 
+
+ 2.250 
+
+ 0.38 
+
+11.94 
+
+DRILL COLLAR 
+
+ 6.250 
+
+ 2.250 
+
+101.79 
+
+113.73 
+
+JAR 
+
+ 6.250 
+
+ 2.250 
+
+ 9.07 
+
+122.80 
+
+X-OVER 
+
+ 6.250 
+
+ 2.500 
+
+ 0.30 
+
+123.10 
+
+
+
+ 
+
+BHA NO: 3 
+
+RUN TYPE: Coring run 
+
+DESCRIPTION: 6 Blade core head 18m barrel 
+
+RUN NAME: 1 
+
+ 
+
+String component 
+
+OD in 
+
+ID in 
+
+Length m 
+
+Acc length m 
+
+BIT 
+
+ 7.875 
+
+ 3.500 
+
+ 0.47 
+
+ 0.47 
+
+CORE BARREL 
+
+ 
+
+ 4.600 
+
+ 8.23 
+
+ 8.70 
+
+STABILIZER 
+
+ 
+
+ 4.600 
+
+ 0.91 
+
+ 9.61 
+
+CORE BARREL 
+
+ 
+
+ 4.600 
+
+ 8.24 
+
+17.85 
+
+STABILIZER 
+
+ 
+
+ 4.600 
+
+ 0.91 
+
+18.76 
+
+COREBARREL 
+
+ 
+
+ 4.600 
+
+ 0.73 
+
+19.49 
+
+COREBARREL 
+
+ 
+
+ 4.600 
+
+ 0.72 
+
+20.21 
+
+DRILL COLLAR 
+
+ 
+
+ 4.600 
+
+94.08 
+
+114.29 
+
+
+
+ 
+
+BHA NO: 4 
+
+
+RUN TYPE: Drilling run 
+
+DESCRIPTION: 7 7/8" Tri-cone Assy 
+
+RUN NAME: 3 
+
+ 
+
+String component 
+
+OD in 
+
+ID in 
+
+Length m 
+
+Acc length m 
+
+BIT 
+
+ 7.875 
+
+ 
+
+ 0.24 
+
+ 0.24 
+
+MUD MOTOR 
+
+ 6.750 
+
+ 1.500 
+
+ 8.15 
+
+ 8.39 
+
+FLOAT SUB 
+
+ 6.625 
+
+ 2.250 
+
+ 0.69 
+
+ 9.08 
+
+DRILL COLLAR 
+
+ 6.250 
+
+ 2.250 
+
+ 9.28 
+
+18.36 
+
+DRILL COLLAR 
+
+ 6.250 
+
+ 2.250 
+
+ 9.30 
+
+27.66 
+
+X-OVER 
+
+ 6.500 
+
+ 2.188 
+
+ 0.81 
+
+28.47 
+
+STABILIZER 
+
+ 7.750 
+
+ 2.870 
+
+ 1.86 
+
+30.33 
+
+X-OVER 
+
+ 6.500 
+
+ 2.250 
+
+ 0.88 
+
+31.21 
+
+DRILL COLLAR 
+
+ 6.250 
+
+ 2.250 
+
+83.22 
+
+114.43 
+
+JAR 
+
+ 6.500 
+
+ 2.250 
+
+ 9.08 
+
+123.51 
+
+DRILL COLLAR 
+
+ 6.250 
+
+ 2.250 
+
+ 9.11 
+
+132.62 
+
+X-OVER 
+
+ 6.500 
+
+ 2.375 
+
+ 0.59 
+
+133.21 
+
+HW DRILL PIPE 
+
+ 6.500 
+
+ 3.000 
+
+55.90 
+
+189.11 
+
+X-OVER 
+
+ 
+
+ 2.250 
+
+ 1.21 
+
+190.32 
+
+X-OVER 
+
+ 
+
+ 2.250 
+
+ 0.60 
+
+190.92 
+
+
+
+2.5 Cementing Summary 
+
+Cementing of the 9 5/8" surface casing: 
+
+Operation summary: Pumped 10bbl of 8.33ppg spacer, 4.4bbl/min/ 105psi. Pressure test surface lines to 600/3100psi for 
+5min. Pumped 10bbl of 8.33ppg spacer, 4.4bbl/min/ 105psi, dropped bottom plug. Mixed and pumped 104bbl of 13.5ppg 
+cement slurry. Dropped top plug and displaced with 87bbl 8.33ppg water to bump plug with 300psi. Increase pressure to 
+770psi for 5min to confirm bump. Bleed off 0.75bbl and the floats held. Good returns throughout the cement job with 
+27bbl of cement to surface. 
+
+ 
+
+Table 2-4 Cementing summary for OzDelta-1 Surface casing 
+
+Fluids pumped 
+
+Type 
+
+Density 
+
+ppg 
+
+Volume 
+
+bbl 
+
+Pump Rate 
+
+gal/min 
+
+Pump Press 
+
+psi 
+
+Return 
+
+Spacer before 
+
+Fresh Water 
+
+8.33 
+
+20.0 
+
+4 
+
+105 
+
+F 
+
+Lead 
+
+Cement Slurry 
+
+13.50 
+
+104.0 
+
+5 
+
+160 
+
+F 
+
+Displacement 
+
+Fresh Water 
+
+8.33 
+
+87.0 
+
+5 
+
+300 
+
+F 
+
+
+
+ 
+
+Cementing of the 4 1/2" production casing: 
+
+Cement 4 1/2" casing. Pumped 10bbl of 8.33ppg spacer, 5bbl/min/ 135psi. Pressure tested surface lines to 380/5080psi. 
+Pumped 10bbl spacer, 5bbl/min 135psi, dropped bottom plug. Mixed and pumped 111.9bbl of 11.9ppg lead cement 
+slurry, 5bbl/min. Mixed and pumped 44.4bbl of 14.8ppg tail cement. Displaced the cement with 40bbl 2% KCL water with 
+5PPB idcide/ 5PPB Ancor to bump plug at 2BPM 680psi. Pressure test casing to 1600psi for 10min. Bleed off 0.4bbl., 
+floats held. Good returns while pumping cement, intermittent returns while displacing cement. Approximately 12 bbl pre 
+flush to surface with no cement to surface. Top up cement job with 16bbl 14.2ppg cement, cement to surface after 12bbl 
+pumped, pumped additional 4bbls for a total of 16bbls of cement for top out job. 
+
+ 
+
+
+
+
+Table 2-5 Cementing summary for OzDelta-1 Production casing 
+
+Fluids pumped 
+
+Type 
+
+Density 
+
+ppg 
+
+Volume 
+
+bbl 
+
+Pump Rate 
+
+gal/min 
+
+Pump Press 
+
+psi 
+
+Return 
+
+Preflush 
+
+Spacer 
+
+8.33 
+
+20.0 
+
+5 
+
+135 
+
+F 
+
+Displacement 
+
+Displacement 
+
+8.40 
+
+40.0 
+
+6 
+
+680 
+
+P 
+
+Lead 
+
+Cement Slurry 
+
+11.90 
+
+111.9 
+
+5 
+
+117 
+
+F 
+
+Tail 
+
+Cement Slurry 
+
+14.80 
+
+44.4 
+
+4 
+
+126 
+
+F 
+
+
+
+ 
+
+
+
+
