@@ -15,7 +15,7 @@ path = raw_input('Please enter the path of your end of well report, in a text fi
 print '\n'
 
 
-wellDF = DataFrame(columns=['WellName', 'Northing', 'Easting', 'Basin', 'Main Drilling Event', 'Score'])
+wellDF = DataFrame(columns=['WellName', 'Northing', 'Easting', 'Projection', 'Basin', 'Main Drilling Event', 'Score'])
 
 # Create a dictionnary with the different key names and their point
 drilling_events = {'blowout': -80,
@@ -55,14 +55,17 @@ for i, j in enumerate(words):
         locationbasin = i
     elif fnmatch(j, 'well name') == True:
         locationname = i
-
-locationx, locationy, locationbasin, locationname
+    elif fnmatch(j, 'projection') == True:
+        projection = i
+    elif fnmatch(j, 'zone') == True:
+        projection = i
 
 # Populating table with well name, easting and northing
 
 wellDF['WellName'] = [(words[locationname + 2])]
 wellDF['Easting'] = [(words[locationx + 2]).strip('me')]
 wellDF['Northing'] = [(words[locationy + 2]).strip('mn')]
+wellDF['Projection'] = [(words[projection +2])]
 wellDF['Basin'] = [words[locationbasin + 2]]
 
 # # Creating DF events with the drilling events encountered
@@ -152,7 +155,7 @@ wellDF['Main Drilling Event'] = events['Drilling Event'][events['Occurence'].idx
 print 'Here is the information extracted from the end of well report:'
 print wellDF
 
-wellDF.to_csv(path_or_buf='C:\Data\Proof_of_concept\welldatabase.csv', sep=',', na_rep='',
+wellDF.to_csv(path_or_buf='C:\Data\Proof_of_concept\welldatabase1.csv', sep=',', na_rep='',
                    float_format=None, columns=None, header=True, index=False,
                    index_label=None, mode='w', encoding=None, compression=None,
                    quoting=None, quotechar='"', line_terminator='\n', chunksize=None,

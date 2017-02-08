@@ -1,0 +1,3992 @@
+51400 I 
+
+GLOBEX Far·East 
+
+
+BASS BASIN PERMIT T/27P 
+
+TPi2. 
+
+cJ1'2.-4-I L 
+VOL I 
+
+BARRAMUNDI -1 
+FINAL WELL REPORT 
+VOLUME I 
+
+
+
+5,(,4CO~ 
+
+
+Globex Far East 
+Well Completion Report Barrarnundi-l 
+
+1.0 INTRODUCTION 
+
+2.0 WELL HISTORY 
+
+2.1 Location Data 
+
+2.2 General Data 
+
+2.3 WeUSummary 
+
+2.4 Contractors 
+
+3.0 DRILLING DATA 
+
+3.1 
+Abandonment Status 
+Figure 3.1 Well Abandonment Diagram 
+
+3.2 Operations Summary 
+
+3.2.1 Logistics and Planning 
+
+3.2.2 Site Survey 
+
+3.2.3 Mobilisation 
+
+3.2.5 36" Hole Section 
+3.2.6 17 1/2" Hole Section 
+3.2.7 12 1/4" Hole Section 
+3.2.8 12 1/4" Sectio~ 
+Logging 
+
+
+3.2.9 Well Abandonment 
+
+j .J.A "Pre. _""ue1 
+
+3.3 Daily Operations 
+
+3.3.1 Daily Drilling Reports 
+
+3.3.2 Daily Costs 
+
+3.3.3 Definitive Survey 
+
+3.3.4 Boltom Hole Assemblies 
+
+3.3.5 Time Performance 
+
+3.3.6 Time Analysis 
+
+3.3.7 Time Depth Curve -Performance and Cost 
+Figure 3.2 Time Depth Curve 
+
+
+3.3.8 Time Performance Charts 
+Figure 3.3 Overall Performance 
+Figure 3.4 Detailed Performance 
+
+
+3.4 Bit Record 
+
+3.5 Casing and Cementing Report 
+
+3.5.1 36" Hole Section: 30" Conductor (Surface to 147 m RT) 
+
+3.5.2 171/2" Hole Section: 133/8" Surface Casing (147 to 875 m RT) 
+
+3.5.3 Abandonment Cement Plug Details 
+
+3.6 Drilling Fluid Recap 
+
+3.7 Abandonment Summary 
+
+3.8 Lessons Learned 
+
+3 
+
+3 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+7 
+8 
+
+9 
+9 
+9 
+9 
+10 
+10 
+11 
+11 
+11 
+
+,0 
+
+12 
+12 
+12 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+18 
+18 
+
+19 
+
+20 
+20 
+21 
+
+22 
+
+28 
+
+28 
+
+29 
+
+WCRBARAI 
+
+
+r--!'""'< :~ 
+e;) q
+
+;),<ljV". 
+
+Globex Far East Well Completion Report Barramundi-l 
+Appendix 1. Daily Drilling Reports 30 
+Appendix 2. Drilling Fluid Reports 31 
+
+WCRBARAI 2 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+1.0 INTRODUCTION 
+Barramundi-l was drilled as a vertical exploration well in the Bass Strait inside 
+Tasmanian state waters during September and October 1999, on licence number T-27-P. 
+The well was drilled with the Sedco 702 Semi-submersible which mobilised from the 
+Esso Turum 7 location in the Gippsland Basin to Barramundi-l in a three-day tow. The 
+operator Globex Far East, based in Houston, Texas, contracted Kelly Down Consultants 
+as Project Managers. The well was managed from Sydney with logistics run locally from 
+Melbourne, Victoria. The primary target for the well was an anomaly horizon in the 
+Eastern View section at 1337 m SS. 
+
+2.0 WELL HISTORY 
+The well spudded at 04:00 hrs on 24 th of September after a three day tow from the 
+offshore Gippsland Basin. Barramundi-l reached total depth of 2100m at 0215 hrs 
+
+on Saturday 2 nd of October, a total of 190.25 hrs or 7.93 days. The well had a 
+prognosed TD of 1774 m RT, however Globex approved the deepening of the well to 
+ensure all possible targets had been drilled. Anchors were pulled on 7 th of October with 
+the rig off hire at 0230 hrs on Thursday 7 th October. The total hire period was 329.5 hrs 
+or 13.73 days. 
+
+2.1 Location Data 
+The Barramundi-l well location after site survey by Fugro following the tow from the 
+Gippsland basin was as follows: 
+
+Surface Coordinates: 
+
+Easting 391413.9m 
+Northing 5609012.8 m 
+Latitude 390 39' 41.9884" S 
+
+Longitude 1450 44' 02.9366" E 
+Datum AGD 1984 
+Reference Spheroid Australian National Spheroid 
+Central Meridian 1470 East 
+UTMZone 55 
+
+WCRBARAI 
+
+3 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+2.2 General Data 
+Well Name Barramundi-l 
+Classification Exploration Well 
+Operator Globex Far East 
+Nearest well Bass-l 
+Final Measured Depth 2100mRT 
+Final True Vertical Depth 2100mTVD 
+Spud Date 24/09/99 
+TD Reached 2/10/99 
+Days to Drill 7.93 
+Date well Abandoned 19: 15 hrs 6110/99 
+Date Rig Off Hire 02:30 hrs 7/10/99 
+Well Status Abandoned 
+
+WCRBARAI 
+
+4 
+
+
+Globex Far East Well Completion Report Barrarnundi·l 
+
+2.3 Well Summary 
+Well Name Barramundi-1 
+Drilling Rig Sedco 702 Semi Submersible 
+Drilling Contractor Sedco 
+Water Depth 76.6m 
+RTto MSL 25.9 
+RTto SeaBed 102.5 m 
+Rig Heading 209° 
+Rig actual position wrt target 2.1 m on a bearing of 67.9° 
+Casing Strings: 
+Conductor 
+30" 1" wall 
+set at 147m 
+SurfacelIntermediate Casing 
+13 3/8" 68 ppf L80 BTC 
+Set at 869 m 
+Well Status: Well abandoned, with casing cut and 
+retrieved from 2.5 m below seabed and the 
+following cement plugs set: 
+Cement Plug # 1 
+Cement Plug # 2 
+Cement Plug # 3 
+Cement Plug # 4 
+Cement Plug # 4B 
+Cement Plug # 5 
+1900 m to 1850 m RT 
+1575m to1525 m RT 
+1354 m to 1294 m RT 
+4905 m to 845 m RT 
+890m to 820 m RT 
+170m to 121m RT 
+
+WCRBARAI 5 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+2.4 Contractors 
+SERVICE COMPANY 
+PROJECT MANAGERS Kelly Down Consultants Pty Ltd 
+DRILLING CONTRACTORS Sedco 
+RIG POSITIONING Fugro 
+LOCATION SURVEY Racal 
+SUPPLY BASE Geelong 
+SUPPORT VESSELS Swires 
+CEMENT UNIT Dowell 
+CEMENTING SERVICE Halliburton 
+MUD SYSTEM Baroid 
+MUD LOGGING Geoservices 
+ELECTRIC LOGGING Schlumberger 
+DRILLING TOOLS Tasman Oil Tools 
+DIRECTIONAL TOOLS Anadrill 
+MWD Anadrill 
+CASING SERVICES Weatherford 
+CORING Baker Hughes 
+CASING & TUBING Esso -Barry Beach 
+WELLHEADS Dril-Quip 
+WELL TESTING Schlumberger 
+ENVIRONMENTAL Hanonds 
+FUEL SUPPLY Esso 
+TRUCKING Toll Energy 
+STEVEDORING Toll Energy 
+WELL ABANDONMENT Weatherford 
+COMMUNICATIONS Tamhoritha 
+
+WCRBARAI 
+
+6 
+
+
+Globex Far East Well Completion Report Barrarnundi-l 
+
+3.0 DRILLING DATA 
+3.1 Abandonment Status 
+The following diagram illustrates the post abandoned condition of the well. Barramundi1 
+was abandoned with 5 cement plugs, and the removal of the subsea wellhead. 
+
+WCRBARAI 
+
+7 
+
+
+57LICO~ 
+Globex Far East Well Completion Report Barrarnundi-I 
+Figure 3.1 Well Abandonment Diagram 
+
+Seabed at 102.5 m 
+
+l
+l
+Cement Pluas 
+
+Casino cut 3 m BSB 
+
+11---=15J=----1 
+
+Top 112 m 
+
+Bolto 160 m 
+
+30' x 20' Casong 
+
+j 
+
+147 
+
+Top 845m 
+
+875m
+
+13 3/8" Casing ~ 
+Bottom 905m 
+
+Top 1294m
+
+Eastern View 
+1324 m 
+
+I3J Bottom 1354m 
+
+Top 1525m 
+
+f2J 
+
+Bottom 1575m 
+
+Top 1850m 
+
+I1J 
+
+1900m
+
+Bottom 
+
+TOTAL DEPTH 21QOm 
+
+CEMENT Adelaide Briahton Bulk 
+DETAILS: 
+
+Calcium Chloride Accelerator 
+NF·1 Friction reducer 
+
+1-RIG SEDCO 702 
+LOCATION LATITUDE : 39 DEG 39 MIN 41.9 SEC SOUTH 
+1_ LONGITUDE : 145 DEG 44 MIN 02.9 SEC EAST 
+
+II 
+
+
+Scm 
+
+WCRBARAI 
+
+8 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+3.2 Operations Summary 
+3.2.1 Logistics and Planning 
+Kelly Down Consultants provided the Project Management service on Barramundi-l. The 
+well was planned in conjunction with Globex personnel as a vertical exploration well. An 
+application to drill was made to the department of Mineral Resources Tasmania, which 
+had technical support from the DNRE Victoria. A Safety Management System was 
+developed in conjunction with Sedco and approved by Tasmanian Mineral Resources. 
+
+3.2.2 Site Survey 
+Racal performed a site survey in the summer of 1999. No shallow gas indications were 
+observed and no seabed obstacles for mooring. 
+
+3.2.3 Mobilisation 
+The Sedco 702 was mobilised from the Esso Turum-7 well location at the following 
+coordinates: 
+
+Latitude 380 15' 52.3" S 
+Longitude 1480 15' 49.2" E 
+
+The tow route to Barramundi-l was a distance of 156 nautical miles. A differential GPS 
+system was used to confirm the position of the rig at Turum 7 and at Barramundi. The 
+tow Vessels M.V. Pacific Shogun and M.V. Pacific Challenger, both 9000 BHP, with a 
+bollard pull of 110 tons each were used to tow the rig to the location. The rig departed 
+Turum 7 on 20/09 at 1800 hrs and arrived 2.7 days later at 11:30 hrs on 23/09. Eight 
+
+anchors were run and pre-tensioned to 350 kips, which was completed in 14.5 hrs by 
+0200 hrs on 24/09. The rig was ballasted down to drilling draft and the final position 
+
+check made on the location at Barramundi-1: 
+
+Barramundi-l final location: 
+
+Easting 391413.9 m 
+Northing 5609012.8 m 
+Latitude 390 39' 41.9884" S 
+Longitude 1450 44' 02.9366" E 
+
+WCRBARAI 
+
+9 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+3.2.4 Pre-spud 
+A pre-spud meeting was held in Melbourne on Tuesday 7 th September. Representatives 
+from Mineral Resources Tasmania and DNRE were present as well as representatives 
+from the major service companies on the well. The well design was described in outline, 
+and the Safety Management System which had been put in place for the well together 
+with the materials movement procedures were also defined. 
+
+3.2.5 36" Hole Section 
+A shallow gas contingency meeting was held on the rig prior to spudding, followed by an 
+ROV on bottom survey. Seabed conditions were found to be flat with a sandy/silt type 
+bottom. The seabed was tagged with the drill string at 102.5m and the well spudded at 
+
+04:00 hrs on 24/09/99. The BRA included a 26" DSJC bit with a 36" hole opener. The 
+BRA was stabilised with an auger type 36" aD stabiliser. A float sub was placed in the 
+BRA immediately above the hole opener. One stand of 9 1/2" collars was crossed back to 
+one stand of 8 1/4" DC's. A seawater drilling fluid was used with pre-hydrated gel 
+sweeps, and the hole drilled to 147 m in 0.5 hrs. After circulating a viscous sweep, a 
+Totco survey was dropped in the BRA which showed a hole angle of 10 at 143 m. After 
+washing to bottom a 250 bbl viscous pill was spotted on bottom to stabilise the hole, prior 
+to running casing. 
+Four joints of 30" casing were run on the Dril-Quip SS-lO permanent guide base, with the 
+shoe joint being a 20" x 30" transition joint. This configuration was used to improve the 
+quality of the cement job across the shoe. The casing was cemented with 600 sxs (100% 
+excess) of class G cement at 1.9 sg. The ROV confirmed the guide base angle as 0.75 
+degrees to port on the bull's eye. The running tool was released and recovered back to 
+surface. 
+
+3.2.6 17 1/2" Hole Section 
+
+The 17 1/2" section was drilled through the Torquay group, a mixture of limestone and 
+claystone with some interbedded sandstone. A seawater mud system was used with pre
+
+
+hydrated gel to flocculate the mud. Caustic and lime were added to reach the hi-vis 
+requirement of 100 sec/qt funnel viscosity. The interval was drilled including the 30"/20" 
+
+shoe track in 22 hours with a 17 1/2" tri-cone bit to a total depth of 875 min 22 hours 
+
+with a type 1-1-5 Tri-cone. Viscous sweeps were pumped mid stand and 25 bbl pills 
+
+spotted on bottom when making a connection to clean the hole and help maintain hole 
+
+stability. Totco surveys were dropped at regular intervals. At 875m hole angle was a 
+
+maximum 2.5 degrees during the section but 0.5 degrees at casing point. 
+
+WCRBARAI 
+
+10 
+
+
+Globex Far East Well Completion Report Barramundi·l 
+
+The 13 3/8" casing was run in the hole without problems, on the 183/4" subsea housing. 
+A total of 65 joints were run including 3 joints comprising the shoe/intermediate and float 
+collar joints. After landing the wellhead housing an overpull of 50 k confirmed a latch 
+down. The casing was cemented with a lead slurry of 1067 sxs class G at 12.8 ppg, 
+followed by 410 sxs of tail slurry at 15.9 ppg. No indication of displacing dart shear out 
+was observed, nor of a plug bump. The displacement was calculated on theoretical plus 
+50% of the shoe track volume. No backflow occurred after breaking off the cement hose. 
+
+The bop's were run and tested as per programme. 
+
+3.2.7 12 1/4" Hole Section 
+
+A 60 ft pendulum assembly was used to drill out the 13 3/8" casing using seawater with a 
+Smith steel body 5 bladed bit. The top cement plug was encountered at 728 m, approx 
+130 m high due to the plug by-passing on the 13 3/8" cement displacement. The plug was 
+pushed to the top of the float collar at 843 m. After drilling the shoe track and 3 m of 
+open hole, the well was displaced to a 6% KCUPolymer mud system. An FIT was 
+performed to 14.3 ppg EMW. The section was drilled from 878 m to 1672 m ,without 
+incident before the bit was pulled. The bit run produced an average ROP of 20.5 m1hr, 
+and terminated in a typical Eastern View section comprising interbedded siltstone, sands 
+and coal beds. The bit when recovered to surface had virtually the entire blade thickness 
+worn down to the body OD along 60% of the blade length. A more aggressive 9 bladed 
+bit (Smith Geo M34 VX) was run to cope with the interbedded and hardening nature of 
+the Eastern view formation, plus an additional stabiliser on the BHA. This bit drilled a 
+total of 428 m to TD at 2100 m, and was in good condition at the end of the section. 
+
+The well was deepened from the prognosed TD of 1777m in response to the geological 
+events encountered, and the desire on the part of Globex to ensure that all potential target 
+horizons had in fact been drilled. 
+
+3.2.8 12 1/4" Section Logging 
+
+A full suite of logs was run to evaluate the section. No sidewall cores or RFT's were run. 
+
+No hole problems were experienced running logs. 
+
+3.2.9 Well Abandonment 
+The well was abandoned as a dry hole with 5 cement plugs set to completely seal any 
+permeable and porous formations. Three plugs were set in the open hole, one set across 
+the 13 3/8" shoe and the fifth plug was set at surface. The wellhead was recovered by 
+cutting through the 20" crossover joint below the 18 3/4" housing and the 30" casing, at a 
+point 3m below the seabed. A clearance survey was performed with an ROV immediately 
+after the cut. 
+
+WCRBARAI 
+
+11 
+
+
+Globex Far East Well Completion Report Barrarnundi~1 
+
+3.3 Daily Operations 
+3.3.1 Daily Drilling Reports 
+The details of the daily activities during rig up and drilling operations for the 
+BARRAMUNDI-l well are presented in the Daily Drilling reports in Appendix 1. 
+
+3.3.2 Daily Costs 
+The daily cost estimates can be found in graphical format in the time depth curve in 
+Figure 3.2. 
+
+3.3.3 Definitive Survey 
+Only Totco's were run on Barrarnundi-l. An electronic multishot was available in the 
+event that any significant angle built up in the well, which was in the event not necessary. 
+The surveys run were as follows: 
+
+Hole Size 
+(ins) 
+Survey Type Survey 
+No. 
+Depth 
+(~) 
+Augle 
+Ide,,) 
+Bearing 
+Idee) 
+36 Totco I 143 I na 
+17.5 Toteo 2 458 miss-run na 
+17.5 Totco 3 488 I na 
+17.5 Totco 4 748 2.5 na 
+17.5 Totco 5 875 0.25 na 
+12.25 Totco 6 I 181 1.25 na 
+12.25 Toteo 7 1527 .5 na 
+12.25 Totco 8 2100 I na 
+
+WCRBARAI 12 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+3.3.4 Bottom Hole Assemblies 
+Only 4 BRA's were run to drill Barramundi-l. The 36" hole was drilled using a 26" bit 
+and 36" hole opener. This gave a 5 m 26" diameter pocket for the 20" shoe on the 30" 
+casing string, thus creating a smaller annulus and giving a better cement job at the shoe. 
+The 17 112" hole was drilled with one bit. The 12 1/4" hole would have been drilled in 
+one run but the interbedded coal Isilt/sand sequences in the Eastern View proved too hard 
+and abrasive for the Smith S91 PDC, which ringed out at 1672m. 
+
+BRA # 1 2 3 4 
+Bit Size 26" 17 1/2" 121/4" 121/4" 
+Hole Size 36" 171/2" 121/4" 121/4" 
+Length (m) 155.61 257.27 256.15 308.4 
+Drilled From 102.5 147 875 1672 
+Drilled To 147 875 1672 2100 
+Interval Drilled 44.5 728 797 428 
+BHAltems Bit Bit Bit Bit 
+Pony DC 9 1/2" Float Sub Float Sub NB Stab 12 1/4" 
+Hole Opener 36" 2xDC91/2" Monel 8" Pony DC 8" 
+Float Sub 1 x Stab 17 1/2" 1 x DC 81/4" Stab 12 1/4" 
+2 x DC 91/2" 1 x DC 9 1/2" 1 x Stab 12 1/4" Monel 8" 
+XlO XlO 8xDC81/4" Stab 12 1/4" 
+3x DC 81/4" 7 xDC 81/4" JAR 8" 14xDC 81/4" 
+XlO JAR 8" 1 x DC 8 1/4" JAR 8" 
+6xHWDP 1 x 8 DC 81/4" XlO 1 x DC 81/4" 
+XlO 15xHWDP XlO 
+15 xHWDP 15 xHWDP 
+
+WCRBARAI 
+
+13 
+
+
+Globex Far East Well Completion Report Barrarnundi-l 
+
+3.3.5 Time Performance 
+I I I ! 
+Tow 10 Ba"omundi. 66.00 MON 9120/996:00 PM 9123/9912:00 PM 
+At.rl AnehOl'. 16.00 THU 9123/99 12:00 PM 9124/99 4:00 AM 
+0IiI136" Hole 10 145m +1·. SUlvey. Wipe. Spot gel. 3.00 FRI 9124/994:00 AM 9124/997:00 AM 
+At.rl30" e.g. 4.50 FRI 9124/997:00 AM 9124/99 11 :30 AM 
+Cemenl 30" POOH wi 109 1001. 3.50 FRI 9124/99 11:30 AM 9124/99 3:00 PM 
+Vdn 36" a••y. pu 17112:' BHA'-I-_:'
+6..::;00':--f.:F"'R:;-1--t_9;::12=,47,/9=:9=-3::::;::OO~P::,MT--=9:,:12:::4:::/9::::9-=9"::0:::0-;P:::-M:.:iDriii1-7li" Hole to B75m +1·. Survey, 21.00 FRI 9124/999:00 PM 9125/996:00 PM 
+Wiper tr"IPOOH!lel whead. 9.50 SAT 9125/99 6:00 PM 9126/99 3:30 AM 
+Alu and fUn 13-318" e.g 9.50 SUN 91261993:30 AM 9126199 1:00 PM 
+Cite_ul_ate an_dcorlCii~tio~n,----+_..::0:;.:;.5::::.0_fS~U~N~1---'=9:,:12",619=9..:.1;:;:0:;::0.;,P,::M~..;9:::12;;6,:;19:;9:-1:;,:3;0,.:P:,:M~
+Cement 13·318" 3.00 SUN 9126199 1:30 PM 9126199 4:30 PM 
+POOH wi 109 1001. 1.75 SUN 91261994:30 PM 91261996:15 PM 
+At.rl BOP. 13.50 SUN 91261996:15 PM 9127/997:45 AM 
+Ple••urele.t Aunn",~bOleploleelol.13.50 MON 91271997:45 AM 91271999:15 PM 
+AIH wi 12-114" BHA 4.25 MON 91271999:15 PM 9128/991:30 AM ------·-·-·------·------·--·-·---·-·---·-·-------------·-·I----""=---E"="'-+~~'__='__:~"'_'+~~~,;=.:__:__,;:."iOl~out C'e. FIT. 4.75 TUE 91281991:30 AM 91281996:15 AM 
+0IiII1211" Hole 10 1672m +1·. SUlvey. Cile'>ale el al. 49.50 TUE 9128199 6: 15 AM 9130/99 7:45 AM 
+POOH 6.75 THU 91301997:45 AM 91301992:30 PM 
+_._~.----------~---_.._-_.._. __._---.----_._.-.._--_.--.." 
+.._".
+I"-~12_-1_W~H::_:A:=__:___::_-_=____:_c_-----:_+-:_'11~.2~5--1.;,;TH;,:.U~t_':9'::'13O~19~9-?2:.:::30~P::,MT--:-10;::1~119-:,,:9::-:,:,1:~45=-A,:,M::-:i0IiU1211"Holet02100m+I·. SUlvey. Cile<laleel.1. 24.50 FRI 10111991:45AM 10121992:15AM 
+ShOll wiper Ir,,& POOH 12.00 SAT 10121992:15AM 10121992:15PM 
+At.rllog. 15.25 SAT 10121992:15 PM 10131995:30 AM 
+~y_d.o.w--"...~e,,:o":..:I=ubu=IaIc:..'I_..;2:;;.7..:;5_+S:,U;;.;,N,.:-+--'1-=013'='::19"'9-:5;;.;:30~A:"M+..,.:.;10=-13==/9~9:..:8:;;:.;.15=-""A""IMAIH 10 P&A 3.00 SUN 1013199 8: 15 AM 1013199 11: 15 AM 
+Sel &te,1 abandonment plug, 29.25 SUN 1013199 11: 15 AM 10141994:30 PM 
+Aecover BOP', 11.75 MON 10141994:30 PM 10151994:15 AM 
+Faaed altemptlo leeovel wellhead wilh Boker euller 31.25 TUE 1015199 4: 15 AM 1016199 11:30 AM 
+AecoverWeliheadwithWeathellOldeullel&reeover 7.50 WED 101619911:30 AM 10161997:00 PM 
+AOY Survey 0.25 WED 1016199 7:00 PM 10161997:15 PM 
+Pull anchOl. (10.1 4) 7.25 WED 10161997:15 PM 10171992:30 AM 
+Aigolfhire 392.50 THU 10171992:30 AM 
+WCRBARAI 
+
+14 
+
+
+Globex Far East Well Completion Report Barrarnundi-l 
+
+3.3.6 Time Analysis 
+ACTIVITY HOURS DAYS 
+Rig move 66 2.75 
+Run Anchors 16 0.67 
+Drilling 89 3.71 
+Bit Trip 35 1.46 
+Wiper trip 4.25 0.18 
+Survey 5.25 0.22 
+Circulate and condition 16.75 0.70 
+ChangeBHA 5.5 0.23 
+Casing & Cementing 6.75 0.28 
+Wellhead & BOP's 26.75 1.11 
+Coring 0 0.00 
+Logging 16 0.67 
+Wash & Ream 8.75 0.36 
+Fishing 0 0.00 
+Rig Repairs 3 0.13 
+Abandon 54.5 2.27 
+Pull anchors 7 0.29 
+Miscellaneous 8.5 0.35 
+TOTAL 369 15.37 
+
+WCRBARAI 
+
+15 
+
+
+574C17 
+
+
+Globex Far East Well Completion Report Barramundi-l 
+
+3.3.7 Time Depth Curve· Performance and Cost 
+Barramundi-l was programmed to be drilled to 1777 m, logged and abandoned in 15 
+days. Actual performance exceeded this, and the well was drilled to 2100m, logged and 
+abandoned in 16 days. 
+
+Barramundi-l was approved at a total APE cost of A$7.1 MM (US$4.55 MM). The well 
+was drilled for an estimated final cost of A$7 mm, (US$4.5 MM) on APE, but to a 
+deeper depth. 
+
+WCRBARAI 
+
+16 
+
+
+Ole.. ar East Well COl._r• tion Report Barrarnundi-l ) 
+
+Scm 
+
+Figure 3.2 Time Depth Curve 
+
+GLOBEX Far East 
+BARRAMUNDI-1 IT-27-P) TIME/DEPTH CURVE....;....----------------, 
+Planned 
+Drill 36' / . \ • Drill 36" Hole. run & set 30" Casino I ' ...... ........ ActualTorquay 
+4. \.Run/cmt30Group / , '\ Drill 17 1/2" Hole I , , 
+<, -X -r 1 T -T -r -r --f-Drill 
+17 112" hole 
+~ 
+I \ .1 Run 13 3/8" Casino with HP Wellhead. Run and test 18 3/4' BOP 
+;, \ 
+133/8°,865m '10.1 •••••• 
+, ,
+l000W'"Ir:::/RU-nIo.Lc-m-,...J'3L3I8=•.L---,I/~-~ 
+----
+r----~-
+, 
+---.,"~ 
+-f\ -------r------
+--+--
+, 
+,
+Drill 12 1/4".,Demons .,Bluff 
+TOp Eastern ,,View Group 1500"h_.L-JL---l._....L._":""_J., _ ---,..--\, 
+---\-------,..-
+, 
+,(1337.4m) UPOOH fDr bit change. ... ....... \Ubackreamina reauired ILoa, P & A Pull anchors 
+9 5/8" • as reqd , Recover 
+TD·17n.4m ~ 
+for Testing Oriil to extended TO with 1--_ , '. Attempt to recover weiihead, Cutter failure LI2000 
+ro. M34 POC bit ~t~~1==:::~~\f~1?~~=1~i==i==~~~S~:-::-:~Jwelihead. 
+pullI. ~\ 
+_ ~ 
+~ 
+anchors. rig off 
+Primary 
+Target 
+Anomaly 2'00 mTO i==i=±=h:;;.~~~ll~'~~~=:=l' 
+:::::~~t!::~~~i::±:-tl~j==:' 
+~hire 
+@0230hrsIRlln & FM!~ 
+/n,,~ 
+L---P' -"r-. r-07/
+10/99 
+Horizon I ~ 
+~COSl$US .. .. '. .... ............1527m :.;-;. -;.;. ::: :::::: I:::::: :::::: -Rnp'< I I IAPE U8$4.44, 
+Set Abandonment plugs 1 to 5 
+1900 to 1850 #1 
+r""'t'",'-';::-';:b:,c::,c:'+-:.,c:,c.'t'.,,',,:-.,,:'",''",:",::+''8-,'",':f;:;;;':-;;':h;:',;.'~'I'"',.:;'-';F.~'.,,:;."':.,,~+'~"':~"'~'-il~ 
+",.",::++:",''",'71:-';:-';:-';:-p.,c'',c'f7',c',c'+-J 1575 to 1525 #2 
+$2MM .... '.' ..... : ::::I:~~ii 
+.. ~ 
+..~ 
+~~~ 
+::: ::::::1:::::: -:'::: :~: 
+::':':. 1354 to 1294 #3 
+<0...... "':"::":,"',':B'~~.E~,c~+-',c:,c't'."":".'.".:",.:",.'",••+'';-;'+;:'+:f':,-;:-,;:-t,"'".,c;,c;,c.:;.:.:,c'.":,,,••"".".;+',"'.,"',,-il."'."':'+.t-'",:,,:71:'-;:--';.,-';..-p.,c:',c:f7:,c,;,c,.+,-I~~~ 
+:~ 
+~~~:~&",8:~: 
+820 #48 
+
+
+WCRBARAI 
+
+17 
+
+
+574C18 
+
+Globex Far East Well Completion Report Barramundi-l 
+
+3.3.8 Time Performance Charts 
+BARRAMUNDI-1 TIME ANALYSIS 
+
+
+Figure 3.3 Overall Performance 
+
+Barramundi-1 Detailed Timing 
+
+
+
+IIDrilling Operations 
+
+• Evaluation 
+o Problem Operations 
+III Rig Move 
+.Run Ancors 
+CDrllllng 
+CBII Trip 
+.WlperTrlp 
+
+mSurvey 
+
+.Clr&Cond 
+CBHA 
+.Caslng&Cementing 
+.Welihead&BOP's 
+CLogging 
+[]Wash 
+.Flshlng 
+.Rlg Repair 
+.Abandon 
+
+• Pull Anchors 
+IlIMlsceli. 
+
+Figure 3.4 Detailed Performance 
+
+Scm 
+
+WCRBARAI 
+
+18 
+
+
+GLL.,X FAR EAST WELL COMLETION Rb. ,{T BARRAMUNDI-l 
+
+3.4 Bit Record 
+Bit Size Make Type I JADC I ISerial Jets Depth Drilled Hrs ROP WOB RPM Press Pump MW Dev Grade 
+No. (ins) Code No. 32nds Out (m) (m) (mlhr) (m.ke) (psi) (epm) (se) (dee) I 0 D L B G R 
+1 26 Smith DSI-C LI.I 66330 3X24 147 45 .5 90 0-5 100 1400 1200 L04 1 1 1 NO a 1 1 Td 
+2 17.5 Smith MSDSS 1.1.5 LF9226 3X24 875 728 18.5 39.3 5-15 120 2250 1000 L04 ~ 
+2 2 No A 1 1 TD 
+3 12.25 Geo-D S91PX S123 IR8018 7X16 1672 797 '17.25 20.5 2-5 150 2350 1100 L05 Y, 7 8 RO T X 1 PR 
+4 12.25 Geo-D M34VVX IR3922 8x14,16 2100 428 24.5 17.5 5-10 150 1850 850 L04 1 2 2 CT A X 1 TD 
+
+19 
+
+
+
+.... 1""~tl{\"-1 
+
+
+~ 
+" '-1<;' J. 
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-I 
+
+3.5 Casing and Cementing Report 
+3.5.1 36" Hole Section: 30" Conductor (Surface to 147 m RT) 
+WeUName: 
+Hole Size: 
+Barramundi #1 
+36 147 
+TD (m): 146 Date: 
+RT to Too of Soool: 
+24/09/99 
+101 
+
+CASING AND EQUIPMENT RECORD AS RUN FROM BOTTOM TO TOP: 
+
+Size Weight (Ib/ft)/ Thread No. of Length From To Remarks 
+O.D. Grade Type Joints (m) (m) (m) 
+(ios) 
+30 275/X52 HD-90 I 11.62 Wellhead Hsg. 
+30 275/ X52 SF-601HD-90 I II.51 
+30 275/ X52 SF-60 I 11.64 
+30X20 SF-60/20" I 10.57 Transition Shoe Jt. 
+Shoe 
+Tallv Total: 45.34 Casing Landed at : 1 147 
+Wellhead Housin2lSpooi : Dril-Quip 
+Centralisers: N/A 
+Commence RIH 107:45 On bottom: 1 11:30 1 Hours: 1 3.75 
+CEMENTING DETAILS: 
+
+Drillin Fluid Prior To Cementin S udMud 
+Pretlush S acer Details : Sea water 
+
+
+Cement No.Sx 
+Mix Water 
+(GaIslSx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amount Added 
+To 
+"G·· 600 5.2 100% 1.9 CaCl 576lbs Water 
+Start mix: 112:35 Finish mix: 113:05 I Hours: I 0.5 
+
+DISPLACEMENT 
+
+Displacement Fluid Sea water Displaced With Sea water 
+Bump Plug With (Psi) N/A Displacement Rate (bpm) 5.5 bpm. 
+Est. Top Of Cement 102.5 Displacement Vol (bbls) 11.43 
+Start Disp.: 113:06 Bump Plu2: N/A 1 Hours: 10.2 
+
+REMARKS: FULL CIRCULATION THROUGH OUT JOB 
+
+20 
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+3.5.2 17 1/2" Hole Section: 133/8" Surface Casing (147 to 875 m RT) 
+Well Name: Barramundi #1 I TD(m): 875 Date:I 26109/99 
+Hole Size: 17 V, 875 RT to Top of Spool: 101 
+
+CASING AND EC UIPMENT RECORD AS RUN FROM BOTTOM TO TOP: 
+
+
+Size 
+O.D. 
+(ins) 
+133/8 
+Weight (lb/ft)1 
+Grade 
+681 J55 
+Thread 
+Type 
+Buttress 
+No. of 
+Joints 
+I 
+Length 
+(m) 
+12.32 
+From 
+(m) 
+869.12 
+To 
+(m) 
+856.8 
+Remarks 
+Shoe Joint 
+133/8 
+133/8 
+133/8 
+18 '4 
+68/ J55 
+68/ J55 
+68/ J55 
+Buttress 
+Buttress 
+Buttress 
+XlO 
+I 
+I 
+62 
+I 
+11.66 
+12.2 
+721.54 
+10.76 
+856.8 
+845.14 
+832.94 
+111.40 
+845.14 
+832.94 
+111.40 
+100.64 
+Intermediate Jt. 
+Float Joint 
+Casing 
+Wellhead 
+Wellhead HonsinwSpool : 
+Centralisers: 
+Commence RIH 104:30 
+Tallv Total: 
+Dril-Quip 
+6 
+On bottom: 
+768.48 Casing Landed at : 
+1 13:00 I Honrs: 
+1 
+18.5 
+869.12 
+
+CEMENTING DETAILS'. 
+
+
+Spud mud 
+
+Drillin!! Flnid Prior To Cementln!! : 
+
+Preflush. Spacer Details : 
+
+Fresh water 
+
+Cement No.Sx 
+Mix Water 
+(GaIslSx) Excess 
+Slnrry 
+Weight 
+(Sg) 
+Additive Amonnt Added To 
+"0" 1010 10.95 20% 1.54 Gel, 
+Halad 322 
+2310 Ibs 
+80 gal 
+Water 
+"0" 420 5.15 20% 1.9 NF-5 10 gal Water 
+Start mix: 113:50 Finish mix: 1 15:50 1 Hours: 12 
+
+DISPLACEMENT 
+
+
+Displacement F1nid Sea water Displaced With rig 
+Bnmp Plug With (Psi) NO Displacement Rate (bpm) 20 
+Est. Top Of Cement 102.5 Displacement Vol (bbls) 362 
+II Start Disp.: 15:50 Bump Pin!!: No Honrs: .75 
+
+REMARKS: FULL CIRCULATION THROUGH OUT JOB 
+
+
+21 
+
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+3.5.3 Abandonment Cement Plug Details 
+Cementing Report Plug #1-1900m-1850m 
+
+Well Name: Barramundi #1 I TD (m): 2100 Date:I 03110/99 
+Hole Size: 1214 RT to Too of Soool: 101 
+
+CEMENTING DETAILS: 
+
+Drilling Fluid Prior To Cementing KCLPHPA MUD 
+: 
+Preflush, Spacer Details : 20 bbl Fresh water 
+Cement No.Sx 
+Mix Water 
+(Gals/Sx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amount Added To 
+"G" 121 5.01 20% 1.9 Halad 322 30 gal Water 
+NF5 I gal Mixer 
+Start mix: 1 15:48 Finish mix: 116:04 1 Hours: 1.25 
+
+DISPLACEMENT 
+
+Displacement Fluid MUD Displaced With Dowell 
+Pumped 3 bbl FW spacer 
+Displacement Vol (bbls) Est. Top Of Cement 1850 103 
+Start Disp.: 116:05 I 1 1 Hours: 1.25 
+
+22 
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-I 
+
+Cementing Report Plug #2 -1575m-1525m 
+
+Well Name: Barramundi #1 I TD (m): 2100 Date:I 03/10/99 
+Hole Size: 12 ';.I RT to Too of Soool: 101 
+
+CEMENTING DETAILS: 
+
+Drillinl! Fluid Prior To Cementinl! : KCLPHPA MUD 
+Preflush Soacer Details : 20 bbl. Fresh water 
+
+Cement No.Sx 
+Mix Water 
+(GaIslSx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amount Added To 
+"G" 121 5.01 20% 1.9 Halad 322 30 gal Water 
+NF5 1 GAL Mixer 
+Start mix: I 18:40 Finish mix: I 18:52 I Hours: 1.25 
+
+DISPLACEMENT 
+
+Displacement Fluid MUD Displaced With Dowell 
+Pumped 3 bbl FW spacer. 
+Displacement Vol (bbls) Est. Top Of Cement 1525 84 
+Start Diso.: 118:52 I I I Hours: 1.25 
+
+23 
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+Cementing Report Plug #3 -1354-1294m 
+
+
+Well Name: Barramundi #1 I TD (m): 2100 Date:I 03110/99 
+Hole Size: 12 '4 RT to Ton of Snool: 101 
+
+CEMENTING DETAILS: 
+
+
+Drillin" Fluid Prior To Cementin" : KCLPHPA MUD 
+Preflush Snacer Details : 20 bbl. Fresh water 
+
+Cement No.Sx 
+Mix Water 
+(GalslSx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amount Added 
+To 
+"G" 144 5.01 20% 1.9 HR6L 4 ,al Water 
+NF5 1 gal mixer 
+Start mix: 122:10 Finish mix: 122:22 I Hours: 1.25 
+
+DISPLACEMENT 
+
+
+Displacement Fluid MUD Displaced With Dowell 
+Pumped 3 hbl FW spacer. 
+Est. Top Of Cement 1525 Displacement Vol (bbls) 70 
+HStart Disn.: 122:22 I I I Hours: 1.25 II 
+
+24 
+
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+Cementing Report Plug #4--905m -845m 
+
+
+WeUName: Barramundi #1 I TD(m): 2100 Date:I 04110/99 
+Hole Size: 12 'h RT to Ton of Snool: 101 
+
+CEMENTING DETAILS: 
+
+
+Drillinl! Fluid Prior To Cementinll : KCLPHPA MUD 
+Pretlush Snacer DetaUs : 20 bbl. Sea water 
+Cement was mixed with Seawater. 
+
+Cement No.Sx 
+Mix Water 
+(GalslSx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amonnt Added To 
+"a" 144 5.01 20% 1.9 NF5 1 gal Mixer 
+Start mix: 101:00 Finish mix: 101:14 I Hours: 1.25 
+
+DISPLACEMENT 
+
+
+Displacement Fluid MUD Displaced With Dowell 
+Pumped 3 bbl Sea Water 
+spacer. 
+Est. Top Of Cement 845 Displacement Vol (bbls) 44 
+I Start Disp.: I 01:18 I I I Hours: 1.25 II 
+
+25 
+
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+Cementing Report Plug #4B -890-820m 
+
+
+Well Name: Barramundi #1 I TD(m): 2100 Date:I 04110/99 
+Hole Size: 12\4 RT to Ton of Soool: 101 
+
+CEMENTING DETAILS: 
+
+
+DriIlinl! Fluid Prior To Cementinl! : KCLPHPA MUD 
+Preflush, Spacer Details : 20 bbl. Sea water 
+Cement was mixed with sea water 
+
+Cement No.Sx 
+Mix Water 
+(GalslSx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amount Added To 
+"0" 179 5.01 20% 1.9 NF5 I gal Water 
+Start mix: 111:41 Finish mix: 111:57 I Hours: 1.25 
+
+DISPLACEMENT 
+
+
+Displacement Fluid MUD Displaced With Dowell 
+Pumped 3 bbl SW spacer. 
+Est. Top Of Cement 820 Displacement Vol (bbls) 42 
+II Start Disp.: 111:59 I I I Hours: 1.25 II 
+
+26 
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+Cementing Report Plug #5 -170m-121m 
+
+
+Well Name: Barramundi #1 I TD(m): 2100 Date:I 03110/99 
+Hole Size: 12',4 RT to Too of Snool: 101 
+
+CEMENTING DETAILS: 
+
+Drilliol! Fluid Prior To CementiDl! : Sea water 
+Preflush, Spacer Details : 10 bbl. Sea water 
+Cement was mixed with sea water 
+
+Cemeut No.Sx 
+Mix Water 
+(Gals/Sx) Excess 
+Slurry 
+Weight 
+(Sg) 
+Additive Amount Added To 
+"G" 114 5.01 20% 1.9 1% CaC] 5 sx Water 
+NF5 I gal Water 
+Start mix: 114:59 Finish mix: 115:12 1 Hours: 1.25 
+
+DISPLACEMENT 
+
+Displacement Fluid Sea water Displaced With Dowell 
+Displacement Vol (bbls) Est. Top Of Cement 121 6 
+Start Diso.: 1 15:12 1 1 1 Hours: I 
+
+27 
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+3.6 Drilling Fluid Recap 
+The Drilling Fluid details are found in the mud completion report, Appendix 2. A water base mud 
+system was used to drill the well. Non reactive shales were encountered requiring minimal mud 
+composition changes. 
+
+3.7 Abandonment Summary 
+The details of the abandonment for BARRAMUNDI-1 are shown in abandonment status 
+diagram, fig 3.2. The well was abandoned with three cement plugs in the open hole 
+sealing off any porous and permeable formations. A plug across the 13 3/8" casing shoe 
+was set in place after two attempts and a final plug set at surface, immediately below 
+where the casing was cut. The permanent guide base and 18 3/4" wellhead was recovered 
+in the cut and pull operation, leaving the seabed clear to a depth of 3 m below the surface. 
+
+Over 30 hours rig time was lost during the abandonment operation due to a failed casing 
+cutting tool. This was the subject of a separate incident report. The casing was finally cut 
+using the intended tool which had been flown over from Perth. 
+
+28 
+
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+3.8 Lessons Learned 
+~ 
+Globex Far East II INCIDENT REPORT/LESSON ~ 
+
+
+Report No: 1 Date: 05 OCT 1999 PreDared Bv: Colin Stuart 
+Well: BARRAMUNDI 
+BARRAMUNDI-1 
+Operator: GLOBEX Rig: SEDCO 702 
+INCIDENT/LESSON 
+Failure to cut 30" casing first time 
+WELL DATA/OPERATIONS PRECEEDING INCIDENTILESSON 
+Well had been abandoned with 5 cement plugs and BOP's retrieved 
+EVALUATION OF INCIDENT (Cause, were procedures/orders followed?, 
+The cause of the incident was the replacement of the selected tool by the contractor for an inferior 
+version, supplied by third party. This replacement took place since the original tool at the start of 
+operations was undergoing repair work. 
+Poor communication on the part of the supplier to the operator was the cause of the incident. 
+REMEDIAL WORK CARRIED OUT 
+The failed cutter was eventually replaced with the originally contracted tool after it was flown to the site 
+from Perth. 
+RECOMMENDATIONS 
+Remind suppliers at the outset of operations ( pre-spud meeting) to advise operator of any changes to 
+equipment supplied before it occurs. 
+
+29 
+
+
+
+;~ 
+v~< 
+/! i\ 4) -! 
+
+v' { '-...'. j ,.j ....::... 
+
+GLOBEX FAR EAST WELL COMLETION REPORT BARRAMUNDI-l 
+
+Appendix 1. Daily Drilling Reports 
+
+30 
+
+
+ROTIREAM HRS DRILLING DATA 
+DRAG UP 
+(ml) 
+DRAG -DOWN (ml) 
+TORQUE-On Bottom (amps) 
+TORQUE-Off Bottom (amps) 
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+!SARRAMUNDI-1WELL: I DATE: I 20.9.99 I 
+PERMIT: IT/27P I REPORT # I 1 I 
+RIG: SEDC0702 I D.F.S. I 0 I 
+DEPTH 2400 Hrs: I STATUS @ 2400 Hrs: Tow to Sarramundi #1 
+TVD: I FORMATION: 
+24 HR PROGRESS: I LAST CASING: I I @ I I SHOE LO.T.:I I 
+HOLE SIZE: I WD(MSLl:l I RT· SEABEDlMSL:1 I MAASP:I I 
+SURVEYS: I 
+MUD PROPERTIES ADDITIVES SOLIDS CONTROL FORMATION DATA 
+DENSITY(SG) Ipm uf hrs DEPTH 
+VISCOSITY(Secs) DESILTER TRIPGAS(%) 
+pH DESANDER CONN. GAS (%) 
+PVIYP(cp/lbl100ft2) MUD CLEANER B'GRD GAS (%) 
+GELS 10/10 CENTRIFUGE PORE PRESS (SG) 
+WL API(cc/30min) 1 2 3 ECD(SG) 
+WL HTHP(cc/30min) SHAKERS LITHOLOGY 
+CAKE(mm) SCREENS DRILLS I BOPS 
+SOLIDS % PUMPS 1 2 3 LAST BOP DRILL 
+SAND % TYPE LAST FIRE DRILL 
+CHLORIDES(mg/l) STROKE(in) LAST MOB DRILL 
+KCL% L1NER(in) LAST ABN. RIG DRILL 
+MBT(lb/bbl) SPM LAST BOP TEST 
+TEMP 'C LPM BOP TEST DUE 
+HOLE VOL(m3/bbl) AV-DP(m/min) HRS CUM 
+SURF VOL(m3/bbl) AV-DC(m/min) 1. MOVE RIG 6 6 
+LOSSES(m3/bbllhr) SPP(kPaipsi) 2. RUN ANCHORS 
+MUD Co SCR @40 3 DRILLING 
+MUD TYPE SCR@50 4. TRIP 
+BIT DATA WEATHER I RIG RESPONSE 5. WIPER TRIP 
+BIT No. WIND SPEED(lds) 10 6. SURVEY 
+SIZE(mrnlin) DIRECTION(') SW 7. CIRC.lCOND 
+TYPE TEMPERATURE('C) 20 8. HANDLE BHA 
+IADCCODE BAR. PRESSURE(kPa) 1315 9. CASE/CEMENT 
+SERIAL No. BAR. RISE I FALL(kPa) 10. WELLHEAD 
+NOZZLES(32in) VISIBILlTY(NM) 5 11. BOPS 
+DEPTH IN (m) WEATHER STATE Calm 12. LOT 
+DEPTH OUT (m) SWELL! PER I DI R(m/seci') SW/1.5111 13. CORING 
+DRILLED (m cum/dly) r.vAVES I PER I DIR(m/seci') 0 14. LOGGING 
+HOURS (cum/dly) HEAVE(m) 0.5 15. REAMIWASH 
+GRADE PITCH(') 0.5 16. FISI-VSTUCK 
+AVGE ROP (mlhr) ROLL(') 0.5 17. LOSS CIRC 
+WOB(mt) V\NCHOR TENSION-MIN(MT) 18. KICK CONTROL 
+RPM ~NCHORTENSION-MAX(MT) 19. SIDETRACK 
+JET VEL (m/sec) RISER TENSION(MT) 20. OTHER 
+HHP@ BIT VARIABLE DECK LOAD(MT) 196E 21. REP. SURF 
+BHANo. BHAWEIGHT STRINGWT 22. WELL TEST 
+BHA Profile: 23 WO WEATHER 
+24. WAIT OTHER 
+DOWNHOLE TOOLS SERIAL No. 25. ABDN.lSUSPEND 
+DRILLING JAR 26. RIG SERVICE 
+DRILLING JAR 27. SLiP/CUT LI NE 
+SHOCK SUB 28. PULL ANCHORS 
+PDM 29 
+TOTAL (HRS) 6 6 
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+WELL:IBARRAMUNDI-1 I DATE: 21.9.99 
+PERMIT:lT/27P I REPORT # 2 
+RIG: ISEDCO 702 I D.F.S. 0 
+FROM TO HOURS 
+0:00 23:59 24.00 Under tow to Barramundi #1 . 
+
+While under tow, make up spud in BHA and layout om pipe deck. DO maintainence work on TDS and rig. 
+
+Position at 24:00 hrs 21.9.99 
+Lat 39°13.0' S. Long 147°16.0'E. 
+Average Speed 2.47kn.(Tow) Distance travelled 74nm. Distance to go 83nm. 
+Temp 12° Wind Direction 360° Barometer 1012 
+
+
+Position at 06:00 hrs, 22.9.99 
+Lat 39°25.8' S Long 147" 02.8' E 
+Speed 2.75 kts. Distance travelled 895 miles, distance to go 67.5 miles. 
+
+
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK GEL(sx) 
+RIGlBoatIBoat 650/850 
+
+PERSONNEL ON RIG 
+OPERATOR 3 
+DRILLING CONT. 34 
+SERVICE COMPS 10 
+OTHER 15 
+CATERING 9 
+TOTAL 71 
+
+Temp 11 ° Wind Direction 035° Barometer 1010 
+ETA @ average speed 09:32hrs. 23109 
+
+Tow to Barramundi. 
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+3533 3789 1069/365/400 
+TRANSPORTATION 
+
+NAME LOCATION 
+WORKBOAT Shogun Tow 
+WORKBOAT Challenoer Tow 
+STANDBY BOAT 
+HELICOPTER 
+HELICOPTER 
+
+Len Kronstal
+
+SUPERVISOR(S) Wally Westman 
+
+POT WATER(mt) IDIESEL FUEL(lt~ 
+182/110/290 I 372/4981498 
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+HEll FUEL(lt) 
+
+Ronny Rickard 
+
+
+WELL: IBARRAMUNDI-1 
+PERMIT:IT/27P 
+RIG:ISEDCO 702 
+
+
+FROM TO HOURS 
+0:00 
+
+23:59 
+
+24.00 
+
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+RIGlBoat'Boat 
+
+PERSONNEL ON RIG 
+
+OPERATOR 
+
+DRILLING CONT. 
+
+SERVICE COMPS 
+
+OTHER 
+
+CATERING 
+
+TOTAL 
+
+GEL(sx) 
+
+650/850 
+
+3 
+34 
+9 
+16 
+9 
+71 
+
+SUPERVISOR(S) Wally Westman 
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+I 
+I 
+I 
+DATE: 
+REPORT # 
+D.F.S. 
+22.9.99 
+3 
+0 
+Under tow to Barramundi #1. 
+While under tow, test mud manifold, mud hoses, lower and upper I-BOP. 
+Working on changing out upper annular element. 
+Position at 24:00 hrs 22.9.99 
+Lat 39°37.1' S. Long 146°17.9'E. 
+
+Average Speed 2.37kts.(Tow) Distance travelled 128nm. Distance to go 29nm. Present speed 2.2 Ids. 
+
+Temp 14°, Wind Speed 10, Wind Direction 270°, Barometer 1013. 
+
+Position at 06:00 hrs, 23.9.99 
+Lat 39°37.7' S Long 146° 00.0' E 
+Speed 2.00 kts. Distance travelled 147 miles, distance to go 10 miles. 
+Temp 14° Wind Speed 5 Ids. Wind Direction 270° Barometer 1012 
+
+ETA @ average speed 09:40hrs. 23109 
+
+Tow to Barramundi. 
+
+Arrive at Barramundi Location, run anchors. 
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+3533 3789 1060/3651400 
+TRANSPORTATION 
+
+NAME LOCATION DAILY MUD 
+WORKBOAT Shogun Tow CUMULATIVE MUD 
+WORKBOAT Challenaer Tow DAILY WELL 
+STANDBY BOAT CUMULATIVE WELL 
+HELICOPTER 
+HELICOPTER 
+Len Kronstal I OIM 
+
+POT WATER(mt) IDIESEL FUEL(ltj 
+170/105/285 I 357/474/479 
+COSTS 
+
+HEll FUEL(lt) 
+
+Ronny Rickard 
+
+
+WELL: IBARRAMUNDI-1 
+
+I 
+PERMIT: IT/27P 
+
+I 
+
+RIG: ISEDCO 702 
+
+I 
+
+FROM TO HOURS 
+0:00 
+
+11:30 
+
+11.50 
+11:30 
+
+0:00 
+
+12.50 
+
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK GEL(sx) 
+
+RIG/Boat/Boat 150/850 
+PERSONNEL ON RIG 
+OPERATOR 
+
+3 
+DRILLING CONT. 
+
+35 
+SERVICE COMPS 
+
+9 
+OTHER 
+
+15 
+CATERING 
+
+
+9 
+TOTAL 
+
+71 
+
+GLOBEX FAR EAST 
+
+DAILY DRILLING REPORT 
+
+Len Kronstal 
+
+SUPERVISOR(S) Wally Westman 
+
+DATE: 23.9.99 
+REPORT # 4 
+D.F.S. 0 
+
+Under tow to Barramundi #1. 
+Run Anchors 
+11 :35--commence payout on #7 anchor. 
+
+
+11 :40 --anchor on bottom 
+12:30--Pacific Challenger disconnected from tow bridle. 
+13:16--Start #3 anchor 
+14:32--Pacific Shogun disconnected from tow bridle. 
+14:50--#3 anchor completed. 
+15:15--Start #6 anchor, 16:54--#6 anchor completed. 
+15:35--Start #2 anchor, 17:20--completed. 
+17:50--Start #1 anchor, 20:43 --completed. 
+18:05--Start #5 anchor, 20:03--completed. 
+20:32--Start #4 anchor, 22:00--Completed. 
+20:01--Start #8 anchor, 22:58--Completed. 
+23:00--Commence Pre-tension on anchors 3 & 7 to 350 kips, completed at 23:20. 
+23:22--Commence Pre-tension on anchors 2 & 6, to 350 kips, winch blower on #2 anchor failed 
+before reaching 350 kips. Abort test on 2 & 6, go to anchors #1 & 5, while working on anchor winch #2. 
+
+
+HELD PRE-SPUD MEETING 
+PREPARE GEL SWEEPS WHILE RUNNING ANCHORS. 
+
+
+Continue to pre-tension anchors. Hold winch-off drill. Lower ROV and check sea floor. 
+Sea floor smooth and water calm. Hold pre job shallow gas safety meeting. SpUd in at 04:00 HRS. 
+Drill to section TO. Spot hi vis sweep. Wiper trip.Survey 1°, POH for casing. 
+
+
+Run Casing, Cement. 
+
+DRILLWATER(mt
+
+BARITE(sx) 
+
+CEMENT(sx) 
+
+916/365/400
+
+3533 3789 
+
+TRANSPORTATION 
+
+LOCATION 
+WORKBOAT 
+
+NAME 
+
+run anchors 
+WORKBOAT 
+
+Shogun 
+
+run anchors 
+STANDBY BOAT 
+HELICOPTER 
+
+Challenaer 
+
+2 trips 
+HELICOPTER 
+
+POT WATER(mt) !DIESEL FUEL(ld HEll FUEL(lt) 
+
+170/100/270 I 351/455/462 
+COSTS 
+DAILY MUD 
+
+CUMULATIVE MUD 
+
+DAILY WELL 
+
+CUMULATIVE WELL 
+
+I OIM 
+
+US $166,716 
+
+US $1,581,889 
+
+Ronny Rickard 
+
+
+, 
+
+" 
+
+i i
+
+5' .. "'lj -~ 
+
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+ISARRAMUNDI-1 IWELL: DATE: I 24.9.99 I 
+PERMIT: IT/27P I REPORT # I 5 I 
+RIG: ISEDC0702 I D.F.S. I 1 I 
+DEPTH 2400 Hrs: I 401 I STATUS@24ooHrs: DRILLING 171/2" HOLE @ 401m. 
+TVD: I 401 I FORMATION: 
+24 HR PROGRESS: I 299 I LAST CASING: I 30" I @ I 147m I SHOE LO.T.:I I 
+HOLE SIZE: I 171/2 I WD(MSLl:l 76.6 I RT· SEABEDiMSL:1 102.5 I MAASP:I I 
+SURVEYS: 1· @143m, 1· @488m. 
+MUD PROPERTIES ADDITIVES SOLIDS CONTROL FORMATION DATA 
+DENSITY(SG) 1.06 gel 250 sx Ipm uf hrs DEPTH 
+VISCOSITY(Secs) 100+ caustic 2 DESILTER TRIP GAS (%) 
+pH soda ash 2 DESANDER CONN. GAS (%) 
+PVIYP(cP/lbl100ft2) 1/0 lime16 MUD CLEANER B'GRD GAS (%) 
+GELS 10/10 CaCll0 CENTRIFUGE PORE PRESS (SG) 
+WL API(ccl30min) 1 2 3 ECD(SG) 
+WL HTHP(ccl30min) SHAKERS LITHOLOGY 
+CAKE(mm) SCREENS DRILLS I BOPS 
+SOLIDS % PUMPS 1 2 3 LAST BOP DRILL 
+SAND % TYPE Oilwell A-17oo Oilwell A-1700 Oilwell A-1700 LAST FIRE DRILL 22-Sep 
+CHLORI DES(mgll) STROKE(in) 12' 12' 12' LAST MOB DRILL 12-Sep 
+KCL% L1NER(in) 6' 6' 6' LAST ABN. RIG DRILL 22-Sep 
+MBT(lb/bbl) SPM 100 100 100 LAST BOP TEST 
+TEMP'C LPM 4800 BOP TEST DUE 
+HOLE VOL(m3lbbl) AV-DP(mlmin) 12.1 HRS CUM 
+SURF VOL(m3lbbl) AV-DC(mlmin) 39 1. MOVE RIG 66.5 
+LOSSES(m3lbbl/hr) SPP(kPalpsi) 1400 2. RUN ANCHORS 3.25 15.75 
+MUDCo SCR@40 3. DRILLING 4 4 
+MUD TYPE SCR@50 4. TRIP 1.5 1.5 
+BIT DATA WEATHER I RIG RESPONSE 5. WIPER TRIP 
+BIT No. 1 2 WIND SPEED(kts) 10 6. SURVEY 0.5 0.5 
+SIZE(mrnJ1n) 26' 17.5 DIRECTION(') 250 7. CIRC.lCOND 0.5 0.5 
+TYPE DSJC MSDSSHQC TEMPERATURE('C) 10-Dec 8. HANDLE BHA 5.25 5.25 
+IADCCODE 1.1.1 1.1.5 BAR. PRESSURE(kPa) 1017 9. CASE/CEMENT 6.75 6.75 
+SERIAL No. 66330 02-03-000003 BAR. RISE I FALL(kPa) rising 10. WELLHEAD 
+NOZZLES(32in) 3x24 3x24 VISIBILlTY(NM) 12 11. BOPS 
+DEPTH IN (m) 1025 147 WEATHER STATE FINE 12. LOT 
+DEPTH OUT (m) 147 SWELL I PER I DIR(mlsecl') 27010.5101 13. CORING 
+DRILLED (m cumldly) 45 254 ~AVESI PER / DIR(mlsecl') 2501.311 14. LOGGING 
+HOURS (cumldly) 0.5 3 HEAVE(m) ~A15. REAMIWASH 0.5 0.5 
+GRADE 1-1-1 PITCH(') 0.2/4 sec 16. FISH/STUCK 
+AVGE ROP (mlhr) 90.0 84.6 ROLL(') 0.2/4 sec 17. LOSS CIRC 
+WOB(mt) 0-5 0-5 ANCHOR TENSION-MIN(MT) 260 18. KICK CONTROL 
+RPM 70 100 ANCHOR TENSION-MAX(MT) 340 19. SIDETRACK 
+JET VEL (mlsec) 82 RISER TENSION(MT) 20. OTHER 1.25 1.25 
+HHP@BIT 406 VARIABLE DECK LOAD(MT) 2202 21. REP. SURF 
+BHA No. 2 BHAWEIGHT 52,000 STRINGWT 190000 22. WELL TEST 
+BHA Profile: Bit ,Float sub, 2 X91/2' D.C.,171/2' Stabilizer, 1X9 112' D.C., X/O., 7 X8 1/4' D.C. 23. WO WEATHER 
+Jar, 1X81/4' D.C., X/O., 15 XHWDP. 24. WAIT OTHER 
+DOWNHOLE TOOLS SERIAL No. ROTIREAM HRS DRILLING DATA 25. ABDN.lSUSPEND 
+DRILLING JAR 1588-1148 3.5 DRAG UP 
+(mt) 2.5 26. RIG SERVICE 0.5 0.5 
+DRILLING JAR DRAG DOWN 
+(mt) 2.5 27. SLIP/CUT LINE 
+SHOCK SUB TORQUE-Gn Bottom (kf1I1bs) 3-10 28. PULL ANCHORS 
+PDM TORQUE-Off Bottom (kf1I1bs) 2 29. 
+TOTAL (HRS) 24 103 
+
+GLOBEX FAR EAST 
+
+DAILY DRILLING REPORT 
+
+WELL:IBARRAMUNDI-l I DATE: 
+PERMIT:IT/27P I REPORT # 
+RIG:lsEDCO 702 I D.F.S. 
+
+
+FROM TO HOURS 
+0:00 
+
+
+0:45 
+
+0.75 
+
+Drill 17 1/2" hole from 401m to 458m. 
+0:45 
+
+
+1:00 
+
+0.25 
+
+Sweep hole clean with 50 bbls of Hi-Vis. 
+1:00 
+
+
+1:30 
+
+0.5 
+
+Drop totco survey and recover on wireline--missrun. 
+1:30 
+
+
+2:00 
+
+0.5 
+
+Drill 17 1/2' hole from 458m to 485m. 
+2:00 
+
+
+2:15 
+
+0.25 
+
+Circulate hole and spot 30 bbl hi-vis on bottom. 
+2:15 
+
+
+2:45 
+
+0.50 
+
+Drop totco survey and recover on wireline--1 deg. 
+2:45 
+
+
+11:00 
+
+8.25 
+
+Drill 17 1/2' hole from 485m to 748m. 
+11:00 
+
+
+11:30 
+
+0.50 
+
+Circulate hole and spot 30 bbl hi-vis on bottom. 
+11:30 
+
+
+12:00 
+
+0.50 
+
+Drop totco survey and recover on wireline--2 1/2 deg. 
+12:00 
+
+
+18:00 
+
+6.00 
+
+Drill 17 1/2' hole from 748m to 875m. Pump 25 bbl sweeps mid stand and spot 25bbl on connections. 
+18:00 
+
+18:30 
+
+0.50 
+
+Pump 100 bbl hi-vis and sweep out hole. 
+18:30 
+
+
+18:45 
+
+0.25 
+
+Drop totco survey. 
+18:45 
+
+
+20:15 
+
+1.50 
+
+POOH. Wash and ream through tight spots at 792m, 804m, 820m,& 832m. 
+20:15 
+
+
+20:30 
+
+0.25 
+
+Recover survey---missrun. 
+20:30 
+
+
+21:30 
+
+1.00 
+
+RIH--taking weight at 820m.(15klbs). 
+21:30 
+
+
+22:30 
+
+1.00 
+
+Wash and ream from 820m, tag TD @ 875--no fill on bottom. 
+22:30 
+
+
+23:00 
+
+0.50 
+
+Pump 50 bbl hi-vis and sweep out hole. 
+23:00 
+
+
+23:45 
+
+0.75 
+
+Disolace hole to cel mud--oumo 150% hole volume. 
+
+23:45 
+
+0:00 
+
+0.25 
+
+Drop totco survey. 
+
+Held pre tour and weekly safety meetings. 
+
+24.00 
+OPERATIONS TO 0600 HRS: POOH to wellhead. Flush around wellhead, observe with ROV. POOH,Recover surveyl/4·. 
+Rig to and run casing. 
+
+PROGRAMME NEXT 24 HRS: Finish running casing, cement, nipple up BOP. 
+
+POT WATER(mt) IDIESEL FUEL(lt~ 
+RIG/Boat/Boat 250 
+
+DRILLWATER(mt
+
+BARITE(sx) 
+
+CEMENT(sx)
+
+BULK GEL(sx) 
+
+170/85/255 I 321/450/455
+
+886/40/400
+
+3148
+
+3533 
+
+COSTS 
+OPERATOR 
+
+
+TRANSPORTATION
+
+PERSONNEL ON RIG 
+
+DAILY MUD 
+DRILLING CONT. 
+
+LOCATION
+
+4 
+
+NAME 
+
+CUMULATIVE MUD 
+SERVICE COMPS 
+
+rig
+
+Shogun
+
+WORKBOAT
+
+33 
+
+DAILY WELL 
+OTHER 
+
+rig
+
+12 
+
+WORKBOAT 
+
+Challenger 
+
+CUMULATIVE WELL 
+CATERING 
+
+STANDBY BOAT 
+
+15 
+
+1 trips 
+TOTAL 
+
+
+HELICOPTER
+
+9 
+
+HELICOPTER 
+SUPERVISOR(S) Wally Westman 
+
+
+73 
+
+I OIM
+
+Len Kronstal 
+
+25.9.99 
+6 
+2 
+HEll FUEL(lt) 
+25225.2 
+32195.98 
+Ronny Rickard 
+
+
+WELL:!BARRAMUNDI-1 
+PERMIT: ITl27P 
+RIG:lsEDCO 702 
+
+
+FROM TO HOURS 
+0:00 
+
+2:00 
+
+2.00 
+2:00 
+
+2:30 
+
+0.50 
+2:30 
+
+3:30 
+
+1 
+3:30 
+
+4:15 
+
+0.75 
+4:15 
+
+4:30 
+
+0.25 
+4:30 
+
+10:30 
+
+6.00 
+10:30 
+
+12:00 
+
+1.50 
+12:00 
+
+13:00 
+
+1.00 
+13:00 
+
+13:30 
+
+0.50 
+13:30 
+
+16:00 
+
+2.50 
+
+16:30
+
+16:00 
+
+0.50 
+
+16:30 
+
+17:45 
+
+1.25 
+17:45 
+
+18:15 
+
+0.50 
+18:15 
+
+19:00 
+
+0.75 
+19:00 
+
+20:00 
+
+1.00 
+20:00 
+
+21:15 
+
+1.25 
+21:15 
+
+0:00 
+
+2.75 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+RIG/BoaVBoat 
+PERSONNEL ON RIG 
+
+OPERATOR 
+
+DRILLING CONT. 
+
+SERVICE COMPS 
+
+OTHER 
+
+CATERING 
+
+TOTAL 
+
+GEL(sx) 
+220 
+
+4 
+
+33 
+
+15 
+
+15 
+
+9 
+
+76 
+
+(~ 
+
+
+UI :_)
+
+574C ~ 
+
+
+GLOBEX FAR EAST 
+
+DAILY DRILLING REPORT 
+
+I 26.9.99
+
+DATE: 
+
+I REPORT # 
+
+7 
+
+I D.F.S. 
+
+3 
+
+POOH from 875m to 105m, strap pipe on the way out. 
+
+Jet well-head & PGB, obselVe with ROV. 
+
+Continue POOH, recover totco on the way out---1/4 deg. 
+
+Rig up to run 133/8 casing. 
+
+Hold JHA & R/ASS 
+
+Pick up shoe jt, check same & RIH with casing. ROV assist through wellhead, fill every 5 joints--to 757m. 
+P/up hanger assy, mlup plug launcher & plugs, mlup to 18 314" wellhead. 
+Run 13 318 casing on 5' DP from derrick. (drift all to 2 314") land w/head w/30klbs, confirm latch w/50k o/pull 
+Rig up surface lines, circ. 100 bbl sea water. Confirm good returns w/ROV. Hold JSA. Press. Test line to 3klbs. 
+
+
+Pump 38 bbl drillwater, drop ball & pump 2 bbls, shear bottom plug with 1500 psi. Mix and pump 1067 sx 
+
+
+class G cmt. @ 12.8 ppg (1.54 sg) followed by 410 sx class G tail slurry@ 15.9ppg (1.9sg) Drop dart 
+
+
+and pump 12 bbl sea water--no indication of shear out. 
+Displace with rig pumps.No indication of plug bumping on stks. Pump additional 60 stks.( 1/2 shoe track) 
+No indication of bumping plug. 
+
+
+Break out cement hose, (no back flow) release Rltool, POOH & layout RlTool. 
+P/up cmt-head assy, break out & layout same. 
+Rig up to run BOPs. Hold JSA. 
+
+
+Make UP double of riser and rack back in derrick. 
+Hold JSA and move BOP across to beams & lower with std of DP as backup. Move LMPR across. 
+Function test BOPs on both blue and yellow pods from drill floor. Function mini panel from Sedco office. 
+
+
+Held pre tour safety meetings. 
+
+
+Run BOP on riser, nipple up choke and kill lines. 
+
+Land BOP, Pressure test BOP, drill out cement and shoe, LOT. 
+
+Len Kronstal 
+
+SUPERVISOR(S) Wally Westman 
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+3303 1535 809/40/50 
+TRANSPORTATION 
+
+NAME LOCATION 
+WORKBOAT Shogun rig 
+WORKBOAT Challenaer rig 
+STANDBY BOAT 
+HELICOPTER 1 trip 
+HELICOPTER 
+
+POT WATER(mt) IDIESEL FUEL(lt~ 
+HEll FUEL(lt) 
+
+194/80/45 I 437/446/317 
+
+COSTS 
+DAILY MUD 
+CUMULATIVE MUD 
+
+DAILY WELL 
+CUMULATIVE WELL 
+
+I aiM 
+
+773.1 
+34197.58 
+
+Ronny Rickard 
+
+
+WELL: IBARRAMUNDI-1 
+
+I 
+PERMIT: IT/27P 
+
+I 
+
+RIG:!SEDCO 702 
+
+I 
+
+FROM TO HOURS 
+0:00 
+
+1:15 
+
+1.25 
+1:15 
+
+1:45 
+
+0.50 
+1:45 
+
+2:45 
+
+1 
+2:45 
+
+3:15 
+
+0.5 
+3:15 
+
+6:15 
+
+3.00 
+6:15 
+
+6:45 
+
+0.50 
+6:45 
+
+7:15 
+
+0.50 
+7:15 
+
+7:45 
+
+0.50 
+7:45 
+
+8:15 
+
+0.50 
+8:15 
+
+9:45 
+
+1.50 
+9:45 
+
+10:15 
+
+0.50 
+10:15 
+
+11:00 
+
+0.75 
+11:00 
+
+17:00 
+
+6.00 
+
+17:00 
+
+17:45 
+
+0.75 
+17:45 
+
+18:15 
+
+0.50 
+18:15 
+
+18:45 
+
+0.50 
+18:45 
+
+19:15 
+
+0.50 
+19:15 
+
+20:30 
+
+1.25 
+20:30 
+
+21:15 
+
+0.75 
+21:15 
+
+0:00 
+
+2.75 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK GEL(sx) 
+RiglPC/PS 220 
+PERSONNEL ON RIG 
+
+OPERATOR 
+
+DRILLING CONT. 
+
+SERVICE COMPS 
+
+OTHER 
+
+CATERING 
+
+TOTAL 
+
+SUPERVISOR(S) 
+
+WORKBOAT 
+
+WORKBOAT 
+
+STANDBY BOAT 
+
+HELICOPTER 
+
+HELICOPTER 
+
+Wally Westman 
+
+4 
+33 
+13 
+15 
+9 
+74 
+
+GLOBEX FAR EAST 
+
+DAILY DRILLING REPORT 
+
+DATE: 27.9.99 
+REPORT # 8 
+D.F.S. 4 
+
+Hold JSA with crew, Mlup double of riser to LMRP & install guide lines. 
+
+Pressl test choke and kill lines 250 I 5000 psi. 
+
+Run BOPs, (rig at 80' draft.) 
+
+Pressl test choke and kill lines 250 I 5000 psi. 
+
+Pick up slip Jnt & landing Jt, install Ruckers & choke and kill lines to slip joint. 
+
+Pressl test choke and kill lines 250 I 5000 psi. 
+
+Install storm loops on control lines. 
+
+Land out BOPs & latch connector to wellhead, test with 50k overpull. 
+
+Bring rig to 85" draft I pressure test shear ram against csg to 1000 psi. 
+
+Open inner barrel and install diverter. 
+
+Layout 500 ton equipment & spider, pick up 350 ton equipment. 
+
+MlU test plug and RIH. 
+
+Pressure test BOPs--Annulars to 250 13500, Rams 250 I 5000 psi on yellow pod. Function test BOPs on 
+
+Blue pod from mini panel in Sedco office. 
+Perform depletion test on BOPs. ( Accumulator test ). 
+POOH, Uout test tool. 
+Service TDS and RBS. 
+
+
+Pressure test csa to 2000 psi. Aaainst shear rams ( 15 min). pick UP & make UP Hana Off tool and rack in derrick. 
+Hold JSA & layout 17 1/2" drilling assy. From derrick. 
+P/up flex joint wear bushing & RIH, set, POOH, layout tool. 
+Hold JSA make UP 12 1/4" BHA and RIH. (455ml. 
+
+
+Held pre tour safety meetings. 
+
+
+Continue RIH. Tag plug at 728m, push plug to top of cement at 843.5m Hard cement @ 863m. 
+Drill plugs, float collar, shoe track, shoe and 3m formation with sea water, eire. Hole clean, displace to mud. 
+
+
+LOT. 
+Drill 12 1/4" hole. 
+
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+2959 1535 910/40/50 
+TRANSPORTATION 
+
+NAME 
+Shogun 
+Challenaer 
+LOCATION 
+To Geelong 
+rig 
+1 trip 
+Len Kronstal 
+
+POT WATER(mt) !DIESEL FUEL(ltj 
+
+188n5l45 I 427/439/317 
+
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+HEll FUEL(lt) 
+
+$52,999.32 
+$86,424.00 
+
+Ronny Rickard 
+
+
+WELL: /BARRAMUNDI-l 
+PERMIT:lT/27P 
+RIG:lsEDCO 702 
+
+
+FROM TO HOURS 
+0:00 
+
+0:30 
+
+0.50 
+0:30 
+
+1:30 
+
+1.00 
+1:30 
+
+4:00 
+
+2.5 
+4:00 
+
+4:15 
+
+0.25 
+4:15 
+
+5:30 
+
+1.25 
+5:30 
+
+6:15 
+
+0.75 
+6:15 
+
+11:15 
+
+5.00 
+11:15 
+
+12:00 
+
+0.75 
+12:00 
+
+17:15 
+
+5.25 
+17:15 
+
+17:45 
+
+0.50 
+17:45 
+
+18:15 
+
+0.50 
+18:15 
+
+0:00 
+
+5.75 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+
+Rig/PC/PS 
+PERSONNEL ON RIG 
+OPERATOR 
+DRILLING CONT. 
+SERVICE COMPS 
+OTHER 
+
+CATERING 
+TOTAL 
+
+
+GEL(sx) 
+220 
+
+4 
+
+33 
+
+15 
+
+15 
+
+9 
+
+76 
+
+SUPERVISOR(S) Wally Westman 
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+
+I DATE: 28.9.99 
+I REPORT # 9 
+I D.F.S. 
+
+5 
+
+Continue RIH from 455m to 728m. 
+Wash down f/728m to 843.5m. Tag plug intermittently, pushing it down to the top of the float collar. 
+
+
+Drill out plugs, float, shoe, cement from 843.5m to 875m. 
+
+Drill 12 1/4" hole from 875m to 878m. 
+
+Displace hole to mud & circ. Until mud weight even.( 9ppg) 
+
+Pull back to shoe, space out & close MPR, hang off, LOT.---EMW= = 14.38ppg (1.7 S9) 
+
+Drill 12 1/4" hole from 878 to 1002m. Ream each stand before connections. 
+
+Pull off bottom & condition mud due to losses over shakers. 
+
+Drill 12 1/4" hole from 1002m to 1181m. 
+
+Circulate bottoms up. 
+
+Drop totco survey, rack 1 stand, recover survey on slickline. 1 1/4 deg. 
+
+Drill 12 1/4" hole from 1181m. To 1300m. 
+
+Held pre tour safety meetings. 
+
+Drill to 1333, circulate sample for geologist, continue to drill to 1405m. 
+
+Continue to drill, core if there are any zone of interest. 
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+2869 1535 7nl40/50 
+TRANSPORTATION 
+NAME LOCATION 
+WORKBOAT Shogun From Geelong 
+WORKBOAT Challenaer rig 
+STANDBY BOAT 
+HELICOPTER 
+HELICOPTER 
+1 trip 
+Len Kronstal 
+
+POT WATER(mt) IDIESEL FUEL(ltj 
+
+182170145 I 4141434/317 
+
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+HEll FUEL(lt) 
+
+$11,423.40 
+$97,847.40 
+A$320,690 
+$4,450,739 
+US$2,892980 
+
+Ronny Rickard 
+
+
+'."-.
+
+
+:,) { L~ 
+
+
+wELL:lBARRAMUNDI-1 
+
+PERMIT: IT/27P 
+
+RIG:ISEDCO 702 
+
+FROM TO 
+
+0:00 
+1:30 
+2:00 
+8:00 
+8:30 
+14:00 
+14:30 
+15:00 
+16:15 
+16:45 
+18:15 
+18:45 
+
+1:30 
+2:00 
+8:00 
+8:30 
+14:00 
+14:30 
+15:00 
+16:15 
+16:45 
+18:15 
+18:45 
+0:00 
+
+HOURS 
+1.50 
+0.50 
+6 
+0.5 
+5.50 
+0.50 
+0.50 
+1.25 
+0.50 
+1.50 
+0.50 
+5.25 
+
+
+24.00 
+
+
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+
+Rig/PC/PS 
+PERSONNEL ON RIG 
+OPERATOR 
+DRILLING CONT. 
+SERVICE COMPS 
+OTHER 
+
+CATERING 
+TOTAL 
+
+
+GEL(sx) 
+220 
+
+4 
+33 
+19 
+15 
+9 
+80 
+
+SUPERVISOR(S) Wally Westman 
+
+I 
+I 
+I 
+GLOBEX FAR EAST 
+DAILvDRILLING REPORT 
+DATE: 
+REPORT # 
+D.F.S. 
+I 
+I 
+Drill 12 1/4" hole from 1300m to 1333m. 
+Circulate up sample for geologist. 
+Drill 12 1/4" hole from 1333m to 1433m. (backream and wipe each stand drilled.) 
+Circulate up sample for geologist. 
+Drill 12 1/4" hole from 1433m to 1527m. At a controlled rate of 30 metres 1hr. max. 
+Circulate bottoms up to clean hole. 
+Drop Totco survey, rack back 1 std. DP. & recover survey.---1/2 deg. 
+
+Drill 12 1/4" hole from 1527m to 1536m. 
+Circulate up sample for geologist. 
+Drill 12 1/4" hole from 1536m to 1564m. 
+Circulate up sample for geologist. 
+Drill 12 1/4' hole from 1564m to 1640m. 
+
+
+Held pre tour safety meetings. 
+
+Continue to drill from 1640m. To 1672. 
+
+Drill to TD, wiper trip, log. 
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt POT WATER(mt) IDIESEL FUEL(lt~ 
+2869 1535 665/40/50 188/65/45 I 393/431/317 
+TRANSPORTATION COSTS 
+NAME LOCATION DAILY MUD 
+WORKBOAT Shogun From Geelong CUMULATIVE MUD 
+WORKBOAT Challenaer rig DAILY WELL 
+STANDBY BOAT CUMULATIVE WELL 
+HELICOPTER 2 trips 
+HELICOPTER 
+Len Kronstal I OIM 
+
+29.9.99 
+
+10 
+
+6 
+
+HEll FUEL(lt) 
+
+$24,979.49 
+$122,826.89 
+A$363479 
+
+$4,814,219 
+US$3,129,242 
+
+Ronny Rickard 
+
+
+WELL: IBARRAMUNDI-1 
+PERMIT:IT/27P 
+RIG:lsEDCO 702 
+
+
+FROM TO HOURS 
+0:00 
+
+7:45 
+
+7.75 
+7:45 
+
+8:00 
+
+0.25 
+8:00 
+
+10:00 
+
+2 
+10:00 
+
+12:30 
+
+2.5 
+12:30 
+
+13:00 
+
+0.5 
+13:00 
+
+14:00 
+
+1.00 
+14:00 
+
+72---miss r 
+
+0.50 
+172---miss r 
+
+16:30 
+
+2.00 
+16:30 
+
+22:00 
+
+5.50 
+22:00 
+
+22:15 
+
+0.25 
+22:15 
+
+0:00 
+
+1.75 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+
+RiglPCI PS 
+PERSONNEL ON RIG 
+OPERATOR 
+DRILLING CONT. 
+SERVICE COMPS 
+OTHER 
+
+CATERING 
+TOTAL 
+
+
+GEL(sx) 
+220 
+
+4 
+
+35 
+
+18 
+
+14 
+
+66.75 
+
+137.75 
+
+SUPERVISOR(S) Wally Westman 
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+
+
+30-Sep-99
+
+DATE:
+
+I 
+
+REPORT # 
+
+11
+
+I 
+
+I D.F.S. 
+
+7 
+
+Drill 12 1/4" hole from 1640m to 1672m. Back ream each stand, and wipe down each stand drilled. 
+
+Drop survey bbl, and flow check. 
+
+POOH from 1672m to 13 3/8 casing shoe at 869m. 
+
+Back ream from 1298m to 869m--filter cake and coal. 
+
+Circulate shakers clean. (meanwhile service top drive). 
+
+Flow check, pump slug & POOH to 371m. 
+
+Flow check prior to pulling BHA through BOPs. Recover survey---miss run. 
+
+Continue POOH. Rack back BHA, break bit. 
+
+Make up new bit, run BHA from derrick (+ pick up 5 DC, pony, 2 stabs.), RIH to 1390m. 
+
+Ream tight spot at 1390m. 
+
+Continue to RIH. To 1540m. 2.04 10 
+
+Held pre tour safety meetings. 
+
+Continue to RIH, (wash and ream last 3 stands), Drill 12 1/4" hole from 1672m. To 1725m. 
+
+Drilling at 10 -40m I hr. 
+Drill to TO, wiper trip, log. 
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+2869 1535 880/60/240 
+TRANSPORTATION 
+
+WORKBOAT 
+
+WORKBOAT 
+
+STANDBY BOAT 
+
+HELICOPTER 
+
+HELICOPTER 
+
+NAME 
+Shogun 
+Challenaer 
+LOCATION 
+From Geelong 
+rig 
+2 trips 
+Len Kronstal 
+2 
+3 
+
+POT WATER(mt) IDIESEL FUEL(ltj 
+
+188/60/240 I 378/431/292 
+
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+HEll FUEL(lt) 
+
+$8,445.41 
+
+$131,272.30 
+A$350959 
+A$5,236,278 
+US$3,403,500 
+
+Ronny Rickard 
+
+
+WELL:IBARRAMUNDI-1 
+PERMIT: IT/27P 
+RIG:lsEDCO 702 
+
+
+FROM TO HOURS 
+0:00 
+
+1:45 
+
+1.75 
+1:45 
+
+2:15 
+
+0.50 
+2:15 
+
+0:00 
+
+21.75 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+
+Rig/PCI PS 
+PERSONNEL ON RIG 
+OPERATOR 
+DRILLING CaNT. 
+SERVICE CaMPS 
+OTHER 
+
+CATERING 
+TOTAL 
+
+
+GEL(sx) 
+220 
+
+4 
+
+35 
+
+18 
+
+15 
+
+8 
+
+80 
+
+SUPERVISOR(S) Wally Westman 
+
+GLOBEX FAR EAST 
+
+DAILY DRILLING REPORT 
+
+1-OCt-99
+
+I DATE: 
+
+I REPORT # 
+
+12 
+
+I D.F.S. 
+
+8 
+
+Precautionary wash and ream to bottom from 1540m to 1672m. Work tight spot at 1640m, no fill on bottom 
+
+Feather new PDC bit in with light parameters. 
+Drill 12 1/4" hole from 1672m to 2052m. 
+
+Held pit drill. 
+
+Held pre tour safety meetings. 
+
+Continue to drill 12 1/4" hole from 2052m. To 2100m. Circulate up sample. 
+
+Wiper trip to 1650m. Circulate. 
+Circulate hole clean, drop survey, POOH, log. 
+
+
+BARITE(sx) 
+2869 
+
+WORKBOAT 
+WORKBOAT 
+STANDBY BOAT 
+
+HELICOPTER 
+
+HELICOPTER 
+
+CEMENT(sx) DRILLWATER(mt 
+1535 
+
+650/4010 
+
+TRANSPORTATION 
+
+NAME 
+Shogun 
+ChallenQer 
+LOCATION 
+To Geelong 
+rig 
+otrips 
+Len Kronstal 
+
+POT WATER(mt) IDIESEL FUEL(lt~ 
+176 1150 1140 1367 I 430 I 284 
+
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+HEll FUEL(lt) 
+
+$31,228.27 
+$162,500.57 
+A$334425 
+A$5,582,032 
+US$3,628,321 
+
+J.J. Dibon 
+
+WELL: IBARRAMUNDI-1 
+PERMIT:IT/27P 
+RIG:lsEDCO 702 
+
+
+FROM TO HOURS 
+0:00 
+
+2:15 
+
+2.25 
+2:15 
+
+3:30 
+
+1.25 
+3:30 
+
+3:45 
+
+0.25 
+3:45 
+
+4:45 
+
+1 
+4:45 
+
+5:30 
+
+0.75 
+5:30 
+
+6:15 
+
+0.75 
+6:15 
+
+6:30 
+
+0.25 
+6:30 
+
+8:30 
+
+2.00 
+8:30 
+
+8:45 
+
+0.25 
+8:45 
+
+10:00 
+
+1.25 
+10:00 
+
+10:30 
+
+0.50 
+10:30 
+
+11:00 
+
+0.50 
+11:00 
+
+13:15 
+
+2.25 
+13:15 
+
+13:30 
+
+0.25 
+13:30 
+
+14:15 
+
+0.75 
+14:15 
+
+18:30 
+
+4.25 
+18:30 
+
+0:00 
+
+5.50 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK 
+
+Rigl PCI PS 
+PERSONNEL ON RIG 
+OPERATOR 
+DRILLING CONT. 
+SERVICE COMPS 
+OTHER 
+
+CATERING 
+TOTAL 
+
+
+GEL(sx) 
+220 
+
+4 
+
+35 
+
+18 
+
+15 
+
+8 
+
+80 
+
+SUPERVISOR(S) Wally Westman 
+
+GLOBEX FAR EAST 
+
+DAILY DRILLING REPORT 
+
+I DATE: 
+I REPORT # 
+I D.F.S. 
+
+
+Drill 12 1/4" hole from 2052m to 2100m. backream each stand drilled. 
+
+Circulate until shakers clean. Max. gas on bottoms up --6.7%. 
+
+Flow check.--Hold JSA on tripping pipe. 
+
+POOH from 21 OOm to 1670m. No drag observed. 
+
+RI H from 1670m to bottom. No fill, hole in good condition. 
+
+Circulate until shakers clean. Held pit drill. 
+
+Drop totco survey. 
+
+Pump slug and POOH to 1341 m. String took 30k overpuli. 
+
+Back ream through tight spot at 1341 m. 
+
+POOH from 1341 m to casing shoe @ 864m.. Hold kick drill. 
+
+Flow check. Retreive totco survey on wireline---1 deg. 
+
+POOH from 869m to 424m.--flow check prior to pulling BHA into BOP stack. 
+
+POOH, rack back 12 1/4" BHA. 
+
+Clear floor of unwanted drilling equipment. 
+
+Hold JHA & Rig up to run Schlumberger. 
+
+Schlumbger Logging run # 1---PEX-DSI-HALS-HNGS. POOH layout logging tools. 
+
+Schlumbger Logging run # 2. FMS--GAMMA RAY. 
+
+Held pre tour safety meetings. 
+
+Complete logging,Log #3--CSAT (check shots, 11 levels) rig down loggers, service TDS., 
+start to lay down BHA from derrick. 
+
+Finish laying down excess BHA. RIH with OEDP, set cmt plugs, lay down drillpipe. 
+
+CEMENT(sx) 
+
+DRILLWATER(mt
+
+BARITE(sx) 
+
+1535 
+
+598/40/0
+
+2829 
+
+TRANSPORTATION 
+
+WORKBOAT 
+
+WORKBOAT 
+
+STANDBY BOAT 
+
+HELICOPTER 
+
+HELICOPTER 
+
+NAME 
+
+LOCATION 
+
+To Geelong 
+
+Shogun 
+
+rig
+
+Challenoer 
+
+(touch and go exercise) 
+
+Len Kronstal 
+
+POT WATER(mt) IDIESEL FUEL(lt~ 
+182 I 145 I 284 1351 1428 I 284 
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+2-Oct-99 
+13 
+9 
+
+
+HEll FUEL(lt) 
+
+$809.20 
+$163,309.77 
+
+J.J. Dibon 
+
+WELL: IBARRAMUNDI-l 
+PERMIT: IT/27P 
+RIG:lsEDCO 702 
+
+FROM TO HOURS 
+0:00 
+
+0:30 
+
+0.50 
+0:30 
+
+5:00 
+
+4.50 
+5:00 
+
+5:30 
+
+0.5 
+5:30 
+
+6:00 
+
+0.5 
+6:00 
+
+7:30 
+
+1.50 
+7:30 
+
+8:15 
+
+0.75 
+8:15 
+
+11:15 
+
+3.00 
+11:15 
+
+14:00 
+
+2.75 
+14:00 
+
+14:15 
+
+0.25 
+14:15 
+
+14:30 
+
+0.25 
+14:30 
+
+15:30 
+
+1.00 
+15:30 
+
+15:45 
+
+0.25 
+15:45 
+
+16:30 
+
+0.75 
+16:30 
+
+17:15 
+
+0.75 
+17:15 
+
+18:15 
+
+1.00 
+18:15 
+
+18:30 
+
+0.25 
+18:30 
+
+19:30 
+
+1.00 
+19:30 
+
+20:00 
+
+0.50 
+20:00 
+
+20:45 
+
+0.75 
+20:45 
+
+21:15 
+
+0.50 
+21:15 
+
+21:45 
+
+0.50 
+21:45 
+
+22:00 
+
+0.25 
+22:00 
+
+22:45 
+
+0.75 
+22:45 
+
+0:00 
+
+1.25 
+
+24.00 
+OPERATIONS TO 0600 HRS: 
+
+PROGRAMME NEXT 24 HRS: 
+
+BULK GEL(sx) 
+Rig/PCI PS 
+
+220 
+PERSONNEL ON RIG 
+OPERATOR 
+
+4 
+DRILLING CONT. 
+
+35 
+SERVICE COMPS 
+
+13 
+OTHER 
+
+15 
+CATERING 
+
+
+8 
+TOTAL 
+
+75 
+
+I 
+I 
+I 
+
+SUPERVISOR(S) Wally Westman 
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+DATE: 
+REPORT # 
+D.F.S. 
+3-Oct-99 
+14 
+10 
+Layout Log # 2-FMS-GAMMA RAY. 
+MlU Log # 3-VSP Toolstring. CSAT I GR 
+Rig down Schlumberger. 
+Service TDS, Blocks, RBS, and Crown. 
+Hold JSA, Slip and cut 115' Drilling Line. 
+Hold JSA, Layout 121/4" Stab, 8" monel, &1 x 81/4" DC. From derrick. 
+Hold JSA, M/U diverter & RIH on 5' DP to 1900m. 
+
+Rig up cementing hose, circulate and condition mud. Hold JSA for cement plugs. 
+
+Pressure test cement line--3000 psi. 
+
+RIH to 1942m. 
+
+Continue circulating, spot Hi-Vis pill from 1942m to 1900m. 
+
+POOH to 1900m. Rig up cmt. Std. And hose. 
+
+Pump CMT PLUG # 1 from 1900m to 1850m. 
+
+POOH to 1617m. 
+
+Circulate bottoms up, spot Hi-Vis pill from 1617m to 1575m. 
+
+POOH from 1617m to 1575m. 
+
+Pump CMT PLUG # 2 from 1575m to 1525m. 
+
+POOH from 1575m to 1396m. 
+
+Circulate bottoms up, no cement observed. 
+
+Function test BOP and annulars. 
+
+Circulate riser bottoms uo, soot Hi-Vis oill from 1396m to 1354m. 
+
+POOH to 1354m. 
+
+Hold JSA, pump CMT PLUG # 3, from 1354m to 1294m. 
+
+POOH from 1354m to 947m. 
+
+Held pre tour safely meetings. 
+
+Spot Hi-vis and set cement plug # 4 from 905m to 845m., Pull out of plug to 745m, eire, function test BOP & 
+
+eire. Clean. Layout drillpipe while waiting for cement to harden. 
+RIH, tag plug # 4, Cement plug # 5, finish laying out extra tubulars from derrick. 
+
+
+BARITE(sx) CEMENT(sx) DRILLWATER(mt 
+2799 1155 535 I 40 I 300 
+TRANSPORTATION 
+
+NAME LOCATION 
+WORKBOAT Shogun rig 
+WORKBOAT Challenaer rig 
+STANDBY BOAT 
+HELICOPTER 1 trip 
+HELICOPTER 
+Len Kronstal 
+
+POT WATER(mt) IDIESEL FUEL(lt~ 
+188 1140 I 310 1339 I 426 I 466 
+COSTS 
+
+DAILY MUD 
+CUMULATIVE MUD 
+DAILY WELL 
+CUMULATIVE WELL 
+
+I OIM 
+
+HEll FUEL(lt) 
+
+$3,920.48 
+$167,230.25 
+
+J.J. Dibon 
+
+!,,~,.( 
+
+
+i~ 
+e " 
+
+i_
+
+~ 
+,L.l L G 
+
+WELL: ISARRAMUNDI-1 
+PERMIT: ITl27P 
+RIG: SEDC0702 
+DEPTH 2400 Hrs: I 
+TVD: I 
+24 HR PROGRESS: I 
+HOLE SIZE: , 
+SURVEYS: 
+
+MUD PROPERTIES 
+DENSITY(SG) 
+VISCOSITY(Secs) 
+pH 
+PVIYP(cpAb/l OOft2) 
+GELS 10110 
+WL API(cd30min) 
+WL HTHP(cd30min) 
+CAKE(mm) 
+SOLIDS % 
+SAND % 
+CHLORIDES(mgll) 
+KCL% 
+MBT(lbibbl) 
+TEMP'C 
+HOLE VOL(m3lbbl) 
+SURF VOL(m3/bbl) 
+LOSSES(m3lbbllhr) 
+MUDCo 
+MUD TYPE 
+
+BIT DATA 
+BIT No. 
+SIZE(mmlin) 
+TYPE 
+IADCCODE 
+SERIAL No. 
+NOZlLES(32in) 
+DEPTH IN (m) 
+DEPTH OUT (m) 
+DRILLED (m cumldly) 
+HOURS (cumldly) 
+GRADE 
+AVGE ROP (mlhr) 
+WOB(mt) 
+RPM 
+JET VEL (mlsec) 
+HHP@ BIT 
+
+BHANo. 
+BHA Profile: 
+
+DOWNHOLE TOOLS 
+
+SERIAL No. 
+DRILLING JAR 
+DRILLING JAR 
+SHOCK SUB 
+PDM 
+
+MONEL 
+
+GLOBEX FAR EAST 
+DAILY DRILLING REPORT 
+
+
+,,
+
+DATE: 4-OCt-99 
+
+I 
+
+I REPORT # ,15 I 
+
+I D.F.S. , 11 I 
+
+STATUS @2400 Hrs: 
+FORMATION: 
+LAST CASING:! I @ I 
+, SHOE L.O.T.:' I 
+WD(MSL):1 RT • SEABEDlMSL:' 102.5 MAASP:I I
+
+
+II 
+
+ADDITIVES 
+
+SOLIDS CONTROL 
+
+FORMATION DATA 
+Barite (100) 150 
+
+Ipm 
+
+hrs 
+
+DEPTH 
+CaCI 5sx 
+
+
+uf 
+
+DESILTER 
+
+TRIPGAS(%) 
+DESANDER 
+
+NlU 
+
+NlU 
+
+CONN. GAS (%) 
+MUD CLEANER NlU 
+
+B'GRD GAS (%) 
+CENTRIFUGE 
+
+NlU 
+
+PORE PRESS (SG) 
+1 
+
+2 
+
+3 
+
+ECD(SG) 
+SHAKERS 
+
+Thule 
+
+Thule 
+
+Thule 
+
+LITHOLOGY 
+SCREENS 
+
+52 x52 
+
+120 x 105 
+
+DRILLS I BOPS 
+PUMPS 
+
+B4xB4 
+
+1-0Ct 
+TYPE 
+
+1 
+
+LAST BOP DRILL
+
+2 
+
+3 
+
+28-Sep 
+STROKE(in) 
+
+Oilwell A-1700 
+
+Oilwell A-1700 
+
+LAST FIRE DRILL
+
+Oilwell A-1700 
+
+26-Sep 
+L1NER(in) 
+
+12' 
+
+12' 
+
+12' 
+
+LAST MOB DRILL 
+
+28-Sep 
+SPM 
+
+6' 
+
+6' 
+
+LAST ABN. RIG DRILL
+
+6' 
+
+27-Sep 
+LPM 
+
+LAST BOP TEST 
+
+11-0ct 
+AV-DP(nv'min) 
+
+BOP TEST DUE 
+
+HRS 
+
+CUM 
+AV-DC(nv'min) 
+
+66.5 
+SPP(kPaJpsi) 
+
+1. MOVE RIG 
+15.75 
+SCR @40 
+
+2. RUN ANCHORS 
+89 
+SCR @50 
+
+3. DRILLING 
+4. TRIP 
+35 
+WEATHER I RIG RESPONSE 
+
+4.25 
+WIND SPEED(kts) 
+
+5. WIPER TRIP 
+5.25 
+DIRECTION(') 
+
+15-20 
+
+6. SURVEY 
+16.75 
+TEMPERATURE('C) 
+
+7. CIRC.lCOND
+230 
+
+5.5 
+BAR. PRESSURE(kPa) 
+
+13-15 
+
+8. HANDLE BHA 
+6.75 
+BAR. RISE / FALL(kPa) 
+
+1014 
+
+9. CASE/CEMENT 
+10. WELLHEAD 
+VISIBILlTY(NM) 
+Rising 
+
+22.5 
+WEATHER STATE 
+
+11. BOPS 
+5
+
+12 
+
+0.75 
+SWELL / PER / DIR(mlsecI") 
+
+12. LOT
+Moderate 
+
+230/1/11 
+
+13. CORING 
+~AVES 
+/ PER / DIR(mlsecl') 
+16 
+Make up MOST tool . 
+
+14. LOGGING
+230/.6/2 
+
+8.75 
+PITCH(') 
+
+15. REAMIWASH
+.4/11 
+
+16. FISH/STUCK 
+ROLL(') 
+.3/3 
+
+17. LOSS CIRC 
+~NCHOR 
+TENSION-MIN(MT) 
+.4/4 
+
+18. KICK CONTROL 
+~NCHOR 
+TENSION-MAX(MT) 
+210 
+
+19. SIDETRACK 
+RISER TENSION(MT) 
+300 
+
+1.25 
+!vARIABLE DECK LOAD(MD 
+
+20. OTHER
+NlA 
+
+21. REP. SURF 
+BHAWEIGHT 
+1929 
+
+22. WELL TEST
+STRINGWT 
+
+23. WO WEATHER 
+A$328,283 
+ROTIREAM HRS 
+
+24. WAIT -OTHER 
+21.75
+
+A$6,213,827
+
+25. ABDN.lSUSPEND 
+DRAG -UP (mt)
+DRAG -DOWN (mt)
+TORQUE-On Bottom (kftllbs)
+TORQUE-Off Bottom (kftllbs)
+
+DRILLING DATA 
+
+US$4,038,98 
+
+1.5
+
+26. RIG SERVICE 
+1.5
+
+27. SLIP/CUT LINE 
+28. PULL ANCHORS 
+0.25 
+TOTAL (HRS) 
+
+29. FLOWCHECK 
+319
+
+5 
+
+

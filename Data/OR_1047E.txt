@@ -1,0 +1,2385 @@
+ Sperry Drilling - HALLIBURTON 
+Directional Drilling 
+End of Well Report 
+Well: Rockhopper-1 ST1 
+Rig: Kan Tan IV 
+Location: Bass Basin, Australia 
+Sperry Drilling - Halliburton 
+Sperry Drilling - HALLIBURTON 
+Contents 
+Section 1: Well Data 
+Section 2: Drilling Parameters 
+Section 3: Definitive Survey Data 
+Section 4: Actual Vs Proposed A4 Plot 
+Section 5: Drilling Survey 
+Section 6: BHA Data 
+Sperry Drilling - Halliburton 
+ ________________________________________________________________________________________________ 
+SECTION 1 
+Well Report 
+
+Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Job Objectives: 
+Rockhopper-1 ST1 is designed to intersect gas bearing sandstone units identified in Rockhopper-1 at a structurally down-dip location. The 
+sidetrack will allow fluid pressure data and core to be obtained at a down-dip location over any significant gas-bearing reservoir intervals 
+identified in Rockhopper-1. This information will enable gas-water contacts to be interpreted and when integrated with the core data, will 
+be crucial to understanding the size and deliverability of the discovered resource 
+Summary of Results: 
+8 1/2" Hole Section BHA # 1 From 1998m to 2112m. 
+This Motor assembly was run to drill out the cement and build up to 10 degrees before the upcoming Geo-Pilot run The Cement was 
+drilled in good time with no problems .The Kick -off was initiated in the required direction and was control drilled for the first stand to 
+ensure good kick-off .The next few stands suffered from hanging up problems but was mitigated by back-reaming. Toolface control was 
+reasonable and although ROP was slow the objective of a good kick off was met and drilling ceased at 2112m with 9.89 degrees in the hole 
+at 180 Degrees azimuth. At surface the bit was found to be more worn than expected but could be re-run . 
+8 1/2" Hole Section BHA # 2 From 2112m to 3158 m. 
+This was a Geo-Pilot BHA and it was run to complete the build section at 33 .34 Degrees inclination with 
+Azimuth of 178 degrees .The build rate for this run was not as good as expected requiring 3 .5 degree doglegs and working to get 3,s 
+Almost the whole run was plagued by stick-slip and vibration and no parameters were found to mitigate this for any length of time .Some 
+spurious down-links were found during vibration and extra vigilance had to be made to counteract the same .ROP was quite good 
+considering the amount of time spent off bottom re-starting drilling in poor periods of stick-slip .This BHA held out despite all of this to 
+3158m some 30m short of core point and was pulled for no response to the tools .The bit was found to be in reasonable shape but about 
+1/16 under-gauge . 
+8 1/2" Hole Section BHA # 3 From 3158m to 3196m. 
+This BHA was run to find core point then be re-run to next core point and in turn to TD .This BHA also suffered from stick-slip and 
+vibration .Again all parameters were adopted but it was such a short run with long intervals off bottom that it was impossible to report 
+actual BHA tendencies .This BHA held inclination to core point at 3196m and was pulled for the coring run . 
+8 1/2" Hole Section BHA # 4 From 3196m to 3213mMD 
+This was the first core BHA and was deemed to be a success in that some 13.5m of core of interest was cut . 
+8 1/2" Hole Section BHA # 5 From 3213m to 3284mMD 
+This BHA only drilled 71 m MD and was very difficult to gauge its performance due to this however the general consensus was that it was 
+marginally better at coping with stick-slip than BHA# 3.This BHA was different by way of having a new FMF3653Z PDC bit which may 
+have helped stick-slip mitigation . 
+8 1/2" Hole Section BHA # 6 From 3283m to 3298.5mMD This BHA was run to retrieve the second core for Geological evaluation .This 
+BHA recovered 14.08m of core, this was deemed to be insufficient and it was decided to run back in with another coring assembly to 
+attempt to cut another 20m of core. 
+8 1/2" Hole Section BHA # 7 From 3298.5m to 3309mMD This BHA was run to retrieve the second core for Geological evaluation .This 
+BHA recovered 9.50m of core, this was deemed to be sufficient for evaluation. 
+8 1/2" Hole Section BHA # 8 From 3309m to 3482m MD This BHA was a Geo-Pilot BHA and was used to drill the section after the core 
+point to TD. Again massive stick-slip was recorded and when the volcanics formations came in this was to be further compounded by 
+vibration also .All attempts were made to mitigate this but was unsuccessful .Despite this the tools made it to TD at 3482m MD The 
+subsequent trip out was good with little drag 
+Discussion: 
+Origin Energy Resources Ltd Rockhopper-1 ST1 
+Page 1 Sperry-Sun Drilling Services
+BHA 
+# 
+Bit 
+# 
+Motor 
+Run # 
+Hole Size 
+(in) 
+MD In 
+(m) 
+MD Out 
+(m) 
+TVD In 
+(m) 
+TVD Out 
+(m) 
+Inc In 
+(deg) 
+Inc Out 
+(deg) 
+Azi In 
+(deg) 
+Azi Out 
+(deg) 
+Drlg 
+hrs 
+Circ 
+hrs 
+1 1 1 8.500 1998 2112 1998 2111 1.4 10.5 129 182 22 11 
+2 2 2 8.500 2112 3158 2111 2995 10.5 35.5 182 178 80 16 
+3 3 3 8.500 3158 3196 2995 3025 35.5 35.6 178 179 5 9 
+4 4 8.500 3196 3213 3025 3039 35.6 35.7 179 179 5 2 
+5 3rr1 4 8.500 3213 3283 3039 3096 35.7 35.3 179 178 10 4 
+6 4rr1 8.500 3283 3298 3096 3108 35.3 35.1 178 178 3 2 
+7 4rr2 8.500 3298 3309 3108 3117 35.1 35.5 178 178 2 2 
+8 3rr2 5 8.500 3309 3482 3117 3258 35.5 35.5 178 179 20 8 
+Table 1 - BHA Summary 
+Motor 
+Run # 
+Manufacturer Type Lobe OD 
+(in) 
+Gauge 
+(in) 
+Bend 
+(deg) 
+Adj DLS (Ori) 
+(°/30m) 
+ROP (Ori) 
+(m/hr) 
+ROP (Rot) 
+(m/hr) 
+1 SSDS SperryDrill 7/8 6.750 1.15 Y 3.00 4 6 
+2 SSDS Geopilot / 6.750 8.375 0.00 N 0.30 0 13 
+3 SSDS Geopilot / 6.750 8.375 0.00 N 0 8 
+4 SSDS Geopilot / 6.750 8.375 0.00 N 0 7 
+5 SSDS Geopilot / 6.750 8.375 0.00 N 0.40 0 9 
+Table 2 - Motor Run Summary 
+Bit 
+# 
+Manufacturer Style OD 
+(in) 
+Gge Len 
+(in) 
+Nozzles 
+(/32's) 
+TFA 
+(in²) 
+Dull Grades 
+I O D L B G O R 
+Ftge 
+(m) 
+Drlg 
+hrs 
+ROP 
+(m/hr) 
+1 Hughes 
+Christensen 
+MXL-1x 8.500 1.114 2-3-WT-A -2-I-ER-BHA 114 22.00 5 
+2 Reed Hycalog RSX616M 8.500 6x18 1.491 2-1-CT-C--X-I-NO-DTF 1046 79.50 13 
+3 Security DBS FMF3653Z 8.500 1.500 3x15, 3x12 0.849 0-0-NO-A -X-I-NO-CP 38 5.00 8 
+4 Corepro 8.500 0.000 0-0-NO-A -X-I-NO-PR 17 5.00 3 
+3rr1 Security DBS FMF3653Z 8.500 1.500 3x15, 3x12 0.849 0-0-ER-A -X-I-NO-CP 70 9.50 7 
+4rr1 Corepro 8.500 0.000 0-0-NO-A -X-I-NO-PR 15 3.00 5 
+4rr2 Corepro 8.500 0.000 0-0-NO-A -X-I-NO-CP 11 1.50 7 
+3rr2 Security DBS FMF3653Z 8.500 1.500 3x15, 3x12 0.849 0-0-RR-A -X-I-NO-TD 173 19.50 9 
+Table 3 - Bit Run Summary 
+Origin Energy Resources Ltd Rockhopper-1 ST1 
+Page 2 Sperry-Sun Drilling Services
+Hours by Operation Summary 
+Operation 
+Total Hours During Job 
+Other 
+Miscellaneous 
+Rig Service & Repair 
+Drill Cement 
+PU/LD BHA 
+Rig Up / Tear Down 
+Circulate 
+Reaming / Washing 
+Drilling 
+Tripping
+0 50 100 150
+149.5 
+145 
+22 
+20.75 
+18.5 
+13.5 
+8.5 
+7.5 
+4.75 
+2 
+Days vs. Depth 
+Measured Depth (m) 
+Day 
+1900 
+2000 
+2100 
+2200 
+2300 
+2400 
+2500 
+2600 
+2700 
+2800 
+2900 
+3000 
+3100 
+3200 
+3300 
+3400 
+3500 
+0 2 4 6 8 10 12 14 16 
+Hours per BHA Breakdown 
+Drilling Circulating 
+Reaming Other 
+Total Hours Below Rotary 
+BHA Number 
+0 
+20 
+40 
+60 
+80 
+100 
+120 
+1 2 3 4 5 6 7 8 
+46 
+116 
+34 
+27 
+33 
+29 28 
+48 
+Average Rate of Penetration per BHA 
+ROP (m/hr) BHA Number 
+0
+2
+4
+6
+8 
+10 
+12 
+14 
+1 2 3 4 5 6 7 8 
+8.9 
+7.3 
+5.0 
+7.4 
+3.4 
+7.6 
+13.2 
+5.2 
+Footage per BHA 
+Rotated Oriented 
+Footage Drilled (m) 
+BHA Number 
+0 
+100 
+200 
+300 
+400 
+500 
+600 
+700 
+800 
+900 
+1000 
+1100 
+1 2 3 4 5 6 7 8 
+114 
+1046 
+38 17 
+70 
+15 11 
+173 
+Origin Energy Resources Ltd Rockhopper-1 ST1 
+Page 3 Sperry-Sun Drilling Services
+ ________________________________________________________________________________________________ 
+SECTION 2 
+Drilling Parameters 
+
+Sperry-Sun Drilling Services Origin Energy Resources Ltd 
+Rockhopper-1 ST1 
+Kan Tan IV 
+Australia 
+Bass Basin 
+AU-DD-0006791008 
+MD 
+(m) 
+Formation Name 
+MD/TVD 
+Inclination 
+DLS Bit Data 
+Drilling 
+Parameters Motor 
+BHA 
+Stabilizers Comments BHA ID 
+0 10 20 30 40 
+0 2 4 6 8 
+MXL-1x 
+5.2 m/hr 
+22.00 hrs 
+RSX616M 
+6x18 /32's 
+13.2 m/hr 
+79.50 hrs 
+FMF3653Z 
+3x15, 3x12 /32's 
+7.6 m/hr 
+5.00 hrs 
+FMF3653Z 
+3x15, 3x12 /32's 
+7.4 m/hr 
+9.50 hrs 
+FMF3653Z 
+3x15, 3x12 /32's 
+8.9 m/hr 
+19.50 hrs 
+WOB 22 klbs 
+RPM 58 
+FLO 553 gpm 
+SPP 1962 psi 
+WOB 16 klbs 
+RPM 125 
+FLO 573 gpm 
+SPP 2228 psi 
+WOB 10 klbs 
+RPM 125 
+FLO 600 gpm 
+SPP 2500 psi 
+WOB 5 klbs 
+RPM 120 
+FLO 600 gpm 
+SPP 2340 psi 
+WOB 12 klbs 
+RPM 166 
+FLO 592 gpm 
+SPP 2404 psi 
+WOB 10 klbs 
+RPM 105 
+FLO 600 gpm 
+SPP 2450 psi 
+WOB 10 klbs 
+RPM 100 
+FLO 600 gpm 
+SPP 2450 psi 
+WOB 10 klbs 
+RPM 140 
+FLO 600 gpm 
+SPP 2505 psi 
+6-3/4" SperryDrill 
+7/8 L 
+1.15° ABH 
+Geopilot 
+/ L 
+Geopilot 
+/ L 
+Geopilot 
+/ L 
+Geopilot 
+/ L 
+Stab @ 0.69 m 
+8.125 in @ 9.55 m 
+8.500 in @ 18.13 m 
+8.375 in @ 1.18 m 
+8.404 in @ 10.77 m 
+8.250 in @ 20.43 m 
+8.500 in @ 40.01 m 
+8.375 in @ 1.13 m 
+8.375 in @ 10.63 m 
+8.125 in @ 20.99 m 
+8.500 in @ 42.37 m 
+8.438 in @ 0.71 m 
+8.438 in @ 6.80 m 
+8.438 in @ 12.88 m 
+8.438 in @ 18.97 m 
+8.438 in @ 25.11 m 
+8.438 in @ 31.14 m 
+8.375 in @ 1.13 m 
+8.375 in @ 10.63 m 
+8.125 in @ 20.99 m 
+8.500 in @ 42.33 m 
+8.438 in @ 0.71 m 
+8.438 in @ 6.80 m 
+8.438 in @ 12.88 m 
+8.438 in @ 18.97 m 
+8.438 in @ 25.11 m 
+8.438 in @ 31.14 m 
+8.438 in @ 0.71 m 
+8.438 in @ 6.80 m 
+8.438 in @ 12.88 m 
+8.438 in @ 18.97 m 
+8.438 in @ 25.11 m 
+8.438 in @ 31.14 m 
+8.375 in @ 1.13 m 
+8.375 in @ 10.63 m 
+8.125 in @ 20.99 m 
+8.500 in @ 42.33 m 
+BRT 22:30 /19/01/10 ART 15:30/21/10/10 
+Tools Initialized: 23:30hrs (BRT) ABG - 1.49m Den - 20.74m Son - 
+31.89m Svy - 8.74m Cal - 23.79m Gam - 11.51m Por - 24.64m Res 
+- 13.86m PWD - 27.59m 
+Tools Initialized:26/10/10 14:55hrs (BRT) 23:00hrs 27/01/10 (ART) 
+ABG - 1.45m Den - 21.29m ACAL - 39.17m Svy - 8.69m Por - 
+24.49m Gam - 11.36m PWD - 28.04m Res - 13.68m Son - 32.36m 
+Tools Initialized: hrs (BRT)29/01/10 @11:40 - 30/01/10 @18:15(ART) 
+ABG - 1.45m Den - 21.29m ACAL 39.13 m Svy - 8.69m Por - 
+24.49m Gam - 11.36m PWD - 28.04m Res - 13.68m Son - 32.32m 
+Tools Initialized: hrs (BRT) 02/02/10 @ 06:40 ABG - 1.45m Den - 
+21.29m ACAL 39.13 m Svy - 8.69m Por - 24.49m Gam - 11.36m 
+PWD - 28.04m Res - 13.68m Son - 32.32m 
+@ 100 
+#1 @ 1998 
+#2 @ 2112 
+#3 @ 3158 
+#4 @ 3196 
+#5 @ 3213 
+#6 @ 3283 
+#7 @ 3298 
+#8 @ 3309 
+100 
+300 
+500 
+700 
+900 
+1100 
+1300 
+1500 
+1700 
+1900 
+2100 
+2300 
+2500 
+2700 
+2900 
+3100 
+3300 
+3500 
+Top EVCM Seismic 
+2068 / 2067 
+E1 Marker 
+2811 / 2710 
+P3/2973 Seismic 
+3115 / 2960 
+Cretaceous Volcanics 
+3425 / 3211
+ ________________________________________________________________________________________________ 
+SECTION 3 
+Definitive Survey Report 
+
+Standard Survey Report 
+02 March, 2010 
+Design: Rockhopper-1 ST1 Definitive Survey 
+Origin Energy Resources LTD 
+Rockhopper-1 
+Rockhopper-1 
+Rockhopper-1 
+Rockhopper-1 ST
+Sperry Drilling - Halliburton 
+Survey Report 
+Company: Origin Energy Resources LTD Local Co-ordinate Reference: Well Rockhopper-1 
+Project: Rockhopper-1 TVD Reference: Rotary Table @ 26.00m (Above MSL) 
+Site: Rockhopper-1 MD Reference: Rotary Table @ 26.00m (Above MSL) 
+Well: Rockhopper-1 North Reference: Grid 
+Wellbore: Rockhopper-1 ST Survey Calculation Method: Minimum Curvature 
+Design: Rockhopper-1 ST1 Definitive Survey Database: EDM 2003.21 Sperry NZ DB21 
+Map System: 
+Geo Datum: 
+Project 
+Map Zone: 
+Universal Transverse Mercator System Datum: 
+GDA94 
+Rockhopper-1 
+Zone 55S (144 E to 150 E) 
+Mean Sea Level 
+Site Position: 
+From: 
+Site 
+Latitude: 
+Longitude: 
+Position Uncertainty: 
+Northing: 
+Easting: 
+Grid Convergence: 
+Rockhopper-1 
+m 
+Map m
+m 
+Slot Radius: in 1.00 ° 
+5,594,071.42 
+366,374.03 
+0.00 
+39° 47' 34.1828 S 
+145° 26' 21.4660 E 
+Well 
+Well Position 
+Longitude: 
+Latitude: 
+Easting: 
+Northing: 
+m 
++E/-W 
++N/-S 
+Position Uncertainty 
+m
+m 
+Water Depth: m 
+Rockhopper-1 
+m
+m 
+0.00 
+0.00 
+5,594,071.42 
+366,374.03 
+0.00 Wellhead Elevation: 26.00 m 74.30 
+39° 47' 34.1828 S 
+145° 26' 21.4660 E 
+Wellbore 
+Declination 
+(°) 
+Field Strength 
+(nT) 
+Sample Date Dip Angle 
+(°) 
+Rockhopper-1 ST 
+Magnetics Model Name 
+BGGM2009 4/12/2009 12.49 -70.39 60,969 
+Version: Phase: 
+Audit Notes: 
+Design Rockhopper-1 ST1 Definitive Survey 
+1.0 ACTUAL 
+Vertical Section: Depth From (TVD) 
+(m) 
++N/-S 
+(m) 
+Direction 
+(°) 
++E/-W 
+(m) 
+Tie On Depth: 1,968.42 
+0.00 0.00 0.00 179.28 
+From 
+(m) 
+Survey Program 
+Survey (Wellbore) Tool Name Description 
+To 
+(m) 
+Date 2/03/2010 
+100.30 100.30 Rockhopper-1 - 36" MWD Survey (Rockho MWD+SAG+SC MWD + Sag + SC corrections (no bias) 
+242.36 956.77 Rockhopper-1 - 17 1/2" MWD Survey (Roc MWD+SAG+SC MWD + Sag + SC corrections (no bias) 
+980.35 1,951.76 Rockhopper-1 - 12 1/4" MWD Survey (Roc MWD+SAG+SC MWD + Sag + SC corrections (no bias) 
+1,968.42 1,968.42 Rockhopper-1 - 8 1/2" MWD Survey (Rock MWD+SAG+SC MWD + Sag + SC corrections (no bias) 
+1,995.26 3,482.00 Rockhopper-1 ST - 8 1/2" MWD Survey (R MWD+SAG+SC MWD + Sag + SC corrections (no bias) 
+Measured 
+Depth 
+(m) 
+Inclination 
+(°) 
+Azimuth 
+(°) 
++E/-W 
+(m) 
+Vertical 
+Section 
+(m) 
+Dogleg 
+Rate 
+(°/30m) 
++N/-S 
+(m) 
+Build 
+Rate 
+(°/30m) 
+Turn 
+Rate 
+(°/30m) 
+Survey 
+Vertical 
+Depth 
+(m) 
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.000 0.00 0.00 
+100.30 0.00 0.00 100.30 0.00 0.00 0.00 0.000 0.00 0.00 
+242.36 0.22 278.10 242.36 0.04 -0.27 -0.04 0.046 0.05 0.00 
+327.42 0.34 318.42 327.42 0.25 -0.60 -0.26 0.079 0.04 14.22 
+356.38 0.16 310.14 356.38 0.34 -0.69 -0.35 0.190 -0.19 -8.58 
+414.83 0.43 334.58 414.83 0.59 -0.84 -0.60 0.150 0.14 12.54 
+502.13 0.25 356.62 502.13 1.08 -1.00 -1.09 0.075 -0.06 7.57 
+559.33 0.33 356.35 559.33 1.37 -1.01 -1.38 0.042 0.04 -0.14 
+645.93 0.22 77.08 645.92 1.65 -0.87 -1.66 0.127 -0.04 27.97 
+2/03/2010 5:03:30PM Page 2 COMPASS 2003.21 Build 43 
+Sperry Drilling - Halliburton 
+Survey Report 
+Company: Origin Energy Resources LTD Local Co-ordinate Reference: Well Rockhopper-1 
+Project: Rockhopper-1 TVD Reference: Rotary Table @ 26.00m (Above MSL) 
+Site: Rockhopper-1 MD Reference: Rotary Table @ 26.00m (Above MSL) 
+Well: Rockhopper-1 North Reference: Grid 
+Wellbore: Rockhopper-1 ST Survey Calculation Method: Minimum Curvature 
+Design: Rockhopper-1 ST1 Definitive Survey Database: EDM 2003.21 Sperry NZ DB21 
+Measured 
+Depth 
+(m) 
+Inclination 
+(°) 
+Azimuth 
+(°) 
++E/-W 
+(m) 
+Vertical 
+Section 
+(m) 
+Dogleg 
+Rate 
+(°/30m) 
++N/-S 
+(m) 
+Build 
+Rate 
+(°/30m) 
+Turn 
+Rate 
+(°/30m) 
+Survey 
+Vertical 
+Depth 
+(m) 
+733.40 0.10 264.51 733.39 1.68 -0.78 -1.69 0.110 -0.04 -59.19 
+819.33 0.13 204.11 819.32 1.59 -0.89 -1.60 0.041 0.01 -21.09 
+907.20 0.22 337.40 907.19 1.65 -1.00 -1.66 0.110 0.03 45.51 
+956.77 0.15 112.45 956.76 1.71 -0.98 -1.73 0.208 -0.04 81.73 
+961.00 0.12 112.45 960.99 1.71 -0.97 -1.72 0.191 -0.19 0.00 
+13 3/8" Casing 
+980.35 0.00 258.48 980.34 1.70 -0.95 -1.71 0.191 -0.19 0.00 
+1,009.96 0.20 60.48 1,009.95 1.73 -0.90 -1.74 0.203 0.20 0.00 
+1,039.18 0.22 57.43 1,039.17 1.78 -0.81 -1.79 0.024 0.02 -3.13 
+1,068.02 0.25 56.38 1,068.01 1.85 -0.71 -1.86 0.032 0.03 -1.09 
+1,096.69 0.09 334.71 1,096.68 1.90 -0.67 -1.91 0.265 -0.17 -85.46 
+1,125.20 0.25 23.41 1,125.19 1.98 -0.65 -1.99 0.213 0.17 51.25 
+1,153.52 0.31 18.55 1,153.51 2.11 -0.61 -2.12 0.068 0.06 -5.15 
+1,182.12 0.26 64.52 1,182.11 2.21 -0.52 -2.22 0.238 -0.05 48.22 
+1,210.69 0.31 28.33 1,210.68 2.31 -0.43 -2.31 0.192 0.05 -38.00 
+1,239.34 0.36 49.88 1,239.33 2.43 -0.32 -2.44 0.141 0.05 22.57 
+1,298.15 0.40 29.51 1,298.14 2.73 -0.08 -2.73 0.071 0.02 -10.39 
+1,327.53 0.39 32.18 1,327.52 2.90 0.02 -2.90 0.021 -0.01 2.73 
+1,356.77 0.31 47.29 1,356.76 3.04 0.14 -3.04 0.125 -0.08 15.50 
+1,385.60 0.44 56.10 1,385.59 3.16 0.29 -3.15 0.148 0.14 9.17 
+1,412.81 0.48 46.30 1,412.80 3.29 0.45 -3.29 0.097 0.04 -10.80 
+1,441.66 0.57 57.51 1,441.65 3.45 0.66 -3.45 0.142 0.09 11.66 
+1,470.69 0.57 43.73 1,470.68 3.64 0.88 -3.63 0.141 0.00 -14.24 
+1,499.95 0.59 47.75 1,499.93 3.84 1.10 -3.83 0.046 0.02 4.12 
+1,529.47 0.61 56.99 1,529.45 4.03 1.34 -4.01 0.100 0.02 9.39 
+1,558.73 0.62 46.69 1,558.71 4.22 1.59 -4.20 0.114 0.01 -10.56 
+1,587.90 0.64 49.02 1,587.88 4.44 1.82 -4.42 0.033 0.02 2.40 
+1,616.89 0.68 52.55 1,616.87 4.65 2.08 -4.62 0.059 0.04 3.65 
+1,645.39 0.64 67.47 1,645.36 4.81 2.36 -4.78 0.185 -0.04 15.71 
+1,673.84 0.66 56.91 1,673.81 4.96 2.65 -4.93 0.128 0.02 -11.14 
+1,702.24 0.67 57.55 1,702.21 5.14 2.93 -5.11 0.013 0.01 0.68 
+1,759.92 0.72 70.24 1,759.89 5.45 3.55 -5.40 0.084 0.03 6.60 
+1,789.63 0.84 75.16 1,789.59 5.57 3.94 -5.52 0.139 0.12 4.97 
+1,848.62 0.80 79.00 1,848.58 5.75 4.76 -5.69 0.035 -0.02 1.95 
+1,876.78 0.90 76.63 1,876.73 5.84 5.17 -5.78 0.113 0.11 -2.52 
+1,905.30 0.76 78.61 1,905.25 5.93 5.57 -5.86 0.150 -0.15 2.08 
+1,934.76 0.91 50.85 1,934.71 6.12 5.94 -6.04 0.434 0.15 -28.27 
+1,951.76 0.68 51.65 1,951.71 6.27 6.13 -6.19 0.406 -0.41 1.41 
+1,964.00 0.69 56.15 1,963.95 6.35 6.25 -6.27 0.132 0.02 11.03 
+9 5/8" Casing 
+1,968.42 0.69 57.75 1,968.37 6.38 6.29 -6.30 0.132 0.02 10.86 
+1,995.26 1.12 112.40 1,995.20 6.37 6.67 -6.28 1.022 0.48 61.09 
+2,020.27 4.56 164.56 2,020.18 5.32 7.16 -5.23 4.765 4.13 62.57 
+2,076.85 8.58 180.86 2,076.38 -1.08 7.70 1.17 2.329 2.13 8.64 
+2,097.43 9.89 180.78 2,096.70 -4.38 7.65 4.47 1.910 1.91 -0.12 
+2,101.74 10.33 180.02 2,100.94 -5.13 7.64 5.23 3.200 3.06 -5.29 
+2,133.86 11.00 184.57 2,132.50 -11.07 7.40 11.16 1.005 0.63 4.25 
+2,162.64 12.26 191.23 2,160.69 -16.80 6.58 16.89 1.917 1.31 6.94 
+2,191.04 14.09 193.69 2,188.35 -23.12 5.18 23.18 2.021 1.93 2.60 
+2,221.57 17.24 200.87 2,217.74 -30.96 2.69 30.99 3.629 3.10 7.06 
+2,249.96 21.12 203.77 2,244.55 -39.58 -0.87 39.56 4.221 4.10 3.06 
+2,279.09 25.17 203.19 2,271.33 -50.08 -5.43 50.01 4.178 4.17 -0.60 
+2,305.36 27.89 201.28 2,294.83 -60.94 -9.86 60.81 3.255 3.11 -2.18 
+2,335.32 29.38 198.65 2,321.13 -74.43 -14.76 74.24 1.954 1.49 -2.63 
+2/03/2010 5:03:30PM Page 3 COMPASS 2003.21 Build 43 
+Sperry Drilling - Halliburton 
+Survey Report 
+Company: Origin Energy Resources LTD Local Co-ordinate Reference: Well Rockhopper-1 
+Project: Rockhopper-1 TVD Reference: Rotary Table @ 26.00m (Above MSL) 
+Site: Rockhopper-1 MD Reference: Rotary Table @ 26.00m (Above MSL) 
+Well: Rockhopper-1 North Reference: Grid 
+Wellbore: Rockhopper-1 ST Survey Calculation Method: Minimum Curvature 
+Design: Rockhopper-1 ST1 Definitive Survey Database: EDM 2003.21 Sperry NZ DB21 
+Measured 
+Depth 
+(m) 
+Inclination 
+(°) 
+Azimuth 
+(°) 
++E/-W 
+(m) 
+Vertical 
+Section 
+(m) 
+Dogleg 
+Rate 
+(°/30m) 
++N/-S 
+(m) 
+Build 
+Rate 
+(°/30m) 
+Turn 
+Rate 
+(°/30m) 
+Survey 
+Vertical 
+Depth 
+(m) 
+2,364.04 31.58 195.91 2,345.88 -88.34 -19.07 88.10 2.718 2.30 -2.86 
+2,393.22 33.12 193.25 2,370.53 -103.45 -22.99 103.16 2.156 1.58 -2.73 
+2,424.12 34.46 191.99 2,396.21 -120.22 -26.74 119.88 1.468 1.30 -1.22 
+2,453.55 35.45 189.16 2,420.33 -136.79 -29.83 136.41 1.936 1.01 -2.88 
+2,483.19 36.74 186.44 2,444.28 -154.09 -32.20 153.68 2.082 1.31 -2.75 
+2,512.34 35.42 185.57 2,467.84 -171.16 -33.99 170.72 1.457 -1.36 -0.90 
+2,539.22 36.20 185.30 2,489.64 -186.82 -35.48 186.36 0.888 0.87 -0.30 
+2,567.35 35.96 183.83 2,512.38 -203.33 -36.80 202.85 0.958 -0.26 -1.57 
+2,596.63 35.85 183.27 2,536.09 -220.47 -37.87 219.98 0.355 -0.11 -0.57 
+2,623.25 35.76 182.90 2,557.68 -236.02 -38.70 235.52 0.264 -0.10 -0.42 
+2,653.75 34.92 179.74 2,582.56 -253.65 -39.11 253.14 1.978 -0.83 -3.11 
+2,684.95 36.05 178.78 2,607.97 -271.76 -38.88 271.25 1.211 1.09 -0.92 
+2,711.61 35.74 177.14 2,629.57 -287.38 -38.32 286.88 1.137 -0.35 -1.85 
+2,739.68 35.53 177.12 2,652.38 -303.72 -37.50 303.22 0.225 -0.22 -0.02 
+2,771.60 35.60 176.05 2,678.35 -322.25 -36.40 321.76 0.589 0.07 -1.01 
+2,799.25 35.65 174.76 2,700.82 -338.30 -35.11 337.83 0.817 0.05 -1.40 
+2,830.33 35.66 174.48 2,726.07 -356.34 -33.41 355.89 0.158 0.01 -0.27 
+2,858.86 35.48 174.28 2,749.28 -372.85 -31.78 372.42 0.225 -0.19 -0.21 
+2,886.55 35.51 174.82 2,771.83 -388.86 -30.26 388.45 0.341 0.03 0.59 
+2,912.81 35.67 174.71 2,793.18 -404.08 -28.86 403.68 0.197 0.18 -0.13 
+2,944.72 35.81 174.86 2,819.08 -422.64 -27.17 422.26 0.155 0.13 0.14 
+2,970.13 33.67 176.07 2,839.96 -437.07 -26.02 436.71 2.654 -2.53 1.43 
+3,001.24 33.20 177.20 2,865.92 -454.18 -25.01 453.83 0.752 -0.45 1.09 
+3,026.70 33.66 177.54 2,887.17 -468.19 -24.37 467.85 0.585 0.54 0.40 
+3,059.36 34.73 177.11 2,914.18 -486.53 -23.51 486.20 1.008 0.98 -0.39 
+3,089.54 35.58 176.65 2,938.86 -503.88 -22.57 503.56 0.885 0.84 -0.46 
+3,118.07 35.65 177.66 2,962.05 -520.47 -21.74 520.16 0.623 0.07 1.06 
+3,145.40 35.32 177.16 2,984.31 -536.32 -21.02 536.02 0.482 -0.36 -0.55 
+3,167.94 35.69 178.03 3,002.66 -549.40 -20.48 549.10 0.834 0.49 1.16 
+3,185.27 35.70 178.52 3,016.73 -559.51 -20.17 559.21 0.495 0.02 0.85 
+3,203.43 35.56 178.76 3,031.49 -570.08 -19.92 569.79 0.327 -0.23 0.40 
+3,234.73 35.91 179.25 3,056.90 -588.36 -19.60 588.07 0.433 0.34 0.47 
+3,264.81 35.73 178.72 3,081.29 -605.96 -19.29 605.67 0.358 -0.18 -0.53 
+3,293.65 35.03 178.07 3,104.80 -622.65 -18.82 622.37 0.827 -0.73 -0.68 
+3,324.89 36.06 178.66 3,130.22 -640.81 -18.31 640.53 1.043 0.99 0.57 
+3,350.05 35.41 178.82 3,150.64 -655.50 -17.98 655.22 0.783 -0.78 0.19 
+3,379.25 35.71 179.95 3,174.40 -672.48 -17.80 672.20 0.742 0.31 1.16 
+3,408.14 35.85 180.50 3,197.84 -689.37 -17.87 689.09 0.364 0.15 0.57 
+3,439.04 36.10 180.75 3,222.84 -707.52 -18.07 707.24 0.281 0.24 0.24 
+3,467.05 35.47 179.36 3,245.56 -723.90 -18.08 723.61 1.101 -0.67 -1.49 
+3,482.00 35.47 179.36 3,257.74 -732.57 -17.99 732.29 0.000 0.00 0.00 
+Projected to TD 
+Vertical 
+Depth 
+(m) 
+Measured 
+Depth 
+(m) 
+Casing 
+Diameter 
+(in) 
+Hole 
+Diameter 
+Name (in) 
+Casing Points 
+1,964.00 1,963.95 9 5/8" Casing 9.625 12.250 
+961.00 960.99 13 3/8" Casing 13.375 17.500 
+2/03/2010 5:03:30PM Page 4 COMPASS 2003.21 Build 43 
+Sperry Drilling - Halliburton 
+Survey Report 
+Company: Origin Energy Resources LTD Local Co-ordinate Reference: Well Rockhopper-1 
+Project: Rockhopper-1 TVD Reference: Rotary Table @ 26.00m (Above MSL) 
+Site: Rockhopper-1 MD Reference: Rotary Table @ 26.00m (Above MSL) 
+Well: Rockhopper-1 North Reference: Grid 
+Wellbore: Rockhopper-1 ST Survey Calculation Method: Minimum Curvature 
+Design: Rockhopper-1 ST1 Definitive Survey Database: EDM 2003.21 Sperry NZ DB21 
+Measured 
+Depth 
+(m) 
+Vertical 
+Depth 
+(m) 
++E/-W 
+(m) 
++N/-S 
+(m) 
+Local Coordinates 
+Comment 
+Design Annotations
+3,482.00 3,257.74 -732.57 -17.99 Projected to TD 
+Checked By: Approved By: Date: 
+2/03/2010 5:03:30PM Page 5 COMPASS 2003.21 Build 43 
+ ________________________________________________________________________________________________ 
+SECTION 4 
+A4 Plot 
+
+-200
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+1400 
+1600 
+1800 
+2000 
+2200 
+2400 
+2600 
+2800 
+3000 
+3200 
+3400 
+True Vertical Depth (200 m/cm) 
+-400 -200 0 200 400 600 800 1000 1200 1400 
+Vertical Section at 179.28° (200 m/cm) 
+RH-1 ST1 TL-60 Target 
+0
+5 0 0 
+1000 
+1500 
+2000 
+2500 
+Rockhopper-1 Definitive Survey 
+0
+5 0 0 
+1000 
+1500 
+2000 
+2500 
+3000 
+3500 
+3621 
+Rockhopper-1 ST1 Rev 4.00 
+13 3/8" Casing 
+9 5/8" Casing 
+0
+5 0 0 
+1000 
+1500 
+2000 
+2500 
+3000 
+3482 
+Rockhopper-1 ST1 Definitive Survey 
+Projected to TD 
+Azimuths to Grid North 
+True North: -1.00° 
+Magnetic North: 11.50° 
+Magnetic Field 
+Strength: 60968.9snT 
+Dip Angle: -70.39° 
+Date: 4/12/2009 
+Model: BGGM2009 
+G 
+T M 
+CASING DETAILS 
+TVD MD Name Size 
+960.99 961.0013 3/8" Casing 13.375 
+1963.951964.00 9 5/8" Casing 9.625 
+Project: Rockhopper-1 
+Site: Rockhopper-1 
+Well: Rockhopper-1 
+Wellbore: Rockhopper-1 ST 
+Design: Rockhopper-1 ST1 Definitive Survey 
+REFERENCE INFORMATION 
+Co-ordinate (N/E) Reference: Well Rockhopper-1, Grid North 
+Vertical (TVD) Reference: Rotary Table @ 26.00m (Above MSL) 
+Section (VS) Reference: Slot - (0.00N, 0.00E) 
+Measured Depth Reference: Rotary Table @ 26.00m (Above MSL) 
+Calculation Method: Minimum Curvature 
+-825 
+-770 
+-715 
+-660 
+-605 
+-550 
+-495 
+-440 
+-385 
+-330 
+-275 
+-220 
+-165 
+-110 
+-55
+0 
+55 
+110 
+South(-)/North(+) (55 m/cm) 
+-165 -110 -55 0 55 110 165 
+West(-)/East(+) (55 m/cm) 
+2250
+Rockhopper-1 Definitive Survey 
+2000 
+2250 
+2500 
+2750 
+3000 
+3250 
+3390 
+Rockhopper-1 ST1 Rev 4.00 
+13 3/8" Casing 
+9 5/8" Casing 
+2000 
+2250 
+2500 
+2750 
+3000 
+3250 
+3258 
+Rockhopper-1 ST1 Definitive Survey 
+WELL DETAILS: Rockhopper-1 ST1 
+Water Depth: 74.30 
++N/-S +E/-W Northing Easting Latittude Longitude 
+0.00 0.00 5594071.42 366374.039° 47' 34.1828 S145° 26' 21.4660 E 
+PROJECT DETAILS: Rockhopper-1 
+Geodetic System: Universal Transverse Mercator 
+Datum: GDA94 
+Ellipsoid: GRS 1980 
+Zone: Zone 55S (144 E to 150 E) 
+System Datum: Mean Sea Level
+ ________________________________________________________________________________________________ 
+SECTION 5 
+Drilling Surveys 
+
+Page : 1 
+Operator : Origin Energy Resources Ltd Country : Australia 
+Well : Rockhopper-1 ST1 Location : Bass Basin 
+Rig : Kan Tan IV Job # :AU-DD-0006791008 
+Survey and Drilling Parameters North Ref : Mag Declination : ° VS Dir : 179.28° (from Wellhead) 
+WELLBORE SURVEY DRILLING PARAMETERS 
+Measured Incl Azi Vertical Vertical Coordinates DLS Build Turn WOB RPM Flow Stand Orientation Tool ROP BHA Comment 
+Depth Angle Dir Depth Section N/S E/W Rate Rate Rate Pipe From To Face No. 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) (°/30m) (°/30m) (klbs) (gpm) (psi) (m) (m) (deg) (m/hr) (#) 
+0.00 0.00 0.00 0.0 0.0 0.0 0.0 0.00 0.00 0.00 Tieon 
+1968.42 0.69 57.75 1968.4 -6.3 6.4 6.3 0.00 0.00 0.00 Tieon 
+1995.26 1.12 112.40 1995.2 -6.3 6.4 6.7 1.02 0.48 0.00 4 550 2100 1990 1995 LS 
+2020.27 4.56 164.56 2020.2 -5.2 5.3 7.2 4.77 4.13 62.57 30 550 1960 1995 1996 LS 1 
+1996 2005 LS 1 
+2020 2020 LS 1 
+2076.85 8.58 180.86 2076.4 1.2 -1.1 7.7 2.33 2.13 8.64 22 550 1920 2020 2033 LS 1 
+2070 2077 HS 1 
+2097.43 9.89 180.78 2096.7 4.5 -4.4 7.6 1.91 1.91 -0.12 20 60 550 1900 2077 2080 HS 10 1 
+2101.74 10.33 180.02 2100.9 5.2 -5.1 7.6 3.20 3.06 -5.29 20 60 550 1900 2098 2100 HS 10 1 
+2133.86 11.00 184.57 2132.5 11.2 -11.1 7.4 1.00 0.63 4.25 20 120 550 1950 2102 2104 HS 22 2 TF 10L Def 75% 
+2106 2108 HS 2 
+2110 2112 HS 2 
+2162.64 12.26 191.23 2160.7 16.9 -16.8 6.6 1.92 1.31 6.94 20 120 550 1950 22 2 TF 20L Def 90% 
+2191.04 14.09 193.69 2188.4 23.2 -23.1 5.2 2.02 1.93 2.60 20 120 550 1950 22 2 TF 20L Def 100% 
+2221.57 17.24 200.87 2217.7 31.0 -31.0 2.7 3.63 3.10 7.06 25 140 550 1950 10 2 TF 20L Def 100% 
+2249.96 21.12 203.77 2244.6 39.6 -39.6 -0.9 4.22 4.10 3.06 25 150 550 1950 36 2 TF 30L Def 100% 
+2279.09 25.17 203.19 2271.3 50.0 -50.1 -5.4 4.18 4.17 -0.60 20 120 550 1950 55 2 TF 45L Def 90% 
+2305.36 27.89 201.28 2294.8 60.8 -60.9 -9.9 3.26 3.11 -2.18 20 130 550 1950 40 2 TF 45L Def 90% 
+2335.32 29.38 198.65 2321.1 74.2 -74.4 -14.8 1.95 1.49 -2.63 16 130 525 1850 14 2 TF 45L Def 95% 
+2364.04 31.58 195.91 2345.9 88.1 -88.3 -19.1 2.72 2.30 -2.86 16 130 525 1850 14 2 TF 45L Def 90% 
+2393.22 33.12 193.25 2370.5 103.2 -103.5 -23.0 2.16 1.58 -2.73 16 130 525 1850 14 2 TF 35L Def 100% 
+2424.12 34.46 191.99 2396.2 119.9 -120.2 -26.7 1.47 1.30 -1.22 21 130 525 1900 10 2 TF 45L Def 100% 
+2453.55 35.45 189.16 2420.3 136.4 -136.8 -29.8 1.94 1.01 -2.88 21 120 530 1940 16 2 TF 45L Def 100% 
+2483.19 36.74 186.44 2444.3 153.7 -154.1 -32.2 2.08 1.31 -2.75 21 120 530 1940 16 2 TF 45L Def 100% 
+2512.34 35.42 185.57 2467.8 170.7 -171.2 -34.0 1.46 -1.36 -0.90 15 120 550 2250 11 2 CR 70% Def -30 Bias 
+2539.22 36.20 185.30 2489.6 186.4 -186.8 -35.5 0.89 0.87 -0.30 15 120 550 2250 11 2 CR 90% Def -30 Bias 
+2567.35 35.96 183.83 2512.4 202.9 -203.3 -36.8 0.96 -0.26 -1.57 15 120 550 2250 11 2 CR 90% Def -30 Bias 
+2596.63 35.85 183.27 2536.1 220.0 -220.5 -37.9 0.35 -0.11 -0.57 15 120 550 2250 11 2 CR 90% Def -30 Bias 
+2623.25 35.76 182.90 2557.7 235.5 -236.0 -38.7 0.26 -0.10 -0.42 15 115 600 2280 21 2 CR 90% Def -30 Bias
+Page : 2 
+Operator : Origin Energy Resources Ltd Country : Australia 
+Well : Rockhopper-1 ST1 Location : Bass Basin 
+Rig : Kan Tan IV Job # :AU-DD-0006791008 
+Survey and Drilling Parameters North Ref : Mag Declination : ° VS Dir : 179.28° (from Wellhead) 
+WELLBORE SURVEY DRILLING PARAMETERS 
+Measured Incl Azi Vertical Vertical Coordinates DLS Build Turn WOB RPM Flow Stand Orientation Tool ROP BHA Comment 
+Depth Angle Dir Depth Section N/S E/W Rate Rate Rate Pipe From To Face No. 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) (°/30m) (°/30m) (klbs) (gpm) (psi) (m) (m) (deg) (m/hr) (#) 
+2653.75 34.92 179.74 2582.6 253.1 -253.7 -39.1 1.98 -0.83 -3.11 15 130 600 2300 30 2 TF 40L Def 100% 
+2684.95 36.05 178.78 2608.0 271.3 -271.8 -38.9 1.21 1.09 -0.92 13 135 610 2420 24 2 TF 20L Def 100% 
+2711.61 35.74 177.14 2629.6 286.9 -287.4 -38.3 1.14 -0.35 -1.85 10 140 610 2450 48 2 CR 90% Def -40 Bias 
+2739.68 35.53 177.12 2652.4 303.2 -303.7 -37.5 0.22 -0.22 -0.02 20 120 610 2450 18 2 CR 90% Def -40 Bias 
+2771.60 35.60 176.05 2678.4 321.8 -322.2 -36.4 0.59 0.07 -1.01 13 135 610 2470 20 2 CR 90% Def -40 Bias 
+2799.25 35.65 174.76 2700.8 337.8 -338.3 -35.1 0.82 0.05 -1.40 20 135 610 2520 14 2 CR 90% Def -40 Bias 
+2830.33 35.66 174.48 2726.1 355.9 -356.3 -33.4 0.16 0.01 -0.27 20 135 610 2520 14 2 CR 90% Def -30 Bias 
+2858.86 35.48 174.28 2749.3 372.4 -372.9 -31.8 0.23 -0.19 -0.21 15 140 600 2450 10 2 CR 90% Def -30 Bias 
+2886.55 35.51 174.82 2771.8 388.4 -388.9 -30.3 0.34 0.03 0.59 12 140 600 2450 11 2 CR 90% Def -30 Bias 
+2912.81 35.67 174.71 2793.2 403.7 -404.1 -28.9 0.20 0.18 -0.13 15 110 610 2450 11 2 CR 90% Def -30 Bias 
+2944.72 35.81 174.86 2819.1 422.3 -422.6 -27.2 0.16 0.13 0.14 15 125 590 2430 12 2 CR 90% Def -30 Bias 
+2970.10 33.67 176.07 2839.9 436.7 -437.1 -26.0 2.66 -2.53 1.43 15 130 590 2450 12 2 TF 30L Def 100% 
+3001.24 33.20 177.20 2865.9 453.8 -454.2 -25.0 0.75 -0.45 1.09 15 130 590 2450 12 2 TF 20L Def 100% 
+3026.70 33.66 177.54 2887.2 467.9 -468.2 -24.4 0.59 0.54 0.40 15 120 590 2450 11 2 TF 20L Def 100% 
+3059.36 34.73 177.11 2914.2 486.2 -486.5 -23.5 1.01 0.98 -0.39 12 120 590 2450 10 2 TF 20L Def 100% 
+3089.54 35.58 176.65 2938.9 503.6 -503.9 -22.6 0.88 0.84 -0.46 12 100 590 2430 10 2 CR 100% Bias -30 
+3118.07 35.65 177.66 2962.1 520.2 -520.5 -21.7 0.62 0.07 1.06 12 100 590 2430 10 2 CR 100% Bias -30 
+3145.40 35.32 177.16 2984.3 536.0 -536.3 -21.0 0.48 -0.36 -0.55 10 100 590 2430 11 2 CR @100% Bias -30 
+3167.94 35.69 178.03 3002.7 549.1 -549.4 -20.5 0.83 0.49 1.16 10 125 600 2500 10 3 CR @100% Bias -30 
+3185.27 35.70 178.52 3016.7 559.2 -559.5 -20.2 0.50 0.02 0.85 10 125 600 2500 25 3 CR @100% Bias -20 
+3203.43 35.56 178.75 3031.5 569.8 -570.1 -19.9 0.32 -0.23 0.38 5 120 600 2340 4 4 CR @100% Bias -30 
+3234.73 35.91 179.25 3056.9 588.1 -588.4 -19.6 0.44 0.34 0.48 10 165 580 2350 5 5 CR @100% Bias -30 
+3264.81 35.73 178.72 3081.3 605.7 -606.0 -19.3 0.36 -0.18 -0.53 15 170 600 2450 13 5 CR @100% Bias -30 
+3295.65 35.03 178.07 3106.4 623.5 -623.8 -18.8 0.77 -0.68 -0.63 10 100 600 2450 12 6 Home 
+3324.89 36.06 178.66 3130.2 640.5 -640.8 -18.3 1.11 1.06 0.61 10 150 600 2360 12 8 CR @100% Bias -30 
+3350.05 35.41 178.82 3150.7 655.2 -655.5 -18.0 0.78 -0.78 0.19 5 170 600 2360 8 8 CR @100% Bias -30 
+3379.25 35.71 179.95 3174.4 672.2 -672.5 -17.8 0.74 0.31 1.16 10 160 600 2460 7 8 CR @100% Bias -30 
+3408.14 35.85 180.50 3197.8 689.1 -689.4 -17.9 0.36 0.15 0.57 15 140 600 2490 15 8 CR @100% Bias -30 
+3439.04 36.10 180.75 3222.9 707.2 -707.5 -18.1 0.28 0.24 0.24 10 120 600 2490 15 8 CR @100% Bias -30 
+3467.05 35.47 179.36 3245.6 723.6 -723.9 -18.1 1.10 -0.67 -1.49 10 120 600 2490 15 8 HOME 
+3482.00 35.47 179.36 3257.7 732.3 -732.6 -18.0 0.00 0.00 0.00 10 120 600 2490 10 8 Projected to TD
+ ____________________________________________________________________________________________ 
+SECTION 6 
+BHA Data 
+
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 1 
+BHA# 1 : Date In :19/01/2010MD In (m) : 1998 TVD In (m) : 1998 Date Out: 21/01/2010MD Out (m): 2112 TVD Out (m): 2111 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+1 8.500 Hughes Christensen MXL-1x 6062641 1.114 2-3-WT-A -2-I-ER-BHA 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+1 6.750 SSDS SperryDrill 675400 1.15° 63 32.50 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 8 1/2" Hughes Mill Tooth Bit 6062641 8.500 3.000 8.500 169.30 P 4-1/2" Reg 0.24 
+2 6-3/4" SperryDrill Lobe 6/7 - 5.0 stg 675400 6.750 4.498 67.81 B 4-1/2" IF 8.29 0.69 
+3 8-1/8" Integral Blade Stabilizer 10988869 6.750 2.813 8.125 100.77 B 4-1/2" IF 2.03 9.55 
+4 6-3/4"PM Sub 194443 6.750 1.920 112.09 B 4-1/2" IF 2.78 
+5 6-3/4" HOC 203842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+6 Float Sub w/- Ported Float 11029122 6.750 3.000 97.86 B 4-1/2" IF 0.91 
+7 8-1/2" Integral Blade Stabilizer 700802 6.500 2.813 8.500 91.91 B 4-1/2" IF 1.70 18.13 
+8 6x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 56.16 
+9 9x HWDP 5.000 3.000 49.30 B 4-1/2" IF 84.57 
+10 6-1/2" Drilling Jars 17602177 6.500 2.750 92.85 B 4-1/2" IF 9.84 
+11 5x HWDP 5.000 3.000 49.30 B 4-1/2" IF 47.18 
+________ 
+216.73 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 20 35 22 Drilling : 22.00 in Air (Total) : 48291 
+RPM (rpm) : 50 65 58 Reaming : 0.00 in Mud (Total) : 41372 
+Flow (gpm) : 550 600 553 Circ-Other : 10.50 in Air (Bel Jars) : 37663 
+SPP (psi) : 1890 2200 1962 Total : 32.50 in Mud (Bel Jars) : 32267 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 1.36 10.54 Oriented : 38.00 4 3.00 
+Azimuth (deg) 129.23 181.54 Rotated : 76.00 6 
+Total : 114.00 5 2.41 13.76 2.57 
+COMMENTS 
+BRT 22:30 /19/01/10 
+ART 15:30/21/10/10
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 1 
+OBJECTIVES: 
+To drill the Cement down to the kick -off point and then orientate the well to 180 degrees south and build some angle of up to 10 degrees 
+before the upcoming Geo-Pilot BHA run. 
+RESULTS: 
+The BHA was run in to the top of the Cement at 1970m MD and was drilled with no problems in good time to 1990m MD where the motor 
+was orientated to 180 Degrees and the well was control drilled for the kick -off. The ROP was controlled until 1998m MD where it was 
+confirmed that samples showed 98% formation and kick-off was initiated 
+The next stand was also control drilled to gain some angle in the hole F 1998-2033m .Sliding mode gave slow ROP and only 
+realised just over 1 degree from a 13m slide .Again a 10m slide was put in and this time realised a 4 degree dog-leg and so with this the 
+slide ratio was reduced .In Slide mode hanging up became a regular occurrence requiring the well to be back-reamed which had a 
+negative effect on ROP and actual on bottom drilling time however tool-face control was reasonable. The well was successfully kicked 
+-off in the required direction .Once the well was drilled to approximately (Projected) 10 Degrees and after discussion with the company 
+Rep it was decided that this was enough angle in the hole to be confident that the BHA could be pulled and the subsequent Geo-Pilot 
+could commence for the remainder of the well to core point .The actual depth and inclination at this point was 2112m and 8.58 degrees . 
+The subsequent trip out of the hole was good and there was no back-reaming required and there were no tight spots or other 
+such hole problems .The bit for this run was surprisingly more worn than expected and the motor was in good shape with only 1mm of 
+bearing wear .
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 2 
+BHA# 2 : Date In :21/01/2010MD In (m) : 2112 TVD In (m) : 2111 Date Out: 26/01/2010MD Out (m): 3158 TVD Out (m): 2995 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+2 8.500 Reed Hycalog RSX616M 220126 6x18 1.491 2-1-CT-C--X-I-NO-DTF 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+2 6.750 SSDS Geopilot GP850TL103 0.00° 0 95.75 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Reed Hycalog RSX616M PDC 220126 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.44 
+2 7600 Geo-Pilot w/- LSH GP850TL103 6.750 1.920 8.375 112.09 B 4-1/2" IF 7.08 1.18 
+3 6-3/4" NM Flex with PCDC CP1005711 6.750 1.920 112.09 B 4-1/2" IF 2.81 
+4 6 3/4 RLL Stab 1016171 6.750 1.920 8.404 112.09 B 4-1/2" IF 0.67 10.77 
+5 6-3/4" RLL w/DGR + EWR 90232556 6.750 1.920 106.76 B 4-1/2" IF 6.54 
+6 6 3/4 ALD C/W Stab 902300556 6.750 1.920 8.250 112.09 B 4-1/2" IF 4.32 20.43 
+7 6-3/4" CTN + ACAL 902300556 6.750 1.920 112.09 B 4-1/2" IF 4.22 
+8 6-3/4" PWD 90222556 6.750 1.920 112.09 B 4-1/2" IF 2.54 
+9 6- BAT- Sonic 90230519 6.750 1.920 112.09 B 4-1/2" IF 6.68 
+10 6-3/4" HOC 203846 6.750 1.920 112.09 B 4-1/2" IF 3.04 
+11 6-3/4" Float Sub w/- Ported Float 11029122 6.750 3.000 97.86 B 4-1/2" IF 0.91 
+12 8-1/2" Integral Blade Stabilizer 700802 6.500 2.875 8.500 90.96 B 4-1/2" IF 1.70 40.01 
+13 3x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 27.92 
+14 9x HWDP 5.000 3.000 49.30 B 4-1/2" IF 84.57 
+15 6-1/2" Drilling Jar 17602177 6.500 2.750 92.85 B 4-1/2" IF 9.84 
+16 5x HWDP 5.000 3.000 49.30 B 4-1/2" IF 47.18 
+________ 
+210.46 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 10 25 16 Drilling : 79.50 in Air (Total) : 48329 
+RPM (rpm) : 80 150 125 Reaming : 11.00 in Mud (Total) : 41405 
+Flow (gpm) : 525 610 573 Circ-Other : 5.25 in Air (Bel Jars) : 37701 
+SPP (psi) : 1850 2520 2228 Total : 95.75 in Mud (Bel Jars) : 32299 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 10.54 35.53 Oriented : 0.00 0 0.30 
+Azimuth (deg) 181.54 177.65 Rotated : 1046.00 13 0.20 0.20 
+Total : 1046.00 13 0.72 -0.11 0.72 
+COMMENTS 
+Tools Initialized: 23:30hrs (BRT) 
+ABG - 1.49m Den - 20.74m Son - 31.89m 
+Svy - 8.74m Cal - 23.79m 
+Gam - 11.51m Por - 24.64m 
+Res - 13.86m PWD - 27.59m
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 2 
+OBJECTIVES: 
+To continue directionally drilling 8 ½" hole section to TD building inclination and turning azimuth with an average dogleg of 3 
+degree/30m.This BHA will be run to drill to the first core point then on to the second core point and then to TD as picked by Geology 
+RESULTS: 
+The BHA was run to bottom with no hole problems. Response was reasonable throughout the run but was hampered by vibration and 
+stick-slip resulting in pulling off bottom to send down -links at times .. Steering mode was used for the build up section, from 2112m to 
+2500m, then switched to cruise mode for the remainder of the well other than a two or three occasions when it was put back in to steering 
+mode to combat right hand bit walk . Effective dog leg produced was only 3+ degrees per 30m requiring 100% deflection and lower 
+flow-rate to maintain same . 
+During the run high stick slip and torsional vibration exposed all tools to extremely high levels of shock. Every possible effort was 
+endeavoured to mitigate stick slip and torsional vibration with limited success. Appeared the bit was generating the down hole torque .The 
+formation was very inter-bedded and despite constant variation of parameters and best drilling practices being used it was almost 
+impossible to stop, resulting in periods off bottom to allow energy out of the string before re-attempting to drill ahead 
+Frequent false downlinks were received by Geo-Pilot believed to be initiated by the perceived stick-slip down hole. Some down-links could 
+not be sent due to stick-slip and so some were sent while off bottom and stationary before drilling ahead .In the later section of the well 
+downlinks were sent after the survey to ensure the tool was set before drilling ahead .This BHA was pulled when communication was lost 
+at he RLL tools was lost due to the massive stick-slip shocks sustained during this section .The subsequent trip out of the hole was 
+without problems and the bit was worn more than expected from this run. 
+
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 3 
+BHA# 3 : Date In :26/01/2010MD In (m) : 3158 TVD In (m) : 2995 Date Out: 28/01/2010MD Out (m): 3196 TVD Out (m): 3025 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+3 8.500 Security DBS FMF3653Z 11374625 3x15, 3x12 0.849 0-0-NO-A -X-I-NO-CP 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+3 6.750 SSDS Geopilot GP850TL134 0.00° 0 13.50 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 SDBS FMF3653Z PDC 11374625 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.39 
+2 7600 Geo-Pilot w/- LSH GP850TL134 6.750 1.920 8.375 112.09 B 4-1/2" IF 7.08 1.13 
+3 6-3/4" NM Flex with PCDC CP919968 6.750 1.920 112.09 B 4-1/2" IF 2.76 
+4 6-3/4" RLL w/- Stab 90224657 6.750 1.920 8.375 112.09 B 4-1/2" IF 0.62 10.63 
+5 6-3/4" RLL w/DGR + EWR 90224657 6.750 1.920 106.76 B 4-1/2" IF 6.53 
+6 6-3/4" ALD w/- Stab 902300556 6.750 1.920 8.125 112.09 B 4-1/2" IF 4.99 20.99 
+7 6-3/4" CTN 902322813 6.750 1.920 112.09 B 4-1/2" IF 4.15 
+8 6-3/4" PWD 90215164 6.750 1.920 112.09 B 4-1/2" IF 2.53 
+9 6- BAT- Sonic 90235228 6.750 1.920 112.09 B 4-1/2" IF 6.72 
+10 6-3/4" HOC 302842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+11 6-3/4" ACAL 90235611 6.750 1.920 112.09 B 4-1/2" IF 1.81 
+12 6-3/4" Float Sub w/- Ported Float 11029122 6.750 3.000 97.86 B 4-1/2" IF 0.91 
+13 8-1/2" Integral Blade Stabilizer 700802 6.500 2.875 8.500 90.96 B 4-1/2" IF 1.70 42.37 
+14 3x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 27.92 
+15 9x HWDP 5.000 3.000 49.30 B 4-1/2" IF 84.57 
+16 6-1/2" Drilling Jar 17602177 6.500 2.750 92.85 B 4-1/2" IF 9.84 
+17 5x HWDP 5.000 3.000 49.30 B 4-1/2" IF 47.18 
+________ 
+212.73 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 10 10 10 Drilling : 5.00 in Air (Total) : 49154 
+RPM (rpm) : 125 125 125 Reaming : 2.50 in Mud (Total) : 42186 
+Flow (gpm) : 600 600 600 Circ-Other : 6.00 in Air (Bel Jars) : 38525 
+SPP (psi) : 2500 2500 2500 Total : 13.50 in Mud (Bel Jars) : 33064 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 35.53 35.62 Oriented : 0.00 0 
+Azimuth (deg) 177.65 178.66 Rotated : 38.00 8 
+Total : 38.00 8 0.07 0.80 0.47 
+COMMENTS 
+Tools Initialized:26/10/10 14:55hrs (BRT) 23:00hrs 27/01/10 (ART) 
+ABG - 1.45m Den - 21.29m ACAL - 39.17m 
+Svy - 8.69m Por - 24.49m 
+Gam - 11.36m PWD - 28.04m 
+Res - 13.68m Son - 32.36m
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 3 
+OBJECTIVES: 
+To drill 30m to the first core point 100m to the second core point and then to TD at 3630m +/_ holding tangent angle and landing to the 
+south of the target TL 60 
+RESULTS: 
+This BHA was run to bottom and the hole was re-logged on the way down at the same time .The hole packed off at a few points on the 
+way down which were specifically 3150md and 3152md .Once on bottom drilling began in inclination cruise with a 30 L bias to negate the 
+right hand turn expected from the bit .This section was to be drilled to core point as picked by Geologist .The first drilled depth was F 
+3158m 3180m MD where the pipe was reciprocated until logs were sent and samples obtained for Geology .This section also suffered 
+from stick-slip and lateral vibration and all attempts were made to mitigate same but the parameters found to minimise this also slowed 
+ROP to an unacceptable 1-1.5m/hr and so again parameters were modified to regain an acceptable ROP while minimising stick-slip 
+.Again this was not successful 
+The second drilled depth was F3180m-3190m MD as directed by Geology for the core point and once again the pipe was 
+reciprocated while logs were sent and samples got for Geology .This section was the same as before with lateral vibration and stick-slip 
+always present .The parameters were constantly modified to try and prevent this but once again was unsuccessful .This was considered 
+to be core point and the BHA was tripped out of hole .There were no problems on the trip out .The Geo-Pilot performed as expected.
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 4 
+BHA# 4 : Date In :28/01/2010MD In (m) : 3196 TVD In (m) : 3025 Date Out: 29/01/2010MD Out (m): 3213 TVD Out (m): 3039 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+4 8.500 Corepro 83691 0.000 0-0-NO-A -X-I-NO-PR 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Core Head 83691 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.37 
+2 Stabilizer WO137258 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 0.71 
+3 Outer Core Barrel WO135-256 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+4 Stabilizer WO137-237 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 6.80 
+5 Outer Core Barrel WO135264 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+6 Stabilizer WO137-015 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 12.88 
+7 Outer Core Barrel WO135-1974 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+8 Stabilizer WO137-219 6.500 5.625 8.438 28.40 B 4-1/2" IF 0.76 18.97 
+9 Outer Core Barrel WO135-098 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+10 Stabilizer WO137-219 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 25.11 
+11 Outer Core Barrel W0135-098 7.063 1.938 123.47 B 4-1/2" IF 5.33 
+12 Stabilizer WO1476014 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 31.14 
+13 Top Head wo1856027 7.063 2.875 111.40 B 4-1/2" IF 0.60 
+14 6x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 56.16 
+15 6-1/2" Drilling Jar 17602019 6.500 2.750 92.85 B 4-1/2" IF 9.94 
+16 2 x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 18.78 
+17 15 x 5" HWDP 5.000 3.000 49.30 B 4-1/2" IF 141.19 
+________ 
+258.25 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 5 5 5 Drilling : 5.00 in Air (Total) : 57119 
+RPM (rpm) : 120 120 120 Reaming : 1.50 in Mud (Total) : 49022 
+Flow (gpm) : 600 600 600 Circ-Other : 0.00 in Air (Bel Jars) : 25103 
+SPP (psi) : 2340 2340 2340 Total : 6.50 in Mud (Bel Jars) : 21545 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 35.62 35.67 Oriented : 0.00 0 0.00 
+Azimuth (deg) 178.66 178.90 Rotated : 17.00 3 0.00 0.00 
+Total : 17.00 3 0.09 0.44 0.27 
+COMMENTS
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 4 
+OBJECTIVES: 
+To retreive 30m of core F 3196m-3226m MD 
+RESULTS: 
+This was core BHA and was a success in that the13.4m of core recovered was deemed to be good enough to drill ahead to second core 
+point for evaluation .
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 5 
+BHA# 5 : Date In :29/01/2010MD In (m) : 3213 TVD In (m) : 3039 Date Out: 30/01/2010MD Out (m): 3283 TVD Out (m): 3096 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+3rr1 8.500 Security DBS FMF3653Z 11374625 3x15, 3x12 0.849 0-0-ER-A -X-I-NO-CP 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+4 6.750 SSDS Geopilot GP850TL134 0.00° 0 26.50 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 SDBS FMF3653Z PDC 11374625 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.39 
+2 7600 Geo-Pilot w/- LSH GP850TL134 6.750 1.920 8.375 112.09 B 4-1/2" IF 7.08 1.13 
+3 6-3/4" NM Flex with PCDC CP919968 6.750 1.920 112.09 B 4-1/2" IF 2.76 
+4 6-3/4" RLL w/- Stab 90224657 6.750 1.920 8.375 112.09 B 4-1/2" IF 0.62 10.63 
+5 6-3/4" RLL w/DGR + EWR 90224657 6.750 1.920 106.76 B 4-1/2" IF 6.53 
+6 6-3/4" ALD w/- Stab 902300556 6.750 1.920 8.125 112.09 B 4-1/2" IF 4.99 20.99 
+7 6-3/4" CTN 902322813 6.750 1.920 112.09 B 4-1/2" IF 4.15 
+8 6-3/4" PWD 90215164 6.750 1.920 112.09 B 4-1/2" IF 2.53 
+9 6- BAT- Sonic 90230519 6.750 1.920 112.09 B 4-1/2" IF 6.68 
+10 6-3/4" HOC 302842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+11 6-3/4" ACAL 90235611 6.750 1.920 112.09 B 4-1/2" IF 1.81 
+12 6-3/4" Float Sub w/- Ported Float 11029122 6.750 3.000 97.86 B 4-1/2" IF 0.91 
+13 8-1/2" Integral Blade Stabilizer 700802 6.500 2.875 8.500 90.96 B 4-1/2" IF 1.70 42.33 
+14 3x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 27.92 
+15 9x HWDP 5.000 3.000 49.30 B 4-1/2" IF 84.57 
+16 6-1/2" Drilling Jar 17602177 6.500 2.750 92.85 B 4-1/2" IF 9.84 
+17 5x HWDP 5.000 3.000 49.30 B 4-1/2" IF 47.18 
+________ 
+212.69 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 5 15 12 Drilling : 9.50 in Air (Total) : 49139 
+RPM (rpm) : 120 170 166 Reaming : 2.00 in Mud (Total) : 42099 
+Flow (gpm) : 580 600 592 Circ-Other : 1.50 in Air (Bel Jars) : 38511 
+SPP (psi) : 2330 2450 2404 Total : 13.00 in Mud (Bel Jars) : 32993 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 35.67 35.32 Oriented : 0.00 0 
+Azimuth (deg) 178.90 178.34 Rotated : 70.00 7 
+Total : 70.00 7 -0.15 -0.24 0.21 
+COMMENTS 
+Tools Initialized: hrs (BRT)29/01/10 @11:40 - 30/01/10 @18:15(ART) 
+ABG - 1.45m Den - 21.29m ACAL 39.13 m 
+Svy - 8.69m Por - 24.49m 
+Gam - 11.36m PWD - 28.04m 
+Res - 13.68m Son - 32.32m
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 5 
+OBJECTIVES: 
+This BHA will be run to continue tangent section to prognosed core point number 2 then continue to hold tangent angle and inclination to 
+through target TL60 and to TD at 3630m+/_md 
+RESULTS: 
+This BHA was the same as BHA#3 other than the Bat-sonic was run .The bit was the same as the previous run which was such a short 
+run that it was difficult to get a feel for the characteristics of it .This BHA was tripped to bottom with no problems and the hole was clean 
+on the trip in .The bit was broken in on bottom to try and establish a new pattern on bottom where the core BHA had left off .Once broken 
+in the RPM was brought up to 155RPM in order to try and minimise stick-slip ,and then on to 170 RPM seen at surface which was 
+deemed to be as fast as the rotary could be turned .Stick-slip was still an issue but marginally less than before .Again varying parameters 
+were attempted and it appeared that 140RPM with 20K WOB seemed to settle the stick-slip, however this was short lived . 
+Many combinations of WOB and RPM were adopted but as stated earlier only slightly better than before .Again this was only 
+a short run F 3213m -3284m(71m) and again it was very difficult gauge BHA characteristics but overall on this run it would seem to have 
+been an improvement on the previous BHA.
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 6 
+BHA# 6 : Date In :30/01/2010MD In (m) : 3283 TVD In (m) : 3096 Date Out: 1/02/2010 MD Out (m): 3298 TVD Out (m): 3108 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+4rr1 8.500 Corepro 83691 0.000 0-0-NO-A -X-I-NO-PR 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Core Head 83691 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.37 
+2 Stabilizer WO137258 6.750 5.625 8.438 37.26 B 4-1/2" Reg 0.76 0.71 
+3 Outer Core Barrel WO135-256 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+4 Stabilizer WO137-237 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 6.80 
+5 Outer Core Barrel WO135264 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+6 Stabilizer WO137-015 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 12.88 
+7 Outer Core Barrel WO135-1974 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+8 Stabilizer WO137-219 6.500 5.625 8.438 28.40 B 4-1/2" IF 0.76 18.97 
+9 Outer Core Barrel WO135-098 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+10 Stabilizer WO137-219 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 25.11 
+11 Outer Core Barrel W0135-098 7.063 1.938 123.47 B 4-1/2" IF 5.33 
+12 Stabilizer WO1476014 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 31.14 
+13 Top Head wo1856027 7.063 2.875 111.40 B 4-1/2" IF 0.60 
+14 6x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 56.16 
+15 6-1/2" Drilling Jar 17602019 6.500 2.750 92.85 B 4-1/2" IF 9.94 
+16 2 x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 18.78 
+17 15 x 5" HWDP 5.000 3.000 49.30 B 4-1/2" IF 141.19 
+________ 
+258.25 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 10 13 10 Drilling : 3.00 in Air (Total) : 57119 
+RPM (rpm) : 100 170 105 Reaming : 0.50 in Mud (Total) : 48935 
+Flow (gpm) : 600 600 600 Circ-Other : 1.00 in Air (Bel Jars) : 25103 
+SPP (psi) : 2450 2450 2450 Total : 4.50 in Mud (Bel Jars) : 21506 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 35.32 35.11 Oriented : 0.00 0 
+Azimuth (deg) 178.34 178.12 Rotated : 15.00 5 
+Total : 15.00 5 -0.41 -0.44 0.48 
+COMMENTS
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 6 
+OBJECTIVES: 
+THis BHA will be run to recover 50-70m of core as picked by Geology. 
+RESULTS: 
+This BHA cut core from 3283m to 3298.5m before it became jammed. Assembly was then pulled out of hole and 14.08m of core was 
+recovered and was considered not to be enough for evaluation and so a third run would be done..
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 7 
+BHA# 7 : Date In :1/02/2010 MD In (m) : 3298 TVD In (m) : 3108 Date Out: 2/02/2010 MD Out (m): 3309 TVD Out (m): 3117 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+4rr2 8.500 Corepro 83691 0.000 0-0-NO-A -X-I-NO-CP 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Core Head 83691 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.37 
+2 Stabilizer WO137258 6.750 5.625 8.438 37.26 B 4-1/2" Reg 0.76 0.71 
+3 Outer Core Barrel WO135-256 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+4 Stabilizer WO137-237 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 6.80 
+5 Outer Core Barrel WO135264 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+6 Stabilizer WO137-015 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 12.88 
+7 Outer Core Barrel WO135-1974 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+8 Stabilizer WO137-219 6.500 5.625 8.438 28.40 B 4-1/2" IF 0.76 18.97 
+9 Outer Core Barrel WO135-098 7.125 5.625 51.19 B 4-1/2" IF 5.33 
+10 Stabilizer WO137-219 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 25.11 
+11 Outer Core Barrel W0135-098 7.063 1.938 123.47 B 4-1/2" IF 5.33 
+12 Stabilizer WO1476014 6.750 5.625 8.438 37.26 B 4-1/2" IF 0.76 31.14 
+13 Top Head wo1856027 7.063 2.875 111.40 B 4-1/2" IF 0.60 
+14 6x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 56.16 
+15 6-1/2" Drilling Jar 17602019 6.500 2.750 92.85 B 4-1/2" IF 9.94 
+16 2 x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 18.78 
+17 15 x 5" HWDP 5.000 3.000 49.30 B 4-1/2" IF 141.19 
+________ 
+258.25 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 10 10 10 Drilling : 1.50 in Air (Total) : 57119 
+RPM (rpm) : 100 100 100 Reaming : 1.00 in Mud (Total) : 48935 
+Flow (gpm) : 600 600 600 Circ-Other : 0.50 in Air (Bel Jars) : 25103 
+SPP (psi) : 2450 2450 2450 Total : 3.00 in Mud (Bel Jars) : 21506 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 35.11 35.50 Oriented : 0.00 0 
+Azimuth (deg) 178.12 178.34 Rotated : 11.00 7 
+Total : 11.00 7 1.06 0.61 1.11 
+COMMENTS
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 7 
+OBJECTIVES: 
+This BHA will be run to retrieve another 20 m of core if possible due to the previous core sample being shorter than expected 
+RESULTS: 
+This BHA cut core from 3298.5m to 3309m before it became jammed. Assembly was then pulled out of hole and 9.50m of core was 
+recovered.
+ Operator : Origin Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report : Job # AU-DD-0006791008 BHA# 8 
+BHA# 8 : Date In :2/02/2010 MD In (m) : 3309 TVD In (m) : 3117 Date Cur: 4/02/2010 MD Cur (m): 3482 TVD Cur (m): 3258 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+3rr2 8.500 Security DBS FMF3653Z 11374625 3x15, 3x12 0.849 0-0-RR-A -X-I-NO-TD 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+5 6.750 SSDS Geopilot GP850TL134 0.00° 68 54.00 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 SDBS FMF3653Z PDC 11374625 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.39 
+2 7600 Geo-Pilot w/- LSH GP850TL134 6.750 1.920 8.375 112.09 B 4-1/2" IF 7.08 1.13 
+3 6-3/4" NM Flex with PCDC CP919968 6.750 1.920 112.09 B 4-1/2" IF 2.76 
+4 6-3/4" RLL w/- Stab 90224657 6.750 1.920 8.375 112.09 B 4-1/2" IF 0.62 10.63 
+5 6-3/4" RLL w/DGR + EWR 90224657 6.750 1.920 106.76 B 4-1/2" IF 6.53 
+6 6-3/4" ALD w/- Stab 902300556 6.750 1.920 8.125 112.09 B 4-1/2" IF 4.99 20.99 
+7 6-3/4" CTN 902322813 6.750 1.920 112.09 B 4-1/2" IF 4.15 
+8 6-3/4" PWD 90215164 6.750 1.920 112.09 B 4-1/2" IF 2.53 
+9 6- BAT- Sonic 90230519 6.750 1.920 112.09 B 4-1/2" IF 6.68 
+10 6-3/4" HOC 302842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+11 6-3/4" ACAL 90235611 6.750 1.920 112.09 B 4-1/2" IF 1.81 
+12 6-3/4" Float Sub w/- Ported Float 11029122 6.750 3.000 97.86 B 4-1/2" IF 0.91 
+13 8-1/2" Integral Blade Stabilizer 700802 6.500 2.875 8.500 90.96 B 4-1/2" IF 1.70 42.33 
+14 3x Drill collar 6.750 2.875 99.83 B 4-1/2" IF 27.92 
+15 9x HWDP 5.000 3.000 49.30 B 4-1/2" IF 84.57 
+16 6-1/2" Drilling Jar 17602019 6.500 2.750 92.85 B 4-1/2" IF 9.94 
+17 5x HWDP 5.000 3.000 49.30 B 4-1/2" IF 47.18 
+________ 
+212.79 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (klbs) : 5 15 10 Drilling : 19.50 in Air (Total) : 49170 
+RPM (rpm) : 80 170 140 Reaming : 3.50 in Mud (Total) : 42125 
+Flow (gpm) : 600 600 600 Circ-Other : 4.50 in Air (Bel Jars) : 38511 
+SPP (psi) : 2360 3260 2505 Total : 27.50 in Mud (Bel Jars) : 32993 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/30m) Turn (°/30m) DLS (°/30m) 
+Inclination (deg) 35.50 35.47 Oriented : 0.00 0 0.40 
+Azimuth (deg) 178.34 179.36 Rotated : 173.00 9 0.30 0.30 
+Total : 173.00 9 -0.01 0.18 0.10 
+COMMENTS 
+Tools Initialized: hrs (BRT) 02/02/10 @ 06:40 
+ABG - 1.45m Den - 21.29m ACAL 39.13 m 
+Svy - 8.69m Por - 24.49m 
+Gam - 11.36m PWD - 28.04m 
+Res - 13.68m Son - 32.32m
+ : Origin Operator Energy Resources Ltd 
+Well : Rockhopper-1 ST1 
+Country : Australia 
+Location : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006791008 BHA# 8 
+OBJECTIVES: 
+This BHA will be run to drill from the core point at 3309m to Prognosed TD at 3620m intersecting the Target TL -60 holding inclination and 
+direction as required for the target. 
+RESULTS: 
+This BHA has been run before and after the core point .Again from the outset this BHA suffered from stick -slip as it had done on the 
+previous runs .The stick-slip seen was severe and varying parameters were adopted to try and mitigate it .From the core point at 3309m 
+MD the parameters were 5-15K WOB with 120-170 RPM being the range with periods off bottom to allow the inertia out of the string 
+before re-starting drilling .These parameters were modified almost continuously and at times 120-130 RPM and 10-15K WOB seemed to 
+be the best for a while but was short lived and again severe stick -slip was seen .The rig heave during this was almost as much as the rig 
+was designed for and the compensator seemed to struggle to keep up with the heave and only compounded the stick-slip as keeping a 
+constant weight on bit was extremely difficult if not impossible. 
+At around 3430m MD the formation changed and the volcanic formations were coming in which not only gave the same 
+stick-slip issues but was now coupled with vibration also .Once again parameters were changed and modified as necessary but it was 
+only minimised as far as possible and not mitigated .ROP during this section was average 10m/hr and although the Geo-Pilot was run out 
+of specification it made the run to TD at 3482m MD as advised by Geologist .The Subsequent trip out of the hole was good with just 
+about 15k drag at some points but easily worked through.
+ LWD End of Well Report 
+For 
+Origin Energy Resources Ltd 
+Rockhopper-1 ST1 
+Rig: Kan Tan IV 
+Field: Rockhopper-1 ST1 
+Country: Australia 
+Job No: AU-FE-0006791008 
+Date: 20 JAN 2010 
+
+Table of Contents 
+1. General Information 
+2. Operational Overview 
+3. Summary of MWD Runs 
+4. Bitrun Summary 
+5. Directional Survey Data 
+6. Service Interrupt Report 
+AU-FE-0006791008 Rockhopper-1 ST1 2
+General Information 
+Company: Origin Energy Resources Ltd 
+Rig: Kan Tan IV 
+Well: Rockhopper-1 ST1 
+Field: Rockhopper 
+Lease Name: 
+State: Tasmania 
+County: 
+Country: Australia 
+API Number: 
+Sperry Job Number: AU-FE-0006791008 
+Job start date: 20-Jan-10 
+Job end date: 03-Feb-10 
+North reference: Grid 
+Declination: 12.495 deg 
+Dip angle: -70.395 deg 
+Total magnetic field: 60970 nT 
+Date of magnetic data: 01 December, 2009 
+Wellhead coordinates N: 39 deg. 47 min 34.18 sec South 
+Wellhead coordinates E: 145 deg. 26 min 21.47 sec East 
+Vertical section direction: 179.28 deg 
+Unit Number: SSH-40 
+MWD Engineers: J. Lau, T. Oborne, M. George 
+Company Representatives: B. Houston 
+Company Geologist: D. Archer, C. Matthews 
+AU-FE-0006791008 Rockhopper-1 ST1 3
+Operational Overview 
+Sperry Drilling was contracted by Origin Energy Resources Ltd to provide Logging While Drilling (LWD) services for the drilling of 
+Rockhopper-1 ST1. The well was drilled in permit T/18P by the Maersk MODU Kan Tan IV. 
+8 1/2" (216mm) Hole Section: 
+This section was drilled in seven bit runs using a Geopilot rotary steerable system (RSS) BHA together with a motor BHA. 
+LWD tools used in the RSS BHA comprised of the following : 
+Drillstring Dynamics (DDSr-DGR) for drilling optimisation, Dual Gamma Ray (DGR), Electromagnetic wave resistivity (EWR-P4), 
+Compensated Thermal Neutron (CTN), Azimuthal Litho-Density (ALD) and Bi-Modal Acoustic (BAT) for formation evaluation. Acoustic 
+Caliper (ACAL) was run in recorded mode to determine hole size. Additionally a Pressure Case Directional (PCDC) was run for wellbore 
+surveying. 
+MWD in the Motor BHA was directional only and consisted of PCDC for directional control. 
+In the first run, the motor BHA was picked and RIH but failed to find the cement plug. BHA was pulled to set another kick-off plug. 
+In the second run the motor BHA was picked up and drilled from 1990.0 to 2112.0 mMDRT. BHA was pulled to pickup the RSS BHA. 
+In the third run, while the RSS BHA was tested at the shallow depth, the PCDC inclination locked up and the BHA was tripped to change 
+out PCDC. 
+The fourth run was RSS BHA with backup PCDC tool. The kick-off section was wiped from 1970.0m to 2112.0 mMDRT for logging data.. 
+It was then drilled from 2112 mMDRT to 3158.0 mMDRT. POOH to due to RSS BHA LWD failure. 
+The fifth assembly was drilled from 3158.0m to 3196.0m MDRT. POOH for first coring run. 
+The sixth RSS assembly was wiped from 3169.0m to 3212.5 mMDRT to log the first core section. It was then drilled from 3212.5m to 
+3284.0m MDRTand POOH for second and third coring runs. 
+The seventh RSS assembly was wiped from 3212.5m to 3309.0m to log second and third core section. It was then drilled to TD at 
+3482.0m MDRT and pull out of hole for wireline logging. 
+AU-FE-0006791008 Rockhopper-1 ST1 4
+Summary of MWD runs 
+Run 
+No. 
+Bit 
+No. 
+Hole 
+Size 
+MWD Service Start 
+Depth 
+End 
+Depth 
+Drill/Wipe 
+Distance 
+Run Start Date 
+Time 
+Run End Date 
+Time 
+BRT 
+Hrs. 
+Oper. 
+Hrs. 
+Circ. 
+Hrs. 
+Max 
+Temp. 
+Serv. 
+Int. 
+Trip 
+for 
+MWD 
+Failure Type 
+(mm) (m) (m) (m) (degC) 
+100 1 216.00 DWD 0.000 0.000 0.000 07-Jan-10 22:30 08-Jan-10 12:30 14.00 14.000 2.330 0.00 No No 
+200 2 216.00 DWD 1990.000 2112.000 122.000 19-Jan-10 18:40 21-Jan-10 15:15 44.58 44.580 24.800 56.30 No No 
+300 3 216.00 Quad GP 2112.000 2112.000 0.000 21-Jan-10 18:02 21-Jan-10 22:00 3.97 3.970 0.830 0.00 Yes Yes PCD-C 
+400 4 216.00 Quad GP 2112.000 3158.000 1046.000 21-Jan-10 23:29 26-Jan-10 10:15 106.76 106.760 82.130 76.00 Yes Yes RLL 
+500 5 216.00 Quad GP 3158.000 3196.000 38.000 26-Jan-10 15:52 27-Jan-10 23:11 31.31 31.340 12.450 109.30 No No 
+600 6 216.00 Quad GP 3212.500 3283.000 70.500 29-Jan-10 11:36 30-Jan-10 18:16 30.66 30.660 12.260 86.00 No No 
+700 7 216.00 Quad GP 3309.000 3482.000 173.000 02-Feb-10 06:38 04-Feb-10 06:19 47.68 47.680 21.350 127.00 No No 
+AU-FE-0006791008 Rockhopper-1 ST1 5
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 100 Run Start 07-Jan-10 22:30 BRT Hrs 14.00 hr Circ. Hrs 2.33 hr 
+Rig Bit No 1 Run End 08-Jan-10 12:30 Hole Size 216.00 mm Oper. Hrs 14.00 hr 
+DRILLING DATA 
+Start Depth 0.00 m Footage 0.00 m Avg RPM 0 rpm Avg ROP 0.00 m/hr 
+End Depth 0.00 m Avg Flow Rate 0.00 gpm Avg WOB 0.0 klb Avg SPP 0 psig 
+Drilling Hours 0.000 hr 
+MUD DATA 
+Mud Type 
+Weight 0.00 ppg Viscosity 0.00 spqt PV 0 cP YP 0.00 lhf2 
+Chlorides 0.00 ppm Max Temp. 0.00 degC % Solids 0.00 % % Sand 0.00 % 
+pH 0.00 pH Fluid Loss 0 mptm % Oil 0.00 % O:W 
+MWD PERFORMANCE 
+Tool OD 8.00 in Type DWD Min. Inc. 0.00 deg Min. Inc. Depth 0.000 m 
+Final Az. 0.00 deg Max Op. Press. 0 psig Max Inc. 0.00 deg Max Inc. Depth 0.000 m 
+MWD Real-time % 0 % MWD Recorded % 0 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5" X 3" HWDP #49.3 - NC50(IF) 
+5.00 in OD / 3.00 in ID 47.18 
+216.73 
+Jar 
+6.50 in OD / 2.75 in ID 9.84 
+169.55 
+5" X 3" HWDP #49.3 - NC50(IF) 
+5.00 in OD / 3.00 in ID 84.57 
+159.71 
+6 3/4" X 3'' - 97.6# Drill Collar 
+6.75 in OD / 2.88 in ID 56.16 
+75.14 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 
+18.98 
+Float Sub 
+6.75 in OD / 3.00 in ID 0.91 17.28 
+MWD 5.81 
+16.37 
+Integral Blade 
+6.75 in OD / 2.88 in ID 2.03 
+10.56 
+Mud Motor 
+6.75 in OD / 4.50 in ID 8.29 
+8.53 
+Mill 
+8.50 in OD / 2.50 in ID 0.24 0.24 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+6 3/4"HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 11050290 
+* PCM Sonde - SN : 11226946 
+3.03 
+14.70 
+6 3/4" PM Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde - SN : 300351 
+2.78 
+11.77 
+COMMENTS 
+Attempt to side track well, no cement plug found. POOH to set another kick-off plug. 
+AU-FE-0006791008 Rockhopper-1 ST1 6
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 200 Run Start 19-Jan-10 18:40 BRT Hrs 44.58 hr Circ. Hrs 24.80 hr 
+Rig Bit No 2 Run End 21-Jan-10 15:15 Hole Size 216.00 mm Oper. Hrs 44.58 hr 
+DRILLING DATA 
+Start Depth 1990.00 m Footage 122.00 m Avg RPM 223 rpm Avg ROP 6.70 m/hr 
+End Depth 2112.00 m Avg Flow Rate 544.00 gpm Avg WOB 13.3 klb Avg SPP 1971 psig 
+Drilling Hours 18.200 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.30 ppg Viscosity 68.00 spqt PV 21 cP YP 33.00 lhf2 
+Chlorides 36000.00 ppm Max Temp. 56.30 degC % Solids 3.30 % % Sand 0.25 % 
+pH 10.50 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:93.8 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type DWD Min. Inc. 1.12 deg Min. Inc. Depth 1995.260 m 
+Final Az. 180.78 deg Max Op. Press. 3351 psig Max Inc. 9.89 deg Max Inc. Depth 2097.430 m 
+MWD Real-time % 100 % MWD Recorded % 0 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5" X 3" HWDP #49.3 - NC50(IF) 
+5.00 in OD / 3.00 in ID 47.18 
+216.73 
+Jar 
+6.50 in OD / 2.75 in ID 9.84 
+169.55 
+5" X 3" HWDP #49.3 - NC50(IF) 
+5.00 in OD / 3.00 in ID 84.57 
+159.71 
+6 3/4" X 3'' - 97.6# Drill Collar 
+6.75 in OD / 2.88 in ID 56.16 
+75.14 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 
+18.98 
+Float Sub 
+6.75 in OD / 3.00 in ID 0.91 17.28 
+MWD 5.81 
+16.37 
+Integral Blade 
+6.75 in OD / 2.88 in ID 2.03 
+10.56 
+Mud Motor 
+6.75 in OD / 4.50 in ID 8.29 
+8.53 
+Mill 
+8.50 in OD / 2.50 in ID 0.24 0.24 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+6 3/4"HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 8443 
+* PCM Sonde - SN : 11226946 
+3.03 
+14.70 
+6 3/4" PM Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde - SN : 300351 
+2.78 
+11.68 
+COMMENTS 
+RIH and initiate kick off of Rockhopper-1ST1 from the well bore of Rockhopper-1 at 1990.0m MDRT and drill ahead 
+steering as required. 
+AU-FE-0006791008 Rockhopper-1 ST1 7
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 300 Run Start 21-Jan-10 18:02 BRT Hrs 3.97 hr Circ. Hrs 0.83 hr 
+Rig Bit No 3 Run End 21-Jan-10 22:00 Hole Size 216.00 mm Oper. Hrs 3.97 hr 
+DRILLING DATA 
+Start Depth 2112.00 m Footage 0.00 m Avg RPM 0 rpm Avg ROP 0.00 m/hr 
+End Depth 2112.00 m Avg Flow Rate 0.00 gpm Avg WOB 0.0 klb Avg SPP 0 psig 
+Drilling Hours 0.000 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 0.00 ppg Viscosity 0.00 spqt PV 0 cP YP 0.00 lhf2 
+Chlorides 0.00 ppm Max Temp. 0.00 degC % Solids 0.00 % % Sand 0.00 % 
+pH 0.00 pH Fluid Loss 0 mptm % Oil 0.00 % O:W 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type Quad GP Min. Inc. 0.00 deg Min. Inc. Depth 0.000 m 
+Final Az. 0.00 deg Max Op. Press. 0 psig Max Inc. 0.00 deg Max Inc. Depth 0.000 m 
+MWD Real-time % 0 % MWD Recorded % 0 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 47.18 
+210.41 
+Jar 
+6.50 in OD / 2.75 in ID 9.84 
+163.23 
+9 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 84.57 
+153.39 
+3 x 6 3/4" X 2.8125'' Drill Collar 
+6.75 in OD / 2.81 in ID 27.92 
+68.82 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 40.90 
+Float Sub 
+6.75 in OD / 2.94 in ID 0.91 39.20 
+MWD 27.34 
+38.29 
+Stabilizer 
+6.75 in OD / 1.92 in ID 0.67 10.95 
+Flex Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde 
+2.76 10.07 
+Geo-Pilot 7600 
+6.75 in OD / 1.63 in ID 7.08 
+7.52 
+PDC 
+8.50 in OD / 1.42 in ID 0.44 0.44 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 10681262 
+* PCM Sonde - SN : 10921470 
+3.04 0.00 
+BAT 
+6.75 in OD / 1.92 in ID 
+* BAT Insert - SN : 169877 
+6.68 24.20 
+PWD 
+6.75 in OD / 1.92 in ID 
+* PWD Insert - SN : 11307667 
+2.54 0.00 
+NUKE - ALD CTN ACAL 
+6.75 in OD / 1.92 in ID 
+* ACAL Insert - SN : 123087 
+* CTN Insert - SN : 11211115 
+* ALD Insert - SN : 82792 
+8.54 
+31.02 
+19.64 
+15.59 
+RLL - DGR DDSr-DGR EWR-P4 HCIM 
+6.75 in OD / 1.92 in ID 
+* HCIM Insert - SN : 222936 
+* EWR-P4 Insert - SN : 175801 
+* DDSr-DGR - SN : 218750 
+* DGR Insert - SN : 218750 
+6.54 
+5.17 
+0.00 
+2.83 
+COMMENTS 
+RIH to drill 8 1/2" section, during SPT, PCDC locked up giving error readings for Gy and Gtotal. POOH to pick up 
+backup tools. 
+AU-FE-0006791008 Rockhopper-1 ST1 8
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 400 Run Start 21-Jan-10 23:29 BRT Hrs 106.76 hr Circ. Hrs 82.13 hr 
+Rig Bit No 4 Run End 26-Jan-10 10:15 Hole Size 216.00 mm Oper. Hrs 106.76 hr 
+DRILLING DATA 
+Start Depth 2112.00 m Footage 1046.00 m Avg RPM 108 rpm Avg ROP 18.62 m/hr 
+End Depth 3158.00 m Avg Flow Rate 574.00 gpm Avg WOB 13.2 klb Avg SPP 2141 psig 
+Drilling Hours 56.180 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.40 ppg Viscosity 65.00 spqt PV 19 cP YP 30.00 lhf2 
+Chlorides 37000.00 ppm Max Temp. 76.00 degC % Solids 3.40 % % Sand 0.20 % 
+pH 9.50 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:94 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type Quad GP Min. Inc. 10.33 deg Min. Inc. Depth 2101.740 m 
+Final Az. 177.66 deg Max Op. Press. 4795 psig Max Inc. 36.74 deg Max Inc. Depth 2483.190 m 
+MWD Real-time % 100 % MWD Recorded % 98 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 47.18 
+210.46 
+Jar 
+6.50 in OD / 2.75 in ID 9.84 
+163.28 
+9 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 84.57 
+153.44 
+3 x 6 3/4" X 2.8125'' Drill Collar 
+6.75 in OD / 2.81 in ID 27.92 
+68.87 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 40.95 
+Float Sub 
+6.75 in OD / 2.94 in ID 0.91 39.25 
+MWD 27.34 
+38.34 
+Stabilizer 
+6.75 in OD / 1.92 in ID 0.67 11.00 
+Flex Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde 
+2.81 8.73 
+Geo-Pilot 7600 
+6.75 in OD / 1.63 in ID 7.08 
+7.52 
+Reed Hycalog RSX616M 
+8.50 in OD / 1.42 in ID 0.44 0.44 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 10486716 
+* PCM Sonde - SN : 10921470 
+3.04 0.00 
+BAT 
+6.75 in OD / 1.92 in ID 
+* BAT Insert - SN : 169877 
+6.68 31.88 
+PWD 
+6.75 in OD / 1.92 in ID 
+* PWD Insert - SN : 11307667 
+2.54 27.58 
+NUKE - ALD CTN ACAL 
+6.75 in OD / 1.92 in ID 
+* ACAL Insert - SN : 123087 
+* CTN Insert - SN : 11211115 
+* ALD Insert - SN : 82792 
+8.54 
+23.78 
+24.84 
+20.76 
+RLL - DGR DDSr-DGR EWR-P4 HCIM 
+6.75 in OD / 1.92 in ID 
+* HCIM Insert - SN : 222936 
+* EWR-P4 Insert - SN : 175801 
+* DDSr-DGR - SN : 218750 
+* DGR Insert - SN : 218750 
+6.54 
+13.85 
+0.00 
+11.51 
+COMMENTS 
+RIH with Quad Combo and GP assembly. Wipe previously drilled directional only section from 2001m to 2112m MDRT. 
+Drill new formation to 3158.0mMDRT. POOH for LWD failure. 
+AU-FE-0006791008 Rockhopper-1 ST1 9
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 500 Run Start 26-Jan-10 15:52 BRT Hrs 31.31 hr Circ. Hrs 12.45 hr 
+Rig Bit No 5 Run End 27-Jan-10 23:11 Hole Size 216.00 mm Oper. Hrs 31.34 hr 
+DRILLING DATA 
+Start Depth 3158.00 m Footage 38.00 m Avg RPM 77 rpm Avg ROP 9.74 m/hr 
+End Depth 3196.00 m Avg Flow Rate 604.00 gpm Avg WOB 9.9 klb Avg SPP 2468 psig 
+Drilling Hours 3.900 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.40 ppg Viscosity 63.00 spqt PV 20 cP YP 37.00 lhf2 
+Chlorides 37500.00 ppm Max Temp. 109.30 degC % Solids 3.40 % % Sand 0.20 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:94.0 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type Quad GP Min. Inc. 35.32 deg Min. Inc. Depth 3145.400 m 
+Final Az. 178.52 deg Max Op. Press. 4859 psig Max Inc. 35.70 deg Max Inc. Depth 3185.270 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 47.18 
+212.73 
+Jar 
+6.50 in OD / 2.75 in ID 9.84 
+165.55 
+9 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 84.57 
+155.71 
+3 x 6 3/4" X 2.8125'' Drill Collar 
+6.75 in OD / 2.81 in ID 27.92 
+71.14 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 43.22 
+Float Sub 
+6.75 in OD / 2.94 in ID 0.91 41.52 
+MWD 29.76 
+40.61 
+Stabilizer 
+6.75 in OD / 1.92 in ID 0.62 10.85 
+Flex Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde 
+2.76 8.69 
+Geo-Pilot 7600 
+6.75 in OD / 1.63 in ID 7.08 
+7.47 
+Security FMF3653Z 
+8.50 in OD / 1.42 in ID 0.39 0.39 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+ACAL 
+6.75 in OD / 1.92 in ID 
+* ACAL Insert - SN : 142854 
+1.81 39.17 
+HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 10486716 
+* PCM Sonde - SN : 11145579 
+3.03 35.35 
+BAT 
+6.75 in OD / 1.92 in ID 
+* BAT Insert - SN : 125780 
+6.72 32.36 
+PWD 
+6.75 in OD / 1.92 in ID 
+* PWD Insert - SN : 184467440737095 
+2.53 28.04 
+NUKE - ALD CTN ACAL 
+6.75 in OD / 1.92 in ID 
+* CTN Insert - SN : 161970 
+* ALD Insert - SN : 10507525 
+9.14 
+25.31 
+21.32 
+RLL - DGR DDSr-DGR EWR-P4 HCIM 
+6.75 in OD / 1.92 in ID 
+* HCIM Insert - SN : 225649 
+* EWR-P4 Insert - SN : 94034 
+* DDSr-DGR - SN : 10909632 
+* DGR Insert - SN : 10909632 
+6.53 
+13.68 
+0.00 
+11.36 
+COMMENTS 
+Drill 8 1/2" Section from 3158.0 mMDRT to first core point at 3196.0 mMDRT. POOH to run core barrels. 
+AU-FE-0006791008 Rockhopper-1 ST1 10
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 600 Run Start 29-Jan-10 11:36 BRT Hrs 30.66 hr Circ. Hrs 12.26 hr 
+Rig Bit No 6 Run End 30-Jan-10 18:16 Hole Size 216.00 mm Oper. Hrs 30.66 hr 
+DRILLING DATA 
+Start Depth 3212.50 m Footage 70.50 m Avg RPM 172 rpm Avg ROP 11.79 m/hr 
+End Depth 3283.00 m Avg Flow Rate 580.00 gpm Avg WOB 12.1 klb Avg SPP 2000 psig 
+Drilling Hours 5.980 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.35 ppg Viscosity 62.00 spqt PV 15 cP YP 25.00 lhf2 
+Chlorides 38000.00 ppm Max Temp. 86.00 degC % Solids 2.90 % % Sand 0.15 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:94 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type Quad GP Min. Inc. 35.56 deg Min. Inc. Depth 3203.430 m 
+Final Az. 178.72 deg Max Op. Press. 4940 psig Max Inc. 35.91 deg Max Inc. Depth 3234.730 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 47.18 
+212.69 
+Jar 
+6.50 in OD / 2.75 in ID 9.84 
+165.51 
+9 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 84.57 
+155.67 
+3 x 6 3/4" X 2.8125'' Drill Collar 
+6.75 in OD / 2.81 in ID 27.92 
+71.10 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 43.18 
+Float Sub 
+6.75 in OD / 2.94 in ID 0.91 41.48 
+MWD 29.72 
+40.57 
+Stabilizer 
+6.75 in OD / 1.92 in ID 0.62 10.85 
+Flex Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde 
+2.76 8.69 
+Geo-Pilot 7600 
+6.75 in OD / 1.63 in ID 7.08 
+7.47 
+Security FMF3653Z 
+8.50 in OD / 1.42 in ID 0.39 0.39 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+ACAL 
+6.75 in OD / 1.92 in ID 
+* ACAL Insert - SN : 142854 
+1.81 39.13 
+HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 10486716 
+* PCM Sonde - SN : 11145579 
+3.03 35.35 
+BAT 
+6.75 in OD / 1.92 in ID 
+* BAT Insert - SN : 169877 
+6.68 32.33 
+PWD 
+6.75 in OD / 1.92 in ID 
+* PWD Insert - SN : 184467440737095 
+2.53 28.04 
+NUKE - ALD CTN ACAL 
+6.75 in OD / 1.92 in ID 
+* CTN Insert - SN : 161970 
+* ALD Insert - SN : 10507525 
+9.14 
+25.31 
+21.32 
+RLL - DGR DDSr-DGR EWR-P4 HCIM 
+6.75 in OD / 1.92 in ID 
+* HCIM Insert - SN : 225649 
+* EWR-P4 Insert - SN : 94034 
+* DDSr-DGR - SN : 10909632 
+* DGR Insert - SN : 10909632 
+6.53 
+13.68 
+0.00 
+11.36 
+COMMENTS 
+Change out BAT sonic tool and RIH with the previous assembly to wipe core section and drill ahead to second core 
+point. POOH to core. 
+AU-FE-0006791008 Rockhopper-1 ST1 11
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 700 Run Start 02-Feb-10 06:38 BRT Hrs 47.68 hr Circ. Hrs 21.35 hr 
+Rig Bit No 7 Run End 04-Feb-10 06:19 Hole Size 216.00 mm Oper. Hrs 47.68 hr 
+DRILLING DATA 
+Start Depth 3309.00 m Footage 173.00 m Avg RPM 160 rpm Avg ROP 11.09 m/hr 
+End Depth 3482.00 m Avg Flow Rate 594.00 gpm Avg WOB 12.7 klb Avg SPP 2230 psig 
+Drilling Hours 15.600 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.40 ppg Viscosity 73.00 spqt PV 18 cP YP 28.00 lhf2 
+Chlorides 38000.00 ppm Max Temp. 127.00 degC % Solids 3.50 % % Sand 0.20 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type Quad GP Min. Inc. 35.03 deg Min. Inc. Depth 3293.650 m 
+Final Az. 179.36 deg Max Op. Press. 5225 psig Max Inc. 36.10 deg Max Inc. Depth 3439.040 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 47.18 
+212.79 
+Jar 
+6.50 in OD / 2.75 in ID 9.94 
+165.61 
+9 x 5" X 3" HWDP 
+5.00 in OD / 3.00 in ID 84.57 
+155.67 
+3 x 6 3/4" X 2.8125'' Drill Collar 
+6.75 in OD / 2.81 in ID 27.92 
+71.10 
+Integral Blade 
+6.75 in OD / 2.88 in ID 1.70 43.18 
+Float Sub 
+6.75 in OD / 2.94 in ID 0.91 41.48 
+MWD 29.72 
+40.57 
+Stabilizer 
+6.75 in OD / 1.92 in ID 0.62 10.85 
+Flex Sub 
+6.75 in OD / 1.92 in ID 
+* PCDC Sonde 
+2.76 8.69 
+Geo-Pilot 7600 
+6.75 in OD / 1.63 in ID 7.08 
+7.47 
+PDC 
+8.50 in OD / 1.42 in ID 0.39 0.39 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+ACAL 
+6.75 in OD / 1.92 in ID 
+* ACAL Insert - SN : 142854 
+1.81 39.13 
+HOC 
+6.75 in OD / 1.92 in ID 
+* Positive Pulser - SN : 11160907 
+* PCM Sonde - SN : 11145579 
+3.03 35.35 
+BAT 
+6.75 in OD / 1.92 in ID 
+* BAT Insert - SN : 169877 
+6.68 32.33 
+PWD 
+6.75 in OD / 1.92 in ID 
+* PWD Insert - SN : 184467440737095 
+2.53 28.04 
+NUKE - ALD CTN 
+6.75 in OD / 1.92 in ID 
+* CTN Insert - SN : 161970 
+* ALD Insert - SN : 10507525 
+9.14 
+25.31 
+21.32 
+RLL - DGR DDSr-DGR EWR-P4 HCIM 
+6.75 in OD / 1.92 in ID 
+* HCIM Insert - SN : 225649 
+* EWR-P4 Insert - SN : 94034 
+* DDSr-DGR - SN : 10909632 
+* DGR Insert - SN : 10909632 
+6.53 
+13.68 
+0.00 
+11.36 
+COMMENTS 
+RIH with the previous rotary and LWD assembly to wipe core section and drill ahead to TD. POOH to run wireline logs. 
+AU-FE-0006791008 Rockhopper-1 ST1 12
+Directional Survey Data 
+RT- LAT=26.0m 
+Final survey projected to TD 
+All surveys are SAG corrected. 
+0.000 0.00 0.00 0.000 0.000 N 0.000 E *** 
+Measured 
+Depth Inclination Direction Vertical 
+Depth Latitude Departure Vertical 
+Section Dogleg 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) 
+100.300 0.00 0.00 100.300 0.000 N 0.000 E 0.000 0.00 
+242.360 0.22 278.10 242.360 0.040 N 0.270 W -0.040 0.05 
+327.420 0.34 318.42 327.420 0.250 N 0.600 W -0.260 0.08 
+356.380 0.16 310.14 356.380 0.340 N 0.690 W -0.350 0.19 
+414.830 0.43 334.58 414.830 0.590 N 0.840 W -0.600 0.15 
+502.130 0.25 356.62 502.130 1.080 N 1.000 W -1.090 0.08 
+559.330 0.33 356.35 559.330 1.370 N 1.010 W -1.380 0.04 
+645.930 0.22 77.08 645.920 1.650 N 0.870 W -1.660 0.13 
+733.400 0.10 264.51 733.390 1.680 N 0.780 W -1.690 0.11 
+819.330 0.13 204.11 819.320 1.590 N 0.890 W -1.600 0.04 
+907.200 0.22 337.40 907.190 1.650 N 1.000 W -1.660 0.11 
+956.770 0.15 112.45 956.760 1.710 N 0.980 W -1.730 0.21 
+980.350 0.00 258.48 980.340 1.700 N 0.950 W -1.710 0.19 
+1009.960 0.20 60.48 1009.950 1.730 N 0.900 W -1.740 0.20 
+1039.180 0.22 57.43 1039.170 1.780 N 0.810 W -1.790 0.02 
+1068.020 0.25 56.38 1068.010 1.850 N 0.710 W -1.860 0.03 
+1096.690 0.09 334.71 1096.680 1.900 N 0.670 W -1.910 0.26 
+1125.200 0.25 23.41 1125.190 1.980 N 0.650 W -1.990 0.21 
+1153.520 0.31 18.55 1153.510 2.110 N 0.610 W -2.120 0.07 
+1182.120 0.26 64.52 1182.110 2.210 N 0.520 W -2.220 0.24 
+1210.690 0.31 28.33 1210.680 2.310 N 0.430 W -2.310 0.19 
+1239.340 0.36 49.88 1239.330 2.430 N 0.320 W -2.440 0.14 
+1298.150 0.40 29.51 1298.140 2.730 N 0.080 W -2.730 0.07 
+1327.530 0.39 32.18 1327.520 2.900 N 0.020 E -2.900 0.02 
+1356.770 0.31 47.29 1356.760 3.040 N 0.140 E -3.040 0.12 
+1385.600 0.44 56.10 1385.590 3.160 N 0.290 E -3.150 0.15 
+1412.810 0.48 46.30 1412.800 3.290 N 0.450 E -3.290 0.10 
+1441.660 0.57 57.51 1441.650 3.450 N 0.660 E -3.450 0.14 
+1470.690 0.57 43.73 1470.680 3.640 N 0.880 E -3.630 0.14 
+1499.950 0.59 47.75 1499.930 3.840 N 1.100 E -3.830 0.05 
+1529.470 0.61 56.99 1529.450 4.030 N 1.340 E -4.010 0.10 
+1558.730 0.62 46.69 1558.710 4.220 N 1.590 E -4.200 0.11 
+1587.900 0.64 49.02 1587.880 4.440 N 1.820 E -4.420 0.03 
+1616.890 0.68 52.55 1616.870 4.650 N 2.080 E -4.620 0.06 
+1645.390 0.64 67.47 1645.360 4.810 N 2.360 E -4.780 0.19 
+1673.840 0.66 56.91 1673.810 4.960 N 2.650 E -4.930 0.13 
+1702.240 0.67 57.55 1702.210 5.140 N 2.930 E -5.110 0.01 
+1759.920 0.72 70.24 1759.890 5.450 N 3.550 E -5.400 0.08 
+1789.630 0.84 75.16 1789.590 5.570 N 3.940 E -5.520 0.14 
+1848.620 0.80 79.00 1848.580 5.750 N 4.760 E -5.690 0.03 
+1876.780 0.90 76.63 1876.730 5.840 N 5.170 E -5.780 0.11 
+1905.300 0.76 78.61 1905.250 5.930 N 5.570 E -5.860 0.15 
+1934 760 0 91 50 85 1934 710 6 120 N 5 940 E 6 040 0 43 
+AU-FE-0006791008 Rockhopper-1 ST1 13
+Directional Survey Data 
+Measured 
+Depth Inclination Direction Vertical 
+Depth Latitude Departure Vertical 
+Section Dogleg 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) 
+1934.760 0.91 50.85 1934.710 6.120 N 5.940 E -6.040 0.43 
+1951.760 0.68 51.65 1951.710 6.270 N 6.130 E -6.190 0.41 
+1968.420 0.69 57.75 1968.370 6.380 N 6.290 E -6.300 0.13 
+1995.260 1.12 112.40 1995.200 6.370 N 6.670 E -6.280 1.02 
+2020.270 4.56 164.56 2020.180 5.320 N 7.160 E -5.230 4.77 
+2076.850 8.58 180.86 2076.380 1.080 S 7.700 E 1.170 2.33 
+2097.430 9.89 180.78 2096.700 4.380 S 7.650 E 4.470 1.91 
+2101.740 10.33 180.02 2100.940 5.130 S 7.640 E 5.230 3.20 
+2133.860 11.00 184.57 2132.500 11.070 S 7.400 E 11.160 1.00 
+2162.640 12.26 191.23 2160.690 16.800 S 6.580 E 16.890 1.92 
+2191.040 14.09 193.69 2188.350 23.120 S 5.180 E 23.180 2.02 
+2221.570 17.24 200.87 2217.740 30.960 S 2.690 E 30.990 3.63 
+2249.960 21.12 203.77 2244.550 39.580 S 0.870 W 39.560 4.22 
+2279.090 25.17 203.19 2271.330 50.080 S 5.430 W 50.010 4.18 
+2305.360 27.89 201.28 2294.830 60.940 S 9.860 W 60.810 3.26 
+2335.320 29.38 198.65 2321.130 74.430 S 14.760 W 74.240 1.95 
+2364.040 31.58 195.91 2345.880 88.340 S 19.070 W 88.100 2.72 
+2393.220 33.12 193.25 2370.530 103.450 S 22.990 W 103.160 2.16 
+2424.120 34.46 191.99 2396.210 120.220 S 26.740 W 119.880 1.47 
+2453.550 35.45 189.16 2420.330 136.790 S 29.830 W 136.410 1.94 
+2483.190 36.74 186.44 2444.280 154.090 S 32.200 W 153.680 2.08 
+2512.340 35.42 185.57 2467.840 171.160 S 33.990 W 170.720 1.46 
+2539.220 36.20 185.30 2489.640 186.820 S 35.480 W 186.360 0.89 
+2567.350 35.96 183.83 2512.380 203.330 S 36.800 W 202.850 0.96 
+2596.630 35.85 183.27 2536.090 220.470 S 37.870 W 219.980 0.35 
+2623.250 35.76 182.90 2557.680 236.020 S 38.700 W 235.520 0.26 
+2653.750 34.92 179.74 2582.560 253.650 S 39.110 W 253.140 1.98 
+2684.950 36.05 178.78 2607.970 271.760 S 38.880 W 271.250 1.21 
+2711.610 35.74 177.14 2629.570 287.380 S 38.320 W 286.880 1.14 
+2739.680 35.53 177.12 2652.380 303.720 S 37.500 W 303.220 0.22 
+2771.600 35.60 176.05 2678.350 322.250 S 36.400 W 321.760 0.59 
+2799.250 35.65 174.76 2700.820 338.300 S 35.110 W 337.830 0.82 
+2830.330 35.66 174.48 2726.070 356.340 S 33.410 W 355.890 0.16 
+2858.860 35.48 174.28 2749.280 372.850 S 31.780 W 372.420 0.23 
+2886.550 35.51 174.82 2771.830 388.860 S 30.260 W 388.450 0.34 
+2912.810 35.67 174.71 2793.180 404.080 S 28.860 W 403.680 0.20 
+2944.720 35.81 174.86 2819.080 422.640 S 27.170 W 422.260 0.16 
+2970.130 33.67 176.07 2839.960 437.070 S 26.020 W 436.710 2.65 
+3001.240 33.20 177.20 2865.920 454.180 S 25.010 W 453.830 0.75 
+3026.700 33.66 177.54 2887.170 468.190 S 24.370 W 467.850 0.59 
+3059.360 34.73 177.11 2914.180 486.530 S 23.510 W 486.200 1.01 
+3089.540 35.58 176.65 2938.860 503.880 S 22.570 W 503.560 0.88 
+3118.070 35.65 177.66 2962.050 520.470 S 21.740 W 520.160 0.62 
+3145.400 35.32 177.16 2984.310 536.320 S 21.020 W 536.020 0.48 
+3167.940 35.69 178.03 3002.660 549.400 S 20.480 W 549.100 0.83 
+3185.270 35.70 178.52 3016.730 559.510 S 20.170 W 559.210 0.50 
+3203.430 35.56 178.76 3031.490 570.080 S 19.920 W 569.790 0.33 
+3234.730 35.91 179.25 3056.900 588.360 S 19.600 W 588.070 0.43 
+AU-FE-0006791008 Rockhopper-1 ST1 14
+Directional Survey Data 
+Measured 
+Depth Inclination Direction Vertical 
+Depth Latitude Departure Vertical 
+Section Dogleg 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) 
+3264.810 35.73 178.72 3081.290 605.960 S 19.290 W 605.670 0.36 
+3293.650 35.03 178.07 3104.800 622.650 S 18.820 W 622.370 0.83 
+3324.890 36.06 178.66 3130.220 640.810 S 18.310 W 640.530 1.04 
+3350.050 35.41 178.82 3150.640 655.500 S 17.980 W 655.220 0.78 
+3379.250 35.71 179.95 3174.400 672.480 S 17.800 W 672.200 0.74 
+3408.140 35.85 180.50 3197.840 689.370 S 17.870 W 689.090 0.36 
+3439.040 36.10 180.75 3222.840 707.520 S 18.070 W 707.240 0.28 
+3467.050 35.47 179.36 3245.560 723.900 S 18.080 W 723.610 1.10 
+3482.000 35.47 179.36 3257.740 732.570 S 17.990 W 732.290 0.00 
+CALCULATION BASED ON MINIMUM CURVATURE METHOD 
+SURVEY COORDINATES RELATIVE TO WELL SYSTEM REFERENCE POINT 
+TVD VALUES GIVEN RELATIVE TO DRILLING MEASUREMENT POINT 
+VERTICAL SECTION RELATIVE TO WELL HEAD 
+VERTICAL SECTION IS COMPUTED ALONG A DIRECTION OF 179.28 DEGREES(GRID) 
+A TOTAL CORRECTION OF 11.50 DEG FROM MAGNETIC NORTH TO GRID NORTH HAS BEEN APPLIED 
+HORIZONTAL DISPLACEMENT IS RELATIVE TO THE WELL HEAD 
+HORIZONTAL DISPLACEMENT(CLOSURE) AT 3482.00 METRES 
+IS 732.79 METRES ALONG 181.41 DEGREES (GRID) 
+AU-FE-0006791008 Rockhopper-1 ST1 15
+Service Interrupt Report 
+MWD Run Number 400 Time/Date of Failure 21-Jan-10 19:45 
+Rig Bit Number 3 Depth at time of Failure 360.000 m 
+MWD Run start time/date 21-Jan-10 23:29 Lost Rig Hours hr 
+MWD Run end time/date 26-Jan-10 10:15 
+RIG ACTIVITY 
+Shallow Pulse Test 
+DESCRIPTION OF FAILURE 
+PCDC inclination locked and giving invalid Gy and Gtotal readings. 
+ACTION TAKEN 
+Cycle pumps, mode switch and send downlinks to reset sensor. PCDC failed to respond. POOH to pick up backup PCD-C 
+OPERATION IMPACT 
+POOH to pick up backup PCD-C. 
+REASON FOR FAILURE 
+To be investigated 
+AU-FE-0006791008 Rockhopper-1 ST1 16
+Service Interrupt Report 
+MWD Run Number 400 Time/Date of Failure 25-Feb-10 16:24 
+Rig Bit Number 4 Depth at time of Failure 3156.000 m 
+MWD Run start time/date 21-Jan-10 23:29 Lost Rig Hours hr 
+MWD Run end time/date 26-Jan-10 10:15 
+RIG ACTIVITY 
+Drilling ahead to core point. 
+DESCRIPTION OF FAILURE 
+Tool lost all sensors below EWR, No PCDC, ABG, DGR and Geo-pilot. 
+ACTION TAKEN 
+Try to revive tool by pump cycles, send downlink commands in an attempt to take surveys, mode switch and reset sensors. All attempts 
+failed to revive tool. 
+OPERATION IMPACT 
+POOH to change tools. 
+REASON FOR FAILURE 
+Intermittent communication bus failure. 
+AU-FE-0006791008 Rockhopper-1 ST1 17
+AU-FE-0006791008 Rockhopper-1 ST1 18

@@ -1,0 +1,1595 @@
+Culverin 1 
+
+
+Field -Gippsland Basin 
+FINAL WELL REPORT 
+
+
+Nexus Australia 
+
+
+Part 1 : Summary Data 
+
+-General Well Details 
+-HSE Performance 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+General Well Details 
+
+
+Well Objective : 
+
+1. To evaluate the hydrocarbon potential of the coastalbarrier sandstones at the 
+67.5Ma level (upper part of the Latrobe Group) and costal plain sandstones 
+occurring at the 68.5 to 70.3 Ma level (Intra-Latrobe Group) 
+2. Acquire suitable log data to adequately characterise the reservior sands and 
+correlate to nearby wells in a cost effective manner. 
+3. Should hydrocarbons be encountered, approval may be sought to deepen the 
+well to penetrate the 74 Ma marker (3,827mRT) 
+Country : Australia 
+Licence : Vic P56 
+Field : Gippsland Basin 
+Well : Culverin 1 
+Well Type : Exploration 
+Status : Plugged and Abandoned 
+Operating Company : Nexus Energy Services Pty Ltd 
+Rig : DOGC -OCEAN PATRIOT 
+
+Latitude : 38 Deg 24 Min 8.14 Sec 
+Longitude : 148 Deg 39 Min 14.92 Sec 
+Spheroid : Australian National 
+Datum : GDA 94 
+Projection : 55 Zone 
+Seismic Line : Volador 3D Line 299 
+Shotpoint : 883 
+UTM North : 5748256.4 
+UTM East : 644437.3 
+RT -MSL : 21.5m 
+Water Depth : 585.0m 
+Planned TD : 3590.0m MDBRT 
+Driller's TD : 3758.0m MDBRT 
+
+Rig Move In Date / Time : 06 Nov 2005 / 03:00 
+Spud Date / Time : 16 Dec 2005 / 13:30 
+TD Reached Date / Time : 06 Jan 2006 / 24:00 
+Rig Released Date / Time : 15 Jan 2006 / 15:00 
+Total Days Spud : 29.44 
+Total Days on Operations : 33.4 
+Total Days Budgeted : 
+
+AFE Well Cost : $22,699,889 
+Actual Well Cost : $22,178,059 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+HSE Summary 
+
+Well Name: Culverin 1 
+
+HSE Events Number 
+Abandon Drill 7 
+Environental Issue 4 
+Fire Drill 5 
+JSA 484 
+Lost Workday Case 3 
+Man Overboard Drill 1 
+Safety Meeting 18 
+STOP Card NaN 
+Trip / Kick Drill 2 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+HSE Performance 
+
+Well Name: Culverin 1 
+Event (# of) Date Time Short Description Extended Description 
+Abandon Drill(1) 18 Dec 2005 1030 Held weekly abandon rig drill Load life boats 1 and 2 with 10 people 
+and discuss life boat equipment and 
+launching procedures. 
+Abandon Drill(1) 18 Dec 2005 1030 Held weekly abandon rig drill 
+Abandon Drill(1) 18 Dec 2005 1030 Held weekly abandon rig drill 
+Abandon Drill(1) 26 Dec 2005 1030 Held weekly abandon rig drill 
+Abandon Drill(1) 01 Jan 2006 10:30 Held weekly abandon rig drill 
+Abandon Drill(1) 08 Jan 2006 10:30 Held weekly abandon rig drill 
+Abandon Drill(1) 15 Jan 2006 10:30 Held weekly abandon rig drill 
+Environental Issue(1) 24 Dec 2005 Enviromental drill Simulated chemical spill on rig. 
+Environental Issue(1) 24 Dec 2005 Enviromental drill 
+Environental Issue(1) 29 Dec 2005 Environmental Audit Carry out environmental audit by Nexus 
+shorebase personnel. 
+Environental Issue(1) 29 Dec 2005 Environmental Audit Environmental audit by Nexus 
+shorebase personnel. 
+Fire Drill(1) 18 Dec 2005 Held weekly fire drill 
+Fire Drill(1) 26 Dec 2005 Held weekly fire drill 
+Fire Drill(1) 01 Jan 2006 10:30 Held weekly fire drill 
+Fire Drill(1) 08 Jan 2006 10:30 Held weekly fire drill 
+Fire Drill(1) 15 Jan 2006 10:30 Held weekly fire drill 
+JSA(13) 15 Dec 2005 Deck = 10, Mech = 2, Drill = 1 
+JSA(18) 16 Dec 2005 Deck = 12, Mech = 1, Drill = 3, Sub Sea 
+=2 
+JSA(23) 17 Dec 2005 Deck = 10, Mech = 3, Drill = 7, Sub Sea 
+=3 
+JSA(17) 18 Dec 2005 Deck = 6, Mech = 3, Drill = 6, Sub Sea 
+=2 
+JSA(10) 19 Dec 2005 Deck = 4, Mech = 0, Drill = 1, Sub Sea 
+=5 
+JSA(21) 20 Dec 2005 Deck = 12, Mech = 1, Drill = 7, Sub Sea 
+=0, marine =1 
+JSA(17) 21 Dec 2005 Deck = 7, Mech = 2, Drill = 5, Welder = 
+2, Marine = 2, 
+JSA(11) 23 Dec 2005 Deck = 2, Mech = 1, Drill = 3, Sub Sea 
+=5 
+JSA(13) 24 Dec 2005 Deck = 6, Mech = 0, Drill = 7, Sub Sea 
+=0 
+JSA(14) 25 Dec 2005 Deck = 8, Mech = 2, Drill = 2, Sub Sea 
+=0 
+JSA(19) 26 Dec 2005 Deck = 7, Mech = 5, Drill = 2, Sub Sea 
+=2,Welder = 2, Marine = 1 
+JSA(19) 27 Dec 2005 Deck = 6, Mech = 3, Drill = 7,Welder = 
+2, Marine = 1 
+JSA(14) 28 Dec 2005 Deck = 9, Drill = 3,Welder = 2, 
+JSA(12) 29 Dec 2005 Deck = 5, Mech = 3, Drill = 2,Welder = 
+2, 
+JSA(19) 29 Dec 2005 Deck = 6, Mech = 3, Drill = 7,Welder = 
+2, Marine = 1 
+JSA(18) 31 Dec 2005 Deck = 8, Drill = 7,Welding = 2, Marine 
+= 1 
+JSA(15) 01 Jan 2006 Deck = 6, Drill = 6, Welder = 2, Mech = 
+1 
+JSA(17) 02 Jan 2006 Deck = 7, Mech = 4, Drill = 4,Welder = 
+2 
+JSA(17) 03 Jan 2006 Deck = 3, Mech = 2, Drill = 10,Welder = 
+2 
+JSA(10) 04 Jan 2006 Deck = 6, Drill = 4 
+JSA(10) 05 Jan 2006 Deck = 6, Mech = 2, Drill = 2 
+JSA(16) 07 Jan 2006 Deck = 5, Mech = 2, Drill = 7, Welder = 
+1, Sub Sea = 1 
+JSA(12) 08 Jan 2006 Deck = 4, Mech = 3, Drill = 2, Welder = 
+3 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Well Name: Culverin 1 
+Event (# of) Date Time Short Description Extended Description 
+JSA(21) 09 Jan 2006 Deck = 6, Mech = 3, Drill = 10, Welder 
+= 2 
+JSA(19) 10 Jan 2006 Deck = 7, Mech = 3, Drill = 8, Welder = 
+1 
+JSA(16) 11 Jan 2006 Deck = 6, Mech = 3, Drill = 5, Welder = 
+2 
+JSA(20) 12 Jan 2006 Deck = 7, Subsea = 2, Drill = 9, Welder 
+= 2 
+JSA(19) 13 Jan 2006 Deck = 7, Subsea = 2, Drill = 6, Welder 
+= 2, mech = 2 
+JSA(18) 13 Jan 2006 Deck = 6, Marine = 1, Drill = 7, Welder 
+= 3, Subsea = 1 
+JSA(16) 15 Jan 2006 Deck = 6, Mech = 2, Drill = 5, Welder = 
+2, Subsea = 2 
+Man Overboard Drill(1) 30 Dec 2005 Held Man Over Board Drill 
+Safety Meeting(3) 18 Dec 2005 Weekly safety meetings with all crew 
+members. 
+Discussion on man riding operations. 
+Recent 3rd party finger amputation and 
+basic amputation first aid discussed. 
+GEMS work basket policies. Fire and 
+abandonment drills 
+Safety Meeting(3) 18 Dec 2005 Weekly safety meetings with all crew 
+members. 
+Safety Meeting(3) 26 Dec 2005 Weekly safety meetings with all crew 
+members. 
+Safety Meeting(3) 01 Jan 2006 Weekly safety meetings with all crew 
+members. 
+Safety Meeting(3) 08 Jan 2006 Weekly safety meetings with all crew 
+members. 
+Safety Meeting(3) 15 Jan 2006 Weekly safety meetings with all crew 
+members. 
+STOP Card(3) 15 Dec 2005 Safe = 1, Un-safe = 2 
+STOP Card(11) 16 Dec 2005 Safe = 6, Un-safe = 5 
+STOP Card(7) 17 Dec 2005 Safe = 4, Un-safe = 3 
+STOP Card(2) 18 Dec 2005 Safe = 0, Un-safe = 2 
+STOP Card() 19 Dec 2005 Safe = 4, Un-safe = 1 
+STOP Card(4) 20 Dec 2005 Safe = 1, Un-safe = 3 
+STOP Card(5) 21 Dec 2005 Safe = 1, Un-safe = 4 
+STOP Card(5) 23 Dec 2005 Safe = 5, Un-safe = 
+STOP Card(8) 24 Dec 2005 Safe = 1, Un-safe = 7 
+STOP Card(9) 25 Dec 2005 Safe = 6, Un-safe = 3 
+STOP Card(17) 26 Dec 2005 Safe = 3, Un-safe = 14 
+STOP Card(7) 27 Dec 2005 Safe = 2, Un-safe = 5 
+STOP Card(9) 28 Dec 2005 Safe = 5, Un-safe = 4 
+STOP Card(8) 29 Dec 2005 Safe = 2, Un-safe = 8 
+STOP Card(5) 29 Dec 2005 Safe = 5 
+STOP Card(7) 29 Dec 2005 Safe = 2, Un-safe = 5 
+STOP Card(8) 31 Dec 2005 Safe = 4, Un-safe = 4 
+STOP Card(9) 01 Jan 2006 Safe = 7, Un-safe = 2 
+STOP Card(16) 02 Jan 2006 Safe = 6, Un-safe = 10 
+STOP Card(9) 03 Jan 2006 Safe = 5, Un-safe = 4 
+STOP Card(12) 04 Jan 2006 Safe = 3, Un-safe = 9 
+STOP Card(8) 05 Jan 2006 Safe = 4, Un-safe = 4 
+STOP Card(13) 07 Jan 2006 Safe = 7, Un-safe = 6 
+STOP Card(10) 08 Jan 2006 Safe = 7, Un-safe = 3 
+STOP Card(4) 09 Jan 2006 Safe = 3, Un-safe = 1 
+STOP Card(5) 10 Jan 2006 Safe = 2, Un-safe = 3 
+STOP Card(8) 11 Jan 2006 Safe = 2, Un-safe = 6 
+STOP Card(8) 12 Jan 2006 Safe = 6, Un-safe = 2 
+STOP Card(2) 12 Jan 2006 Safe = 2, Un-safe = 2 
+STOP Card(4) 13 Jan 2006 Safe = 3, Un-safe = 1 
+STOP Card(2) 15 Jan 2006 Safe = 1, Un-safe = 1 
+Trip / Kick Drill(2) 03 Jan 2006 Held Trip drill with each crew while RIH 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Part 2 : Drilling Engineering 
+
+-Well History 
+-Phase History 
+-Survey Data 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Well History 
+
+Well: Culverin 1 
+
+# Date Depth 24 Hour Summary 
+1 05 Nov 2005 
+2 06 Nov 2005 0.0m Tow to Culvering Location. Run & set anchor #4. While running anchor #8 anchor winch#4 failed destroying 
+the gear box allowing the anchor & anchor chain to fall to the sea bed. Bolster anchor # 8. 
+Rig off hire at 15:00 hrs. On tow to Two Fold Bay for repair. 
+3 14 Dec 2005 0.0m Run Anchors 
+4 15 Dec 2005 0.0m Complete running of anchors. 
+5 16 Dec 2005 650.0m Pick up 93 jnts of 5"dp. Make up 30" C.A.R.T. make up 36" BHA and RIH to 607m. Spud well and drill 36" 
+hole from 607m to 650m. Circulate hole clean and displace. Drop Totco survey(0.5deg @ 643m). POOH. Rig 
+up and ran 30" casing/PGB. Install guide lines. 
+6 17 Dec 2005 650.9m Ran and cemented 30" casing. Waited on cement samples to harden 4.5hrs. POOH, picked up 1172m of dp( 
+extra pipe picked up while waiting on MWD equipment preperation), made up and racked 18 3/4" CART, 
+Dowell cement express head. Layed out 36" BHA and picked up 17 1/2" BHA and Sperry Sun equipment. 
+Prepare rig deck areas for riser. 
+7 18 Dec 2005 650.0m Make up 17 1/2" BHA, RIH and shallow test MWD, tool failure. POOH to surface and change out tool 
+internals for back up unit. RIH to PGB, unable top stab. Soft line guide ropes parted, attempts to move rig 
+were restricted by high anchor tensions and rough weather. POOH and install new ropes. RIH and stab in ok. 
+Drill cmt and shoe. Drill 17 1/2" hole from 650m to 1006m using SW and hi vis sweeps. Surveys every 3 
+stands. 
+8 19 Dec 2005 1436.0m Drilled 17 1/2" hole from 1006m to 1436m. 
+24hr average ROP 17.9m/hr. 
+9 20 Dec 2005 1525.0m Drilled 445 mm (17 1/2") hole to 1525.0 mMDRT. Pulled out of hole to rig up and run 340 mm (13 3/8") 
+casing. Commenced running casing. 
+10 21 Dec 2005 1525.0m Landed 340 mm (13 3/8") casing and cemented in place at 1511.14 mMDRT. Laid down cement head and 
+rigged up riser handling equipment. Commenced running BOPs and riser. 
+11 22 Dec 2005 1525.0m Completed running BOPs and riser. Commenced making up slip-joint and landing joint to riser. 
+12 23 Dec 2005 1525.0m Landed out BOPs and tested wellhead connector. Pull-tested connections. Stroked out the slip-joint and 
+nippled up the surface equipment. Rigged up the diverter. Completed pressure tests. Rigged down riser 
+handling equipment. Slipped and cut drilling line. Laid down 445 mm (17 ½") BHA. Commenced making up 
+new 311 mm (12 ¼") BHA. 
+13 24 Dec 2005 1544.0m Completed making up 311 mm (12 ¼") BHA. RIH and picked up drillpipe on the way in hole. Drilled out the 
+shoetrack. Displaced the well to mud. Drilled ahead 3 m of new formation. Conducted LOT to 1.89 sg EMW 
+at 1528.0 mMDRT. Drilled ahead to 1544.0 mMDRT. 
+14 25 Dec 2005 2131.0m Drilled ahead from 1544.0 -2131.0 mMDRT. 
+15 26 Dec 2005 2641.0m Drilled ahead 311 mm (12 1/4") hole from 2131.0 mMDRT to 2641.0 mMDRT. 
+16 27 Dec 2005 3115.0m Drilled ahead from 2641.0 mMDRT to 3115.0 mMDRT. Top of the Latrobe Formation picked from LWD logs 
+and cuttings at 2824.0 mMDRT. 
+17 28 Dec 2005 3277.0m Drilled ahead from 3115.0 mMDRT to 3277.0 mMDRT. 
+18 29 Dec 2005 3385.0m Drilled ahead from 3277.0 mMDRT to 3385.0 mMDRT. 
+19 30 Dec 2005 3402.0m Drilled ahead from 3385.0 mMDRT to 3402.0 mMDRT. POOH for bit trip. Downloaded LWD memory. Made 
+up new PDC bit and new motor. Started to RIH. 
+20 31 Dec 2005 3473.0m RIH to 3330.0 mMDRT. Logged down over sandstone from 3335.0 mMDRT to 3343m MDRT . Reamed down 
+to bottom. Commenced drilling ahead from 3402.0 mMDRT to 3473m MDRT 
+21 01 Jan 2006 3571.0m Drilled ahead from 3473.0 mMDRT to 3571.0 mMDRT. POOH for suspected washout. 
+22 02 Jan 2006 3571.0m POOH to surface. Changed out BHA to a rotary assembly (removed down-hole motor) and a Smith rock-bit. 
+Completed making up new BHA with additional drill-collars and commenced RIH. BHA held up at 2100.0 
+mMDRT. Washed and reamed down to 2540.0 mMDRT. MWD failed at 2540.0 mMDRT. Commenced pulling 
+out of hole to replace MWD tools and adjust BHA configuration. Pulling out at 2020.0 mMDRT at midnight. 
+23 03 Jan 2006 3571.0m Continued pulling out of hole to replace LWD tools (pulser found to be damaged) and adjusted BHA 
+configuration. Re-calibrated pressure sensors on rig floor using cementing unit. Tested new LWD toolstring 
+and commenced RIH. Slipped & Cut drill-line at the casing shoe. Waited on Weather 
+24 04 Jan 2006 3619.0m RIH to bottom and began drilling ahead 311 mm (12 ¼") hole from 3571.0 mMDRT. Drilling ahead at 3619.0 
+' 
+
+Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+mMDRT at midnight. 
+25 05 Jan 2006 3697.0m Drilled ahead from 3619.0 mMDRT to 3697.0 mMDRT at midnight. 
+26 06 Jan 2006 3758.0m Drilled ahead from 3697.0 mMDRT to 3758.0 mMDRT at midnight. TD well at 3758.0 mMDRT. Commenced 
+POOH to log. 
+27 07 Jan 2006 3758.0m POOH, laid down LWD tools. Rigged up to run wireline. 
+28 08 Jan 2006 3758.0m Completed PEX run. Rigged up seismic tools and completed seismic survey. Rigged down wireline tools and 
+wireline. Commenced P & A program. 
+29 09 Jan 2006 3758.0m Set abandonment plugs #1, 2 & 3 
+30 10 Jan 2006 3758.0m Laid out drillpipe, tagged abandonment plug #3, set abandonment plug #4, displaced riser and C & K lines to 
+seawater, retrieved wearbushing, jetted wellhead and BOP's, rigged up to recover riser and BOP's 
+31 11 Jan 2006 3758.0m Unlatched BOP from wellhead and pulled marine riser and BOP's 
+32 12 Jan 2006 3758.0m Pulled and landed BOP's on carrier. Cut and pulled 20" casing. Cut and pulled 30" casing with PGB 
+33 13 Jan 2006 3758.0m POOH and recovered guidebase. Racked BOP's on carrier. RIH and laid out BHA and 5" drillpipe from 
+Derrick 
+34 14 Jan 2006 3758.0m Completed laying down 5" DP from derrick. De-ballast rig and recover anchors # 6, #2, #3, 7, #1 and #5 
+35 15 Jan 2006 3758.0m Completed recovering anchors. 
+Ocean Patriot on tight tow @ 15:00hrs, Jan 15, 2006. Rig handed over to Anzon Australia Limited 
+Statement of Facts obtained from vessels 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Time Breakdown by Phase 
+
+
+Total Time on Operations : 801.5 hrs 
+Total Productive Time : 702.5 hrs 
+Total Lost Time : 90 hrs 
+Total Unprogrammed Time : 9 hrs 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Survey Data 
+
+Well: Culverin 1 
+
+Mag Dec: Sidetrack # 0 
+
+MD m TVD m INCL deg CORR. AZ 
+deg 
+DOGLEG 
+deg/30m 
+'V' SECT deg N/S m E/W m TOOLTYPE 
+681.95 681.89 1.3 227.0 0.1 -5.1 5.1 5.5 MWD 
+767.68 767.61 0.8 263.6 0.3 -5.8 5.8 6.8 MWD 
+825.04 824.97 0.9 254.6 0.1 -6.0 6.0 7.6 MWD 
+911.19 911.10 1.1 257.5 0.1 -6.3 6.3 9.1 MWD 
+1027.78 1027.67 0.9 252.6 0.1 -6.8 6.8 11.0 MWD 
+1056.00 0.8 254.0 MWD 
+1085.00 0.8 257.0 MWD 
+1113.00 0.6 252.0 MWD 
+1142.00 0.5 254.0 MWD 
+1171.00 0.4 260.0 MWD 
+1228.00 0.2 255.0 MWD 
+1257.00 0.2 257.0 MWD 
+1342.00 0.1 250.0 MWD 
+1371.00 0.0 247.0 MWD 
+1428.00 0.1 336.0 MWD 
+1486.00 0.2 21.2 MWD 
+1509.00 0.1 0.7 MWD 
+1525.00 0.1 0.7 MWD 
+1569.11 1568.99 0.4 350.1 0.0 -2.2 6.9 13.3 MWD 
+1626.44 1626.32 0.6 2.0 0.1 -1.9 6.4 13.3 MWD 
+1712.56 1712.43 1.5 24.6 0.4 -0.7 5.0 12.8 MWD 
+1798.49 1798.30 2.4 23.2 0.3 1.5 2.2 11.7 MWD 
+1970.98 1970.56 3.2 24.1 0.1 8.1 5.9 7.9 MWD 
+2056.65 2056.09 3.2 27.0 0.1 11.6 10.3 5.9 MWD 
+2142.04 2141.34 3.5 29.6 0.1 14.7 14.7 3.6 MWD 
+2256.54 2255.59 4.0 35.4 0.2 20.1 21.0 0.4 MWD 
+2342.60 2341.43 4.2 35.5 0.1 26.0 26.0 4.1 MWD 
+2428.46 2427.05 4.3 38.3 0.0 32.0 31.1 7.9 MWD 
+2543.24 2541.53 4.1 40.5 0.2 37.7 37.7 13.1 MWD 
+2629.39 2627.47 3.9 40.6 0.1 42.2 42.2 17.0 MWD 
+2686.60 2684.55 3.8 41.5 0.1 45.1 45.1 19.5 MWD 
+2772.65 2770.41 3.8 43.7 0.1 54.4 49.3 23.3 MWD 
+2887.70 2885.20 3.9 45.7 0.1 62.0 54.9 28.7 MWD 
+2973.53 2970.84 3.7 46.7 0.1 67.4 58.9 32.8 MWD 
+3088.21 3085.28 3.8 46.5 0.1 64.0 64.0 38.3 MWD 
+3173.79 3170.67 3.7 49.6 0.1 80.0 67.8 42.4 MWD 
+3260.37 3257.07 3.7 49.9 0.2 71.4 71.4 46.5 MWD 
+3317.48 3314.07 3.7 47.7 0.1 88.8 73.9 49.3 MWD 
+3346.36 3342.89 3.7 50.4 0.2 90.6 75.1 50.7 MWD 
+3375.00 3371.50 3.7 54.0 0.2 92.3 76.2 52.1 MWD 
+3404.40 3400.80 3.5 54.9 0.2 94.1 77.3 53.6 MWD 
+3432.80 3429.16 3.6 52.0 0.2 95.7 78.3 55.0 MWD 
+3461.32 3457.63 3.5 52.0 0.1 97.4 79.4 56.4 MWD 
+3490.24 3486.49 3.4 50.3 0.1 99.1 80.5 57.8 MWD 
+3519.26 3515.46 3.3 50.1 0.1 100.7 81.6 59.1 MWD 
+3547.59 3543.75 3.3 50.0 0.0 102.3 82.6 60.3 MWD 
+3555.34 3551.48 3.4 53.7 0.9 102.8 82.9 60.7 MWD 
+3583.83 3579.93 3.0 50.9 0.4 104.3 83.9 61.9 MWD 
+3641.38 3637.40 3.0 50.2 0.0 107.2 85.8 64.2 MWD 
+3758.00 3753.86 3.0 50.2 0.0 113.1 89.7 68.9 MWD 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+3758.00 3753.86 3.0 50.2 0.0 113.1 89.7 68.9 Extrapolation to FTD 
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Part 3 : Time Analysis Data 
+
+-Daily Activity 
+-Time Analysis 
+-Trouble Time Analysis 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Activity Report For Culverin 1 
+
+Date : 05 Nov 2005 Daily Cost : $ 4339992 Report Number : 1 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+0.0 RM P RM 6 Apache released Ocean Patriot to Nexus at Fur Seal Loction. Tow to Culverin Location. Pacific 
+Wrangler on tow bridle. Far Grip following 
+24:00 hrs Position: 38deg 5.7min S, 148deg 343.1min E. 
+
+Date : 06 Nov 2005 Daily Cost : $ 334792 
+Report Number : 2 
+
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+
+0.0 
+RM P RM 3 Tow to Culverin location. 
+. 
+0.0 
+RM P RM 14 Pass #4 Anchor PCC to Far Grip. Anchor #4 on bottom at 09:00 hrs. PCC at rig 11:44 hrs. 
+Pass #8 Anchor PCC to Far Grip at 11:46 hrs. Run anchor #8. 
+At 14:50 hrs Anchor winch failed & winch gear box was serverly damaged. #4 anchor chain dropped 
+to the sea bed. 
+Rig off hire at 17:00 hrs and Statement Of Fact taken. 
+Haul in #8 anchor which was bolstered at 117:00 hrs. PCC on rig at 17:05 hrs. 
+Statement of Fact taken at 17:00 hrs. 
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Activity Report For Culverin 1 
+
+Date : 14 Dec 2005 Daily Cost : $ 1161836 Report Number : 3 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+0.0 
+0.0 
+0.0 
+RM 
+A 
+A 
+P 
+P 
+TU 
+RM 
+AH 
+AH RE 
+0.5 
+1.5 
+1 
+Back on Contract with Nexus after Rig Repair 
+#8 Anchor on bottom @ 0500hrs and heave in to 95t pull. 
+Wrangler strip back #8 and pass PCC to rig @ 0620hrs. 
+Pass #5 PCC to Wrangler @ 0635hrs, unable to pay out on windlass. 
+Troubleshoot electrical fault on # 5 windlass. 
+0.0 
+0.0 
+A 
+A 
+P 
+P 
+AH 
+AH 
+4.5 
+12 
+Run #5 Anchor @ 0732hrs, on bottom @ 0942hrs. 
+Wrangler strip back #5 and pass PCC to rig @ 1139hrs. 
+Pass #1 PCC to Wrangler @ 1208hrs, on bottom @ 1413hrs. 
+Tension #4 & #8 Anchors, Re-deploy #1 @ 1555hrs on bottom @ 1648hrs. 
+Wrangler strip back #1 and pass PCC to rig @ 1740hrs ( Wrangler to stand-by ) 
+Release Far Grip from tow wire @ 1750hrs. 
+Pass #3 PCC to Far Grip @ 1857hrs, on bottom @ 2045hrs. 
+Far Grip strip back #3 and pass PCC to rig @ 2235hrs. 
+Pass #7 PCC to Far Grip @ 2250hrs, commence to run anchor. 
+Date : 15 Dec 2005 Daily Cost : $ 427492 Report Number : 4 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+0.0 
+0.0 
+A 
+A 
+P 
+TU 
+AH 
+AH RE 
+5 
+0.5 
+#7 Anchor on bottom @ 0109hrs. 
+Far Grip strip back, passed #7 PCC to rig @ 0253hrs. 
+Passed #2 PCC to Wrangler @ 0030hrs,Anchor on bottom @ 0249hrs. 
+Wrangler strip back, passed #2 PCC to rig @ 0438hrs. 
+Passed #6 PCC to Far Grip @ 0305hrs, Anchor on bottom @ 0514hrs. 
+Troubleshoot electrical fault on # 6 windlass. 
+0.0 
+0.0 
+A 
+A 
+P 
+P 
+AH 
+AH 
+2 
+1.5 
+Far Grip strip back, passed #6 PCC to rig @ 0725hrs. 
+Cross tension all anchors. 
+0.0 
+0.0 
+0.0 
+A 
+SH 
+SH 
+P 
+P 
+P 
+AH 
+PUP 
+PUP 
+5 
+1.5 
+0.5 
+Ballast rig to drilling draft. 
+Pick up 201m of 5" DP. 
+Pull back and rack 201m DP in derrick. 
+0.0 
+0.0 
+0.0 
+0.0 
+SH 
+SH 
+SH 
+SH 
+TU 
+P 
+P 
+P 
+RR 
+PUP 
+PUP 
+OA 
+RE 0.5 
+5 
+0.5 
+2 
+Repair Hydraulic fitting on racking arm. 
+P/U 1 stand 9" DC with jetting sub and trip in picking up 550m DP. 
+Run in with DP from derrick and tag mudline @ 585m L.A.T. Water depth, (607.5m R/T-Mudline 
+L.A.T.) 
+Pull out and rack DP in derrick. 
+
+Date : 16 Dec 2005 Daily Cost : $ 585930 Report Number : 5 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+0.0 SH P PUP 3 Pick up 20 stands DP. 580m. 
+0.0 SH P OA 1 Rack back 20 stands DP. 
+0.0 SH P PUP 2 Pick up DP. 920m. 
+0.0 SH P HBHA 1.5 Picked up 18 jnts of HWDP and racked in derrick. 
+0.0 SH P HT 2 Made up and racked in derrick, 30" C.A.R.T. BOP hang off tool, 30" cementing stand. 
+0.0 SH P HBHA 2.5 Make up 36" drilling BHA and ran in hole to 192m. 
+0.0 SH P TI 1.5 Ran BHA in hole on DP to 607mRT. 
+650.0 SH P DA 2.5 Spud well and drill 36" hole from 607m to 650m. Pumped 75bbl sweep at mid stand and stand down, 
+spotted 100bbls of hi-vis around BHA prior to connection.Anderdrift tool not working. 
+650.0 SH P CHC 0.5 Displaced hole with 170bbls of pre-hydrated Bentonite. Dropped Totco single shot survey. 
+650.0 SH P TO 1 Pulled out of hole from 650m to 193m. No hole problems or overpull observed. 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 16 Dec 2005 Daily Cost : $ 585930 Report Number : 5 
+650.0 SH P HBHA 1 Pulled out of hole BHA from 193m to surface racking all BHA in derrick. 
+Recover survey ½º. 
+650.0 SC P RRC 0.5 Held Pre-casing JSA and rigged up for 30" casing. 
+650.0 SC P CRN 2 Ran 30" x 20" csg x/o joint, 2 x intermediate joints and housing joint. 
+650.0 SC P CRN 2 Ran 3 x dp stinger, made up 30" C.A.R.T to 30" housing joint and landed out in PGB. Install guide 
+lines. 
+650.0 SC TP RO VE 1 Had rig welder manufacture 2 x "C" plates due to #1 & #2 guide line spears releasing and not latching 
+correctly. 
+
+Date : 17 Dec 2005 Daily Cost : $ 487963 Report Number : 6 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+650.0 SC P CRN 2 Ran 30" casing & PGB on drill pipe. 
+650.0 SC TP SKR OTH 1.5 Stabbed casing in open hole with ROV assistance and by moving the rig 4m stbd aft. 
+650.0 SC P CRN 0.5 Landed out casing with 5klbs of wt down. Circulate to ensure no fill. 2.1m stick up, 2 x zero bullseye 
+readings. Heading 273 deg. Circulate casing volume while holding JSA for cement job. 
+650.0 SC P CMC 1.5 Pumped 20bbls of S/W-Dye, mix and pump 200bbls of 15.8ppg cement slurry, displace with 64bbls of 
+S/W. Check floats holding-ok. 
+650.0 SC P WOC 4.5 Waiting on surface cement samples to harden. 
+650.0 SC P CRN 1 Release 30" CART tool. Check bullseye indicators<¼º. POOH & L/d 30" CART. 
+650.0 IC P CRN 1 P/u 18¾" CART and stand in derrick. Make up 2nd 18 3/4" CART for handling well head on deck. 
+650.0 IH P PUP 6 P/u 722m of dp and rack in derrick.(Prepare Sperry Sun BHA on deck while picking up dp) 
+650.0 SH P HT 1.5 Break down TIW valves and side entry sub from 30" cement stand racked in derrick. Lay out 36" BHA. 
+650.0 IH P PUP 1.5 Pick up 143m of dp and rack in derrick while [preparing Sperry Sun BHA components. 
+650.0 IH P HT 0.5 Make up Dowell cement express head and rack in derrick on drifted HWDP. 
+650.0 IH P PUP 2 Pick up 257m of dp and rack in derrick while preparing Sperry Sun BHA components. 
+Total 5" dp picked up 2723m 
+650.0 IH P HBHA 0.5 Make up 17 1/2" BHA. 
+
+Date : 18 Dec 2005 Daily Cost : $ 454106 Report Number : 7 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+650.0 IH P HBHA 3.5 Made up 17 1/2" Sperry Sun BHA, drill collars etc. Made up Top Drive for shallow test of down hole 
+equipment on 1st stand of hwdp. 
+650.0 IH TP HBHA DTF 1.5 Attempt to test MWD tools. Failure to produce survey information. Gamma ok. 
+Change out stand pipe sensor after discussing with Sperry Sun in Perth. Re-test down hole tools, still 
+not transmitting survey data 
+650.0 IH TP HBHA DTF 3.5 POOH and Rack back BHA from 103m to access MWD internals at rotary table. Remove faulty unit 
+and install back up unit. Run in hole to 103m. Shallow test OK. 
+Battery module is the suspected faulty item. 
+650.0 IH P TI 1 Cont to RIH from 103m to PGB at 604m, guide ropes attached to guide lines 
+650.0 IH TP TI OTH 1 Move rig to assist with stabbing drill string in 30" housing.Initialy guide ropes ok but due to excess 
+current and movement 2 broke then the remaining 2. 
+Skid rig to assist with stabbing, due to 5-6m seas and 42knot winds the winch tension was excessive 
+before sea bed movement was achieved. 
+650.0 IH TP TI OTH 3.5 POOH from 604m to surface, install new soft line guide ropes to assist in stabbing. 
+RIH to PGB at 605m, stab and continue RIh to top of cement at 644m. 
+650.0 IH P DFS 0.5 Establish parameters and drill cement and shoe equipment from 644m to 650m, work through and 
+clean out shoe. 
+600 gpm, 900psi, 3-4000ftlbs, 90rpm, 
+1006.0 IH P DA 9.5 Drill 17 1/2" hole from 650m to 1006m. 
+Take surveys every 3rd stand. 
+600-1100 gpm, 2500psi, 3-4000 ftlbs tq, 120-150rpm, String wt 220klbs, 5-20klbs WOB. 
+Sweep hole 75 to 85bbls per stand. 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 18 Dec 2005 Daily Cost : $ 454106 Report Number : 7 
+Date : 19 Dec 2005 
+Depth (m) Phase Cls 
+1436.0 IH P 
+Op 
+DA 
+R.C. Hrs 
+24 
+Daily Cost : $ 678903 Report Number : 8 
+Activity 
+Drill 17 1/2" hole from 1006m to 1436m 
+Take surveys every 3rd stand. @1428.75m, 0.11deg, 336.43azimuth, 
+1000-1100 gpm, 3400psi, 4-6000 ftlbs tq, 150-160rpm, String wt 240klbs, 20-35klbs WOB. Sweep 
+hole 85bbls per stand-35 Guar-50 PHG. 
+No hole problems to report. 
+24hr ROP 17.9m/hr 
+Section ROP 23.46m/hr 
+
+Date : 20 Dec 2005 Daily Cost : $ 570223 Report Number : 9 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+1525.0 IH P DA 8.5 Drill 17 1/2" hole from 1436m to 1525m 
+Take surveys every 3rd stand. @1509m 0.09deg, 0.70 azimuth, 
+1000-1100 gpm, 3400psi, 4-6000 ftlbs tq, 150-160rpm, String wt 240klbs, 30-35klbs WOB. 
+Sweep hole 85bbls per stand. 
+1525.0 IH P DIS 2 Take TD survey.@1525m 0.09deg, 0.70 azimuth, 
+Pump 150bbls of Guar Gum hi-vis sweep. 
+Pump 100bbls of Sea Water 
+Pump 840bbls of PHG hi-vis displacement mud, un-weighted. 
+Displace PHG to bottom of drill pipe 
+1525.0 IH P TO 2.5 POOH from 1525m to 242m. No hole problems observed. 
+Jet 30" housing on way out of hole. 
+Pipe strap on trip out +0.17m 
+1525.0 IH P HBHA 2 POOH BHA and rack in derrick. Remove MWD probe and break off bit. 
+1525.0 IH P RRC 1 Hold JSA for casing operatuions with all crews and rig up equipment 
+1525.0 IH P CRN 1.5 Make up 13 3/8" shoe track and check floats. Baker lock connections. 
+Attach guide ropes 
+1525.0 IH P CRN 5.5 Ran 13 3/8" casing to 885m. No hole problems to report. 
+1525.0 IH P CRN 1 Rig down Tam packer, make up 18 3/4" well head to casing string,rig down FMS and all casing 
+equipment. 
+
+Date : 21 Dec 2005 Daily Cost : $ 636457 Report Number : 10 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+1525.0 IH P CRN 1 Complete making up 18 3/4 well head and Dowell Deep Sea express plug baskets. 
+1525.0 IH P CRN 1.5 Ran 13 3/8" casing string on 5" dp to 30" housing. 
+ROV observe landing and latching of Well Head in housing. 
+String weight 350klbs, verify latch with 50k over pull, 400klbs ok. 
+Slack off to landing string weight. 
+1525.0 IH P CIC 1.5 Circulate 1.5 x casing volume with sea water. 
+Complete cement job JSA and equipment prep while circulating. 
+1525.0 IH P CMC 2.5 Cement casing: 25bbls S/W-dye, Lead 300bbls 12.5ppg, Tail 209bbls 15.8ppg. 
+1525.0 IH P CMC 1 Displace cement with 416bbls of sea water. Bump plugs 3.3bbls early, pressure up and test casing to 
+1500psi, ok. 
+Bleed off and check floats holding ok. 
+1525.0 IH P CRN 0.5 Rig down surface cement lines and back out Cameron 18 3/4" C.A.R.T. 
+PGB Bullseye readings: Fwd 1deg Stbd, Aft 1deg Stbd Aft. 
+1525.0 IH P CRN 1 Pull out of hole landing string. 
+1525.0 IH P CRN 1 Lay out 18 3/4" C.A.R.T from string, pick up and break out #2 18 3/4" handling tool. Break down 
+Dowell express cement head and double of HWDP. 
+1525.0 BOP P RR1 2 Hold JSA and rig up to run BOP's and marine riser. 
+Skid rig 15m to Port 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 21 Dec 2005 Daily Cost : $ 636457 
+Report Number : 10 
+
+1525.0 BOP P RR1 2.5 
+Make up double of Riser and Termination spool. 
+
+1525.0 BOP P RR1 3.5 
+Skid BOP to well center on Normar transporter. Make up double and spool. Install guide lines. 
+
+1525.0 BOP P RR1 3.5 
+Pick up BOPs from carrier(550klbs) and skid clear. un BOP to above splash zone and install Pod 
+line clamps. Land riser in spider, BOP's wet 530klbs. 
+Test Choke and Kill lines 250/7500psi 5/10mins. 
+
+1525.0 BOP P RR1 2.5 
+Run Bop's on Marine riser 
+
+Date : 22 Dec 2005 Daily Cost : $ 532613 Report Number : 11 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+1525.0 BOP P RR1 6 Continue to run BOP's on marine riser @271m (890') 
+1525.0 BOP P RR1 1 Pressure test choke and kill lines 250/7500psi, 5/10mins ok 
+1525.0 BOP P RR1 6 Continue to run Riser @393m ( 1290') 
+1525.0 BOP P RR1 1 Pressure test choke and kill lines 250/7500psi, 5/10mins ok 
+1525.0 BOP P RR1 7.5 Continue to run Riser @515m ( 1690' ) 
+1525.0 BOP P RR1 1 Pressure test choke and kill lines 250/7500psi 5/10mins ok 
+1525.0 BOP P RR1 1.5 Pick up slip joint and make up to string. 
+Total riser run: 35 x 50' Bouyed joints, 1 x 50' bare joint,1 x 25' Bare pup joint, 
+Date : 23 Dec 2005 Daily Cost : $ 498764 Report Number : 12 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+1525.0 BOP P RR1 1 Completed making up landing joint to slip joint. 
+1525.0 BOP TP RR1 OTH 1 ROV camera system problems while on bottom monitoring BOP/PGB. Camera's were cutting out and 
+all visibility was lost. Topside black and white camera still working. Recover ROV and move top side 
+black and white camera to front pan tilt for landing bops'. Water had ingressed into camera electrics 
+cannister. Gain use of 2 cameras and dive ROV 
+1525.0 BOP P BOP 2 Lowered slip joint while monitoring with ROV 
+Installed Choke and kill and boost lines to slip joint. 
+1525.0 BOP P BOP 1 Pressure tested choke and kill gooseneck seals 250/7500psi 5/10mins. Ok. This test required by 
+GEMS. 
+1525.0 BOP P BOP 0.5 Latched SDL ring to slip joint. 
+Skidded rig and over well head with ROV assistance 
+1525.0 BOP P BOP 1.5 Re-establish #2 guide line, Monitor MRT's as lowering BOP to PGB post tops. 
+Installed storm saddles and service hoses to slip joint. 
+BOP landing weight prior to MRT's 685klbs. 
+1525.0 BOP P BOP 1 Landed and latch BOP, visual confirmation by ROV. Complete 50klbs overpull test on yellow pod. 
+Bulls eye readings: 
+PGB Fwd B/E 3/4deg stbd Aft B/E 3/4deg stbd fwd 
+LMRP #1 B/E 1/2deg Port fwd, LMRP #2 B/E 1/2deg Port fwd 
+BOP B/E 1deg stbd fwd. 
+1525.0 BOP P BOP 1 Secure pod hoses. Make up RBQ plates and put BOP on line. 
+1525.0 BOP P BOP 1 Break circulation with Dowell down choke and kill lines. 
+Close shear rams and test well head VX gasket to 250/2500psi 5/10mins on yellow pod. OK. 
+Complete 500psi pressure test on blue pod, 2nd pod test is a GEMS requirement. 
+1525.0 BOP P BOP 1 Unlock slip joint and stroke open. Layed down landing joint. 
+1525.0 BOP P BOP 1 Made up divertor to slip joint inner barrel. Land and latch in divertor housing. 
+Connect hydraulics and lock support and lock down dogs. 
+1525.0 BOP P BOP 1.5 Rigged down riser spider, divertor running tool, install master bushings. 
+1525.0 BOP P BOP 2.5 Clear rig floor of all riser and bop handling equipment. Install iron roughneck tracks. Change elevators 
+and bails 
+1525.0 IH P SC 2 Hung off blocks and slipped and cut 27.43m (90') of drilling line. Removed hang off lines and set 
+crown-o-matic. 
+1525.0 IH P HBHA 3.5 Ran 445mm (17 1/2") BHA in hole and laid out same. 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 23 Dec 2005 
+1525.0 IH P HBHA 2.5 
+Daily Cost : $ 498764 Report Number : 12 
+Commenced making up 311mm (12 1/4") BHA. 
+Date : 24 Dec 2005 
+Depth (m) Phase Cls 
+1525.0 IH P 
+1525.0 IH P 
+1525.0 IH P 
+1525.0 IH P 
+1525.0 IH TP 
+1525.0 IH P 
+1528.0 IH P 
+1528.0 IH P 
+1528.0 IH P 
+1544.0 IH P 
+Op R.C. Hrs 
+HBHA 3 
+HBHA 0.5 
+PUP 5.5 
+BOP 0.5 
+BOP BORC2 
+TI 2 
+DFS 5.5 
+CHC 1 
+LOT 1 
+DA 3 
+Daily Cost : $ 465794 Report Number : 13 
+Activity 
+Complete making up 311mm (12 1/4") BHA. 
+Up-link MWD, install Radio-active source. 
+Run BHA from derrick to 1st joint of HWDP. Shallow test Down hole motor and tools ok. 800gpm 
+650psi. 
+Picked up 55m(180') of HWDP. 
+Picked up 745m (2444') of 127mm (5")dp. 
+Functioned divertor insert packer ok. 
+Function tested BOP's on yellow pod ok. 
+Attempt function test on blue pod, Run-away observed on open function for upper annular. Function 
+several times and uncontroled flow stopped. Change back to yellow pod and upper annular functions 
+ok. Proceed with operations after discussing equipment failure. Signs made for all BOP panels stating 
+not to operate upper annular on blue pod. Currently drilling on Yellow pod. 
+Ran in hole from 1014m to 1478m, Washed down to top of cement @1478m 
+Drilled cement, plugs, shoe track. Displaced well to 9.5ppg mud while drilling out cmt and making 3m 
+of new hole to 1528m 
+Circulated hole clean and ensured 9.5ppg in/out for Leak off test. 
+Performed LOT against lower annular. 
+9.5ppg test mud weight, 1511.77m TVD, 1625psi, EMW 15.8ppg.1.89sg, 
+Take SCR's, CLFL. 
+Drilled 311mm (12 1/4") hole from 1528m to 1544m. 
+Reduced parameters until stabilizers are out of casing(1558m) 
+String wt 240klbs, Tq 2-4000ftlbs, 50-60 rpm surface, 150rpm DH, WOB 5-10klbs, 1800psi, 790gpm. 
+
+Date : 25 Dec 2005 Daily Cost : $ 460984 Report Number : 14 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+2131.0 IH P DA 24 Drilled 311mm (12 1/4") hole from 1544m to 2131m 
+String wt 275klbs, Tq 4-8000ftlbs, 150 rpm surface, 252rpm DH, WOB 15-18klbs, 2900psi, 900gpm. 
+Boost riser while drilling. Max gas for 24hr period 1.2%. 
+ROP average 24.45m/hr (including connections) 
+Survey results @2113.64m 3.4deg, 29.61 azimuth, 2112.98m TVD 
+
+Date : 26 Dec 2005 Daily Cost : $ 510764 Report Number : 15 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+2641.0 IH P DA 24 Drilled 311mm (12 1/4") hole from 2131m to 2641mMDRT 
+String wt 310klbs, Tq 4-8000ftlbs, 150 rpm surface, 260rpm DH, WOB 12-15klbs, 3300psi, 900gpm. 
+Boost riser while drilling. Max gas for 24hr period 0.82%. 
+Increase mud weight from 1.14sg to 1.2sg (9.5ppg -10ppg) 
+ROP average 21.25m/hr (including connections) 
+Survey results @2629.39m, 3.86deg, 40.58azimuth 
+
+Date : 27 Dec 2005 
+Depth (m) Phase Cls Op R.C. Hrs 
+Daily Cost : $ 472057 
+Activity 
+Report Number : 16 
+2787.0 
+2787.0 
+IH 
+IH 
+P 
+TP 
+DA 
+DA RE 
+8.5 
+0.5 
+Drilled 311mm (12 1/4") hole from 2641m to 2787m MDRT 
+String wt 310klbs, Tq 4-8000ftlbs, 150 rpm surface, 259rpm DH, WOB 12-20klbs, 3300psi, 900gpm. 
+Boost riser while drilling. 
+ROP average 17.17m/hr (including connections) 
+Survey results @2772.65m, 3.83deg, 43.73azimuth 
+Backed out saver sub on Top Drive during routine connection. Layed out single, installed new saver 
+sub on Top Drive and picked up a replacement single of 127mm (5")dp. 
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 27 Dec 2005 Daily Cost : $ 472057 Report Number : 16 
+2991.0 IH P DA 9 Drilled 311mm (12 1/4") hole from 2787m to 2991m MDRT 
+String wt 330klbs, Tq 5-10000ftlbs, 150 rpm surface, 259rpm DH, WOB 5-10klbs, 3300psi, 900gpm. 
+Boost riser while drilling. 
+ROP average 22.6m/hr (including connections) 
+Survey results @2973.53m, 3.73deg, 46.71azimuth 
+2991.0 IH TP DA RE 0.5 Top Drive pipe handler failed to break out drill pipe during routine connection, change out front carrier 
+die while circulating down string. 
+3115.0 IH P DA 5.5 Drilled 311mm (12 1/4") hole from 2991m to 3115m MDRT 
+String wt 340klbs, Tq 6-8000ftlbs, 150 rpm surface, 259rpm DH, WOB 10-12klbs, 3300psi, 900gpm. 
+Boost riser while drilling.Max gas for 24hr period 0.276%. 
+ROP average 22.5m/hr (including connections) 
+Survey results @3088.21m, 3.81deg, 46.46azimuth 
+
+Date : 28 Dec 2005 Daily Cost : $ 503334 Report Number : 17 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3226.0 IH P DA 10.5 Drilled 311mm (12 1/4") hole from 3115m to 3226m MDRT 
+String wt 340klbs, Tq 6-14000ftlbs, 80-150 rpm surface, 180-256rpm DH, WOB 5-20klbs, 3900psi, 
+875gpm. Boost riser while drilling. 
+ROP average10.57m/hr (including connections) 
+Survey results @3202.65m, 3.71deg, 48.97 azimuth 
+3266.0 IH TP DA WOW1.5 Drilling operations suspended due to riser flex joint bullseye reading exceeding "GEM's" guidelines. 
+Circulate while trying to maneouver rig with anchor winches. 
+Wind 35-40 knots, Seas 1.5m WSW, Swell 1.5m NE 
+3277.0 IH P DA 12 Drilled 311mm (12 1/4") hole from 3226m to 3277m MDRT 
+String wt 340klbs, Tq 6-14000ftlbs, 80-150 rpm surface, 180-256rpm DH, WOB 5-25klbs, 4100psi, 
+860gpm. Boost riser while drilling. 
+ROP average 4.25m/hr (including connections) 
+Survey results @3202.65m, 3.71deg, 48.97 azimuth 
+
+Date : 29 Dec 2005 Daily Cost : $ 462947 Report Number : 18 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3356.0 IH P DA 15.5 Drilled 311mm (12 1/4") hole from 3277m to 3356m MDRT 
+String wt 350klbs, Tq 4-14000ftlbs, 80-150 rpm surface, 180-256rpm DH, WOB 4-25klbs, 
+3800-4100psi, 840-900gpm. Boost riser while drilling. 
+ROP average 5.16m/hr (including connections) 
+Survey results @3317m, 3.72deg, 47.74 azimuth 
+3356.0 IH TP DA RE 1 Change out piston on #3 mud pump. fault find and repair blower motor fault. 
+3385.0 IH P DA 7.5 Drilled 311mm (12 1/4") hole from 3356m to 3385m MDRT 
+String wt 350klbs, Tq 4-14000ftlbs, 100-150 rpm surface, 180-256rpm DH, WOB 4-25klbs, 4200psi, 
+890gpm. Boost riser while drilling. 
+ROP average 3.86m/hr (including connections) 
+Max gas for 24hr period 0.306% 
+Survey results @3346m, 3.65deg, 50.41 azimuth 
+
+Date : 30 Dec 2005 Daily Cost : $ 593639 Report Number : 19 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+0.0 IH P DA 2 Drilled 311mm (12 1/4") hole from 3385m to 3397m MDRT 
+String wt 350klbs, Tq 4-14000ftlbs, 100-150 rpm surface, 180-256rpm DH, WOB 4-25klbs, 4200psi, 
+890gpm. Boost riser while drilling. 
+ROP average 3.86m/hr (including connections) 
+Survey results @3375m, 3.7deg, 76.2 azimuth 
+3390.0 IH TP DA RE 0.5 Elmagco auxillary brake problems. Fault find and make repairs. 
+Continue with 50% power available to Elmagco 
+3402.0 IH P DA 6 Drilled 311mm (12 1/4") hole from 3390m to 3402m MDRT 
+String wt 355klbs, Tq 4-14000ftlbs, 100-150 rpm surface, 180-256rpm DH, WOB 18-25klbs, 
+3900-4300psi, 875gpm. Boost riser while drilling. Average ROP = 2m/hr 
+POH to change bit. 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 30 Dec 2005 Daily Cost : $ 593639 Report Number : 19 
+3402.0 IH P TO 1 Flow checked and POOH from 3402m to 2867m, pulled tight @ 55klbs overpull 
+3402.0 IH P REA 0.5 Made up top drive and back ream from 2867m to 2819m 
+3402.0 IH P TO 6.5 Continued to POOH from 2819m to 268m, flow checked @ casing shoe. Calibrated MWD caliper @ 
+1475m 
+3402.0 IH P TO 2 POOH with 311mm (12 1/4") BHA, remove radioactive source from LWD, broke off bit 
+(4-6-WT-S-X-1-RO-PR) and laid out mud motor 
+3402.0 IH P TO 2 Picked up LWD from derrick and download data. Racked back same in derrick 
+3402.0 IH P RS 0.5 Serviced top drive and pipe handler. Checked compensator chains 
+3402.0 IH P TI 2 Picked up new motor (Sperrydrill 6/7 5 stage w/ 0 degree bend), made up new bit (Reed RSX616M) 
+and RIH with 311mm (12 1/4") BHA 
+3402.0 IH P TI 1 Loaded radio active source into LWD and initiate tools 
+
+Date : 31 Dec 2005 Daily Cost : $ 431238 
+Report Number : 20 
+
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+
+3402.0 IH P TI 1.5 Continued to RIH with 12 1/4" BHA. Shallow pulse test MWD with 750 GPM and 750 psi, good test 
+3402.0 IH P TI 1.5 Picked up 27 joints 5" DP from catwalk 
+
+3402.0 IH P TI 6 
+Continued to RIH with 12 1/4" BHA and 5" DP from Derrick to 3330m MDRT 
+
+3402.0 IH P RW 3 
+Reamed and washed from 3330m MDRT to 3380m MDRT. Performed confirmation pass with LWD 
+tools across interval 
+
+3402.0 IH P RW 0.5 
+Washed and reamed last single to bottom 
+
+3473.0 IH P DA 11.5 
+Drilled ahead 311mm (12 1/4") hole from 3402m MDRT to 3473m MDRT, Average ROP = 6.2m/hr, 
+Flow rate = 875 GPM, WOB = 17 -24 klbs, Rotary RPM = 80 -110, Bit RPM = 190 -220, Tq = 5000 9500 
+ft/lbs, 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Activity Report For Culverin 1 
+
+Date : 01 Jan 2006 Daily Cost : $ 466881 Report Number : 21 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3571.0 IH P DA 18.5 Continued to drill 311mm (12 1/4") hole from 3473m MDRT to 3571m MDRT 
+Average ROP = 5.3m/hr, WOB = 20-24 klbs, Rotary RPM = 110, DH RPM = 228, Tq = 6000-8000 ftlb, 
+Flow = 872 GPM 
+Encountered drilling break at 3481m MDRT to 3487m MDRT, flow checked well (76m/hr, Gas = 45 
+units) 
+Max Gas = 186 units @ 3543.5m MDRT 
+3571.0 IH TU WSH WO 5.5 Conducted 15 minute flow check, good. POOH wet, checking for washout. Pulled 2 stands and made 
+up top drive, circulated to confirm continued pressure loss. POOH 10 stands, flow checked 10 
+minutes, good. Continued POOH checking for washout. Visually inspected tool joint seal faces of 
+each stand for wear. 
+
+Date : 02 Jan 2006 Daily Cost : $ 508563 Report Number : 22 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3571.0 IH TP WSH WO 6.5 Continued POOH checking for washout. Visually inspect tool joint seal faces of each stand for wear. 
+Flow checked at casing shoe and at HWDP. Downloaded sources from LWD tools. POOH and 
+inspected BHA for washout. Broke off bit and laid out motor 
+3571.0 IH TP TI WO 2 Made up 12 1/4" rotary BHA with Smith GF30BOVCPS (c/w 3 X 18 nozzles), install new HOC 
+3571.0 IH TP TI WO 2 Initailized MWD and install sources in tool 
+3571.0 IH TP TI WO 6.5 Picked up additional 8" DC's & RIH with 12 1/4" BHA, changed out drilling jar, continued RIH. Shallow 
+pulse tested MWD with 850 GPM @ 2000psi, OK. RIH with 5" DP from derrick to 2134m MDRT, filled 
+drillstring each 20 stands 
+3571.0 IH P TIT 5 Washed and reamed from 2134m MDRT to 2593m MDRT with 700 -850 GPM, 2500 -3900 psi, 120 
+-145 RPM. MWD tools stopped communicating to surface. 200 psi pressure loss noted during 
+reaming (3900psi @ 850 gpm to 3700psi @ 900gpm). 
+3571.0 IH TP TO VE 2 Flow checked 15 minutes, good. POOH for LWD failure and potential washout from 2593m MDRT to 
+2020m MDRT. 60klbs overpull @ 2326m MDRT, worked drill string free 
+
+Date : 03 Jan 2006 Daily Cost : $ 439094 Report Number : 23 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3571.0 IH TP TO VE 1.5 Continued POOH for LWD failure (also POH wet looking for washout) from 2020m MDRT to 1510m 
+MDRT 
+3571.0 IH TP TO WO 1 Installed top drive and pump through drill string at 1510m MDRT to verify pump pressure loss. 220 
+SPM, 940 GPM, 3600 psi, no pressure loss noted. 
+Presure test Pumps #1, #2 & #3 10 minutes each to 3800 psi against standpipe manifold to verify 
+mud pump and mudline integrity. Observed average pressure loss of 91psi over 10 minutes 
+3571.0 IH TP TO VE 2.5 Continued POOH for LWD failure (also POH wet looking for washout) from 1510m MDRT to 271m 
+MDRT 
+3571.0 IH TP TO VE 4 POOH with 12 1/4" BHA. Removed sources from LWD tools. Laid out LWD string. Downloaded data 
+and diagnostics information (Pulser falure) 
+3571.0 IH TP TI WO 3 Lined up Dowel cementing unit and pressure tested mud pumps and surface mud lines to 4200 psi. 
+Calibrated gauges between rig floor, mud loggers, MWD, and Dowell. 
+Picked up new 12 1/4" rotary BHA while pressure testing 
+3571.0 IH TP TI VE 4 Continued to pick up 12 1/4" BHA. Initialized LWD and installed sources. RIH and shallow pulse 
+tested LWD with 850 GPM @ 200 SPM and 1700 psi, good 
+3571.0 IH TP TI VE 2.5 RIH with 5" DP and filled drillstring each 20 stands to 1510m MDRT 
+3571.0 IH P SC 1.5 Held Pre job safety meeting. Hung off blocks and slipped and cut 100 ft drilling line. 
+3571.0 IH P RS 0.5 Serviced top drive 
+3571.0 IH TP WOW WOW3.5 Waiting on Weather to RIH. Excessive flex joint and riser angles 
+Winds: 40-45knts WSW 
+Seas; 3m 
+Swells; 4m 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 03 Jan 2006 Daily Cost : $ 439094 Report Number : 23 
+
+Pitch 0.7 -0.9 
+Roll; 0.8 -0.9 
+
+Perform General rig maintenance and PM's 
+
+Date : 04 Jan 2006 Daily Cost : $ 447637 Report Number : 24 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3571.0 IH TP WOW WOW3.5 Waiting on Weather to RIH. Excessive flex joint and riser angles 
+Winds: 30-22knts WSW 
+Seas; 2.5m -1.5m 
+Swells; 4m -3m 
+Pitch 0.6 
+Roll; 0.8 
+Perform General rig maintenance and PM's 
+3571.0 IH TP WOW WOW1 Repositioned rig to bring flex joint angle to < 1 degree 
+3571.0 IH TP TI WO 4.5 Continued to RIH with 5" DP from 1510m MDRT to 3487m MDRT 
+3571.0 IH TP RW WO 1 Washed and reamed from 3487m MDRT to 3571m MDRT 
+3619.0 IH P DA 14 Drilled ahead 31mm (12 1/4") hole from 3571m MDRT to 3619m MDRT. 
+WOB = 25 -34 klbs, RPM = 100-150, SPM = 188 = 805 GPM, 4000 psi, Tq = 4500 -6700 ftlb. 
+Average ROP = 3.4m/hr 
+
+Date : 05 Jan 2006 Daily Cost : $ 464894 Report Number : 25 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3697.0 IH P DA 24 Drilled ahead 311mm (12 1/4") hole from 3619m MDRT to 3697m MDRT. 
+WOB = 30 -41 klbs, RPM = 80-120, SPM = 187 = 800 GPM, 4050 psi, Tq = 5500 -7500 ftlb. 
+Average ROP = 3.55m/hr 
+Max Gas today = 103 units @ 3695m MDRT 
+
+Date : 06 Jan 2006 Daily Cost : $ 556712 Report Number : 26 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3697.0 IH P DA 4 Drilled ahead 311mm (12 1/4") hole from 3697m MDRT to 3714m MDRT. 
+WOB = 30 -35 klbs, RPM = 80-120, SPM = 187 = 800 GPM, 4050 psi, Tq = 5500 -7500 ftlb. 
+Average ROP = 4.3 m/hr 
+LWD tools stopped pulsing 
+3714.0 IH TU RR 0.5 Backed out IBOP on connection. Re aligned top drive and screwed back into IBOP. Torqued same to 
+78000 ftlbs. Comfirmed alignment of breakout/Make up system 
+3758.0 IH P DA 19.5 Troubleshooted LWD tools. No sucess. 
+Drilled Ahead 311mm (12 1/4") hole from 3714m MDRT to 3758m MDRT 
+WOB = 30 -35, RPM = 100 -130, SPM = 188 = 800 GPM = 4050 psi, Tq = 7000 -8500 ftlb, Average 
+ROP = 2.3 m/hr 
+
+Date : 07 Jan 2006 
+Depth (m) Phase Cls Op R.C. Hrs 
+Daily Cost : $ 604571 
+Activity 
+Report Number : 27 
+3758.0 
+3758.0 
+3758.0 
+IH 
+IH 
+IH 
+P 
+P 
+P 
+CS 
+TO 
+LOG 
+2 
+1 
+4.5 
+Circulated bottoms up sample at 188 spm (800 GPM) from 3758m MDRT 
+Flow checked 15 minuted, good. POOH from 3758m MDRT to 3668m MDRT 
+Logged up with LWD for confirmation data from 3668m MDRT to 3582m MDRT at 30m/hr and 20 -25 
+RPM 
+3758.0 IH P TO 0.5 Pumped 25 bbl slug and POOH from 3582m MDRT to 3506m MDRT 
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 07 Jan 2006 Daily Cost : $ 604571 
+Report Number : 27 
+
+3758.0 IH TP RR RE 1 
+Repaired hose on racking arm 
+
+3758.0 IH P TO 8 
+Continued POOH from 3506m MDRT to 36m MDRT. Flow checked at casing shoe and prior to BHA 
+entering BOP 
+
+3758.0 IH P RR RE 0.5 
+Removed sources from LWD tools. Plugged in and attempted to power down tools with no success 
+
+3758.0 IH P TO 1.5 
+Laid out LWD tools and BHA 
+
+3758.0 IH P LOG 1 
+Held JSA and rigged up to run Schlumberger wireline tools 
+
+3758.0 IH U LOG 1.5 
+Made up wireline tools for run #1, installed radioactive sources 
+
+3758.0 IH U LOG 2.5 
+RIH with log #1, GR/PEX/HALS/DSI. Performed repeat pass from 3675m MDRT to 3575m MDRT 
+
+(23:30 hrs) 
+Date : 08 Jan 2006 Daily Cost : $ 495998 Report Number : 28 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3758.0 IH U LOG 5 RIH with log #1, PEX combo GR/PEX/HALS/DSI. Performed repeat pass from 3675m MDRT to 
+3575m MDRT (23:30 hrs). 
+Perform main Log (from 00:10) 
+GR: TD to Seafloor, 
+PEX Hi Res: TD to 2775m MDRT, 
+HALS: TD to 1511m MDRT, 
+DSI: P&S and Upper Dipole mode from 3758m MDRT to 2775m MDRT, P&S Mode from 2775m 
+MDRT to 1511m MDRT 
+3758.0 IH P LOG 3 Rigged down Run #1 Wireline tools. Made up Run #2; VSP 
+3758.0 IH P LOG 6 RIH and perform VSP. 
+Checkshots at 1559m, 2541m and 3509m MDRT 
+Main pass from 3750m to 3200m MDRT at 15m spacing and 3200m to sea floor at 100m spacing 
+3758.0 IH TP LOG OTH 0.5 Troubleshot network cabling problem with computer hardware in logging unit 
+3758.0 IH P LOG 3.5 Continued with VSP main pass from 3750m to 3200m MDRT at 15m spacing and 3200m to sea floor 
+at 100m spacing 
+3758.0 IH P LOG 1.5 Wireline at surface. Laid down VSP toolstring. Rigged out wireline running equipment 
+3758.0 PA P TI 4.5 Picked up side entry sub and 2 X TIW valves, made up cementing stand and racked back same. 
+Picked up 5" mule shoe and RIH with 5" DP to 2293m MDRT 
+
+Date : 09 Jan 2006 Daily Cost : $ 535925 Report Number : 29 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3758.0 PA P TI 3 Continued to RIH with 5" DP from 2293m MDRT to 3750m MDRT 
+3758.0 PA P CMD 0.5 Circulated bottoms up at 210 SPM = 900 GPM = 3200 psi. Rotate DP at 40 -50 RPM 
+3758.0 PA TP RR RE 0.5 Worked on mud pump SCRs. Rotated and reciprocated drillstring during repairs 
+3758.0 PA P CHC 1 Continued to circulate bottoms up at 210 SPM = 900 GPM = 3200 psi 
+3758.0 PA P CMP 1.5 Held pre job safety meeting. Rigged up Dowell cementing line and pressure tested to 1000 psi. Mixed 
+and pumped abandonment plug # 1; 102 bbl 15.8 ppg, HTB blend + additives (see report). Displaced 
+with 195 bbls drilling fluid at 10.1 ppg 
+Plug #1 set from 3750m MDRT to 3560m MDRT. 
+3758.0 PA P TO 1 POOH from cement plug # 1 from 3750m MDRT to 3420m MDRT slowly 
+3758.0 PA P CHC 1.5 Circulated bottoms up to clear drillpipe 
+3758.0 PA P TO 1 POOH From 3420m MDRT to 2965m MDRT 
+3758.0 PA P CMD 0.5 Circulated and spotted 60 bbl high visc pill 
+3758.0 PA P TO 0.5 POOH from 2965m MDRT to 2865m MDRT 
+3758.0 PA P CMP 1 Held pre job safety meeting. Pressure tested cementing line to 1000 psi. Mixed and pumped 
+abandonment plug # 2; 64.3 bbl 15.8 ppg, HTB blend + additives (see report). Displaced with 149 
+bbls drilling fluid at 10.1 ppg 
+Plug #2 set from 2865m MDRT to 2745m MDRT. 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 09 Jan 2006 Daily Cost : $ 535925 Report Number : 29 
+3758.0 PA P TO 0.5 POOH from plug #2 from 2865m MDRT to 2575m MDRT 
+3758.0 PA P CHC 1.5 Circulated bottoms up 
+3758.0 PA P WOC 3.5 WOC. Laid down 54 jts 5" DP 
+3758.0 PA P TI 1 RIH and tagged TOC plug #2 with 5 klbs at 2735m MDRT 
+3758.0 PA P TO 2 POOH from 2735m MDRT to 1650m MDRT 
+3758.0 PA P CMD 0.5 Circulated and spotted 60 bbls high visc pill at 1650m MDRT 
+3758.0 PA P TO 0.5 POOH from 1650m MDRT to 1550m MDRT. Rigged up cementing hose 
+3758.0 PA P CMP 1 Held pre job safety meeting. Pressure tested cementing line to 1000 psi. Mixed and pumped 
+abandonment plug # 3; 70.4 bbl 15.8 ppg, HTB blend + additives (see report). Displaced with 74 bbls 
+drilling fluid at 10.1 ppg 
+Plug #3 set from 1550m MDRT to 1430m MDRT. 
+3758.0 PA P TO 0.5 Rigged down cementing hose. POOH from cement plug #3 
+3758.0 PA P CMD 1 Circualted bottoms up. Spotted 260 bbls inhibited mud in casing. 
+
+Date : 10 Jan 2006 Daily Cost : $ 474060 Report Number : 30 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3758.0 PA P PLD 3 Pumped slug. POOH and laid down 60 jts of 5" drillpipe from 1262m MDRT to 688m MDRT 
+3758.0 PA P TI 1 RIH from 688m MDRT to 1204m MDRT to tag cement plug #3. Cement samples not firm. 
+3758.0 PA P PLD 1.5 Laid down drill pipe from 1204m MDRT to 917m MDRT. 
+3758.0 PA P TI 2 RIH from 917m MDRT and tag TOC plug #3 at 1421m MDRT with 5 klbs 
+3758.0 PA P TO 1 POOH from 1421m MDRT to 825m MDRT 
+3758.0 PA P CMD 0.5 Circulated and spotted 60 bbls high visc pill at 825m MDRT 
+3758.0 PA P TO 0.5 POOH from 825m MDRT to 721m MDRT. Rigged up cementing hose 
+3758.0 PA P CMP 1 Held pre job safety meeting. Pressure tested cementing line to 1000 psi. Mixed and pumped 
+abandonment plug # 4; 49.7 bbl 15.8 ppg, G cement + additives (see report). Displaced with 30 bbls 
+drilling fluid at 10.1 ppg 
+Plug #4 set from 721m MDRT to 625m MDRT. 
+3758.0 PA P TO 0.5 POOH from cement plug #4 from 721m MDRT to 625m MDRT 
+3758.0 PA P CHC 3 Closed annular preventer, reverse circulated 2 X DP volumes (80 bbls). Displaced choke and kill lines 
+to seawater. Displaced riser and booster line to seawater 
+3758.0 PA P TO 2.5 Held JSA. POOH from 625m MDRT and laid out mule shoe. Cleaned cement from last 8 stands of 
+drillpipe 
+3758.0 PA P CHC 1.5 Held JSA. Made up jet sub and wear bushing retrieval tool. RIH and jetted stack and wellhead areas. 
+3758.0 PA P WH 2.5 Engaged wear bushing with retrieval tool and POOH. 35 klbs overpull to recover noted. Laid out 
+retrieval tool and jetting sub 
+3758.0 PA P CMP 1 Held JSA. Rigged up Dowell and high pressure test pump. Pressure tested choke and kill lines as per 
+DOGD requirements to 250 psi low and 14,000 psi high for 10 minutes each 
+3758.0 BOP P RR2 1 Rigged down 350t elevators and picked up 500t elevators 
+3758.0 BOP P RR2 1.5 Held JSA. Rig up floor to recover riser and BOP 
+
+Date : 11 Jan 2006 
+Depth (m) Phase Cls Op R.C. Hrs 
+Daily Cost : $ 483017 
+Activity 
+Report Number : 31 
+3758.0 
+3758.0 
+3758.0 
+3758.0 
+BOP 
+BOP 
+BOP 
+BOP 
+P 
+P 
+P 
+P 
+RR2 
+RR2 
+RR2 
+RR2 
+1 
+1 
+1 
+1.5 
+Continued to rig up riser handling equipment 
+Picked up and installed diverter running tool. Verified tool lock with 10 klbs overpull 
+Removed and laid out diverter 
+Picked up landing joint and made up to slip joint. Scoped in slip joint 
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 11 Jan 2006 Daily Cost : $ 483017 
+Report Number : 31 
+
+3758.0 BOP P RR2 0.5 
+Unlatched BOP's from wellhead 
+
+3758.0 BOP P RR2 1.5 
+Removed storm saddles. Latch in SDL ring 
+
+3758.0 BOP P RR2 3 
+Lowered slip joint. Removed choke and kill goosenecks and booster line. Picked up and laid out 
+landing joint. Moved rig 24 meters off location 
+
+3758.0 BOP P RR2 14.5 
+Pulled BOP's and laid out marine riser. Back loaded 26 joints to the Pacific Wrangler for shipment to 
+Eden 
+
+Date : 12 Jan 2006 Daily Cost : $ 460184 Report Number : 32 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3758.0 BOP P RR2 3.5 Continued to pull BOP's and lay out marine riser. 
+3758.0 BOP P RR2 1 Pulled riser double and landed out BOP's on carrier 
+3758.0 BOP P RR2 5 Removed guidelines from BOP's. Removed clamps from pod hoses. Broke riser double and 5 ft 
+termination spool from BOP's. Skidded BOP's to starboard side and laid down riser double and 
+termination spool 
+3758.0 BOP P RR2 1.5 Rigged down riser handling equipment, rigged up 5" DP handling equipment and moved rig back over 
+location 
+3758.0 PA P TI 3.5 Held JSA, Picked up 20" X 30" casing cutter assembly. RIH with 5" DP 
+3758.0 PA P TI 0.5 Moved rig starboard forward to stab casing cutter assembly into wellhead 
+3758.0 PA P CCT 0.5 Engaged cutter asembly and tested with 40 klbs over pull. Commenced cutting casing. Cut 20" casing 
+free 
+3758.0 PA TP TO VE 2 POOH with wellhead and 20" casing stub. Laid out same 
+3758.0 BOP TP HBHA VE 2 Held JSA. Changed out casing cutters blades, grapple, spacer sub and centralizer on casing cutter 
+assembly 
+3758.0 PA TP TI VE 2 RIH with casing cutter to 30" housing 
+3758.0 PA P CCT 1 Engaged casing cutter assembly into housing and test with 40 klbs overpull. Commenced cutting 30" 
+casing. Cut 30" casing 
+3758.0 PA P TO 1.5 POOH with guide base and 30" housing 
+
+Date : 13 Jan 2006 Daily Cost : $ 461375 Report Number : 33 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3758.0 PA P TO 1 Continued POOH with guide base and 30" housing 
+3758.0 PA P TO 0.5 Landed out and secured guide base on trolley. Backed out cap screws on guidebase to 30" housing. 
+Conducted 100m radius seabed survey with ROV after pulling PGB. Fugro documentation and DVD 
+to follow. 
+3758.0 PA P TO 1.5 Picked up 30" housing and 30" casing cut off to rig floor. Unlatched spear and laid out 30" housing. 
+Broke down and laid out 30" spear and casing cutting BHA 
+3758.0 PA P TO 1.5 Removed guidelines from guidebase. Moved guidebase on trolley to starboard side of moonpool 
+3758.0 PA P PLD 5.5 RIH with 8" DC's and 5" HWDP from derrick. Laid out same 
+3758.0 PA P PLD 4 RIH with 20 stands 5" DP and laid down same 
+3758.0 PA P PLD 3.5 RIH with 20 stands 5" DP and laid out same 
+3758.0 PA P PLD 4.5 RIH with 20 stands 5" DP and laid out same. Used rig tongs to break out over-torqued pipe 
+3758.0 PA P PLD 2 RIH with 20 stands 5" DP and laid out 10 singles 
+
+Date : 14 Jan 2006 
+Depth (m) Phase Cls 
+3758.0 PA TP 
+Op 
+WO 
+R.C. Hrs 
+OTH 0.5 
+Daily Cost : $ 489283 Report Number : 34 
+Activity 
+Waited on Medivac helicopter to depart to re-commence crane operations for laying out drillpipe. 
+(Medivac required due to sick person -no injury or safety incident occured) 
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Date : 14 Jan 2006 Daily Cost : $ 489283 Report Number : 34 
+3758.0 PA P PLD 3 Continued to lay down 5" DP 
+3758.0 AR P OA 5.5 De-ballast rig. 
+Work on Elmago brake while de-ballasting rig. 
+3758.0 AR P AH 15 De-ballasting completed at 09:15 
+Commenced Pulling anchors as follows: 
+Boat-------Anchor---PCC to Boat---Off Bottom----Anchor Racked-----PCC to Rig 
+Grip---------#6-----------06:45------------07:35------------10:40---------------10:47 
+Wrangler---#2-----------08:11------------10:00------------13:06---------------13:21 
+Grip---------#3-----------11:09------------11:48------------13:42---------------14:03 
+Wrangler---#7-----------13:35------------14:30------------16:22---------------16:31 
+Grip---------#1-----------14:21------------19:30------------21:38---------------21:58 
+Grip---------#5-----------22:16------------23:05 
+Wrangler on put on tow bridle @ 18:20 hrs 
+Date : 15 Jan 2006 Daily Cost : $ 680037 Report Number : 35 
+Depth (m) Phase Cls Op R.C. Hrs Activity 
+3758.0 AR P AH 2.5 Far Grip pulling bight of chain back to rig to release tension @ 0020hrs. 
+Tension dropping on #5 anchor, commence to heave in @ 0050hrs. 
+Anchor #5 @ 1350m chain out, tension dropping @ 0130hrs. 
+Far Grip reports work wire inadvertently paid out 700m @ 0215hrs 
+3758.0 AR TP AH OTH 3.5 Trouble shooted Far grip winch problems. Far Grip reported damage to low gear and only able to 
+work with high gear. Prepared to move vessel to acertain tonnage available in high gear 
+3758.0 AR P AH 9 Pulling anchors as follows: 
+Boat-------Anchor---PCC to Boat---Off Bottom----Anchor Racked-----PCC to Rig 
+Grip---------#5-------------------------------------------------08:18---------------08:41 
+Grip---------#8------------08:52------------09:25-----------11:25---------------11:40 
+Grip---------#4------------11:57-----------12:50------------14:53----------------N/A 
+Wrangler put on tow bridle @ 18:20 hrs Jan 14, 2006 
+Ocean Patriot on tight tow @ 15:00 Jan 15, 2006 
+Ocean Patriot handed over to Anzon Australia Limited @ 15:00 Jan 15, 2006 
+Statement of facts obtained from Ocean Patriot, Wrangler and Far Grip 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Time Analysis 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+Trouble Time Analysis 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+NPT During Programmed Time 
+Date PHS Operation NPT Depth Description of Programmed Trouble Time 
+16 Dec 2005 SC REPAIR OTHER 1 650.0 Had rig welder manufacture 2 x "C" plates due to #1 & #2 guide line 
+spears releasing and not latching correctly. 
+17 Dec 2005 SC SKID RIG 1.5 650.0 Stabbed casing in open hole with ROV assistance and by moving the 
+rig 4m stbd aft. 
+18 Dec 2005 IH HANDLE BHA 1.5 650.0 Attempt to test MWD tools. Failure to produce survey information. 
+Gamma ok. 
+Change out stand pipe sensor after discussing with Sperry Sun in 
+Perth. Re-test down hole tools, still not transmitting survey data 
+18 Dec 2005 IH HANDLE BHA 3.5 650.0 POOH and Rack back BHA from 103m to access MWD internals at 
+rotary table. Remove faulty unit and install back up unit. Run in hole 
+to 103m. Shallow test OK. 
+Battery module is the suspected faulty item. 
+18 Dec 2005 IH TRIP-IN 1 650.0 Move rig to assist with stabbing drill string in 30" housing. Initialy 
+guide ropes ok but due to excess current and movement 2 broke 
+then the remaining 2. 
+Skid rig to assist with stabbing, due to 5-6m seas and 42knot winds 
+the winch tension was excessive before sea bed movement was 
+achieved. 
+18 Dec 2005 IH TRIP-IN 3.5 650.0 POOH from 604m to surface, install new soft line guide ropes to 
+assist in stabbing. 
+RIH to PGB at 605m, stab and continue RIh to top of cement at 
+644m. 
+23 Dec 2005 BOP RISER -RUN 1 1525.0 ROV camera system problems while on bottom monitoring 
+BOP/PGB. Camera's were cutting out and all visibility was lost. 
+Topside black and white camera still working. Recover ROV and 
+move top side black and white camera to front pan tilt for landing 
+bops'. Water had ingressed into camera electrics cannister. Gain use 
+of 2 cameras and dive ROV 
+24 Dec 2005 IH BOP : NIPPLE U/D AND 
+TEST 
+2 1525.0 Attempt function test on blue pod, Run-away observed on open 
+function for upper annular. Function several times and uncontroled 
+flow stopped. Change back to yellow pod and upper annular 
+functions ok. Proceed with operations after discussing equipment 
+failure. Signs made for all BOP panels stating not to operate upper 
+annular on blue pod. Currently drilling on Yellow pod. 
+27 Dec 2005 IH DRILLING AHEAD 0.5 2787.0 Backed out saver sub on Top Drive during routine connection. Layed 
+out single, installed new saver sub on Top Drive and picked up a 
+replacement single of 127mm (5") dp. 
+27 Dec 2005 IH DRILLING AHEAD 0.5 2991.0 Top Drive pipe handler failed to break out drill pipe during routine 
+connection, change out front carrier die while circulating down string. 
+28 Dec 2005 IH DRILLING AHEAD 1.5 3266.0 Drilling operations suspended due to riser flex joint bullseye reading 
+exceeding "GEM's" guidelines. Circulate while trying to maneouver 
+rig with anchor winches. 
+Wind 35-40 knots, Seas 1.5m WSW, Swell 1.5m NE 
+29 Dec 2005 IH DRILLING AHEAD 1 3356.0 Change out piston on #3 mud pump. fault find and repair blower 
+motor fault. 
+30 Dec 2005 IH DRILLING AHEAD 0.5 3390.0 Elmagco auxillary brake problems. fault find and make repairs. 
+Continue with 50% power available to Elmagco 
+02 Jan 2006 IH WASHOUT 6.5 3571.0 Continued POOH checking for washout. Visually inspect tool joint 
+seal faces of each stand for wear. Flow checked at casing shoe and 
+at HWDP. Downloaded sources from LWD tools. POOH and 
+inspected BHA for washout. Broke off bit and laid out motor 
+02 Jan 2006 IH TRIP-IN 2 3571.0 Made up 12 1/4" rotary BHA with Smith GF30BOVCPS (c/w 3 X 18 
+nozzles), install new HOC. 
+02 Jan 2006 IH TRIP-IN 2 3571.0 Initailized MWD and install sources in tool. 
+02 Jan 2006 IH TRIP-IN 6.5 3571.0 Picked up additional 8" DC's & RIH with 12 1/4" BHA, changed out 
+drilling jar, continued RIH. Shallow pulse tested MWD with 850 GPM 
+@ 2000psi, OK. RIH with 5" DP from derrick to 2134m MDRT, filled 
+drillstring each 20 stands 
+02 Jan 2006 IH TRIP-OUT 2 3571.0 Flow checked 15 minutes, good. POOH for LWD failure and potential 
+washout from 2593m MDRT to 2020m MDRT. 60klbs overpull @ 
+2326m MDRT, worked drill string free 
+03 Jan 2006 IH TRIP-OUT 1.5 3571.0 Continued POOH for LWD failure (also POH wet looking for washout) 
+from 2020m MDRT to 1510m MDRT 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+
+Culverin 1 
+
+NPT During Programmed Time 
+Date PHS Operation NPT Depth Description of Programmed Trouble Time 
+03 Jan 2006 IH TRIP-OUT 1 3571.0 Installed top drive and pump through drill string at 1510m MDRT to 
+verify pump pressure loss. 220 SPM, 940 GPM, 3600 psi, no 
+pressure loss noted. 
+Presure test Pumps #1, #2 & #3 10 minutes each to 3800 psi against 
+standpipe manifold to verify mud pump and mudline integrity. 
+Observed average pressure loss of 91psi over 10 minutes 
+03 Jan 2006 IH TRIP-OUT 2.5 3571.0 Continued POOH for LWD failure (also POOH wet looking for washout) 
+from 1510m MDRT to 271m MDRT 
+03 Jan 2006 IH TRIP-OUT 4 3571.0 POOH with 12 1/4" BHA. Removed sources from LWD tools. Laid out 
+LWD string. Downloaded data and diagnostics information (Pulser 
+falure). 
+03 Jan 2006 IH TRIP-IN 3 3571.0 Lined up Dowel cementing unit and pressure tested mud pumps and 
+surface mud lines to 4200 psi. Calibrated gauges between rig floor, 
+mud loggers, MWD, and Dowell. 
+Picked up new 12 1/4" rotary BHA while pressure testing 
+03 Jan 2006 IH TRIP-IN 4 3571.0 Continued to pick up 12 1/4" BHA. Initialized LWD and installed 
+sources. RIH and shallow pulse tested LWD with 850 GPM @ 200 
+SPM and 1700 psi, good 
+03 Jan 2006 IH TRIP-IN 2.5 3571.0 RIH with 5" DP and filled drillstring each 20 stands to 1510m MDRT 
+03 Jan 2006 IH WAIT ON WEATHER 3.5 3571.0 Waiting on Weather to RIH. Excessive flex joint and riser angles 
+Winds: 40-45knts WSW 
+Seas; 3m 
+Swells; 4m 
+Pitch 0.7 -0.9 
+Roll; 0.8 -0.9 
+Perform General rig maintenance and PM's 
+04 Jan 2006 IH WAIT ON WEATHER 3.5 3571.0 Waiting on Weather to RIH. Excessive flex joint and riser angles 
+Winds: 30-22knts WSW 
+Seas; 2.5m -1.5m 
+Swells; 4m -3m 
+Pitch 0.6 
+Roll; 0.8 
+Perform General rig maintenance and PM's 
+04 Jan 2006 IH WAIT ON WEATHER 1 3571.0 Repositioned rig to bring flex joint angle to < 1 degree 
+04 Jan 2006 IH TRIP-IN 4.5 3571.0 Continued to RIH with 5" DP from 1510m MDRT to 3487m MDRT 
+04 Jan 2006 IH REAM/WASH 1 3571.0 Washed and reamed from 3487m MDRT to 3571m MDRT 
+07 Jan 2006 IH RIG REPAIR 1 3758.0 Repaired hose on racking arm 
+08 Jan 2006 IH LOGGING 0.5 3758.0 Troubleshot network cabling problem with computer hardware in 
+logging unit 
+09 Jan 2006 PA RIG REPAIR 0.5 3758.0 Worked on mud pump SCRs. Rotated and reciprocated drillstring 
+during repairs 
+12 Jan 2006 PA TRIP-OUT 2 3758.0 POOH with wellhead and 20" casing stub. Laid out same 
+12 Jan 2006 BOP HANDLE BHA 2 3758.0 Held JSA. Changed out casing cutters blades, grapple, spacer sub 
+and centralizer on casing cutter assembly 
+12 Jan 2006 PA TRIP-IN 2 3758.0 RIH with casing cutter to 30" housing 
+14 Jan 2006 PA WAIT ON OTHER 0.5 3758.0 Waited on Medivac helicopter to depart to re-commence crane 
+operations for laying out drillpipe. (Medivac required due to sick 
+person -no injury or safety incident occured) 
+15 Jan 2006 AR ANCHOR HANDLING 3.5 3758.0 Trouble shooted Far grip winch problems. Far Grip reported damage 
+to low gear and only able to work with high gear. Prepared to move 
+vessel to acertain tonnage available in high gear 
+
+'Copyright IDS 2006', TF/JG 20060404, 
+NEXUS_AU_FWR.xsl (parent/child V1.2) 
+
+

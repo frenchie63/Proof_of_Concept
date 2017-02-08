@@ -1,0 +1,4922 @@
+ 
+
+ 
+
+BASS STRAIT OIL COMPANY LTD 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WELL COMPLETION REPORT 
+
+(Basic Data) 
+
+Volume 1 of 1 
+
+ 
+
+ 
+
+MOBY-1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+February 2005 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+BASS STRAIT OIL COMPANY LTD 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOBY-1 
+
+ 
+
+WELL COMPLETION REPORT 
+
+ 
+
+VOLUME 1 OF 1 
+
+ 
+
+ 
+
+(BASIC DATA) 
+
+ 
+
+VIC/P47 
+
+GIPPSLAND BASIN 
+
+ 
+
+OFFSHORE 
+
+VICTORIA 
+
+ 
+
+ 
+
+Date: February 2005 
+
+Compiled by: R. Fisher 
+
+Reviewed by: Ian Reid Controlled Copy No: __________ 
+
+ 
+
+
+Table of Contents 
+
+1. Overview.............................................................................................................. 1 
+1.1 Well Data Summary...........................................................................................................1 
+1.2 Personnel and Contractors Summary ...............................................................................2 
+1.3 Well Operations Summary.................................................................................................4 
+1.4 Hole and Casing Data Summary.......................................................................................5 
+1.5 Well Overview ...................................................................................................................5 
+1.5.1 Drilling...................................................................................................................5 
+1.6 Detailed Drilling Performance Review .............................................................................6 
+1.6.1 Mobilise Rig to Moby-1 Location .........................................................................6 
+1.6.2 Run Anchors ..........................................................................................................6 
+1.6.3 Drill 660 x 914mm (26” x 36”) Hole Section........................................................6 
+1.6.4 Run and Cement 508 x 762mm (20” x 30”) Conductor ........................................6 
+1.6.5 Drill 445mm (17 ½”) Hole Section .......................................................................6 
+1.6.6 Run and Cement 340mm (13 .”) Casing..............................................................6 
+1.6.7 6 
+1.6.8 Run BOP and Riser................................................................................................6 
+1.6.9 Drill 311mm (12 ¼”) Shoe Track and 216mm (8 ½”) Hole Section.....................7 
+1.6.10 TD Wireline Logging of 216mm (8 ½”) Hole Section..........................................7 
+1.6.11 Well Abandonment................................................................................................7 
+1.6.12 7 
+1.6.13 Pull Anchors ..........................................................................................................7 
+2. Geological Report ............................................................................................... 8 
+2.1 Formation Sampling..........................................................................................................8 
+2.1.1 Ditch Cuttings........................................................................................................8 
+2.1.2 Conventional Cores ...............................................................................................8 
+2.1.3 Sidewall Cores (SWC)...........................................................................................8 
+2.1.4 Rotary Sidewall Cores ...........................................................................................9 
+2.2 Surveys, Logging and Testing Services .............................................................................9 
+2.2.1 Directional Surveys ...............................................................................................9 
+2.2.2 Mudlogging .........................................................................................................10 
+2.2.3 Lithological Logging ...........................................................................................10 
+2.2.4 Hydrocarbon Indications .....................................................................................10 
+2.2.5 Measurement and Logging While Drilling (MWD/LWD)..................................12 
+2.2.6 Wireline Logging.................................................................................................12 
+2.2.7 Borehole Seismic .................................................................................................15 
+2.2.8 Wireline Testing ..................................................................................................15 
+2.2.9 Drill Stem Testing ...............................................................................................20 
+2.2.10 Temperature, Drilling and Mud Property Data....................................................20 
+2.3 Formation Evaluation .....................................................................................................20 
+2.3.1 Biostratigraphy ....................................................................................................20 
+2.3.2 Petrology..............................................................................................................21 
+2.3.3 Core Analysis.......................................................................................................21 
+2.3.4 Geochemistry.......................................................................................................22 
+3. Drilling Records ................................................................................................ 23 
+3.1 Operational Reports ........................................................................................................23 
+3.2 Bit and BHA Reports .......................................................................................................23 
+3.3 Casing and Cementing Reports .......................................................................................23 
+3.4 Drilling Fluids Reports....................................................................................................23 
+3.5 Well Trajectory................................................................................................................23 
+3.6 LOT/FIT Reports .............................................................................................................23 
+3.7 Project Logistics..............................................................................................................23 
+3.7.1 Mobilisation.........................................................................................................24 
+3.7.2 Shorebase.............................................................................................................24 
+3.7.3 Helicopters / Crew Changes ................................................................................24 
+3.8 Communications..............................................................................................................24 
+3.9 Weather Forecasting .......................................................................................................24 
+4. Unscheduled Events.......................................................................................... 25 
+4.1 Pre-Spud..........................................................................................................................25 
+4.2 Drilling ............................................................................................................................25 
+4.3 Post Drilling ....................................................................................................................25 
+4.4 Downtime Analysis ..........................................................................................................25 
+
+
+LIST OF TABLES 
+
+ 
+
+Table 1: Hole Size Summary 
+
+Table 2: Casing Summary 
+
+Table 3: Plug and Abandonment Cement Plug Summary 
+
+Table 4: Cuttings sample Interval 
+
+Table 5: Percussion Sidewall Core Depths 
+
+Table 6: Summary of Average Ditch Gas Readings Recorded in Moby-1 
+
+Table 7: Isotube Gas Sample Depths 
+
+Table 8: Hydrocarbon Shows in Sidewall Cores 
+
+Table 9: Summary of Wireline Logging Runs 
+
+Table 10: Summary of Wireline Log Prints 
+
+Table 11: RCI Pre-test Pressure and Sampling Results 
+
+Table 12: Wireline Recorded Temperature Data 
+
+Table 13: Samples submitted for Palynology 
+
+Table 14: Samples Submitted for Petrology 
+
+Table 15: Samples Submitted for Quantitative Core Analysis 
+
+Table 16: Samples Submitted for Geochemistry 
+
+Table 17: Well Trajectory 
+
+Table 18: Formation Integrity Test Summary 
+
+ 
+
+ 
+
+LIST OF FIGURES 
+
+ 
+
+Figure 1: Location Maps 
+
+Figure 2: Time versus Depth Curve 
+
+Figure 3: Logistics and Support Infrastructure Diagram 
+
+ 
+
+ 
+
+TABLE OF APPENDICES 
+
+ 
+
+Appendix 1: Cuttings Sample Descriptions (BAS) 
+
+Appendix 2: Sidewall Core Descriptions Report (BAS) 
+
+Appendix 3: Sidewall Core Photography (Core Laboratories) 
+
+Appendix 4: Routine Core (SWC) Analysis Report (Core laboratories) 
+
+Appendix 5: Wireline End of Well Report (BakerAtlas) 
+
+
+Appendix 6: Wireline Logging Witness/Mud Record Report (BAS) 
+
+Appendix 7: Wireline Logging Diary (BAS) 
+
+Appendix 8: Validity Checks, Tracer, Water and RCI Sample Analyses (Petrotech) 
+
+Appendix 9: Mudlogging End of Well Report (Halliburton) 
+
+Appendix 10: PVT Report (Core Laboratories) 
+
+Appendix 11: Geochemistry Report (GeoTechnical Services) 
+
+Appendix 12: Palynology Report & Distribution Chart – Basic Data (Biostrata) 
+
+Appendix 13: VSP Report (VS Fusion) 
+
+Appendix 14: Final Rig Positioning Report (Fugro) 
+
+Appendix 15: Rig Positioning QA Report (RPS Hydrosearch) 
+
+Appendix 16: Casing and Cementing Reports (BAS) 
+
+Appendix 17: Drilling Fluid Report (MI Swaco) 
+
+Appendix 18: Drilling Data (IDS) 
+
+Appendix 19: Daily Drilling Reports (IDS) 
+
+ 
+
+ 
+
+ 
+
+LIST OF ENCLOSURES 
+
+ 
+
+Enclosure 1: Moby-1 Formation Evaluation Log 
+
+Enclosure 2: Moby-1 Drilling Log 
+
+Enclosure 3: Moby-1 Pressure Log 
+
+Enclosure 4: Moby-1 Gas Ratio Log 
+
+ 
+
+
+1. Overview 
+1.1 Well Data Summary 
+
+
+
+
+Well Name 
+
+ 
+
+Moby-1 
+
+Operator 
+
+ 
+
+Bass Strait Oil Company Ltd 
+
+Equity Partners 
+
+ 
+
+Bass Strait Oil Company Ltd. (40%) 
+
+Eagle Bay Resources NL (25%) 
+
+Moby Oil & Gas Limited (35%) 
+
+Permit 
+
+ 
+
+VIC/P47 
+
+Basin 
+
+ 
+
+Gippsland Basin 
+
+Type of Well 
+
+ 
+
+Exploration 
+
+Well Status 
+
+ 
+
+Plugged & Abandoned as New Field 
+Gas Discovery 
+
+Surface Well Location 
+
+Easting 
+
+632316.41m E 
+
+ 
+
+Northing 
+
+5,789,884.86m N 
+
+ 
+
+Latitude 
+
+38° 01’ 44.25” S 
+
+ 
+
+Longitude 
+
+148° 30’ 27.40” E 
+
+ 
+
+Datum 
+
+AGD 66 
+
+Map Reference 
+
+ 
+
+SJ 55 1:1,000,000 Melbourne Map 
+Sheet; Graticular Block 1783 
+
+Objectives 
+
+Primary 
+
+Gurnard Formation 
+
+ 
+
+Secondary 
+
+Barracouta Formation 
+
+Total Depth 
+
+mRT 
+
+660mRT 
+
+ 
+
+mSS 
+
+638.5mSS 
+
+Elevations 
+
+ 
+
+Water Depth 
+
+Rotary Table 
+
+53m (MSL) 
+
++21.5m 
+
+Rig on Contract 
+
+ 
+
+5th October 2004; 02:45 hours 
+
+Spud Date 
+
+ 
+
+7th October 2004; 16:45 hours 
+
+Well Reach TD 
+
+ 
+
+11th October 2004; 20:30 hours 
+
+Rig Released 
+
+ 
+
+17th October 2004; 13:00 hours 
+
+
+
+ 
+
+
+1.2 Personnel and Contractors Summary 
+
+
+OFFSHORE PERSONNEL 
+
+Drilling Supervisors 
+
+Chris Wilson/John Wrenn 
+
+Drilling Engineer 
+
+James Gilmour 
+
+Geologists 
+
+Geoff Geary/Don MacFarlan 
+
+
+
+ 
+
+ONSHORE PERSONNEL 
+
+Project Advisor (Perth) 
+
+Tom Brand 
+
+Drilling Superintendent (Perth) 
+
+Colin Allport 
+
+Drilling Engineer (Perth) 
+
+Werner Janisch 
+
+General Manager, Exploration – 
+BAS (Melbourne) 
+
+Ian Reid 
+
+Operations Geologist (Perth) 
+
+Robert Fisher 
+
+HSE Co-ordinator (Perth) 
+
+Jim Embury 
+
+Shorebase Materials and Logistics 
+Coordinator 
+
+Alex Edwards 
+
+
+
+ 
+
+SERVICE 
+
+CONTRACTOR 
+
+Mobile Offshore Drilling Unit 
+
+Diamond Offshore General Company 
+“Ocean Patriot”-Steve Ramsey 
+
+Project Advisor 
+
+Labrador Petro-Management – Tom 
+Brand 
+
+Drilling Fluids 
+
+Mi Swaco- Nigel Warman 
+
+Mudlogging 
+
+Halliburton/Sperry Sun – Mario 
+Shelford 
+
+Wireline/VSP 
+
+BakerAtlas – David Thorne 
+
+Tracer/Fluid Samples 
+
+Petrotech Knowledge– Robyn Tamke 
+
+Cementing 
+
+Dowell Schlumberger – Leen Vlott 
+
+Drill Bits 
+
+Smith Bits – Doug Ferguson 
+
+Drilling Tools 
+
+Smith International – Colin Hankinson 
+
+Casing Handling 
+
+Weatherford – Aaron Sinnott 
+
+Wellhead 
+
+Cameron – Vince Marino 
+
+Anchor Handling Supply Vessels 
+
+Swire Pacific-“Pacific Wrangler” – 
+Sam Pullan 
+
+Farstad-“Far Grip” – Dick Hall 
+
+Helicopters/Type 
+
+Bristows/S-76 - Paul Giddon 
+
+Fixed Wing Services 
+
+Bristows - Paul Giddon 
+
+ROV 
+
+FUGRO - Norman Mackay 
+
+
+
+
+Down Hole Rental Tools 
+
+Tasman Oiltools – Ross Luck 
+
+Shore Base (Wharf 27 Melbourne) 
+
+Dent Group – Phil Dent 
+
+Transportation 
+
+Bonnie Rock – Jim Currie 
+
+Rig Positioning 
+
+Fugro Survey – Ian Hobbs 
+
+Rig Positioning QC 
+
+RPS Hydrosearch – John Thompson 
+
+Weather Reporting 
+
+Bureau of Meteorology – David Bebee 
+
+Communications 
+
+Diamond Offshore General Company 
+
+
+
+ 
+
+LOGISTICS 
+
+Project Advisor 
+
+Labrador Petro-Management – Tom 
+Brand 
+
+Supply Base Location 
+
+Port Melbourne, Victoria – Wharf 27 
+
+Eden, NSW 
+
+Helicopter Location 
+
+Essendon Airport - Melbourne 
+
+Fixed Wing Services 
+
+Essendon Airport - Melbourne 
+
+
+
+ 
+
+ 
+
+
+1.3 Well Operations Summary 
+
+
+The Diamond Offshore General Company MODU “Ocean Patriot” was mobilised from the 
+TAP Oil Tawatawa-1 location off the east coast of New Zealand and towed across the 
+Tasman Sea by two AHSV’s (“Far Grip” & “Pacific Wrangler”). Moby-1 operations 
+commenced at 02:45 Hrs 5th October 2004 when the first anchor was dropped at the Moby-1 
+location. Anchor handling operations were delayed by bad weather, while additional delays 
+were caused by having to re-run a number of anchors. Positioning the rig on location was 
+completed by 05:30 Hrs 7th October 2004 at which time the rig was ballasted down to 
+drilling draft. The final location for Moby-1 was confirmed as being 2.4m from the proposed 
+location on a bearing of 270.28O True. The final fix for Moby-1 was: 
+
+ 
+
+ Latitude: 38O 01’ 44.25” S 
+
+ Longitude: 148O 30’ 27.40” E 
+
+ Easting: 632, 316.41m 
+
+ Northing: 5, 789, 884.86m 
+
+ DATUM: AGD 66. 
+
+ 
+
+The temporary guide base (TGB) was run and landed at 74.5mMD RT. Made up 914mm 
+(36”) BHA and ran in hole with ROV assisting through TGB and tagged seafloor at 74.5m 
+corrected to Mean Sea Level (MSL). The water depth at Mean Sea Level was recorded as 
+53.0m, with a drill floor elevation of 21.5m. The well was spudded at 16:45 Hrs 7th October 
+2004 with a 914mm (36”) hole drilled from seafloor (74.5mMD RT) to a depth of 101mMD 
+RT, pumping 50 bbl gel sweeps every 9m. Ran 762mm (30”) casing and cemented with 
+758.8 sacks (160.8 bbl), cement slurry at 15.8 ppg. 
+
+Made up 445mm (17 ½”) BHA and installed guide ropes to BHA and guide lines. Ran in 
+hole and tagged cement at 96.7mMD RT. Drilled cement and casing shoe from 96.7mMD 
+RT to 98mMD RT and continued drilling to 325mMD RT, pumping 40 bbl guar gum sweeps 
+every 15m and 50 bbl gel sweeps before very connection. Pumped 100 bbl hi-vis sweep at 
+1100gpm and conducted wiper trip to 762mm (30”) casing shoe. Took weight at 315mMD 
+RT and reamed back to 325mMD RT. Circulated bottoms up at 1100 gpm and displaced hole 
+to 350 bbl hi-vis mud. Dropped single shot survey tool and pulled out of hole to 203mMD 
+RT. Recovered survey tool and continued pulling out of hole, jetting 762mm (30”) housing 
+on the way out of hole. 
+
+Ran 340mm (13 .”) casing to 321.8mMD RT and cemented with 140 bbls (295 sacks) of 
+12.5 ppg Class G Lead cement followed by 71 bbls (335 sacks) of 15.8 ppg Class G Tail 
+cement. Displaced cement with 116 bbls of seawater. Bumped plugs and pressure tested 
+casing to 2000 psi. Observed returns to seabed throughout cementing. Ran BOP’s while 
+testing choke and kill lines to 300 psi for 5 minutes and 3000 psi for 10 minutes and marine 
+riser. Landed BOP’s and pressure tested wellhead connection to 300 psi for 5 minutes and 
+3000 psi for 10 minutes. 
+
+Made up 311mm (12 ¼”) bit and ran in hole. Washed down from 286mMD RT and tagged 
+top of cement at 295.5mMD RT. Drilled plugs, cement and shoe track and cleaned rat hole to 
+325mMD RT. Drilled ahead in 311mm (12 ¼”) hole from 325m to 328mMD RT. Displaced 
+well to 10 ppg KCL/Polymer mud system, displacing choke and kill lines. Pressure tested 
+lines to 1000 psi and performed FIT to 1.7 SG (14.16 ppg), OK. Pulled out of hole laying 
+down 311mm (12 ¼”) BHA. 
+
+Made up 216mm (8 ½”) BHA and ran in hole to 328mMD RT and drilled ahead to 660mMD 
+RT (TD), taking Anderdrift survey every connection. Circulated hole clean, dropped multishot 
+and pulled out of hole from 660m to 248mMD RT, working tight spots between 612m 
+and 560mMD RT. Finished pulling out of hole and retrieved EMS tool. 
+
+
+Rigged up BakerAtlas for running wireline logs and ran the following logs; RUN#1: DLLMLL-
+MAC-ZDL-CNL-DSL-TTRM over the interval 659-321.5m with GR-MAC through 
+casing to 75mMD RT; RUN#2: RCI-GR over the interval 558.3-612.8m for pressures and 
+samples; RUN#3: SLR-GR (VSP survey) over the interval 659-80m and RUN#4: SWC-GR 
+over the interval 651.5-538m; shot 25 cores, recovered 25 cores; rigged down BakerAtlas. 
+
+Commenced plug and abandonment operations at 22:30 Hrs 13th October 2004. Picked up 
+and ran in hole with 73mm (2 .”) tubing cement stinger on 127mm (5”) drill pipe to 
+650mMD RT and pumped 42.8 bbls of 15.8 ppg Class G cement slurry setting Plug#1 from 
+660mMD RT to 505mMD RT. Pulled out of hole to 370mMD RT and pumped 43 bbls of 
+15.8 ppg Class G cement slurry setting Plug#2 from 370mMD RT to 270mMD RT. Ran in 
+hole with 127mm (5”) open ended drill pipe and tagged top of cement Plug#2 at 259mMD 
+RT. Pressure tested casing against lower annular to 500 psi, OK. Picked up 340mm (13 .”) 
+cement retainer and ran in hole to 160mMD RT and set same. Pumped 30 bbls of 15.8 ppg 
+Class G cement slurry, setting cement Plug#3 from 160m to 100mMD RT. 
+
+Picked up wellhead jetting tool and wear bushing retrieval tool and ran in hole to 74m while 
+jetting stack and wellhead. Landed out wear bushing retrieval tool and pulled out of hole. 
+Pulled riser and BOP’s and secured same. Picked up 508mm x 762mm (20” x 30”) spear and 
+cutting assembly and ran in hole stabbing into 18 ¾” wellhead and cut 508mm (20”) casing 
+at 77.39mMD RT and pulled out of hole with casing cut-off stub and housing. Re-dressed 
+spear and RIH, stabbing into 762mm (30”) housing, cutting 762mm (30”) casing at 
+76.84mMD RT. 
+
+Commenced anchor handling operations at 18:00 Hrs 16th October 2004. Last anchor racked 
+at 13:00 Hrs 17th October 2004 and the rig released to Santos. Total time on Moby-1 location 
+was 12.427 days. 
+
+1.4 Hole and Casing Data Summary 
+
+
+A summary of hole sizes and depths is provided in Table 1 and a summary of casing sizes 
+and setting depths is presented in Table 2. 
+
+Table 1: Hole Size Summary 
+
+Hole Size 
+
+Depth To 
+
+Length 
+
+(in) 
+
+(mm) 
+
+mMD RT 
+
+mTVD SS 
+
+(m) 
+
+26” x 36” 
+
+660 x 914 
+
+101 
+
+79.5 
+
+26.5 
+
+17 ½” 
+
+445 
+
+325 
+
+303.5 
+
+224 
+
+12 ¼” 
+
+311 
+
+328 
+
+306.5 
+
+3 
+
+8 ½” 
+
+216 
+
+660 
+
+638.5 
+
+335 
+
+
+
+ 
+
+Table 2: Casing Summary 
+
+Casing Size 
+
+Grade 
+
+Weight 
+(ppf) 
+
+LOT 
+(sg) 
+
+Cement 
+
+Depth 
+
+(in) 
+
+(mm) 
+
+mMD 
+RT 
+
+mTVD 
+SS 
+
+20” x 30” 
+
+508 x 762 
+
+ 
+
+ 
+
+ 
+
+Seabed 
+
+97.5 
+
+76.45 
+
+13 3/8” 
+
+340 
+
+K-55/L-80 
+
+68 
+
+1.7 
+
+Seabed 
+
+321.76 
+
+300.26 
+
+
+
+ 
+
+1.5 Well Overview 
+1.5.1 Drilling 
+
+
+
+
+Moby-1 reached total depth (TD) at 660mMD RT (-638.5mTVD SS). The main 
+reason for allocated trouble time was a result of waiting on weather, because Bass 
+Strait is often prone to bad weather. Another major source of trouble time was 
+
+
+having to re-run anchors after coming on location to correct the rig heading in order 
+to allow for optimum communications. 
+
+1.6 Detailed Drilling Performance Review 
+1.6.1 Mobilise Rig to Moby-1 Location 
+
+
+
+
+The rig was Mobilised from Tawatawa-1 location off the east coast of New Zealand 
+and towed across the Tasman Sea by two AHSVs (Far Grip & Pacific Wrangler). 
+
+1.6.2 Run Anchors 
+
+
+The time breakdown for running anchors was as follows: 
+
+Actual time: 
+
+56.25 hours 
+
+Trouble time: 
+
+28.5 hours 
+
+Productive Time: 
+
+27.75 hours 
+
+Technical Limit: 
+
+22 hours 
+
+Budgeted time: 
+
+22 hours 
+
+Over Budget: 
+
+155.7 % 
+
+
+
+1.6.3 Drill 660 x 914mm (26” x 36”) Hole Section 
+
+
+The time breakdown for drilling the 26” x 36” hole was as follows: 
+
+Actual time: 
+
+9 hours 
+
+Trouble time: 
+
+1.75 hours 
+
+Productive Time: 
+
+7.25 hours 
+
+Technical Limit: 
+
+5.75 hours 
+
+Budgeted time: 
+
+5.75 hours 
+
+Over Budget: 
+
+56.5 % 
+
+
+
+1.6.4 Run and Cement 508 x 762mm (20” x 30”) Conductor 
+
+
+The time breakdown for running and cementing casing was as follows: 
+
+Actual time: 
+
+7.75 hours 
+
+Trouble time: 
+
+0 hours, 
+
+Productive Time: 
+
+7.75 hours 
+
+Technical Limit: 
+
+10.5 hours 
+
+Budgeted time: 
+
+10.5 hours 
+
+Under Budget: 
+
+26.2 % 
+
+
+
+1.6.5 Drill 445mm (17 ½”) Hole Section 
+
+
+The time breakdown for drilling the 445mm (17 ½”) hole was as follows: 
+
+Actual time: 
+
+8.25 hours 
+
+Trouble time: 
+
+1.5 hours 
+
+Productive Time: 
+
+6.75 hours 
+
+Technical Limit: 
+
+12.25 hours 
+
+Budgeted time: 
+
+12.25 hours 
+
+Under Budget: 
+
+32.7 % 
+
+
+
+1.6.6 Run and Cement 340mm (13 .”) Casing 
+
+
+The time breakdown for running and cementing casing was as follows: 
+
+Actual time: 
+
+20 hours 
+
+Trouble time: 
+
+1.25 hours 
+
+Productive Time: 
+
+18.75 hours 
+
+Technical Limit: 
+
+11.75 hours 
+
+Budgeted time: 
+
+11.75 hours 
+
+Over Budget: 
+
+70.2 % 
+
+
+
+1.6.7 Run BOP and Riser 
+
+
+Time breakdown for running and testing BOPs and running the seal bore protector 
+are as follows: 
+
+ 
+
+
+Actual time: 
+
+23.5 hours 
+
+Trouble time: 
+
+0 hours 
+
+Productive Time: 
+
+23.5 hours 
+
+Technical Limit: 
+
+24 hours 
+
+Budgeted time: 
+
+24 hours 
+
+Under Budget: 
+
+2.1 % 
+
+
+
+1.6.8 Drill 311mm (12 ¼”) Shoe Track and 216mm (8 ½”) Hole Section 
+
+
+The time breakdown of the drilling of the 311mm (12 ¼”) shoe track and 216mm (8 
+½”) hole is as follows: 
+
+Actual time: 
+
+31.5 hours 
+
+Trouble time: 
+
+0 hours 
+
+Productive Time: 
+
+31.5 hours 
+
+Technical Limit: 
+
+38.5 hours 
+
+Budgeted time: 
+
+38.5 hours 
+
+Under Budget: 
+
+18.2 % 
+
+
+
+1.6.9 TD Wireline Logging of 216mm (8 ½”) Hole Section 
+
+
+The time breakdown of the logging of the 216mm (8½”) hole is as follows (note 
+technical limit and budgeted time based on dry-hole logging programme whereas 
+Moby-1 was logged as a success case): 
+
+Actual time: 
+
+45.5 hours 
+
+Trouble time: 
+
+0.5 hours 
+
+Productive Time: 
+
+45 hours 
+
+Technical Limit: 
+
+24 hours 
+
+Budgeted time: 
+
+24 hours 
+
+Over (Under) Budget: 
+
+89.6 % 
+
+
+
+1.6.10 Well Abandonment 
+
+
+The plug and abandonment plugs were set using 73mm (2 7/8”) tubing stinger and 
+summarised in Table 3. 
+
+Table 3: Plug and Abandonment Cement Plug Summary 
+
+Plug No. 
+
+Amount Pumped [bbl] 
+
+From (mMD 
+RT) 
+
+To (mMD 
+RT) 
+
+Tagged (mMD 
+RT) 
+
+1 
+
+42.8 
+
+660 
+
+505 
+
+- 
+
+2 
+
+43 
+
+370 
+
+270 
+
+259 
+
+3 
+
+30 
+
+160 
+
+100 
+
+- 
+
+
+
+ 
+
+A time breakdown for the abandonment operations is as follows: 
+
+Actual time: 
+
+67.5 hours 
+
+Trouble time: 
+
+17.25 hours 
+
+Productive Time: 
+
+50.25 hours 
+
+Technical Limit: 
+
+31.25 hours 
+
+Budgeted time: 
+
+31.25 hours 
+
+Over Budget: 
+
+116 % 
+
+
+
+1.6.11 Pull Anchors 
+
+
+The time breakdown for the pulling of the anchors is as follows. 
+
+Actual time: 
+
+19 hours 
+
+Trouble time: 
+
+0.75 hours 
+
+Productive Time: 
+
+18.25 hours 
+
+Technical Limit: 
+
+17.5 hours 
+
+Budgeted time: 
+
+17.5 hours 
+
+Over Budget: 
+
+8.6 % 
+
+
+
+ 
+
+The rig was released at 13:00 hours on the 17th October 2004. 
+
+The Time versus Depth curve forms Figure 2 of this report. 
+
+
+2. Geological Report 
+2.1 Formation Sampling 
+2.1.1 Ditch Cuttings 
+
+
+
+
+
+
+One ~500gm bulk set of lightly washed and air dried cuttings was collected 
+at 10m, 5m and 3m intervals depending upon the stratigraphic section and 
+rate of penetration (ROP) from 325m to 660mMD RT in Moby-1 and 
+retained in cloth bags. These samples are a spare set and are in storage at 
+Kestrel Information Management Pty Ltd, 578-590, Somerville Road, 
+Sunshine, Vic 3020. 
+
+ 
+
+Four sets of washed and air dried sample splits each of 200gm were collected 
+at 10m, 5m or 3m intervals depending upon the stratigraphic section and rate 
+of penetration (ROP) from 325m to 660mMD RT in Moby-1 and retained in 
+plastic bags. One set (Set D) was dispatched to GeoScience Australia (GA), 
+Core and Cuttings Repository, Symonston, ACT, another set (Set C) was 
+dispatched to the Victorian DPI Core Library South Road, Werribee, Vic 
+3030 and another set (Set B) was dispatched to Eagle Bay Resources. BAS 
+has retained the remaining set (Set A) which is stored at Kestrel Information 
+Management Pty Ltd, 578-590, Somerville Road, Sunshine, Vic 3020 
+
+ 
+
+In addition, one set of cuttings samples was collected in “samplex” trays 
+which are also stored at Kestrel Information Management, Victoria. 
+
+ 
+
+The cuttings sampling interval and number of samples collected for Moby-1 
+is tabulated below in Table 4. 
+
+ 
+
+Table-4: Cuttings Sample Interval 
+
+HOLE SIZE 
+
+(mm) 
+
+FROM 
+(mMD RT) 
+
+TO (mMD 
+RT) 
+
+INTERVAL (m) 
+
+NUMBER OF 
+SAMPLES 
+
+311 
+
+325 
+
+328 
+
+3 
+
+1 
+
+216 
+
+328 
+
+330 
+
+2 
+
+1 
+
+ 
+
+330 
+
+540 
+
+10 
+
+21 
+
+ 
+
+540 
+
+550 
+
+5 
+
+2 
+
+ 
+
+550 
+
+622 
+
+3 
+
+24 
+
+ 
+
+622 
+
+630 
+
+8 
+
+1 
+
+ 
+
+630 
+
+660 
+
+10 
+
+3 
+
+ 
+
+ 
+
+ 
+
+TOTAL 
+
+53 
+
+
+
+2.1.2 Conventional Cores 
+
+
+No conventional cores were cut in Moby-1. 
+
+2.1.3 Sidewall Cores (SWC) 
+
+
+One percussion sidewall coring run was made with the BakerAtlas SWC 
+coring gun over the gross interval 651.5-538.0mMD RT in Moby-1. A 25 
+core programme was planned, the primary purpose of which was to acquire 
+cores for reservoir evaluation in the primary reservoir and for 
+biostratigraphic evaluation. A total of 25 cores were recovered from the 25 
+
+
+attempted (100%). A summary of SWC depths and recovery are included 
+below in Table 5. 
+
+ 
+
+Table 5: Percussion Sidewall Core Depths 
+
+SWC 
+NO. 
+
+DEPTH 
+(mMD RT) 
+
+Predicted 
+Lithology 
+
+ 
+
+REC 
+
+(cm) 
+
+Actual 
+Lithology 
+
+1 
+
+651.50 
+
+sandstone 
+
+4.2 
+
+sandstone 
+
+2 
+
+621.00 
+
+sandstone 
+
+3.5 
+
+sandstone 
+
+3 
+
+605.00 
+
+sandstone 
+
+3.5 
+
+sandstone 
+
+4 
+
+597.50 
+
+sandstone 
+
+3.5 
+
+sandstone 
+
+5 
+
+590.00 
+
+sandstone 
+
+3.5 
+
+sandstone 
+
+6 
+
+588.00 
+
+sandstone 
+
+5.0 
+
+sandstone 
+
+7 
+
+586.00 
+
+sandstone 
+
+4.3 
+
+sandstone 
+
+8 
+
+585.00 
+
+sandstone 
+
+4.4 
+
+sandstone 
+
+9 
+
+584.00 
+
+sandstone 
+
+3.2 
+
+sandstone 
+
+10 
+
+580.00 
+
+sandstone 
+
+3.5 
+
+siltstone 
+
+11 
+
+575.70 
+
+claystone 
+
+4.8 
+
+sandstone 
+
+12 
+
+574.00 
+
+claystone 
+
+3.5 
+
+siltstone 
+
+13 
+
+572.00 
+
+sandstone 
+
+4.0 
+
+sandstone 
+
+14 
+
+571.00 
+
+sandstone 
+
+4.2 
+
+siltstone 
+
+15 
+
+569.00 
+
+sandstone 
+
+3.8 
+
+sandstone 
+
+16 
+
+568.50 
+
+sandstone 
+
+3.6 
+
+sandstone 
+
+17 
+
+567.30 
+
+claystone 
+
+3.0 
+
+sandstone 
+
+18 
+
+566.00 
+
+claystone 
+
+5.0 
+
+sandstone 
+
+19 
+
+563.00 
+
+sandstone 
+
+3.5 
+
+sandstone 
+
+20 
+
+561.30 
+
+sandstone 
+
+4.1 
+
+siltstone 
+
+21 
+
+560.00 
+
+sandstone 
+
+5.0 
+
+sandstone 
+
+22 
+
+558.50 
+
+sandstone 
+
+5.0 
+
+sandstone 
+
+23 
+
+555.90 
+
+claystone 
+
+4.5 
+
+claystone 
+
+24 
+
+547.00 
+
+calcarenite 
+
+4.2 
+
+calcilutite 
+
+25 
+
+538.00 
+
+calcarenite 
+
+5.0 
+
+calcilutite 
+
+
+
+ 
+
+The SWC descriptions and photographs are included herein as 
+Appendices 2 and 3 respectively, while a core analysis report is 
+included as Appendix 4. 
+
+ 
+
+2.1.4 Rotary Sidewall Cores 
+
+
+No rotary sidewall cores were acquired in Moby-1. 
+
+2.2 Surveys, Logging and Testing Services 
+2.2.1 Directional Surveys 
+
+
+
+
+One Electronic Multi Shot survey was conducted. The resulting final 
+definitive survey data report is included in Section “3.5 Well Trajectory”. 
+
+
+2.2.2 Mudlogging 
+
+
+Halliburton (Sperry-Sun) Drilling Services provided mudlogging services for 
+the drilling of Moby-1 from spud to total depth at 660mMD RT using a crew 
+of two (2) data engineers, two (2) mudloggers and a technician to install 
+additional H2S sensors. A fully pressurised and computerised Surface Data 
+Logging Unit was maintained throughout the drilling and wireline log 
+evaluation phase of Moby-1. A fully computerised data acquisition service 
+operated down to the 340mm (13 .”) casing shoe at 325mMD RT and a 
+fully computerised mudlogging and data acquisition service operated for the 
+216mm (8 ½”) hole section (i.e. from 325m to total depth at 660mMD RT). 
+
+ 
+
+The full mudlogging service included the continuous evaluation of pore 
+pressure and drilling parameters as an aid to optimising drilling costs and 
+ensuring that drilling continued with maximum safety to personnel, the well 
+and equipment. The information obtained while drilling was visually 
+displayed and stored both as hard copy printouts and on hard disc. Details of 
+the services, together with printouts and plots of the results of these services, 
+are contained in the Halliburton End of Well Report (Appendix 9). The 
+Formation Evaluation Log (mudlog) displays the rate of penetration (ROP), 
+total gas, chromatographic analyses and wellsite interpreted lithologies. The 
+Formation Evaluation Log, Drilling Log, Pressure Log and Gas Ratio Log 
+are included herein as Enclosures 1-4 respectively. 
+
+ 
+
+Drilling Parameters, Monitoring and Recording 
+
+• Drilling Parameters – ROP, hole depth, bit depth, hookload, WOB, 
+top drive RPM, top drive torque, pipe speed/block position 
+• Mud Parameters – pump rates, flow rates (IN/OUT), pit volumes, 
+mud density (IN/OUT) and mud temperature (IN/OUT) 
+• Pressure Parameters – Pump pressure and casing pressure 
+• Ditch Gas Parameters – Total gas, chromatographic gas, H2S and 
+CO2 detection. 
+• Data Engineers – calculate and monitor the Equivalent Circulating 
+Density (ECD), the drilling exponent, formation pore pressure and 
+cuttings lag time and depth. 
+
+
+ 
+
+Sampling and Analysis 
+
+• The Halliburton mudloggers organised the collection, bagging and 
+dispatch of ditch cuttings as defined in Section 4.5 and 4.6 
+(Appendix 9) accompanied by lithological and microscopic 
+examination and; 
+• Calcimetry measurements on ditch cuttings as required and; 
+• Isotube gas samples (2 collected) and; 
+• Drilling mud sample collection as required for geochemistry 
+2.2.3 Lithological Logging 
+
+
+
+
+Cuttings were described by the Wellsite Geologists from 325m to 660mMD 
+RT in Moby-1. A cuttings description report is included herein as Appendix 
+1. 
+
+2.2.4 Hydrocarbon Indications 
+
+
+Ditch Gas Readings: 
+
+
+Total gas, chromatographic breakdown of the ditch gas and trip gas was 
+recorded from 325m to 660mMD RT throughout the 216mm (8 ½”) and 
+216mm (8 ½”) hole section, the results of which are included herein as 
+Appendix 9. Trace to minor amounts of total gas consisting entirely of 
+methane (C1) was recorded upon commencement of first drilling returns in 
+the 311mm (12 ¼”) hole section below 325mMD RT and which continued in 
+the 216mm (8 ½”) hole section. Trace amounts of ethane (C2), pentane (C3), 
+isobutene (iC4) and n-butane (nC4) was recorded below approximately 
+468mMD RT. Background gas levels increased slightly below 515mMD RT, 
+increasing further to low to moderate levels of methane (C1) and ethane (C2) 
+and with continuing trace C3 to C5 below 556mMD RT. The maximum total 
+gas recorded was 1.64% at 570mMD RT, consisting of 18,184ppm C1, 
+178ppm C2, 23ppm C3, 6ppm iC4, 4ppm nC4 and 5ppm iC5 and 3ppm nC5. 
+Background levels remained moderately uniform to 587mMD RT, 
+decreasing progressively below this depth to TD. Two isotube gas samples 
+were collected during the period of slightly elevated gas readings between 
+556m and 587mMD RT. 
+
+ 
+
+Average ditch gas readings recorded throughout the drilling of Moby-1 are 
+summarised below in Table 6. 
+
+ 
+
+Table 6: Summary of Average Ditch Gas Readings Recorded in Moby-1 
+
+Depth Range 
+(mMD RT) 
+
+Total 
+Gas 
+(%) 
+
+Methane 
+(C1) 
+
+ppm 
+
+Ethane 
+(C2) 
+
+ppm 
+
+Propane 
+(C3) 
+
+ppm 
+
+Iso- 
+Butane (i- 
+C4) 
+
+ppm 
+
+Normal- 
+Butane 
+(n-C4) 
+
+ppm 
+
+Iso- 
+Pentane 
+(i-C5) 
+ppm 
+
+Normal 
+Pentane 
+(n-C5) 
+ppm 
+
+325-490 
+
+0.09 
+
+1026 
+
+6 
+
+3 
+
+1 
+
+1 
+
+0 
+
+0 
+
+490-555 
+
+0.31 
+
+3278 
+
+24 
+
+4 
+
+1 
+
+1 
+
+1 
+
+2 
+
+555-583 
+
+0.85 
+
+8741 
+
+74 
+
+8 
+
+1 
+
+1 
+
+1 
+
+1 
+
+583-600 
+
+0.32 
+
+3588 
+
+26 
+
+4 
+
+1 
+
+0 
+
+0 
+
+0 
+
+600-660 
+
+0.11 
+
+1460 
+
+8 
+
+3 
+
+1 
+
+0 
+
+1 
+
+1 
+
+
+
+ 
+
+Isotube Gas samples 
+
+Two (2) Isotube gas samples were collected in Moby-1. These samples were 
+collected at the depths listed below in Table 7 however at time of writing this 
+report no analyses have been performed. These samples are currently being 
+held by Bass Strait Oil Company Ltd if further compositional and carbon 
+isotopic analysis is required. 
+
+ 
+
+Table 7: Isotube Gas Sample Depths 
+
+Isotube# 
+
+Depth (mMD RT) 
+
+Tube 1 
+
+564 m 
+
+Tube 2 
+
+570 m 
+
+
+
+ 
+
+Sample Shows 
+
+(i) Cuttings: sandstone over the gross interval 562–574mMD RT exhibited 5- 
+20% dull – moderately bright yellow fluorescence, with a slow to moderately 
+fast blue-white cut and solid blue-white ring residue. At 568–571mMD RT, 
+fluorescence increased to 60% dull to moderately bright yellow fluorescence, 
+with an instantaneous blue-white cut and a solid blue-white residue. Nil to 
+trace fluorescence only occurred below 574mMD RT. 
+
+
+(ii) Sidewall Cores: a total of eleven (11) of the twenty five (25) sidewall 
+cores collected exhibited fluorescence attributable to hydrocarbons. These 
+are listed below in Table 8. 
+
+ 
+
+Table 8: Hydrocarbon Shows in Sidewall Cores 
+
+SWC 
+NO. 
+
+DEPTH 
+(mRT) 
+
+Actual 
+Lithology 
+
+Hydrocarbon Show 
+
+ 
+
+1 
+
+651.50 
+
+sandstone 
+
+nil 
+
+2 
+
+621.00 
+
+sandstone 
+
+nil 
+
+3 
+
+605.00 
+
+sandstone 
+
+nil 
+
+4 
+
+597.50 
+
+sandstone 
+
+nil 
+
+5 
+
+590.00 
+
+sandstone 
+
+nil 
+
+6 
+
+588.00 
+
+sandstone 
+
+nil 
+
+7 
+
+586.00 
+
+sandstone 
+
+Fair, even yellowish-white fluorescence, fast bluish-white 
+blooming cut. Solid yellowish-white residual ring 
+
+8 
+
+585.00 
+
+sandstone 
+
+Nil 
+
+9 
+
+584.00 
+
+Fair, patch pale gold fluorescence, rapid yellowish- white 
+streaming cut Solid bluish-white residual ring 
+
+10 
+
+580.00 
+
+siltstone 
+
+Nil 
+
+11 
+
+575.70 
+
+sandstone 
+
+nil 
+
+12 
+
+574.00 
+
+siltstone 
+
+nil 
+
+13 
+
+572.00 
+
+sandstone 
+
+Patchy pale yellow fluorescence, rapid bluish-white blooming 
+cut, faint, patchy yellowish-white residual ring 
+
+14 
+
+571.00 
+
+siltstone 
+
+Even, fair pale yellow fluorescence, Slow, poor bluish-white 
+cut, faint, patchy yellowish-white residual ring 
+
+15 
+
+569.00 
+
+sandstone 
+
+Patchy, bright pale yellow fluorescence, Slow, bluish-white 
+blooming cut, faint, patchy yellowish-white residual ring 
+
+16 
+
+568.50 
+
+sandstone 
+
+Patchy, pale yellow sample fluorescence, slow, bluish-white 
+streaming cut, bright, solid yellowish-white residual ring. 
+
+17 
+
+567.30 
+
+sandstone 
+
+Patchy pale yellow fluorescence, slow, bluish-white blooming 
+cut, faint, solid yellowish-white residual ring. 
+
+18 
+
+566.00 
+
+sandstone 
+
+Dull to fair, even, pale yellow fluorescence, slow, bluishwhite 
+streaming cut, fair, patchy yellowish-white residual ring 
+
+19 
+
+563.00 
+
+sandstone 
+
+Dull, even pale yellow fluorescence, rapid bluish-white 
+streaming cut, poor, pale yellow residual ring. 
+
+20 
+
+561.30 
+
+siltstone 
+
+nil 
+
+21 
+
+560.00 
+
+sandstone 
+
+Faint, patchy pale yellow fluorescence, slow, very poor 
+bluish-white fluorescence, poor, pale yellow residual ring. 
+
+22 
+
+558.50 
+
+sandstone 
+
+nil 
+
+23 
+
+555.90 
+
+claystone 
+
+5-10% patchy dull pale yellow direct fluorescence. Solvent 
+fluorescence not checked 
+
+24 
+
+547.00 
+
+calcilutite 
+
+nil 
+
+25 
+
+538.00 
+
+calcilutite 
+
+nil 
+
+
+
+ 
+
+2.2.5 Measurement and Logging While Drilling (MWD/LWD) 
+
+
+No MWD/LWD was run in Moby-1. 
+
+2.2.6 Wireline Logging 
+
+
+Wireline services were provided by BakerAtlas on Moby-1 and full details of 
+their operation are recorded in their End of Well Report included herein as 
+Appendix 5. 
+
+ 
+
+
+One open hole logging suite (Suite 1) was recorded in Moby-1. Suite-1 was 
+recorded across the 311mm (12 ¼”) and 216mm (8 ½”) open hole sections 
+and consisted of four (4) attempted logging runs. 
+
+ 
+
+All wireline operations are briefly summarized in Table 9 and more detailed 
+reports are included herein as Appendices 6 and 7. Furthermore, a summary 
+of wireline log prints/image logs is included as Table 10. 
+
+ 
+
+
+Table 9: Summary of Wireline Logging Runs 
+
+Suite/Run 
+
+Wireline Log 
+
+Interval 
+mMD RT 
+
+Last 
+Circulation 
+Time (Hours) 
+
+
+Circulation 
+Stopped 
+
+Time Logger on 
+Bottom 
+
+Max. Recorded Temp 
+(OC) @ mTVDSS 
+(corrected to top of tool string) 
+
+1/1 
+
+DLL-MLL-MAC-ZDL-CNGR-
+TTRM 
+
+659-321.5m; GRMAC 
+to 75m 
+
+1.33 
+
+11th October 2004; 
+
+21:14 Hrs 
+
+12th October 2004; 
+
+05:45 Hrs 
+
+42.7 @ 584.8 
+
+1/2 
+
+RCI-GR (Pressure & 
+Samples) 
+
+558.3-612.8 
+
+1.33 
+
+11th October 2004; 
+
+21:14 Hrs 
+
+12th October 2004; 
+
+20:26 Hrs 
+
+44.4 @ 573.9 
+
+1/3 
+
+SLR-GR 
+
+659-80m 
+
+1.33 
+
+11th October 2004; 
+
+21:14 Hrs 
+
+13th October 2004; 
+
+14:11 Hrs 
+
+45.0 @ 633.2 
+
+1/4 
+
+SWC-GR 
+
+651.5-538m 
+
+1.33 
+
+11th October 2004; 
+
+21:14 Hrs 
+
+13th October 2004; 
+
+20:38 Hrs 
+
+NR 
+
+
+
+ 
+
+
+ 
+
+Table 10: Summary of Wireline Log Prints 
+
+og Print 
+
+cale 
+
+epth Interval 
+321.5 (GR-MAC 
+
+Resistivity-Sonic) 
+
+-CN-GR (Nuclear) 
+CTRALOG-TTRM 
+
+to 75m) 
+659-321.5 
+
+2 
+
+TTRM (Formation pre-test pres 
+
+C-GR CORRELATI 
+Waveform Processin 
+
+:200 
+
+613-558.5 
+598-575 
+
+ 
+
+ Seismic 
+
+etre s 
+
+m 650m 
+
+e. At least 3 good repea 
+
+
+
+crane, with an azimuth of 193.7 from the rig. The offset of guns was fixed at 
+46.3m from the well head. The guns were submerged from a buoy to 5 meters 
+below water surface. A single hydrophone was deployed 2 meters below the 
+gun array at 7m below the water surface. 
+
+ 
+
+VS Fusion process 
+
+
+herein. 
+Wireline Testing 
+
+All the required wireline testing data in Moby-1 were acquired in one run of 
+the BakerAtlas Reservoir Characterization Instrument (RCI). The tool was 
+configured with a single large diameter probe, a Pump-out Module (PO), and 
+Near Infra-red Detector (NIR). 
+A total of 22 pre-tests were attempted and 13 repeat draw-downs; 17 were 
+successful and 1 x lost se 
+
+
+pressure data is presented in Table 11 below and a plot of the pressure data is 
+presented in Figure 3. 
+The sample chamber configuration consisted of: 
+• 6 x 840cc DOT/PVT multi-tank ca 
+
+• 1 x 4 litre tank. 
+
+A 
+
+Petrotech provided on-site validation and analysis of RCI gas samples and 
+preliminary analysis of formation water samples. Draeger tubes were unable 
+to detect hydrogen sulphide in any of the samples. The results of their work 
+and of RCI water sample analys 
+
+Core Laboratories provided onshore laboratory analysis of RCI gas samples. 
+The results of their work, including PVT analyses, are presented herein as 
+Appendix 10. 
+
+Report (by the Saros Group) and in the FRA 
+
+Ba tlas), both of which are included in the Moby-1 Inte 
+We ompletion Report issu 
+
+
+
+Table 11: RCI Pre-test Pressure and Sampling Results 
+
+No 
+. 
+
+DEPTH 
+
+DEPTH 
+
+DEPTH 
+
+IHP 
+
+FFP 
+
+FHP 
+
+VOL 
+
+D. MOB 
+
+Comments 
+
+ 
+
+(mMDRT 
+) 
+
+(mTVDRT) 
+
+(mTVD 
+SS) 
+
+(PSIA) 
+
+(PSIA) 
+
+(PSIA) 
+
+(PSIA) 
+
+(PSIA) 
+
+(psi) 
+
+(CC) 
+
+(mD/cp) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1st 
+Press 
+
+2nd 
+Press 
+
+Okay 
+Data 
+
+ 
+
+FHPIHP 
+
+
+ 
+
+ 
+
+ 
+
+3 
+
+558.5 
+
+558.50 
+
+537.00 
+
+986.7 
+
+794.2 
+
+ 
+
+ 
+
+988.2 
+
+1.5 
+
+9.9 
+
+12.3 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+3 
+
+558.5 
+
+558.50 
+
+537.00 
+
+986.7 
+
+ 
+
+792.9 
+
+ 
+
+988.2 
+
+1.5 
+
+10 
+
+10.2 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+4 
+
+559.1 
+
+559.10 
+
+537.60 
+
+990.5 
+
+806.1 
+
+ 
+
+ 
+
+991.3 
+
+0.8 
+
+10.1 
+
+7.2 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+4 
+
+559.1 
+
+559.10 
+
+537.60 
+
+990.5 
+
+ 
+
+802.5 
+
+ 
+
+991.3 
+
+0.8 
+
+10.1 
+
+8.7 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+6 
+
+559.9 
+
+559.90 
+
+538.40 
+
+992.4 
+
+824 
+
+ 
+
+ 
+
+991.8 
+
+-0.6 
+
+10 
+
+8.1 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+6 
+
+559.9 
+
+559.90 
+
+538.40 
+
+992.4 
+
+ 
+
+822 
+
+ 
+
+991.8 
+
+-0.6 
+
+10 
+
+19.6 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+7 
+
+561.4 
+
+561.40 
+
+539.90 
+
+994.8 
+
+797.3 
+
+ 
+
+ 
+
+995.2 
+
+0.4 
+
+9.8 
+
+12.3 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+7 
+
+561.4 
+
+561.40 
+
+539.90 
+
+994.8 
+
+ 
+
+796.3 
+
+ 
+
+995.2 
+
+0.4 
+
+11 
+
+21.3 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+8 
+
+562.1 
+
+562.10 
+
+540.60 
+
+996 
+
+808.6 
+
+ 
+
+ 
+
+995.4 
+
+-0.6 
+
+10 
+
+13.7 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+8 
+
+562.1 
+
+562.10 
+
+540.60 
+
+996 
+
+ 
+
+806.2 
+
+ 
+
+995.4 
+
+-0.6 
+
+10.2 
+
+13.4 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+9 
+
+563.2 
+
+563.20 
+
+541.70 
+
+997.3 
+
+798.6 
+
+ 
+
+ 
+
+997.1 
+
+-0.2 
+
+10.1 
+
+13.7 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+9 
+
+563.2 
+
+563.20 
+
+541.70 
+
+997.3 
+
+ 
+
+798.2 
+
+ 
+
+997.1 
+
+-0.2 
+
+10.1 
+
+13.6 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+10 
+
+565.7 
+
+565.70 
+
+544.20 
+
+1004.3 
+
+0 
+
+ 
+
+ 
+
+1004.4 
+
+0.1 
+
+0 
+
+0 
+
+ 
+
+11 
+
+565.4 
+
+565.40 
+
+543.90 
+
+1005.5 
+
+809 
+
+ 
+
+ 
+
+1002.3 
+
+-3.2 
+
+9.8 
+
+11.8 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+11 
+
+565.4 
+
+565.40 
+
+543.90 
+
+1005.5 
+
+ 
+
+807.7 
+
+ 
+
+1002.3 
+
+-3.2 
+
+10.1 
+
+13.8 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+12 
+
+568.2 
+
+568.20 
+
+546.70 
+
+1008.2 
+
+786.3 
+
+ 
+
+ 
+
+1006.3 
+
+-1.9 
+
+9.3 
+
+12.9 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+12 
+
+568.2 
+
+568.20 
+
+546.70 
+
+1008.2 
+
+ 
+
+785.8 
+
+785.8 
+
+1006.3 
+
+-1.9 
+
+9.8 
+
+22 
+
+Not FRA Compliant; did not see spherical flow; higher perm 
+
+13 
+
+569 
+
+569.00 
+
+547.50 
+
+1012.2 
+
+789.4 
+
+ 
+
+ 
+
+1010.7 
+
+-1.5 
+
+9.7 
+
+19.1 
+
+Not FRA Compliant; did not see spherical flow; higher perm 
+
+13 
+
+569 
+
+569.00 
+
+547.50 
+
+1012.2 
+
+ 
+
+788 
+
+788 
+
+1010.7 
+
+-1.5 
+
+9.7 
+
+15 
+
+Not FRA Compliant; did not see spherical flow; higher perm 
+
+14 
+
+571.2 
+
+571.20 
+
+549.70 
+
+1016.3 
+
+808.9 
+
+ 
+
+ 
+
+1011.9 
+
+-4.4 
+
+9.8 
+
+8.4 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+15 
+
+575.7 
+
+575.70 
+
+554.20 
+
+1021.2 
+
+802 
+
+ 
+
+ 
+
+1020.1 
+
+-1.1 
+
+9.9 
+
+7.5 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+
+
+
+16 
+
+577.1 
+
+577.10 
+
+555.60 
+
+1024.7 
+
+802.5 
+
+ 
+
+802.5 
+
+1022.7 
+
+-2.0 
+
+9.9 
+
+7.4 
+
+Tight test; Not FRA Compliant; did not see spherical flow 
+
+17 
+
+578.7 
+
+578.70 
+
+557.20 
+
+1027.6 
+
+808.4 
+
+ 
+
+808.4 
+
+1025.7 
+
+-1.9 
+
+10 
+
+6.8 
+
+Not FRA Compliant; did not see spherical flow; pressure 
+derivative coming down 
+
+18 
+
+579.9 
+
+579.90 
+
+558.40 
+
+1028.2 
+
+813.2 
+
+ 
+
+813.2 
+
+1027.7 
+
+-0.5 
+
+9.9 
+
+7.1 
+
+Not FRA Compliant; did not see spherical flow; pressure 
+derivative coming down 
+
+19 
+
+587.9 
+
+587.90 
+
+566.40 
+
+1045 
+
+808.5 
+
+ 
+
+ 
+
+1042 
+
+-3.0 
+
+9.6 
+
+53.5 
+
+Good test; FRA Compliant; see spherical flow; pressure is 
+going up 
+
+19 
+
+587.9 
+
+587.90 
+
+566.40 
+
+1045 
+
+805.9 
+
+ 
+
+ 
+
+1042 
+
+-3.0 
+
+9.6 
+
+67 
+
+Good test; FRA Compliant; see spherical flow; pressure is 
+going up 
+
+19 
+
+587.9 
+
+587.90 
+
+566.40 
+
+1045 
+
+ 
+
+805.7 
+
+805.7 
+
+1042 
+
+-3.0 
+
+9.5 
+
+64 
+
+Good test; FRA Compliant; see spherical flow 
+
+20 
+
+588.9 
+
+588.90 
+
+567.40 
+
+1046.6 
+
+808.1 
+
+ 
+
+ 
+
+1043.6 
+
+-3.0 
+
+9.9 
+
+58.3 
+
+Good test; FRA Compliant; see spherical flow; pressure is 
+going up 
+
+20 
+
+588.9 
+
+588.90 
+
+567.40 
+
+1046.6 
+
+ 
+
+806.9 
+
+806.9 
+
+1043.6 
+
+-3.0 
+
+10.2 
+
+148.3 
+
+Good test; FRA Compliant; see spherical flow 
+
+21 
+
+591.1 
+
+591.10 
+
+569.60 
+
+1050.3 
+
+ 
+
+ 
+
+ 
+
+1047.3 
+
+-3.0 
+
+0 
+
+ 
+
+ 
+
+22 
+
+593.2 
+
+593.20 
+
+571.70 
+
+1053.1 
+
+ 
+
+ 
+
+ 
+
+1051.2 
+
+-1.9 
+
+0 
+
+ 
+
+ 
+
+23 
+
+596.9 
+
+596.90 
+
+575.40 
+
+1059 
+
+ 
+
+ 
+
+ 
+
+1057.5 
+
+-1.5 
+
+0 
+
+ 
+
+ 
+
+25 
+
+608.1 
+
+608.10 
+
+586.60 
+
+1079.5 
+
+ 
+
+ 
+
+ 
+
+1079.6 
+
+0.1 
+
+0 
+
+ 
+
+ 
+
+26 
+
+612.8 
+
+612.80 
+
+591.30 
+
+1087.8 
+
+923.3 
+
+ 
+
+ 
+
+1086.2 
+
+-1.6 
+
+10.3 
+
+8.4 
+
+ 
+
+26 
+
+612.8 
+
+612.80 
+
+591.30 
+
+1087.8 
+
+ 
+
+919.1 
+
+ 
+
+1086.2 
+
+-1.6 
+
+10.1 
+
+7.8 
+
+ 
+
+28 
+
+568.2 
+
+568.20 
+
+546.70 
+
+1005.9 
+
+ 
+
+ 
+
+ 
+
+1007.9 
+
+2.0 
+
+0 
+
+ 
+
+Attempt to take sample; no flow 
+
+29 
+
+568.5 
+
+568.50 
+
+547.00 
+
+1010.7 
+
+ 
+
+ 
+
+ 
+
+1007.9 
+
+-2.8 
+
+0 
+
+ 
+
+Attempt to take sample; no flow 
+
+30 
+
+568.2 
+
+568.20 
+
+546.70 
+
+1008.5 
+
+ 
+
+ 
+
+ 
+
+1007.5 
+
+-1.0 
+
+0 
+
+ 
+
+Attempt to take sample; no flow 
+
+31/ 
+
+568.8 
+
+568.8 
+
+547.3 
+
+1009.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Good; recover 2 x 840cc gas samples 
+
+
+
+
+32 
+
+34 
+
+561.4 
+
+561.40 
+
+539.90 
+
+999.2 
+
+ 
+
+ 
+
+ 
+
+999 
+
+-0.2 
+
+0 
+
+ 
+
+Attempt to take sample; no flow 
+
+35 
+
+561.7 
+
+561.70 
+
+540.20 
+
+1000.3 
+
+ 
+
+ 
+
+ 
+
+1000.1 
+
+-0.2 
+
+0 
+
+ 
+
+Attempt to take sample; no flow 
+
+36 
+
+561.7 
+
+561.70 
+
+540.20 
+
+1001.5 
+
+ 
+
+ 
+
+ 
+
+1001.3 
+
+-0.2 
+
+0 
+
+ 
+
+ 
+
+37 
+
+558.5 
+
+558.50 
+
+537.00 
+
+993.3 
+
+ 
+
+ 
+
+ 
+
+988.7 
+
+-4.6 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+38 
+
+558.4 
+
+558.40 
+
+536.90 
+
+991.4 
+
+ 
+
+ 
+
+ 
+
+991.1 
+
+-0.3 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+39 
+
+588.9 
+
+588.90 
+
+567.40 
+
+1047.6 
+
+ 
+
+ 
+
+ 
+
+1046 
+
+-1.6 
+
+0 
+
+ 
+
+Lost seal 
+
+40 
+
+588.5 
+
+588.50 
+
+567.00 
+
+1046.8 
+
+807.5 
+
+ 
+
+807.5 
+
+1046.5 
+
+-0.3 
+
+8.7 
+
+175 
+
+Good, recover 4 litres of water sample with trace (5ml) oil 
+scum 
+
+41 
+
+572 
+
+572.00 
+
+550.50 
+
+1016.5 
+
+ 
+
+ 
+
+ 
+
+1015.9 
+
+-0.6 
+
+0 
+
+ 
+
+Attempt to take sample; no flow 
+
+42 
+
+572.1 
+
+572.10 
+
+550.60 
+
+1016.5 
+
+ 
+
+ 
+
+ 
+
+1015 
+
+-1.5 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+43 
+
+572.2 
+
+572.20 
+
+550.70 
+
+1013.4 
+
+ 
+
+ 
+
+ 
+
+1015.4 
+
+2.0 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+44 
+
+571 
+
+571.00 
+
+549.50 
+
+1014.7 
+
+ 
+
+ 
+
+ 
+
+1013.1 
+
+-1.6 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+45 
+
+571.9 
+
+571.90 
+
+550.40 
+
+1017.8 
+
+ 
+
+ 
+
+ 
+
+1014.9 
+
+-2.9 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+46 
+
+573 
+
+573.00 
+
+551.50 
+
+1019.6 
+
+ 
+
+ 
+
+ 
+
+1017.5 
+
+-2.1 
+
+0 
+
+ 
+
+Attempt to take sample; very slow flow 
+
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+2.2.9 Drill Stem Testing 
+
+
+No DST was run in Moby-1. 
+
+2.2.10 Temperature, Drilling and Mud Property Data 
+
+
+There were no temperature surveys run in Moby-1. Three maximum 
+recording thermometers were used on all wireline logging runs to record the 
+temperature. The following temperatures were recorded on three of the four 
+open hole logging runs conducted at final TD (660mMD RT): 
+
+ 
+
+Table 12: Wireline Recorded Temperature Data 
+
+Run 
+No. 
+
+Wireline Log 
+
+Max. Recorded 
+Temperature 
+(OC) 
+
+Depth 
+(mTVDSS) 
+
+(corrected to top of 
+tool string 
+
+Hours Since 
+Last 
+Circulation 
+
+t/(Tx+t) 
+
+1 
+
+DLL-MLL-MACZDL-
+CN-GRTTRM 
+
+
+42.7°C 
+
+584.8m 
+
+8.5 hrs 
+
+0.8647 
+
+2 
+
+RCI-GR (Pressure 
+& Samples) 
+
+44.4°C 
+
+573.9m 
+
+23.25 hrs 
+
+0.9459 
+
+3 
+
+SLR-GR 
+
+45°C 
+
+633.2m 
+
+40.90 hrs 
+
+0.9685 
+
+4 
+
+SWC-GR 
+
+N/A 
+
+N/A 
+
+47.35 hrs 
+
+N/A 
+
+
+
+Note: t = Time Since Circulation Stopped; Tx=Last Circulation 
+
+ 
+
+A discussion of the extrapolated bottom-hole temperature and calculated 
+present day geothermal gradients using various techniques is presented in the 
+Moby-1 Interpretative Data Well Completion Report. 
+
+ 
+
+2.3 Formation Evaluation 
+2.3.1 Biostratigraphy 
+
+
+
+
+A total of 21 samples (8 ditch cuttings and 13 SWC’s) from the gross interval 
+538-630 metres were examined palynologically by Dr Alan Partridge of 
+Biostrata Pty Ltd. These samples are listed below in Table 13. The results of 
+this work are presented in Appendix 12 and a discussion of the results is 
+presented in the Moby-1 Interpretative Data Well Completion Report issued 
+under separate cover. All data are available in digital format which was 
+distributed on CD Rom under separate cover. 
+
+ 
+
+Table 13: Samples submitted for Palynology 
+
+Sample Type 
+
+Depth (mMD RT) 
+
+Cuttings 
+
+547-550 
+
+Cuttings 
+
+553-556 
+
+Cuttings 
+
+562-565 
+
+Cuttings 
+
+574-577 
+
+Cuttings 
+
+583-586 
+
+Cuttings 
+
+589-604 
+
+Cuttings 
+
+610-613 
+
+Cuttings 
+
+627-630 
+
+
+
+
+SWC #25 
+
+538.0 
+
+SWC #24 
+
+547.0 
+
+SWC #22 
+
+558.5 
+
+SWC #20 
+
+561.3 
+
+SWC #18 
+
+566.0 
+
+SWC #16 
+
+568.5 
+
+SWC #14 
+
+571.0 
+
+SWC #12 
+
+574.0 
+
+SWC #11 
+
+575.7 
+
+SWC #10 
+
+580.0 
+
+SWC #8 
+
+585.0 
+
+SWC #6 
+
+588.0 
+
+SWC #3 
+
+605.0 
+
+
+
+ 
+
+2.3.2 Petrology 
+
+
+Six (6) sidewall core samples were sent to Core Laboratories Australia Pty 
+Ltd for petrological analysis. These are listed below in Table 14. Their 
+results, including descriptions and photographs of the thin sections examined 
+plus X-ray diffraction (XRD) and scanning electron microscopy (SEM) on 
+these six (6) samples is presented in the Moby-1 Interpretative Data Well 
+Completion Report issued under separate cover. 
+
+ 
+
+Table 14: Samples submitted for Petrology 
+
+Sidewall Core # 
+
+Depth (mMD RT) 
+
+SWC#22 
+
+558.5 
+
+SWC#16 
+
+568.5 
+
+SWC#11 
+
+575.7 
+
+SWC#8 
+
+585.0 
+
+SWC#6 
+
+588.0 
+
+SWC#3 
+
+605.0 
+
+
+
+ 
+
+2.3.3 Core Analysis 
+
+
+Twenty two (22) samples were submitted to Core laboratories Australia Pty 
+Ltd for quantitative core analysis. These are listed below in Table 15. The 
+analytical results are included herein as Appendix 4, while the results are also 
+annotated on the sidewall core photographs included herein as Appendix 3. 
+
+ 
+
+Table 15: Sample submitted for Quantitative Core Analysis 
+
+SWC NO. 
+
+DEPTH (mMD RT) 
+
+ 
+
+SWC NO. 
+
+ 
+
+DEPTH (mMD RT) 
+
+1 
+
+651.50 
+
+13 
+
+572.00 
+
+2 
+
+621.00 
+
+14 
+
+571.00 
+
+3 
+
+605.00 
+
+15 
+
+569.00 
+
+4 
+
+597.50 
+
+16 
+
+568.50 
+
+5 
+
+590.00 
+
+17 
+
+567.30 
+
+
+
+
+6 
+
+588.00 
+
+18 
+
+566.00 
+
+7 
+
+586.00 
+
+19 
+
+563.00 
+
+8 
+
+585.00 
+
+20 
+
+561.30 
+
+9 
+
+584.00 
+
+21 
+
+560.00 
+
+10 
+
+580.00 
+
+22 
+
+558.50 
+
+11 
+
+575.70 
+
+ 
+
+ 
+
+12 
+
+574.00 
+
+ 
+
+ 
+
+
+
+ 
+
+2.3.4 Geochemistry 
+
+
+Six (6) sidewall core samples were submitted to Geotechnical Services Pty 
+Ltd for geochemical analysis. These are listed below in Table 16. In addition, 
+the oil scum collected on the water sample recovered from a depth of 
+588.5mMD RT was characterised, while a sample of the drilling fluid used in 
+the 216mm (8 ½”) hole section was also characterised. The analytical results 
+are included herein as Appendix 11, while an interpretation of the results is 
+included in the Moby-1 Interpretative Data Well Completion Report issued 
+under separate cover. 
+
+ 
+
+Table 16: Samples submitted for Geochemistry 
+
+Sidewall Core # 
+
+Depth (mMD RT) 
+
+SWC#21 
+
+560.0 
+
+SWC#16 
+
+568.5 
+
+SWC#13 
+
+572.0 
+
+SWC#9 
+
+584.0 
+
+SWC#7 
+
+586.0 
+
+SWC#6 
+
+688.0 
+
+
+
+ 
+
+ 
+
+
+ 
+
+3. Drilling Records 
+3.1 Operational Reports 
+
+
+
+
+Daily operational reports are summarised in Appendix 19. 
+
+3.2 Bit and BHA Reports 
+
+
+Bit and BHA reports are summarised in Appendix 18. 
+
+3.3 Casing and Cementing Reports 
+
+
+Casing and Cementing Reports are presented in Appendix 16. 
+
+3.4 Drilling Fluids Reports 
+
+
+The MI Swaco Drilling Fluids report is presented in Appendix 17. 
+
+3.5 Well Trajectory 
+
+
+The trajectory for the well is presented in Table 17. 
+
+Table 17: Well Trajectory 
+
+ 
+
+Formation Integrity Test details for the well are summarised in Table 18. 
+
+ 
+
+Table 18: Formation Integrity Test Summary 
+
+Casing 
+
+Depth 
+
+Formation Integrity 
+Test Pressure 
+
+EMW 
+
+LOT EMW 
+
+In 
+
+mm 
+
+mMD RT 
+
+psi 
+
+Kpa 
+
+ppg 
+
+sg 
+
+sg 
+
+13 3/8” 
+
+340 
+
+328 
+
+228 
+
+1,572 
+
+10 
+
+1.2 
+
+1.7 
+
+
+
+ 
+
+3.7 Project Logistics 
+
+
+Logistics and support infrastructure are summarised in Figure 3. 
+
+Text Box: Orbost
+
+3.7.1 Mobilisation 
+
+
+A minimal amount of spud gear was mobilised on the Ocean Patriot from New 
+Zealand. The “Far Grip” had made a trip to Eden for the first load out and went to 
+Port Melbourne on the second and last trip. The “Pacific Wrangler” had an 
+unscheduled trip to port due to customs and immigration requirements. 
+
+3.7.2 Shorebase 
+
+
+Wharf 27 in Port Melbourne was the central shorebase with equipment being trucked 
+to Eden as required for the first load out. 
+
+3.7.3 Helicopters / Crew Changes 
+
+
+Crew changes were conducted out of Essendon. Fixed wing airplanes were used to 
+fly to Sale Airport on days with multiple trips to BAS and/or OMV rigs. 
+
+Bristow’s helicopter required an unprogrammed engine change out leaving us with 
+one helicopter to be shared with OMV for the majority of the well. 
+
+3.8 Communications 
+
+
+Diamond Offshore General Company (DOGC) supplied one telephone line and one data line 
+for BAS communications. 
+
+RigNet equipment arrived late in Melbourne without the required customs clearance. The 
+dish and dome was assembled and a lifting frame had to be built for transport to the rig. 
+None of the equipment was ready until the end of the well. The communications dome 
+antennae was deemed unsuitable for use on the Ocean Patriot based on its height of 6 metres. 
+There was no suitable location to fit the dome antennae on the rig without jeopardizing 
+helicopter landing operations. 
+
+3.9 Weather Forecasting 
+
+
+Weather forecasts were supplied by the Bureau of Meteorology to BAS’s satisfaction. 
+
+ 
+
+
+4. Unscheduled Events 
+4.1 Pre-Spud 
+
+
+
+
+10hrs 25min were lost due to repositioning of primary anchors as the position of the derrick 
+interrupted communications. A considerable amount of time was spent waiting on weather. 
+
+4.2 Drilling 
+
+
+Moby-1 was a shallow well and no major drilling problems occurred. 
+
+4.3 Post Drilling 
+
+
+The 476mm (18 ¾”) wellhead housing spun ¼ turn while cutting the 508mm (20”) extension 
+causing the 476mm (18 ¾”) housing to pull free and rotating on top of cutters. 476mm (18 
+¾”) wellhead stump had to be tripped out of hole and the 762mm (30”) conductor had to be 
+cut by itself requiring an additional trip. 
+
+4.4 Downtime Analysis 
+
+
+Downtime analysis can be found in Appendix 18. 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURES 
+
+ 
+
+
+Figure 1 
+
+Location Maps 
+
+ 
+
+ 
+
+
+Text Box: Orbost 
+
+
+Text Box: Patricia-Baleen Pipeline
+
+Figure 2 
+
+Time versus Depth Curve 
+
+MOBY 1 
+TIME v DEPTH CURVE 
+0 
+100 
+200 
+300 
+400 
+500 
+600 
+700 
+0 2 4 6 8 10 12 14 
+Time (days) 
+Depth (mRT MD) 
+Actual 
+Drilled 914mm (36") hole Budget 
+Ran 340mm (13 3/ 8") Casing, BOP and 
+riser 
+Drilled 445mm (17 1/ 2") hole 
+Ran conductor 
+Ran anchors 
+Drilled 216mm (8 1/ 2") hole 
+Drilled shoe track in 311mm (12 1/ 4") 
+hole 
+P&A, pulled anchors 
+Ran wireline logs 
+
+
+ 
+
+ 
+
+
+Figure 3 
+
+Logistics and Support Infrastructure Diagram 
+
+ 
+
+From 
+
+To 
+
+Air 
+
+Sea 
+
+Road 
+
+Melbourne 
+
+Sale 
+
+ 
+
+ 
+
+225 km (3 Hrs) 
+
+Essendon 
+
+Moby-1 
+
+170 nM (100 min) 
+
+ 
+
+ 
+
+Melbourne 
+
+Moby-1 
+
+ 
+
+270 nM (23 Hrs) 
+
+ 
+
+Eden 
+
+Moby-1 
+
+ 
+
+115 nM (10 Hrs) 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 1 
+
+ 
+CUTTINGS SAMPLE DESCRIPTIONS 
+
+(By Bass Strait Oil Company Ltd) 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 2 
+
+ 
+SIDEWALL CORE DESCRIPTIONS 
+
+(By Bass Strait Oil Company Ltd) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 3 
+
+ 
+SIDEWALL CORE PHOTOGRAPHY 
+
+(By Core Laboratories Australia Pty Ltd) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 4 
+
+ 
+CORE ANALYSIS REPORT 
+
+(By Core Laboratories Australia Pty Ltd) 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 5 
+
+ 
+WIRELINE LOGGING END OF WELL REPORT 
+
+(By BakerAtlas) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 6 
+
+ 
+WIRELINE LOGGING WITNESS/MUD RECORD 
+REPORT 
+
+(By Bass Strait Oil Company Ltd) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 7 
+
+ 
+WIRELINE LOGGING DIARY 
+
+(By Bass Strait Oil Company Ltd) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 8 
+
+ 
+VALIDITY CHECKS, TRACER, WATER AND RCI 
+SAMPLE ANALYSES 
+
+(By Petrotech Knowledge) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 9 
+
+ 
+MUDLOGGING END of WELL REPORT 
+
+(By Halliburton) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,4917 @@
+ Sperry Drilling - HALLIBURTON 
+Directional Drilling 
+End of Well Report 
+Well: Trefoil-2 
+Rig: Kan Tan IV 
+Location: Bass Basin, Australia 
+Sperry Drilling - Halliburton 
+Sperry Drilling - HALLIBURTON 
+Contents 
+Section 1: Well Data 
+Section 2: Drilling Parameters 
+Section 3: Definitive Survey Data 
+Section 4: Actual Vs Proposed A4 Plot 
+Section 5: Drilling Survey 
+Section 6: BHA Data 
+Sperry Drilling - Halliburton 
+ ________________________________________________________________________________________________ 
+SECTION 1 
+Well Report 
+
+Customer : Origin Energy Services 
+Well : Trefoil-2 
+Job Objectives: 
+Vertical appraisal well to evaluate the Intra-EVCM sands (top TL10 to base TF110) in Trefoil - 2 location for the presence of commercial 
+quantities of hydrocarbons. 
+Summary of Results: 
+The top hole sections 36" , 17-1/2" and 8-1/2" were drilled with no DD present on board. 
+36" hole section 
+********************** 
+The top 36" hole section was drilled to 155m, and a combination 30" x 20" casing was successfully run and cemented. 
+17-1/2" hole section 
+***************************** 
+17-1/2" hole section was drilled to 935m with averaged ROP of 70m/hr. The hole remained vertical with inclination at TD showing 0.71° 
+on an azimuth of 183.94°. The 13 3/8" casing was run and cemented according to program. 
+12 -1/4" hole section 
+**************************** 
+The 12-1/4" section was successfully drilled to TD in two runs which was called at 2520m MD. All directional drilling requirements were 
+fulfilled. Forward projections show the target sand will be penetrated well inside the drilling target tolerance at 26.68m from vertical. The 
+average ROP for the run was 21m/hr. The hole was circulated clean and BHA POOH to run 9 5/8" casing 
+8-1/2" hole section 
+**************************** 
+The 8-1/2" section contained two core sections and was drilled with 4 drilling runs and two coring runs 
+There was an MWD failure during the drilling to the first core point and a trip was required to change out the MWD but all subequent 
+driillng and coreing runs went without any major incedent 
+Discussion: 
+BHA 
+# 
+Bit 
+# 
+Motor 
+Run # 
+Hole Size 
+(in) 
+MD In 
+(m) 
+MD Out 
+(m) 
+TVD In 
+(m) 
+TVD Out 
+(m) 
+Inc In 
+(deg) 
+Inc Out 
+(deg) 
+Azi In 
+(deg) 
+Azi Out 
+(deg) 
+Drlg 
+hrs 
+Circ 
+hrs 
+3 3 1 12.250 935 2271 935 2271 0.7 0.8 186 89 65 13 
+4 3rr1 2 12.250 2271 2520 2271 2520 0.8 1.0 89 96 19 8 
+5 4 8.500 2520 2523 2520 2523 1.0 1.0 96 97 3 3 
+6 5 8.500 2523 2633 2523 2633 1.0 1.4 97 87 11 7 
+7 5rr1 8.500 2633 2983 2633 2982 1.4 2.9 87 84 34 4 
+8 6 8.500 2983 3013 2982 3012 2.9 3.0 84 83 5 1 
+9 5rr2 8.500 3013 3145 3012 3144 3.0 3.8 83 83 16 6 
+10 6rr1 8.500 3145 3175 3144 3174 3.8 3.8 83 84 5 1 
+11 5rr3 8.500 3175 3235 3174 3234 3.8 4.3 84 83 12 4 
+Table 1 - BHA Summary 
+Motor 
+Run # 
+Manufacturer Type Lobe OD 
+(in) 
+Gauge 
+(in) 
+Bend 
+(deg) 
+Adj DLS (Ori) 
+(°/100') 
+ROP (Ori) 
+(m/hr) 
+ROP (Rot) 
+(m/hr) 
+1 SSDS SperryDrill 6/7 9.625 12.125 0.78 Y 2.03 4 21 
+2 SSDS SperryDrill 6/7 9.625 12.125 0.78 Y 2.03 0 13 
+Table 2 - Motor Run Summary 
+Origin Energy Services Trefoil-2 
+Page 1 Sperry-Sun Drilling Services
+Bit 
+# 
+Manufacturer Style OD 
+(in) 
+Gge Len 
+(in) 
+Nozzles 
+(/32's) 
+TFA 
+(in²) 
+Dull Grades 
+I O D L B G O R 
+Ftge 
+(m) 
+Drlg 
+hrs 
+ROP 
+(m/hr) 
+3 Reed Hycalog RSR616M-A 
+2 
+12.250 4.000 8x13 1.037 1-1-BT-N -X-I-CT-PP 1336 65.00 21 
+3rr1 Reed Hycalog RSR616M-A 
+2 
+12.250 4.000 8x13 1.037 1-1-CT-A -X-I-PN-TD 249 19.00 13 
+4 Hughes GT-1 8.500 4.000 3x22 1.114 1-1-WT-A -1-I-NO-BHA 3 2.50 1 
+5 Smith Mi616VBPX 8.500 0.000 6x14 0.902 1-1-WT-A -X-I-NO-DTF 110 11.00 10 
+5rr1 Smith Mi616VBPX 8.500 0.000 6x14 0.902 1-2-CT-S -X-I-WT-CP 350 33.50 10 
+6 Corpro MCP572 8.500 0.000 1x28 0.601 1-1-NO-FC-X-I-NO-BHA 30 4.50 7 
+5rr2 Smith Mi616VBPX 8.500 0.000 6x14 0.902 1-2-CT-S -X-I-NO-CP 132 16.00 8 
+6rr1 Corpro MCP572 8.500 0.000 1x28 0.601 1-1-NO-A -X-I-NO-BHA 30 4.50 7 
+5rr3 Smith Mi616VBPX 8.500 0.000 6x14 0.902 60 11.50 5 
+Table 3 - Bit Run Summary 
+Origin Energy Services Trefoil-2 
+Page 2 Sperry-Sun Drilling Services
+Hours by Operation Summary 
+Operation 
+Total Hours During Job 
+Other 
+Rig Up / Tear Down 
+Circulate 
+Rig Service & Repair 
+Wireline Logs 
+PU/LD BHA 
+Run Casing / Cement 
+Miscellaneous 
+Tripping 
+Drilling
+0 50 100 150 200 
+167.5 
+165.25 
+56 
+47.5 
+42.75 
+31 
+25 
+23 
+20 
+46 
+Days vs. Depth 
+Measured Depth (m) 
+Day 
+900 
+1000 
+1100 
+1200 
+1300 
+1400 
+1500 
+1600 
+1700 
+1800 
+1900 
+2000 
+2100 
+2200 
+2300 
+2400 
+2500 
+2600 
+2700 
+2800 
+2900 
+3000 
+3100 
+3200 
+3300 
+0 3 6 9 12 15 18 21 24 27 30 33 36 39 
+Hours per BHA Breakdown 
+Drilling Circulating 
+Reaming Other 
+Total Hours Below Rotary 
+BHA Number 
+0 
+20 
+40 
+60 
+80 
+100 
+120 
+3 4 5 6 7 8 9 10 11 
+118 
+45 
+26 
+34 
+56 
+30 
+36 
+26 
+38 
+Average Rate of Penetration per BHA 
+ROP (m/hr) BHA Number 
+0
+2
+4
+6
+8 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+3 4 5 6 7 8 9 10 11 
+5.2 
+6.7 
+8.3 
+6.7 
+10.4 
+10.0 
+1.2 
+13.1 
+20.6 
+Footage per BHA 
+Rotated Oriented 
+Footage Drilled (m) 
+BHA Number 
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+1400 
+3 4 5 6 7 8 9 10 11 
+1336 
+249 
+3 
+110 
+350 
+30 
+132 
+30 
+60 
+Origin Energy Services Trefoil-2 
+Page 3 Sperry-Sun Drilling Services
+ ________________________________________________________________________________________________ 
+SECTION 2 
+Drilling Parameters 
+
+Sperry-Sun Drilling Services Origin Energy Services 
+Trefoil-2 
+Kan Tan IV 
+Australia 
+Bass Basin 
+AU-DD-0006714148 
+MD 
+(m) 
+Formation Name 
+MD/TVD 
+Inclination 
+DLS Bit Data 
+Drilling 
+Parameters Motor 
+BHA 
+Stabilizers Comments BHA ID 
+0 1 1 2 2 3 3 4 4 5 
+0 .2 .4 .6 .8 1 1.201.401.601.80 
+RSR616M-A2 
+8x13 /32's 
+1.12 ft/min 
+65.00 hrs 
+RSR616M-A2 
+8x13 /32's 
+0.72 ft/min 
+19.00 hrs 
+GT-1 
+3x22 /32's 
+0.07 ft/min 
+2.50 hrs 
+Mi616VBPX 
+6x14 /32's 
+0.55 ft/min 
+11.00 hrs 
+Mi616VBPX 
+6x14 /32's 
+0.57 ft/min 
+33.50 hrs 
+MCP572 
+1x28 /32's 
+0.36 ft/min 
+4.50 hrs 
+Mi616VBPX 
+6x14 /32's 
+0.45 ft/min 
+16.00 hrs 
+MCP572 
+1x28 /32's 
+0.36 ft/min 
+4.50 hrs 
+Mi616VBPX 
+6x14 /32's 
+0.29 ft/min 
+11.50 hrs 
+WOB 11944 lbs 
+RPM 103 
+FLO 997 gpm 
+SPP 2539 psi 
+WOB 12550 lbs 
+RPM 108 
+FLO 953 gpm 
+SPP 2955 psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+WOB lbs 
+RPM 
+FLO gpm 
+SPP psi 
+9-5/8" SperryDrill 
+6/7 L 
+0.78° ABH 
+9-5/8" SperryDrill 
+6/7 L 
+0.78° ABH 
+12.125 in @ 1.16 m 
+12.250 in @ 10.25 m 
+8.625 in @ 14.44 m 
+12.250 in @ 24.17 m 
+12.125 in @ 1.16 m 
+12.250 in @ 10.25 m 
+8.625 in @ 14.44 m 
+12.125 in @ 24.17 m 
+8.375 in @ 1.03 m 
+Stab @ 1.95 m 
+8.250 in @ 16.20 m 
+8.375 in @ 32.75 m 
+8.375 in @ 1.03 m 
+Stab @ 1.95 m 
+8.250 in @ 16.16 m 
+8.375 in @ 33.46 m 
+8.440 in @ 0.68 m 
+8.440 in @ 6.77 m 
+8.440 in @ 12.86 m 
+8.440 in @ 18.95 m 
+8.440 in @ 25.04 m 
+8.440 in @ 31.13 m 
+8.375 in @ 1.03 m 
+Stab @ 1.95 m 
+8.250 in @ 16.16 m 
+8.375 in @ 33.46 m 
+8.440 in @ 0.68 m 
+8.440 in @ 6.77 m 
+8.440 in @ 12.86 m 
+8.440 in @ 18.95 m 
+8.440 in @ 25.04 m 
+8.440 in @ 31.13 m 
+8.375 in @ 1.03 m 
+Stab @ 1.95 m 
+8.250 in @ 16.16 m 
+8.375 in @ 33.46 m 
+Rig Floor Offset - 49.4 deg Motor below RT 05:00 on 14-10-2009 
+Motor Above RT 02.00 on 19-10-2009 Bit to survey - 19.76m Bit 
+to Gamma - 12.34m Bit to EWR - 14.81m 
+BHA below RT on 11.00 hrs -20-10-09 BHA Above RT on 09:00 hrs 
+-22-10-09 Circulating hrs = Drilling hrs = Rig Floor Offset = 
+311.11deg 
+@ 95 
+#3 @ 935 
+#4 @ 2271 
+#5 @ 2520 
+#6 @ 2523 
+#7 @ 2633 
+#8 @ 2983 
+#9 @ 3013 
+#10 @ 3145 
+#11 @ 3175 
+90 
+290 
+490 
+690 
+890 
+1090 
+1290 
+1490 
+1690 
+1890 
+2090 
+2290 
+2490 
+2690 
+2890 
+3090 
+3290 
+AMP anomaly 
+650 / 650 
+L. Miocene Seis mark 
+918 / 918 
+Upper Angahook 
+1162 / 1162 
+Angahook Volcanics 
+1331 / 1331 
+Undiff Oligocene 
+1569 / 1569 
+Demons Bluff 
+1850 / 1850 
+Eastern view coal 
+2105 / 2105
+ ________________________________________________________________________________________________ 
+SECTION 3 
+Definitive Survey Report 
+
+Combo Report 
+09 December, 2009 
+Design: Trefoil-2 Definitive Survey 
+Local Coordinate Origin: Centered on Well Trefoil-2 - Slot Trefoil-2 
+Viewing Datum: Rotary Table @ 26.00m (Above MSL) 
+TVDs to System: N 
+North Reference: 
+Unit System: Modified SI 
+Grid 
+Version: 2003.21 Build: 43 
+Origin Energy Resources LTD 
+Trefoil 
+Trefoil-2 
+Trefoil-2 - Trefoil-2 
+Trefoil-2 
+Water Depth: 69.00 m 
+Well Coordinates: 5,583,676.59 N, 360,690.39 E (39° 53' 07.93" S, 145° 22' 14.62" E)
+Trefoil 
+Origin Energy Resources LTD 
+Design Report for Trefoil-2 - Trefoil-2 Definitive Survey 
+Measured 
+Depth 
+(m) 
+Inclination 
+(°) 
+Azimuth 
+(°) 
+Vertical 
+Depth 
+(m) 
+Easting 
+(m) 
+Vertical 
+Section 
+(m) 
+Dogleg 
+Rate 
+(°/30m) 
+Northing 
+(m) 
+Northing 
+(m) 
+Easting 
+(m) 
+TVD below Local Coordinates Map Coordinates 
+System 
+(m) 
+Comments 
+0.00 0.00 0.00 -26.00 0.00 0.00 N 0.00 E 5,583,676.59 360,690.39 0.000 0.00 
+95.00 0.00 0.00 69.00 95.00 0.00 N 0.00 E 5,583,676.59 360,690.39 0.000 0.00 
+204.92 0.58 282.17 178.92 204.92 0.12 N 0.54 W 5,583,676.71 360,689.85 0.158 -0.52 
+289.50 0.55 277.88 263.49 289.49 0.26 N 1.36 W 5,583,676.85 360,689.02 0.018 -1.28 
+376.49 0.32 238.01 350.48 376.48 0.19 N 1.98 W 5,583,676.78 360,688.40 0.127 -1.76 
+435.08 0.35 232.40 409.07 435.07 0.00 S 2.26 W 5,583,676.58 360,688.12 0.023 -1.89 
+521.95 0.72 199.02 495.94 521.94 0.68 S 2.65 W 5,583,675.91 360,687.74 0.162 -1.83 
+547.83 0.73 193.58 521.81 547.81 1.00 S 2.74 W 5,583,675.59 360,687.64 0.081 -1.74 
+579.00 0.69 195.91 552.98 578.98 1.37 S 2.84 W 5,583,675.22 360,687.55 0.047 -1.61 
+665.44 0.36 203.20 639.42 665.42 2.12 S 3.09 W 5,583,674.47 360,687.30 0.117 -1.41 
+782.28 0.67 192.10 756.25 782.25 3.12 S 3.38 W 5,583,673.46 360,687.01 0.083 -1.09 
+812.12 0.66 196.82 786.09 812.09 3.46 S 3.47 W 5,583,673.13 360,686.92 0.056 -0.98 
+868.19 0.30 224.95 842.16 868.16 3.87 S 3.66 W 5,583,672.71 360,686.73 0.225 -0.92 
+896.77 1.03 195.99 870.74 896.74 4.17 S 3.79 W 5,583,672.42 360,686.60 0.820 -0.85 
+925.97 0.71 183.94 899.93 925.93 4.61 S 3.87 W 5,583,671.98 360,686.52 0.377 -0.68 
+952.44 0.80 188.49 926.40 952.40 4.95 S 3.91 W 5,583,671.64 360,686.48 0.122 -0.53 
+981.35 0.74 192.99 955.31 981.31 5.33 S 3.98 W 5,583,671.25 360,686.41 0.088 -0.37 
+1,010.20 0.83 198.72 984.16 1,010.16 5.71 S 4.09 W 5,583,670.87 360,686.30 0.124 -0.26 
+1,067.21 0.87 190.96 1,041.16 1,067.16 6.53 S 4.31 W 5,583,670.06 360,686.08 0.064 0.02 
+1,095.87 0.84 194.49 1,069.82 1,095.82 6.95 S 4.40 W 5,583,669.64 360,685.99 0.063 0.17 
+1,153.51 1.11 191.81 1,127.45 1,153.45 7.90 S 4.62 W 5,583,668.69 360,685.77 0.142 0.51 
+1,182.36 1.27 187.06 1,156.29 1,182.29 8.49 S 4.72 W 5,583,668.10 360,685.67 0.195 0.76 
+1,211.30 0.97 182.63 1,185.23 1,211.23 9.06 S 4.77 W 5,583,667.53 360,685.62 0.323 1.03 
+1,240.32 1.00 184.76 1,214.24 1,240.24 9.55 S 4.80 W 5,583,667.03 360,685.59 0.049 1.27 
+1,269.44 0.96 179.68 1,243.36 1,269.36 10.05 S 4.82 W 5,583,666.54 360,685.57 0.098 1.53 
+1,298.71 1.13 178.12 1,272.62 1,298.62 10.58 S 4.81 W 5,583,666.00 360,685.58 0.177 1.84 
+1,327.95 1.27 184.82 1,301.86 1,327.86 11.20 S 4.83 W 5,583,665.39 360,685.56 0.203 2.16 
+1,357.12 1.31 184.97 1,331.02 1,357.02 11.85 S 4.88 W 5,583,664.74 360,685.51 0.041 2.47 
+1,385.95 1.43 187.08 1,359.84 1,385.84 12.53 S 4.95 W 5,583,664.05 360,685.43 0.135 2.79 
+1,414.80 1.33 186.15 1,388.68 1,414.68 13.22 S 5.03 W 5,583,663.36 360,685.35 0.107 3.11 
+1,443.26 1.42 189.23 1,417.14 1,443.14 13.90 S 5.13 W 5,583,662.69 360,685.26 0.123 3.40 
+1,471.76 1.41 188.55 1,445.63 1,471.63 14.60 S 5.24 W 5,583,661.99 360,685.15 0.021 3.70 
+1,500.56 1.44 186.77 1,474.42 1,500.42 15.31 S 5.33 W 5,583,661.28 360,685.06 0.056 4.01 
+1,529.74 1.02 177.87 1,503.59 1,529.59 15.93 S 5.36 W 5,583,660.66 360,685.02 0.473 4.32 
+1,559.00 1.11 183.32 1,532.85 1,558.85 16.47 S 5.37 W 5,583,660.11 360,685.02 0.139 4.62 
+1,588.15 1.05 181.86 1,561.99 1,587.99 17.02 S 5.40 W 5,583,659.57 360,684.99 0.068 4.90 
+1,617.27 1.14 175.03 1,591.11 1,617.11 17.58 S 5.38 W 5,583,659.01 360,685.01 0.163 5.22 
+1,646.32 1.17 184.16 1,620.15 1,646.15 18.16 S 5.38 W 5,583,658.43 360,685.01 0.192 5.55 
+1,675.15 1.31 182.99 1,648.97 1,674.97 18.78 S 5.41 W 5,583,657.80 360,684.97 0.148 5.86 
+09 December, 2009 - 8:32 Page 2 of 6 COMPASS
+Trefoil 
+Origin Energy Resources LTD 
+Design Report for Trefoil-2 - Trefoil-2 Definitive Survey 
+Measured 
+Depth 
+(m) 
+Inclination 
+(°) 
+Azimuth 
+(°) 
+Vertical 
+Depth 
+(m) 
+Easting 
+(m) 
+Vertical 
+Section 
+(m) 
+Dogleg 
+Rate 
+(°/30m) 
+Northing 
+(m) 
+Northing 
+(m) 
+Easting 
+(m) 
+TVD below Local Coordinates Map Coordinates 
+System 
+(m) 
+Comments 
+1,703.61 1.02 183.90 1,677.43 1,703.43 19.36 S 5.45 W 5,583,657.23 360,684.94 0.306 6.15 
+1,731.98 1.12 176.27 1,705.79 1,731.79 19.89 S 5.45 W 5,583,656.70 360,684.94 0.184 6.44 
+1,760.71 1.20 179.48 1,734.52 1,760.52 20.47 S 5.43 W 5,583,656.12 360,684.96 0.108 6.78 
+1,790.08 1.13 181.99 1,763.88 1,789.88 21.07 S 5.43 W 5,583,655.52 360,684.95 0.088 7.10 
+1,819.45 1.17 182.73 1,793.24 1,819.24 21.66 S 5.46 W 5,583,654.93 360,684.93 0.044 7.41 
+1,848.52 1.17 190.32 1,822.31 1,848.31 22.25 S 5.53 W 5,583,654.34 360,684.86 0.160 7.68 
+1,877.80 1.13 190.92 1,851.58 1,877.58 22.82 S 5.63 W 5,583,653.77 360,684.75 0.043 7.91 
+1,906.65 1.23 192.98 1,880.43 1,906.43 23.40 S 5.76 W 5,583,653.18 360,684.63 0.113 8.12 
+1,934.67 1.08 194.42 1,908.44 1,934.44 23.95 S 5.89 W 5,583,652.64 360,684.50 0.164 8.32 
+1,963.22 0.48 64.50 1,936.99 1,962.99 24.16 S 5.85 W 5,583,652.43 360,684.54 1.509 8.47 
+1,992.33 0.56 59.70 1,966.10 1,992.10 24.04 S 5.62 W 5,583,652.55 360,684.77 0.094 8.59 
+2,021.46 0.59 61.98 1,995.23 2,021.23 23.90 S 5.36 W 5,583,652.69 360,685.03 0.039 8.73 
+2,050.74 0.64 78.76 2,024.50 2,050.50 23.79 S 5.07 W 5,583,652.80 360,685.32 0.191 8.91 
+2,080.19 0.61 81.26 2,053.95 2,079.95 23.74 S 4.75 W 5,583,652.85 360,685.64 0.041 9.15 
+2,102.20 0.68 80.27 2,075.96 2,101.96 23.70 S 4.51 W 5,583,652.89 360,685.88 0.097 9.33 
+2,138.04 0.69 75.36 2,111.80 2,137.80 23.61 S 4.09 W 5,583,652.98 360,686.30 0.050 9.63 
+2,195.19 0.63 82.85 2,168.94 2,194.94 23.48 S 3.44 W 5,583,653.11 360,686.94 0.055 10.09 
+2,253.19 0.62 89.29 2,226.94 2,252.94 23.44 S 2.81 W 5,583,653.15 360,687.57 0.037 10.60 
+2,281.35 0.84 88.95 2,255.10 2,281.10 23.43 S 2.46 W 5,583,653.16 360,687.93 0.234 10.89 
+2,310.29 0.91 90.74 2,284.04 2,310.04 23.43 S 2.01 W 5,583,653.16 360,688.38 0.078 11.26 
+2,339.67 0.80 84.68 2,313.41 2,339.41 23.41 S 1.58 W 5,583,653.17 360,688.81 0.145 11.62 
+2,398.22 0.81 98.78 2,371.96 2,397.96 23.44 S 0.76 W 5,583,653.15 360,689.63 0.101 12.31 
+2,426.57 1.08 93.16 2,400.30 2,426.30 23.48 S 0.30 W 5,583,653.10 360,690.09 0.302 12.72 
+2,454.95 0.96 91.77 2,428.68 2,454.68 23.51 S 0.21 E 5,583,653.08 360,690.60 0.130 13.16 
+2,484.55 1.06 89.94 2,458.27 2,484.27 23.51 S 0.73 E 5,583,653.07 360,691.12 0.106 13.59 
+2,524.75 1.00 97.22 2,498.47 2,524.47 23.56 S 1.45 E 5,583,653.03 360,691.84 0.107 14.22 
+2,557.55 1.13 91.00 2,531.26 2,557.26 23.60 S 2.06 E 5,583,652.99 360,692.45 0.159 14.75 
+2,588.20 1.30 90.35 2,561.90 2,587.90 23.61 S 2.71 E 5,583,652.98 360,693.10 0.167 15.29 
+2,646.63 1.43 86.39 2,620.32 2,646.32 23.56 S 4.10 E 5,583,653.02 360,694.49 0.082 16.43 
+2,674.00 1.51 91.33 2,647.68 2,673.68 23.55 S 4.80 E 5,583,653.04 360,695.19 0.164 17.01 
+2,702.98 1.62 88.34 2,676.65 2,702.65 23.55 S 5.59 E 5,583,653.04 360,695.98 0.142 17.67 
+2,732.91 1.69 88.47 2,706.57 2,732.57 23.52 S 6.45 E 5,583,653.06 360,696.84 0.070 18.37 
+2,762.56 1.85 89.89 2,736.20 2,762.20 23.51 S 7.37 E 5,583,653.08 360,697.76 0.168 19.13 
+2,791.49 1.82 85.29 2,765.12 2,791.12 23.47 S 8.30 E 5,583,653.11 360,698.68 0.156 19.88 
+2,819.89 1.94 85.21 2,793.50 2,819.50 23.40 S 9.22 E 5,583,653.19 360,699.61 0.127 20.61 
+2,847.72 2.06 83.71 2,821.31 2,847.31 23.30 S 10.19 E 5,583,653.29 360,700.58 0.141 21.36 
+2,876.19 2.24 81.90 2,849.76 2,875.76 23.17 S 11.25 E 5,583,653.42 360,701.64 0.203 22.17 
+2,905.64 2.46 85.79 2,879.19 2,905.19 23.04 S 12.45 E 5,583,653.55 360,702.84 0.277 23.10 
+2,935.67 2.58 82.74 2,909.19 2,935.19 22.91 S 13.76 E 5,583,653.68 360,704.15 0.180 24.12 
+09 December, 2009 - 8:32 Page 3 of 6 COMPASS
+Trefoil 
+Origin Energy Resources LTD 
+Design Report for Trefoil-2 - Trefoil-2 Definitive Survey 
+Measured 
+Depth 
+(m) 
+Inclination 
+(°) 
+Azimuth 
+(°) 
+Vertical 
+Depth 
+(m) 
+Easting 
+(m) 
+Vertical 
+Section 
+(m) 
+Dogleg 
+Rate 
+(°/30m) 
+Northing 
+(m) 
+Northing 
+(m) 
+Easting 
+(m) 
+TVD below Local Coordinates Map Coordinates 
+System 
+(m) 
+Comments 
+2,963.22 2.93 85.15 2,936.71 2,962.71 22.77 S 15.08 E 5,583,653.82 360,705.47 0.401 25.15 
+2,992.32 2.88 83.61 2,965.77 2,991.77 22.63 S 16.55 E 5,583,653.96 360,706.94 0.096 26.29 
+3,021.53 3.01 83.20 2,994.94 3,020.94 22.45 S 18.04 E 5,583,654.14 360,708.43 0.135 27.44 
+3,051.62 3.07 82.21 3,024.99 3,050.99 22.25 S 19.62 E 5,583,654.34 360,710.01 0.079 28.64 
+3,080.66 3.23 81.34 3,053.99 3,079.99 22.02 S 21.20 E 5,583,654.57 360,711.59 0.173 29.84 
+3,101.98 3.47 82.50 3,075.27 3,101.27 21.85 S 22.43 E 5,583,654.74 360,712.82 0.351 30.77 
+3,130.21 3.75 81.59 3,103.44 3,129.44 21.60 S 24.19 E 5,583,654.99 360,714.58 0.304 32.10 
+3,167.65 3.79 84.07 3,140.80 3,166.80 21.29 S 26.64 E 5,583,655.29 360,717.02 0.135 33.96 
+3,194.79 3.87 83.32 3,167.88 3,193.88 21.09 S 28.44 E 5,583,655.49 360,718.83 0.104 35.36 
+3,223.60 4.33 83.41 3,196.62 3,222.62 20.86 S 30.48 E 5,583,655.73 360,720.87 0.479 36.93 
+3,235.00 4.33 83.41 3,207.99 3,233.99 20.76 S 31.34 E 5,583,655.83 360,721.73 0.000 37.59 Projected to TD 
+Design Annotations 
+Measured 
+Depth 
+(m) 
+Vertical 
+Depth 
+(m) 
++E/-W 
+(m) 
++N/-S 
+(m)
+Local Coordinates 
+Comment 
+3,235.00 3,233.99 -20.76 31.34 Projected to TD 
+Angle 
+Type Target Azimuth 
+(°) 
+Origin 
+Type 
+Origin 
++N/_S 
+(m) 
++E/-W 
+(m) 
+Start 
+TVD 
+(m) 
+Vertical Section Information 
+User No Target (Freehand) 123.52 Slot 0.00 0.00 0.00 
+From 
+(m) 
+To 
+(m) 
+Survey/Plan Survey Tool 
+Survey tool program 
+95.00 925.97 Trefoil-2 - 17 1/2" MWD Survey MWD+SAG+SC 
+952.44 2,484.55 Trefoil-2 - 12 1/4" MWD Survey MWD+SAG+SC 
+2,524.75 3,235.00 Trefoil-2 - 8 1/2" MWD Survey MWD+SAG+SC 
+09 December, 2009 - 8:32 Page 4 of 6 COMPASS
+Trefoil 
+Origin Energy Resources LTD 
+Design Report for Trefoil-2 - Trefoil-2 Definitive Survey 
+Casing Details 
+Vertical 
+Depth 
+(m) 
+Measured 
+Depth 
+(m) 
+Casing 
+Diameter 
+(in) 
+Hole 
+Diameter 
+(in) 
+Name 
+153.00 153.00 30" Conductor 30.000 36.000 
+930.00 929.96 13 3/8" Casing 13.375 17.500 
+2,520.00 2,519.72 9 5/8" Casing 9.625 12.250 
+09 December, 2009 - 8:32 Page 5 of 6 COMPASS
+Origin Energy Resources LTD 
+Trefoil 
+North Reference Sheet for Trefoil-2 - Trefoil-2 - Trefoil-2 
+All data is in Meters unless otherwise stated. Directions and Coordinates are relative to Grid North Reference. 
+Vertical Depths are relative to Rotary Table @ 26.00m (Above MSL). Northing and Easting are relative to Trefoil-2 - Slot Trefoil-2 
+Coordinate System is Universal Transverse Mercator, Zone 55S (144 E to 150 E) using datum GDA94, ellipsoid GRS 1980 
+G 
+T M 
+Magnetic Model: BGGM2009 
+Date: 16-Oct-09 
+Declination: 12.50° 
+Inclination/Dip: -70.48° 
+Field Strength: 61021 
+Grid North is 1.04° East of True North (Grid Convergence) 
+Magnetic North is 12.50° East of True North (Magnetic Declination) 
+Magnetic North is 11.45° East of Grid North (Magnetic Convergence) 
+To convert a True Direction to a Grid Direction, Subtract 1.04° 
+To convert a Magnetic Direction to a True Direction, Add 12.50° East 
+To convert a Magnetic Direction to a Grid Direction, Add 11.45° 
+Magnetic Convergence at surface is: -11.45° (16 October 2009, , BGGM2009) 
+Based upon Minimum Curvature type calculations, at a Measured Depth of 3,235.00m 
+the Bottom Hole Displacement is 37.59m in the Direction of 123.52° (Grid). 
+Grid Convergence at Surface is: 1.04° 
+Geographical Coordinates of Well: 39° 53' 07.93" S, 145° 22' 14.62" E 
+Grid Coordinates of Well: 5,583,676.59 m N, 360,690.39 m E 
+False Easting: 500,000.00m, False Northing: 10,000,000.00m, Scale Reduction: 0.99983896 
+Central Meridian is 147° 0' 0.0000 E°, Longitude Origin:0° 0' 0.0000 E°, Latitude Origin:0° 0' 0.0000 N° 
+Projection method is Transverse Mercator (Gauss-Kruger) 
+09 December, 2009 - 8:32 Page 6 of 6 COMPASS
+ ________________________________________________________________________________________________ 
+SECTION 4 
+A4 Plot 
+
+-200
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+1400 
+1600 
+1800 
+2000 
+2200 
+2400 
+2600 
+2800 
+3000 
+3200 
+3400 
+3600 
+True Vertical Depth (200 m/cm) 
+-400 -200 0 200 400 600 800 1000 1200 1400 
+Vertical Section at 123.52° (200 m/cm) 
+0 
+500 
+1000 
+1500 
+2000 
+2500 
+3000 
+3221 
+Trefoil-2 Rev 2.00 
+30" Conductor 
+13 3/8" Casing 
+9 5/8" Casing 
+0
+500 
+10 0 0 
+15 00 
+2000 
+2500 
+3000 
+3235 
+Trefoil-2 Definitive Survey 
+Projected to TD 
+Azimuths to Grid North 
+True North: -1.04° 
+Magnetic North: 11.45° 
+Magnetic Field 
+Strength: 61021.2snT 
+Dip Angle: -70.48° 
+Date: 16/10/2009 
+Model: BGGM2009 
+G 
+T M 
+CASING DETAILS 
+TVD MD Name Size 
+153.00 153.0030" Conductor 30.000 
+929.96 930.0013 3/8" Casing 13.375 
+2519.722520.00 9 5/8" Casing 9.625 
+Project: Trefoil 
+Site: Trefoil-2 
+Well: Trefoil-2 
+Wellbore: Trefoil-2 
+Design: Trefoil-2 Actual V's Proposed 
+REFERENCE INFORMATION 
+Co-ordinate (N/E) Reference: Well Trefoil-2 - Slot Trefoil-2, Grid North 
+Vertical (TVD) Reference: Rotary Table @ 26.00m (Above MSL) 
+Section (VS) Reference: Slot - Trefoil-2(0.00N, 0.00E) 
+Measured Depth Reference: Rotary Table @ 26.00m (Above MSL) 
+Calculation Method: Minimum Curvature 
+-35 
+-30 
+-25 
+-20 
+-15 
+-10 
+-5
+0
+5 
+South(-)/North(+) (5 m/cm) 
+-20 -15 -10 -5 0 5 10 15 20 25 30 35 
+West(-)/East(+) (5 m/cm) 
+0 3221 
+Trefoil-2 Rev 2.00 
+30" Conductor 
+13 3/8" Casing 
+9 5/8" Casing 
+500 
+1000 
+1500 
+2000 
+2500 
+3000 
+3234 
+Trefoil-2 Definitive Survey 
+WELL DETAILS: Trefoil-2 
+Water Depth: 69.00 
++N/-S +E/-W Northing Easting Latittude Longitude Slot 
+0.00 0.00 5583676.59 360690.3939° 53' 7.9334 S145° 22' 14.6152 E Trefoil-2 
+PROJECT DETAILS: Trefoil 
+Geodetic System: Universal Transverse Mercator 
+Datum: GDA94 
+Ellipsoid: GRS 1980 
+Zone: Zone 55S (144 E to 150 E) 
+System Datum: Mean Sea Level
+ ________________________________________________________________________________________________ 
+SECTION 5 
+Drilling Surveys 
+
+Page : 1 
+Customer : Origin Energy Services Field : Australia 
+Well : Trefoil-2 Slot : Bass Basin 
+Rig : Kan Tan IV Job # :AU-DD-0006714148 
+Survey and Drilling Parameters North Ref : Grid Declination : ° VS Dir : 0.00° (from Wellhead) 
+WELLBORE SURVEY DRILLING PARAMETERS 
+Measured Incl Azi Vertical Vertical Coordinates DLS Build Turn WOB RPM Flow Stand Orientation Tool ROP BHA Comment 
+Depth Angle Dir Depth Section N/S E/W Rate Rate Rate Pipe From To Face No. 
+(m) (deg) (deg) (m) (m) (m) (m) (°/100') (°/100') (°/100') (lbs) (gpm) (psi) (m) (m) (deg) (m/hr) (#) 
+0.00 0.00 0.00 0.0 0.0 0.0 0.0 0.00 0.00 0.00 Tieon 
+95.00 0.00 0.00 95.0 0.0 0.0 0.0 0.00 0.00 0.00 
+204.92 0.58 282.17 204.9 -0.5 0.1 -0.5 0.16 0.16 0.00 
+289.50 0.55 277.88 289.5 -1.3 0.3 -1.4 0.02 -0.01 0.00 
+376.49 0.32 238.01 376.5 -1.8 0.2 -2.0 0.13 -0.08 0.00 
+435.08 0.35 232.40 435.1 -1.9 0.0 -2.3 0.02 0.02 0.00 
+521.95 0.72 199.02 521.9 -1.8 -0.7 -2.7 0.16 0.13 0.00 
+547.83 0.73 193.58 547.8 -1.7 -1.0 -2.7 0.08 0.01 0.00 
+579.00 0.69 195.91 579.0 -1.6 -1.4 -2.8 0.05 -0.04 0.00 
+665.44 0.36 203.20 665.4 -1.4 -2.1 -3.1 0.12 -0.12 0.00 
+782.28 0.67 192.10 782.3 -1.1 -3.1 -3.4 0.08 0.08 0.00 
+812.12 0.66 196.82 812.1 -1.0 -3.5 -3.5 0.06 -0.01 0.00 
+868.19 0.30 224.95 868.2 -0.9 -3.9 -3.7 0.23 -0.20 0.00 
+896.77 1.03 195.99 896.7 -0.9 -4.2 -3.8 0.83 0.78 0.00 
+925.97 0.71 183.94 925.9 -0.7 -4.6 -3.9 0.38 -0.33 0.00 
+952.44 0.80 188.49 952.4 -0.5 -5.0 -3.9 0.12 0.10 0.00 10000 80 1000 1850 55 3 
+981.35 0.74 192.99 981.3 -0.4 -5.3 -4.0 0.09 -0.06 0.00 8000 100 956 1825 50 3 
+1010.20 0.83 198.72 1010.2 -0.3 -5.7 -4.1 0.13 0.10 0.00 8000 100 956 1895 70 3 
+1067.21 0.87 190.96 1067.2 0.0 -6.5 -4.3 0.07 0.02 0.00 5000 100 956 1860 80 3 
+1095.87 0.84 194.49 1095.8 0.2 -6.9 -4.4 0.06 -0.03 0.00 6000 100 1000 2240 120 3 
+1153.51 1.11 191.81 1153.4 0.5 -7.9 -4.6 0.14 0.14 0.00 7000 100 1000 2345 145 3 
+1182.36 1.27 187.06 1182.3 0.8 -8.5 -4.7 0.20 0.17 -5.02 8000 100 1000 2375 150 3 
+1211.30 0.97 182.63 1211.2 1.0 -9.1 -4.8 0.33 -0.32 0.00 10000 100 1000 2358 120 3 
+1240.32 1.00 184.76 1240.2 1.3 -9.6 -4.8 0.05 0.03 0.00 8000 100 1000 2450 95 3 
+1269.44 0.96 179.68 1269.4 1.5 -10.1 -4.8 0.10 -0.04 0.00 2000 100 1000 2280 55 3 
+1298.71 1.13 178.12 1298.6 1.8 -10.6 -4.8 0.18 0.18 0.00 5000 110 1000 2230 50 3 
+1327.95 1.27 184.82 1327.9 2.2 -11.2 -4.8 0.21 0.15 6.98 2000 110 1000 2201 55 3 
+1357.12 1.31 184.97 1357.0 2.5 -11.8 -4.9 0.04 0.04 0.16 2000 110 1000 2320 80 3 
+1385.95 1.43 187.08 1385.8 2.8 -12.5 -5.0 0.14 0.13 2.23 8000 100 1000 2520 80 3 
+1414.80 1.33 186.15 1414.7 3.1 -13.2 -5.0 0.11 -0.11 -0.98 4000 100 1000 2450 70 3
+Page : 2 
+Customer : Origin Energy Services Field : Australia 
+Well : Trefoil-2 Slot : Bass Basin 
+Rig : Kan Tan IV Job # :AU-DD-0006714148 
+Survey and Drilling Parameters North Ref : Grid Declination : ° VS Dir : 0.00° (from Wellhead) 
+WELLBORE SURVEY DRILLING PARAMETERS 
+Measured Incl Azi Vertical Vertical Coordinates DLS Build Turn WOB RPM Flow Stand Orientation Tool ROP BHA Comment 
+Depth Angle Dir Depth Section N/S E/W Rate Rate Rate Pipe From To Face No. 
+(m) (deg) (deg) (m) (m) (m) (m) (°/100') (°/100') (°/100') (lbs) (gpm) (psi) (m) (m) (deg) (m/hr) (#) 
+1443.26 1.42 189.23 1443.1 3.4 -13.9 -5.1 0.12 0.10 3.30 3000 100 1000 2471 1419 1428 20R 80 3 
+1471.76 1.41 188.55 1471.6 3.7 -14.6 -5.2 0.00 -0.01 -0.73 8000 110 1000 2422 70 3 
+1500.56 1.44 186.77 1500.4 4.0 -15.3 -5.3 0.06 0.03 -1.88 5000 100 1000 2490 75 3 
+1529.74 1.02 177.87 1529.6 4.3 -15.9 -5.4 0.48 -0.44 -9.30 6000 100 1000 2690 1504 1514 40R 60 3 
+1559.00 1.11 183.32 1558.8 4.6 -16.5 -5.4 0.14 0.09 5.68 10000 100 1000 2690 65 3 
+1588.15 1.05 181.86 1588.0 4.9 -17.0 -5.4 0.07 -0.06 -1.53 10000 100 1000 2600 55 3 
+1617.27 1.14 175.03 1617.1 5.2 -17.6 -5.4 0.17 0.09 -7.15 10000 100 1000 2600 55 3 
+1646.32 1.17 184.16 1646.1 5.5 -18.2 -5.4 0.20 0.03 9.58 10000 110 1000 2600 50 3 
+1675.15 1.31 182.99 1675.0 5.9 -18.8 -5.4 0.15 0.15 -1.24 10000 110 1000 2620 45 3 
+1703.61 1.02 183.90 1703.4 6.1 -19.4 -5.4 0.31 -0.31 0.97 10000 110 1000 2750 35 3 
+1731.98 1.12 176.27 1731.8 6.4 -19.9 -5.4 0.19 0.11 -8.20 14000 110 1000 2740 30 3 
+1760.71 1.20 179.48 1760.5 6.8 -20.5 -5.4 0.11 0.08 3.41 25000 110 1000 2790 35 3 
+1790.08 1.13 181.99 1789.9 7.1 -21.1 -5.4 0.09 -0.07 2.60 22000 110 1000 2660 35 3 
+1819.45 1.17 182.73 1819.2 7.4 -21.7 -5.5 0.04 0.04 0.77 28000 110 1000 2575 43 3 
+1848.52 1.17 190.32 1848.3 7.7 -22.2 -5.5 0.16 0.00 7.96 25000 110 1000 2670 35 3 
+1877.80 1.13 190.92 1877.6 7.9 -22.8 -5.6 0.04 -0.04 0.62 25000 110 1000 2743 38 3 
+1906.65 1.23 192.98 1906.4 8.1 -23.4 -5.8 0.11 0.11 2.18 25000 110 1000 2690 35 3 
+1934.67 1.08 194.42 1934.4 8.3 -24.0 -5.9 0.17 -0.16 1.57 25000 110 1000 2890 35 3 
+1963.22 0.48 64.50 1963.0 8.5 -24.2 -5.9 1.53 -0.64 0.00 25000 110 1000 2875 1937 1948 15R 35 3 
+1951 1958 15R 3 
+1992.33 0.56 59.70 1992.1 8.6 -24.0 -5.6 0.10 0.08 0.00 25000 100 1000 2580 30 3 
+2021.46 0.59 61.98 2021.2 8.7 -23.9 -5.4 0.04 0.03 0.00 20000 100 1000 2905 25 3 
+2050.74 0.64 78.76 2050.5 8.9 -23.8 -5.1 0.19 0.05 0.00 25000 100 1000 2870 25 3 
+2080.19 0.61 81.26 2080.0 9.1 -23.7 -4.8 0.04 -0.03 0.00 23000 100 1000 2780 32 3 
+2102.20 0.68 80.27 2102.0 9.3 -23.7 -4.5 0.10 0.10 0.00 23000 100 1000 2780 32 3 
+2138.04 0.69 75.36 2137.8 9.6 -23.6 -4.1 0.05 0.01 0.00 10000 110 1000 3060 45 3 
+2195.19 0.63 82.85 2194.9 10.1 -23.5 -3.4 0.06 -0.03 0.00 15000 100 1000 3120 30 3 
+2253.19 0.62 89.29 2252.9 10.6 -23.4 -2.8 0.04 -0.01 0.00 10000 100 1000 3150 12 3 
+2281.35 0.84 88.95 2281.1 10.9 -23.4 -2.5 0.24 0.24 0.00 20000 110 950 2910 15 4 
+2310.29 0.91 90.74 2310.0 11.3 -23.4 -2.0 0.08 0.07 0.00 12000 100 975 2885 18 4 
+2339.67 0.80 84.68 2339.4 11.6 -23.4 -1.6 0.15 -0.11 0.00 20000 110 950 2825 30 4
+Page : 3 
+Customer : Origin Energy Services Field : Australia 
+Well : Trefoil-2 Slot : Bass Basin 
+Rig : Kan Tan IV Job # :AU-DD-0006714148 
+Survey and Drilling Parameters North Ref : Grid Declination : ° VS Dir : 0.00° (from Wellhead) 
+WELLBORE SURVEY DRILLING PARAMETERS 
+Measured Incl Azi Vertical Vertical Coordinates DLS Build Turn WOB RPM Flow Stand Orientation Tool ROP BHA Comment 
+Depth Angle Dir Depth Section N/S E/W Rate Rate Rate Pipe From To Face No. 
+(m) (deg) (deg) (m) (m) (m) (m) (°/100') (°/100') (°/100') (lbs) (gpm) (psi) (m) (m) (deg) (m/hr) (#) 
+2398.22 0.81 98.78 2398.0 12.3 -23.4 -0.8 0.10 0.01 0.00 10000 100 950 2903 18 4 
+2426.57 1.08 93.16 2426.3 12.7 -23.5 -0.3 0.31 0.29 0.00 10000 110 950 3050 20 4 
+2454.95 0.96 91.77 2454.7 13.2 -23.5 0.2 0.13 -0.13 0.00 10000 110 950 3045 20 4 
+2484.55 1.06 89.94 2484.3 13.6 -23.5 0.7 0.11 0.10 0.00 10000 110 950 3050 25 4 
+2524.75 1.00 97.22 2524.5 14.2 -23.6 1.5 0.11 -0.05 0.00 6 
+2557.55 1.13 91.00 2557.3 14.7 -23.6 2.1 0.16 0.12 0.00 6 
+2588.20 1.30 90.35 2587.9 15.3 -23.6 2.7 0.17 0.17 -0.65 6 
+2646.63 1.43 86.39 2646.3 16.4 -23.6 4.1 0.08 0.07 -2.07 7 
+2674.00 1.51 91.33 2673.7 17.0 -23.6 4.8 0.17 0.09 5.50 7 
+2702.98 1.62 88.34 2702.6 17.7 -23.5 5.6 0.14 0.12 -3.14 7 
+2732.91 1.69 88.47 2732.6 18.4 -23.5 6.5 0.07 0.07 0.13 7 
+2762.56 1.85 89.89 2762.2 19.1 -23.5 7.4 0.17 0.16 1.46 7 
+2791.49 1.82 85.29 2791.1 19.9 -23.5 8.3 0.16 -0.03 -4.85 7 
+2819.89 1.94 85.21 2819.5 20.6 -23.4 9.2 0.13 0.13 -0.09 7 
+2847.72 2.06 83.71 2847.3 21.4 -23.3 10.2 0.14 0.13 -1.64 7 
+2876.19 2.24 81.90 2875.8 22.2 -23.2 11.2 0.21 0.19 -1.94 7 
+2905.64 2.46 85.79 2905.2 23.1 -23.0 12.4 0.28 0.23 4.03 7 
+2935.67 2.58 82.74 2935.2 24.1 -22.9 13.8 0.18 0.12 -3.10 7 
+2963.22 2.93 85.15 2962.7 25.1 -22.8 15.1 0.41 0.39 2.67 7 
+2992.32 2.88 83.61 2991.8 26.3 -22.6 16.5 0.10 -0.05 -1.61 8 
+3021.53 3.01 83.20 3020.9 27.4 -22.5 18.0 0.14 0.14 -0.43 9 
+3051.62 3.07 82.21 3051.0 28.6 -22.3 19.6 0.08 0.06 -1.00 9 
+3080.66 3.23 81.34 3080.0 29.8 -22.0 21.2 0.18 0.17 -0.91 9 
+3101.98 3.47 82.50 3101.3 30.8 -21.8 22.4 0.36 0.34 1.66 9 
+3130.21 3.75 81.59 3129.4 32.1 -21.6 24.2 0.31 0.30 -0.98 9 
+3167.65 3.79 84.07 3166.8 34.0 -21.3 26.6 0.14 0.03 2.02 10 
+3194.79 3.87 83.32 3193.9 35.4 -21.1 28.4 0.11 0.09 -0.84 11 
+3223.60 4.33 83.41 3222.6 36.9 -20.9 30.5 0.49 0.49 0.10 11 
+3235.00 4.33 83.41 3234.0 37.6 -20.8 31.3 0.00 0.00 0.00 11
+ ____________________________________________________________________________________________ 
+SECTION 6 
+BHA Data 
+
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 3 
+BHA# 3 : Date In :15/10/2009MD In (m) : 935 TVD In (m) : 935 Date Out: 20/10/2009MD Out (m): 2271 TVD Out (m): 2271 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+3 12.250 Reed Hycalog RSR616M-A2 222369 8x13 1.037 1-1-BT-N -X-I-CT-PP 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+1 9.625 SSDS SperryDrill 963448 0.78° 117 77.50 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Reed RSR616M - A21 12-1/4" PDC 222369 12.250 3.000 12.250 377.57 P 6-5/8" Reg 0.30 
+2 9-5/8" SperryDrill Lobe 6/7 - 5.0 stg w/Float 963448 9.625 6.135 12.125 147.21 B 6-5/8" Reg 9.22 1.16 
+3 12-1/4" Integral Blade Stabilizer 701049 8.000 3.000 12.250 147.22 B 6-5/8" Reg 1.86 10.25 
+4 8" RLL w/ EWR + DGR + HCIM PA90218962 8.000 2.375 8.625 156.21 B 6-5/8" Reg 7.28 
+5 8" Non Mag HOC w\Tm + Dir 246906 8.063 2.375 158.92 B 6-5/8" Reg 4.80 
+6 12-1/4" Integral Blade Stabilizer 231191 8.063 3.000 12.250 149.92 B 6-5/8" Reg 1.88 24.17 
+7 6x 8-1/4" Spiral Drill collars Rig 8.250 2.875 160.05 B 6-5/8" Reg 56.43 
+8 8" Drilling Jar 17621339 8.000 3.000 147.22 B 6-5/8" Reg 9.68 
+9 2x 8-1/4" Spiral Drill collar Rig 8.250 2.875 160.05 B 6-5/8" Reg 18.63 
+10 X-over Sub 6-5/8" <> 4-1/2"IF Rig 1792 6.750 2.813 100.77 B 4-1/2" IF 1.09 
+11 15 x 5" HWDP 5.000 3.000 49.30 B 4-1/2" IF 141.54 
+________ 
+252.71 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : 2000 28000 11944 Drilling : 65.00 in Air (Total) : 80225 DP(S)-NC50(XH)-19.50# 5.000 2018 
+RPM (rpm) : 80 110 103 Reaming : 1.00 in Mud (Total) : 68976 
+Flow (gpm) : 956 1000 997 Circ-Other : 11.50 in Air (Bel Jars) : 42513 
+SPP (psi) : 1810 3150 2539 Total : 77.50 in Mud (Bel Jars) : 36552 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 0.74 0.76 Oriented : 37.00 4 2.03 
+Azimuth (deg) 185.62 89.05 Rotated : 1299.00 21 
+Total : 1336.00 21 0.00 0.00 0.03 
+COMMENTS 
+Rig Floor Offset - 49.4 deg 
+Motor below RT 05:00 on 14-10-2009 
+Motor Above RT 02.00 on 19-10-2009 
+Bit to survey - 19.76m 
+Bit to Gamma - 12.34m 
+Bit to EWR - 14.81m
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 3 
+OBJECTIVES: 
+The 12-1/4" section will be drilled to 2510mTVDRT or +/-418m below the top of the Eastern View Group. A deep set 9.5/8" shoe will assist 
+with obtaining all the wire line logging data required in the subsequent 8-1/2" hole section. 
+RESULTS: 
+The six bladed Reed RSR616M PDC bit with 9-5/8" Sperry Motor and MWD/LWD tools were made up and downloaded without problems. 
+A shallow test was performed on the first stand of HWDP at 140m, the test was conducted with 800GPM which gave 1050psi. Top of 
+cement was tagged at 917m MD, and cement and shoe track was drilled relatively quickly with sea water to 930m. The hole was 
+displaced to 9.1ppg KCI/Polymer mud, while the rat hole was cleaned to 935m. The assembly was worked twice through the shoe prior to 
+drilling 3m of new formation to 938m for a FIT. While drilling the shoe track with salt water, the pump pressure was averaging 2230psi. 
+This dropped off significantly at the start of displacing to mud averaging 1500 to 1600psi, on investigation it was discovered the mud was 
+aerated and had to be conditioned before performing FIT. 
+Drilling Commenced with a significant ROP which averaged at around 160 m/hr from 938m to 1236m this was cut back to 80m/hr due to 
+the shakers over loading, the well was circulated while the shakers were cleaned and drilling resumed once again ROP through the Upper 
+Angahook and Angahook Volcanic Equivalent formations 1236m to 1563m was averaging 80m/hr with the following parameters 
+2-10kwob, 1000gpm, 100rpm. Torque 3-10-k ft-lb. Once entering the Undiff Oligocene formation at 1569m MDRT it dropped off to 30m/hr 
+with intermittent spikes of 50m/hr seen, this trend continued through the Demons Bluff formation 1850m MDRT as well. The WOB was 
+increased to 25K ft-lb's in an attempt to increase ROP with some success. Forward projections showed that the well path would be 
+intersecting the targets just at the 50m radius, as a result two short slides were attempted with little success very poor tool face control at 
+1419m and again at 1504m. Continue drilling in rotary to 1937m where an 18m low side oriented slide was utilised to keep the inclination 
+from building and turn the azimuth. This showed favourable results and the well path was lined up well within target 50 m radius. 
+The Motor performed excellent in upper section of well bore with no problems differential pressure from 100-250PSI. At 2105m the Motor 
+stalled out twice once on bottom and again when tagging bottom. At 2132m while making a connection the saver sub on the top drive 
+was backed out .One stand was racked back, and side entry sub made up to the string to circulate well while repairing top drive pipe 
+handler. The string was rotated slowly in the slips. Drilling continued with little progress drill string stalled several times and it was thought 
+the Motor was stalling but going back to bottom on one occasion the string stalled off bottom after investigating it was determined that the 
+torque limiter on the top drive was set to 14K ft lbs, this was increased to 22K ft lbs drilling resumed with no stalling occurring. Some stick 
+slip was experienced and measures were taken to minimize the level acceptable for tools to work without failure and satisfy the customer 
+with a reasonable ROP. 
+At 2269m a pressure spike was seen along with increase in torque to 20K after which a 300-350psi pressure drop was observed. Pop off 
+valves on pumps 1 and 2 blew on different occasions while trying to continue drilling ahead due to the fact that they were set to 3500psi 
+and flowing at 1000gpm off bottom psi was 2950 to 3000psi. Had the mud pumps had 6" liners instead of 6-1/2" there would have been 
+better buffer between system pressure and the pop off setting. All through this run the pump pressure has been fluctuating. Due to the 
+pressure loss it was decided to POOH to investigate and for bit change. The hole was circulated clean, and the BHA was pooh from 
+2271m several tight spots were encountered and the hole was back reamed to the shoe at surface the motor was checked and tested 
+700gpm, 550psi ok observe bypass flow and bit spinning bearing play out - 5mm. The bit looked in good condition and was graded 
+1-1-BT-N-X-I-CT-PP. A decision was made to re run the same bit. 
+BRT hours: 117hrs 
+Circulating hours: 71.58hrs 
+On bottom Drilling Hours: 39.2hrs 
+Drilled from 935m to 2271m 1336m 
+Average ROP: 21m/hr 
+RECOMMENDATIONS: 
+The float and plugs may be more effectively drilled with a milled tooth bit, as opposed to a quite flat faced, heavy set PDC Bit. Deck rollers 
+could be utilised to facilitate making up BHA offline thus saving rig time while picking up BHA. The use of 6" liners would have given more 
+room between operating pressure and pop off settings, this would be particularly helpful when running a down hole motor
+BHA ID #: 3 
+12-1/4" Performance Motor Assy 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+12.25" 0.3m Reed RSR616M - A21 12-1/4" PDC 
+9.625" 9.22m 9-5/8" SperryDrill Lobe 6/7 - 5.0 stg 
+w/Float 
+8" 1.86m 12-1/4" Integral Blade Stabilizer 
+8" 7.28m 8" RLL w/ EWR + DGR + HCIM 
+8.063" 4.8m 8" Non Mag HOC w\Tm + Dir 
+8.063" 1.88m 12-1/4" Integral Blade Stabilizer 
+8.25" 56.43m 6 x 6x 8-1/4" Spiral Drill collars 
+8" 9.68m 8" Drilling Jar 
+8.25" 18.63m 2 x 2x 8-1/4" Spiral Drill collar 
+6.75" 1.09m X-over Sub 6-5/8" <> 4-1/2"IF 
+5" 141.54m 15 x 5" HWDP 
+BHA Discussion 
+Rig Floor Offset - 49.4 deg 
+Motor below RT 05:00 on 14-10-2009 
+Motor Above RT 02.00 on 19-10-2009 
+Bit to survey - 19.76m 
+Bit to Gamma - 12.34m 
+Bit to EWR - 14.81m 
+BHA Schematic 
+Reed RSR616M - A21 
+12-1/4" PDC 
+Pin 6-5/8" Reg 
+9-5/8" SperryDrill Lobe 
+6/7 - 5.0 stg w/Float 
+Box 6-5/8" Reg 
+12-1/4" Integral Blade 
+Stabilizer 
+Box 6-5/8" Reg 
+8" RLL w/ EWR + DGR + 
+HCIM 
+Box 6-5/8" Reg 
+8" Non Mag HOC w\Tm 
++ Dir 
+Box 6-5/8" Reg 
+12-1/4" Integral Blade 
+Stabilizer 
+Box 6-5/8" Reg 
+6 x 6x 8-1/4" Spiral Drill 
+collars 
+Box 6-5/8" Reg 
+8" Drilling Jar 
+Box 6-5/8" Reg 
+2 x 2x 8-1/4" Spiral Drill 
+collar 
+Box 6-5/8" Reg 
+X-over Sub 6-5/8" <> 4- 
+1/2"IF 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 4 
+BHA# 4 : Date In :20/10/2009MD In (m) : 2271 TVD In (m) : 2271 Date Out: 22/10/2009MD Out (m): 2520 TVD Out (m): 2520 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+3rr1 12.250 Reed Hycalog RSR616M-A2 222369 8x13 1.037 1-1-CT-A -X-I-PN-TD 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+2 9.625 SSDS SperryDrill 963448 0.78° 112 104.00 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Reed RSR616M - A21 12-1/4" PDC 222369 12.250 3.000 12.250 377.57 P 6-5/8" Reg 0.30 
+2 9-5/8" SperryDrill Lobe 6/7 - 5.0 stg w/Float 963448 9.625 6.135 12.125 147.21 B 6-5/8" Reg 9.22 1.16 
+3 12-1/4" Integral Blade Stabilizer 701049 8.000 3.000 12.250 147.22 B 6-5/8" Reg 1.86 10.25 
+4 8" RLL w/ EWR + DGR + HCIM PA90218962 8.000 2.375 8.625 156.21 B 6-5/8" Reg 7.28 
+5 8" Non Mag HOC w\Tm + Dir 246907 8.063 2.375 158.92 B 6-5/8" Reg 4.80 
+6 12-1/4" Integral Blade Stabilizer 231191 8.063 3.000 12.125 149.92 B 6-5/8" Reg 1.88 24.17 
+7 6x 8-1/4" Spiral Drill collars Rig 8.250 2.875 160.05 B 6-5/8" Reg 56.43 
+8 8" Drilling Jar 17621339 8.000 3.000 147.22 B 6-5/8" Reg 9.68 
+9 2x 8-1/4" Spiral Drill collar Rig 8.250 2.875 160.05 B 6-5/8" Reg 18.63 
+10 X-over Sub 6-5/8" <> 4-1/2"IF Rig 1792 6.750 2.813 100.77 B 4-1/2" IF 1.09 
+11 15 x 5" HWDP 5.000 3.000 49.30 B 4-1/2" IF 141.54 
+________ 
+252.71 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : 5000 20000 12550 Drilling : 19.00 in Air (Total) : 80225 DP(S)-NC50(XH)-19.50# 5.000 2267 
+RPM (rpm) : 100 120 108 Reaming : 2.50 in Mud (Total) : 68853 
+Flow (gpm) : 950 975 953 Circ-Other : 5.00 in Air (Bel Jars) : 42513 
+SPP (psi) : 2825 3050 2955 Total : 26.50 in Mud (Bel Jars) : 36487 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 0.76 1.01 Oriented : 0.00 0 2.03 
+Azimuth (deg) 89.05 96.32 Rotated : 249.00 13 
+Total : 249.00 13 0.03 0.00 0.03 
+COMMENTS 
+BHA below RT on 11.00 hrs -20-10-09 
+BHA Above RT on 09:00 hrs -22-10-09 
+Circulating hrs = 
+Drilling hrs = 
+Rig Floor Offset = 311.11deg
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 4 
+OBJECTIVES: 
+To continue drilling 12-1/4" hole section to TD at 2510mTVDRT or +/-418m below the top of the Eastern View Group. 
+RESULTS: 
+This BHA was picked up with a new HOC, the motor was scribed to MWD then shallow tested on the first stand of HWDP. The BHA was 
+run in and fill was tagged at 2165m with 20K WOB. Wash down to bottom at 2271m. Drilling commenced with reduced parameters of 
+900gpm, 100rpm and 2-5klbs WOB was used for the first 2-3m before bringing WOB up to 20K, 950gpm and 100rpm. High stick slip and 
+torsional vibration was experienced with those drilling parameters. To mitigate above mentioned vibration rpm was increased to 110 and 
+then to 120 This did not cure the vibration. The stick-slip and torsional vibrations were minimized only when picked up off bottom or when 
+drilling with WOB less then 10klbs, but then ROP decreased below 25m/hr after consultation with client this was deemed an acceptable 
+ROP from client point of view. Drilled to section TD at 2520m, the hole was circulated clean and a short wiper trip was made to 2271m 
+and back to TD. The BHA was POOH to run 9 5/8" casing 
+RECOMMENDATIONS: 
+None
+BHA ID #: 4 
+12-1/4" Performance Motor Assy 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+12.25" 0.3m Reed RSR616M - A21 12-1/4" PDC 
+9.625" 9.22m 9-5/8" SperryDrill Lobe 6/7 - 5.0 stg 
+w/Float 
+8" 1.86m 12-1/4" Integral Blade Stabilizer 
+8" 7.28m 8" RLL w/ EWR + DGR + HCIM 
+8.063" 4.8m 8" Non Mag HOC w\Tm + Dir 
+8.063" 1.88m 12-1/4" Integral Blade Stabilizer 
+8.25" 56.43m 6 x 6x 8-1/4" Spiral Drill collars 
+8" 9.68m 8" Drilling Jar 
+8.25" 18.63m 2 x 2x 8-1/4" Spiral Drill collar 
+6.75" 1.09m X-over Sub 6-5/8" <> 4-1/2"IF 
+5" 141.54m 15 x 5" HWDP 
+BHA Discussion 
+BHA below RT on 11.00 hrs -20-10-09 
+BHA Above RT on 09:00 hrs -22-10-09 
+Circulating hrs = 
+Drilling hrs = 
+Rig Floor Offset = 311.11deg 
+BHA Schematic 
+Reed RSR616M - A21 
+12-1/4" PDC 
+Pin 6-5/8" Reg 
+9-5/8" SperryDrill Lobe 
+6/7 - 5.0 stg w/Float 
+Box 6-5/8" Reg 
+12-1/4" Integral Blade 
+Stabilizer 
+Box 6-5/8" Reg 
+8" RLL w/ EWR + DGR + 
+HCIM 
+Box 6-5/8" Reg 
+8" Non Mag HOC w\Tm 
++ Dir 
+Box 6-5/8" Reg 
+12-1/4" Integral Blade 
+Stabilizer 
+Box 6-5/8" Reg 
+6 x 6x 8-1/4" Spiral Drill 
+collars 
+Box 6-5/8" Reg 
+8" Drilling Jar 
+Box 6-5/8" Reg 
+2 x 2x 8-1/4" Spiral Drill 
+collar 
+Box 6-5/8" Reg 
+X-over Sub 6-5/8" <> 4- 
+1/2"IF 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 5 
+BHA# 5 : Date In :6/11/2009 MD In (m) : 2520 TVD In (m) : 2520 Date Out: 8/11/2009 MD Out (m): 2523 TVD Out (m): 2523 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+4 8.500 Hughes GT-1 6076381 3x22 1.114 1-1-WT-A -1-I-NO-BHA 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Hughes - GT1 6076381 8.500 3.000 8.500 169.30 B 4-1/2" Reg 0.25 
+2 Bit Sub 87 6.900 2.375 112.34 B 4-1/2" IF 1.19 
+3 8 x 6-3/4" Spiral Drill collar Rig 6.750 2.813 101.00 B 4-1/2" IF 75.20 
+4 6-1/2" Drilling Jar 17602018 6.500 2.813 91.91 B 4-1/2" IF 9.91 
+5 3x 6-1/2" Spiral Drill collar Rig 6.750 2.813 101.00 B 6-5/8" Reg 28.21 
+6 15x 15 x 5" HWDP 5.000 3.000 49.30 B 4-1/2" IF 141.13 
+________ 
+255.89 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 2.50 in Air (Total) : 60659 DP(S)-NC50(XH)-19.50# 5.000 2267 
+RPM (rpm) : Reaming : 1.50 in Mud (Total) : 52061 
+Flow (gpm) : Circ-Other : 1.00 in Air (Bel Jars) : 25496 
+SPP (psi) : Total : 5.00 in Mud (Bel Jars) : 21882 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 1.01 1.00 Oriented : 0.00 0 
+Azimuth (deg) 96.32 96.89 Rotated : 3.00 0 
+Total : 3.00 1 -0.04 5.79 0.00 
+COMMENTS
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 5 
+OBJECTIVES: 
+Drill out the shoe track and 3m of formation before conducting an FIT then POOH for an FEWD assembly 
+RESULTS: 
+Assembly achieved required results without problems
+BHA ID #: 5 
+8-1/2" Drillout Assembly 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.25m Hughes - GT1 
+6.9" 1.19m Bit Sub 
+6.75" 75.2m 8 x 6-3/4" Spiral Drill collar 
+6.5" 9.91m 6-1/2" Drilling Jar 
+6.75" 28.21m 3 x 3x 6-1/2" Spiral Drill collar 
+5" 141.13m 15x 15 x 5" HWDP 
+BHA Schematic 
+Hughes - GT1 
+Box 4-1/2" Reg 
+Bit Sub 
+Box 4-1/2" IF 
+8 x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-1/2" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-1/2" Spiral Drill 
+collar 
+Box 6-5/8" Reg 
+15x 15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 6 
+BHA# 6 : Date In :8/11/2009 MD In (m) : 2523 TVD In (m) : 2523 Date Out: 9/11/2009 MD Out (m): 2633 TVD Out (m): 2633 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+5 8.500 Smith Mi616VBPX TX2104 6x14 0.902 1-1-WT-A -X-I-NO-DTF 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Smith Mi616VBPX PDC TX2104 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.28 
+2 8-3/8" NB IB Stab w/Float 700172 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.50 1.03 
+3 6-3/4" RLL w/DGR + EWR 90222557 6.750 1.920 112.09 B 4-1/2" IF 7.13 
+4 6-3/4" PM/DM w/Dir 194443 6.750 1.920 112.09 B 4-1/2" IF 2.79 
+5 6-3/4" ALD + CTN 90219755 6.750 1.920 8.250 112.09 B 4-1/2" IF 8.45 
+6 6-3/4" BAT-Sonic 90227156 6.750 1.920 112.09 B 4-1/2" IF 6.72 
+7 6-3/4" HOC w/TM 203846 6.750 1.920 112.09 B 4-1/2" IF 3.05 
+8 6-3/4" ACAL 90223655 6.750 1.920 112.09 B 4-1/2" IF 1.83 
+9 8-3/8" Integral Blade Stabilizer 700802 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.70 32.75 
+10 8x 6-3/4" Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 74.97 
+11 6-3/4" Drilling Jar 17602018 6.750 2.750 101.71 B 4-1/2" IF 9.91 
+12 3x 6-3/4"Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 29.91 
+13 15x 15 x 5" HWDP 5.000 3.000 42.83 B 4-1/2" IF 141.13 
+________ 
+289.37 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 11.00 in Air (Total) : 70069 DP(S)-NC50(XH)-19.50# 5.000 2344 
+RPM (rpm) : Reaming : 4.00 in Mud (Total) : 60137 
+Flow (gpm) : Circ-Other : 2.50 in Air (Bel Jars) : 37039 
+SPP (psi) : Total : 17.50 in Mud (Bel Jars) : 31789 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 1.00 1.40 Oriented : 0.00 0 
+Azimuth (deg) 96.89 87.25 Rotated : 110.00 0 
+Total : 110.00 10 0.11 -2.67 0.12 
+COMMENTS
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 6 
+OBJECTIVES: 
+To drill vertically and log to the first core point at approximatly 2971m 
+RESULTS: 
+Drilled from 2553m to 2633m at which point the MWD pulser failed to start after a connection, the assebly was pulled to change out MWD
+BHA ID #: 6 
+8.5" Rotary FEWD Assembly 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.28m Smith Mi616VBPX PDC 
+6.75" 1.5m 8-3/8" NB IB Stab w/Float 
+6.75" 7.13m 6-3/4" RLL w/DGR + EWR 
+6.75" 2.79m 6-3/4" PM/DM w/Dir 
+6.75" 8.45m 6-3/4" ALD + CTN 
+6.75" 6.72m 6-3/4" BAT-Sonic 
+6.75" 3.05m 6-3/4" HOC w/TM 
+6.75" 1.83m 6-3/4" ACAL 
+6.75" 1.7m 8-3/8" Integral Blade Stabilizer 
+6.75" 74.97m 7 x 8x 6-3/4" Spiral Drill collar 
+6.75" 9.91m 6-3/4" Drilling Jar 
+6.75" 29.91m 3 x 3x 6-3/4"Spiral Drill collar 
+5" 141.13m 15x 15 x 5" HWDP 
+BHA Schematic 
+Smith Mi616VBPX PDC 
+Pin 4-1/2" Reg 
+8-3/8" NB IB Stab 
+w/Float 
+Box 4-1/2" IF 
+6-3/4" RLL w/DGR + 
+EWR 
+Box 4-1/2" IF 
+6-3/4" PM/DM w/Dir 
+Box 4-1/2" IF 
+6-3/4" ALD + CTN 
+Box 4-1/2" IF 
+6-3/4" BAT-Sonic 
+Box 4-1/2" IF 
+6-3/4" HOC w/TM 
+Box 4-1/2" IF 
+6-3/4" ACAL 
+Box 4-1/2" IF 
+8-3/8" Integral Blade 
+Stabilizer 
+Box 4-1/2" IF 
+7 x 8x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-3/4" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-3/4"Spiral Drill 
+collar 
+Box 4-1/2" IF 
+15x 15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 7 
+BHA# 7 : Date In :9/11/2009 MD In (m) : 2633 TVD In (m) : 2633 Date Out: 12/11/2009MD Out (m): 2983 TVD Out (m): 2982 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+5rr1 8.500 Smith Mi616VBPX TX2104 6x14 0.902 1-2-CT-S -X-I-WT-CP 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Smith Mi616VBPX PDC TX2104 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.28 
+2 8-3/8" NB IB Stab w/Float 700172 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.50 1.03 
+3 6-3/4" RLL w/DGR + EWR 90222505 6.750 1.920 112.09 B 4-1/2" IF 7.07 
+4 6-3/4" PM/DM w/Dir 1025744 6.750 1.920 112.09 B 4-1/2" IF 2.81 
+5 6-3/4" ALD + CTN 9022683 6.750 1.920 8.250 112.09 B 4-1/2" IF 9.20 
+6 6-3/4" BAT-Sonic 90227155 6.750 1.920 112.09 B 4-1/2" IF 6.76 
+7 6-3/4" HOC w/TM 302842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+8 6-3/4" ACAL 90223063 6.750 1.920 112.09 B 4-1/2" IF 1.81 
+9 8-3/8" Integral Blade Stabilizer 700802 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.70 33.46 
+10 8x 6-3/4" Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 74.97 
+11 6-3/4" Drilling Jar 17602018 6.750 2.750 101.71 B 4-1/2" IF 9.91 
+12 3x 6-3/4"Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 28.21 
+13 15 x 5" HWDP 5.000 3.000 42.83 B 4-1/2" IF 141.13 
+________ 
+288.38 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 33.50 in Air (Total) : 69768 DP(S)-NC50(XH)-19.50# 5.000 2695 
+RPM (rpm) : Reaming : 1.00 in Mud (Total) : 59772 
+Flow (gpm) : Circ-Other : 2.50 in Air (Bel Jars) : 37301 
+SPP (psi) : Total : 37.00 in Mud (Bel Jars) : 31956 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 1.40 2.90 Oriented : 0.00 0 
+Azimuth (deg) 87.25 84.11 Rotated : 350.00 0 
+Total : 350.00 10 0.13 -0.27 0.13 
+COMMENTS
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 7 
+OBJECTIVES: 
+To complete drilling and logging to the first core point 
+RESULTS: 
+Completed drilling to the first core point at 2983m without any problems
+BHA ID #: 7 
+8-1/2" Rotary FEWD CP1 BHA 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.28m Smith Mi616VBPX PDC 
+6.75" 1.5m 8-3/8" NB IB Stab w/Float 
+6.75" 7.07m 6-3/4" RLL w/DGR + EWR 
+6.75" 2.81m 6-3/4" PM/DM w/Dir 
+6.75" 9.2m 6-3/4" ALD + CTN 
+6.75" 6.76m 6-3/4" BAT-Sonic 
+6.75" 3.03m 6-3/4" HOC w/TM 
+6.75" 1.81m 6-3/4" ACAL 
+6.75" 1.7m 8-3/8" Integral Blade Stabilizer 
+6.75" 74.97m 7 x 8x 6-3/4" Spiral Drill collar 
+6.75" 9.91m 6-3/4" Drilling Jar 
+6.75" 28.21m 3 x 3x 6-3/4"Spiral Drill collar 
+5" 141.13m 15 x 5" HWDP 
+BHA Schematic 
+Smith Mi616VBPX PDC 
+Pin 4-1/2" Reg 
+8-3/8" NB IB Stab 
+w/Float 
+Box 4-1/2" IF 
+6-3/4" RLL w/DGR + 
+EWR 
+Box 4-1/2" IF 
+6-3/4" PM/DM w/Dir 
+Box 4-1/2" IF 
+6-3/4" ALD + CTN 
+Box 4-1/2" IF 
+6-3/4" BAT-Sonic 
+Box 4-1/2" IF 
+6-3/4" HOC w/TM 
+Box 4-1/2" IF 
+6-3/4" ACAL 
+Box 4-1/2" IF 
+8-3/8" Integral Blade 
+Stabilizer 
+Box 4-1/2" IF 
+7 x 8x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-3/4" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-3/4"Spiral Drill 
+collar 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 8 
+BHA# 8 : Date In :12/11/2009MD In (m) : 2983 TVD In (m) : 2982 Date Out: 13/11/2009MD Out (m): 3013 TVD Out (m): 3012 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+6 8.500 Corpro MCP572 083691 1x28 0.601 1-1-NO-FC-X-I-NO-BHA 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 PDC Coring 083691 8.500 2.500 8.500 176.66 P 4" Mod 0.28 
+2 8-7/16" Coring Stabilizer WO137319 7.130 5.630 8.440 51.23 B 4" Mod 0.76 0.68 
+3 CoreBarrel WO135110 7.130 5.630 51.23 B 4" Mod 5.33 
+4 8-7/16" Coring Stabilizer WO137237 7.130 5.630 8.440 51.23 B 4" Mod 0.76 6.77 
+5 CoreBarrel WO135194 7.130 5.630 51.23 B 4" Mod 5.33 
+6 8-7/16" Coring Stabilizer WO137312 7.130 5.630 8.440 51.23 B 4" Mod 0.76 12.86 
+7 CoreBarrel S8414 7.130 5.630 51.23 B 4" Mod 5.33 
+8 8-7/16" Coring Stabilizer WO137258 7.130 5.630 8.440 51.23 B 4" Mod 0.76 18.95 
+9 CoreBarrel 723189 7.130 5.630 51.23 B 4" Mod 5.33 
+10 8-7/16" Coring Stabilizer WO137219 7.130 5.630 8.440 51.23 B 4" Mod 0.76 25.04 
+11 CoreBarrel SBO6 7.130 5.630 51.23 B 4" Mod 5.33 
+12 8-7/16" Integral Blade Stabilizer WO137014 7.130 5.630 8.440 51.23 B 4" Mod 0.76 31.13 
+13 Top Head W1856027 7.130 5.630 51.23 B 4-1/2" IF 0.61 
+14 8x 6-3/4" Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 74.97 
+15 6-3/4" Drilling Jar 17602018 6.750 2.750 101.71 B 4-1/2" IF 9.91 
+16 3x 6-3/4"Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 28.21 
+17 15 x 5" HWDP 5.000 3.000 42.83 B 4-1/2" IF 141.13 
+________ 
+286.32 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 4.50 in Air (Total) : 62776 DP(S)-NC50(XH)-19.50# 5.000 2727 
+RPM (rpm) : Reaming : 1.00 in Mud (Total) : 53782 
+Flow (gpm) : Circ-Other : 0.00 in Air (Bel Jars) : 30309 
+SPP (psi) : Total : 5.50 in Mud (Bel Jars) : 25966 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 2.90 2.97 Oriented : 0.00 0 
+Azimuth (deg) 84.11 83.32 Rotated : 30.00 0 
+Total : 30.00 7 0.08 -0.81 0.09 
+COMMENTS
+BHA ID #: 8 
+8-1/2" Coring Assembly - 1 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.28m PDC Coring 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Integral Blade Stabilizer 
+7.13" 0.61m Top Head 
+6.75" 74.97m 7 x 8x 6-3/4" Spiral Drill collar 
+6.75" 9.91m 6-3/4" Drilling Jar 
+6.75" 28.21m 3 x 3x 6-3/4"Spiral Drill collar 
+5" 141.13m 15 x 5" HWDP 
+BHA Schematic 
+PDC Coring 
+Pin 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Integral Blade 
+Stabilizer 
+Box 4" Mod 
+Top Head 
+Box 4-1/2" IF 
+7 x 8x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-3/4" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-3/4"Spiral Drill 
+collar 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 9 
+BHA# 9 : Date In :13/11/2009MD In (m) : 3013 TVD In (m) : 3012 Date Out: 15/11/2009MD Out (m): 3145 TVD Out (m): 3144 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+5rr2 8.500 Smith Mi616VBPX TX2104 6x14 0.902 1-2-CT-S -X-I-NO-CP 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Smith Mi616VBPX PDC TX2104 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.28 
+2 8-3/8" NB IB Stab w/Float 700172 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.50 1.03 
+3 6-3/4" RLL w/DGR + EWR 90222505 6.750 1.920 112.09 B 4-1/2" IF 7.07 
+4 6-3/4" PM/DM w/Dir 1025744 6.750 1.920 112.09 B 4-1/2" IF 2.81 
+5 6-3/4" ALD + CTN 9022683 6.750 1.920 8.250 112.09 B 4-1/2" IF 9.20 
+6 6-3/4" BAT-Sonic 90227155 6.750 1.920 112.09 B 4-1/2" IF 6.76 
+7 6-3/4" HOC w/TM 302842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+8 6-3/4" ACAL 90223063 6.750 1.920 112.09 B 4-1/2" IF 1.81 
+9 8-3/8" Integral Blade Stabilizer 700802 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.70 33.46 
+10 8x 6-3/4" Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 74.97 
+11 6-3/4" Drilling Jar 17602018 6.750 2.750 101.71 B 4-1/2" IF 9.91 
+12 3x 6-3/4"Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 28.21 
+13 15 x 5" HWDP 5.000 3.000 42.83 B 4-1/2" IF 141.13 
+________ 
+288.38 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 16.00 in Air (Total) : 69768 DP(S)-NC50(XH)-19.50# 5.000 2857 
+RPM (rpm) : Reaming : 4.00 in Mud (Total) : 59666 
+Flow (gpm) : Circ-Other : 1.50 in Air (Bel Jars) : 37301 
+SPP (psi) : Total : 21.50 in Mud (Bel Jars) : 31899 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 2.97 3.76 Oriented : 0.00 0 
+Azimuth (deg) 83.32 82.58 Rotated : 132.00 0 
+Total : 132.00 8 0.18 -0.17 0.18 
+COMMENTS
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 9 
+OBJECTIVES: 
+To log the cored interval and drill to core point 2 at about 3128m 
+RESULTS: 
+Logged and drilled to core point 2 at 3145m with out any problems
+BHA ID #: 9 
+8-1/2" Rotary FEWD CP2 BHA 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.28m Smith Mi616VBPX PDC 
+6.75" 1.5m 8-3/8" NB IB Stab w/Float 
+6.75" 7.07m 6-3/4" RLL w/DGR + EWR 
+6.75" 2.81m 6-3/4" PM/DM w/Dir 
+6.75" 9.2m 6-3/4" ALD + CTN 
+6.75" 6.76m 6-3/4" BAT-Sonic 
+6.75" 3.03m 6-3/4" HOC w/TM 
+6.75" 1.81m 6-3/4" ACAL 
+6.75" 1.7m 8-3/8" Integral Blade Stabilizer 
+6.75" 74.97m 7 x 8x 6-3/4" Spiral Drill collar 
+6.75" 9.91m 6-3/4" Drilling Jar 
+6.75" 28.21m 3 x 3x 6-3/4"Spiral Drill collar 
+5" 141.13m 15 x 5" HWDP 
+BHA Schematic 
+Smith Mi616VBPX PDC 
+Pin 4-1/2" Reg 
+8-3/8" NB IB Stab 
+w/Float 
+Box 4-1/2" IF 
+6-3/4" RLL w/DGR + 
+EWR 
+Box 4-1/2" IF 
+6-3/4" PM/DM w/Dir 
+Box 4-1/2" IF 
+6-3/4" ALD + CTN 
+Box 4-1/2" IF 
+6-3/4" BAT-Sonic 
+Box 4-1/2" IF 
+6-3/4" HOC w/TM 
+Box 4-1/2" IF 
+6-3/4" ACAL 
+Box 4-1/2" IF 
+8-3/8" Integral Blade 
+Stabilizer 
+Box 4-1/2" IF 
+7 x 8x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-3/4" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-3/4"Spiral Drill 
+collar 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 10 
+BHA# 10 : Date In :15/11/2009MD In (m) : 3145 TVD In (m) : 3144 Date Out: 16/11/2009MD Out (m): 3175 TVD Out (m): 3174 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+6rr1 8.500 Corpro MCP572 083691 1x28 0.601 1-1-NO-A -X-I-NO-BHA 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 PDC Coring 083691 8.500 2.500 8.500 176.66 P 4" Mod 0.28 
+2 8-7/16" Coring Stabilizer WO137319 7.130 5.630 8.440 51.23 B 4" Mod 0.76 0.68 
+3 CoreBarrel WO135110 7.130 5.630 51.23 B 4" Mod 5.33 
+4 8-7/16" Coring Stabilizer WO137237 7.130 5.630 8.440 51.23 B 4" Mod 0.76 6.77 
+5 CoreBarrel WO135194 7.130 5.630 51.23 B 4" Mod 5.33 
+6 8-7/16" Coring Stabilizer WO137312 7.130 5.630 8.440 51.23 B 4" Mod 0.76 12.86 
+7 CoreBarrel S8414 7.130 5.630 51.23 B 4" Mod 5.33 
+8 8-7/16" Coring Stabilizer WO137258 7.130 5.630 8.440 51.23 B 4" Mod 0.76 18.95 
+9 CoreBarrel 723189 7.130 5.630 51.23 B 4" Mod 5.33 
+10 8-7/16" Coring Stabilizer WO137219 7.130 5.630 8.440 51.23 B 4" Mod 0.76 25.04 
+11 CoreBarrel SBO6 7.130 5.630 51.23 B 4" Mod 5.33 
+12 8-7/16" Integral Blade Stabilizer WO137014 7.130 5.630 8.440 51.23 B 4" Mod 0.76 31.13 
+13 Top Head W1856027 7.130 5.630 51.23 B 4-1/2" IF 0.61 
+14 8x 6-3/4" Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 74.97 
+15 6-3/4" Drilling Jar 17602018 6.750 2.750 101.71 B 4-1/2" IF 9.91 
+16 3x 6-3/4"Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 28.21 
+17 15 x 5" HWDP 5.000 3.000 42.83 B 4-1/2" IF 141.13 
+________ 
+286.32 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 4.50 in Air (Total) : 62776 DP(S)-NC50(XH)-19.50# 5.000 2889 
+RPM (rpm) : Reaming : 0.50 in Mud (Total) : 53782 
+Flow (gpm) : Circ-Other : 0.00 in Air (Bel Jars) : 30309 
+SPP (psi) : Total : 5.00 in Mud (Bel Jars) : 25966 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 3.76 3.81 Oriented : 0.00 0 
+Azimuth (deg) 82.58 83.86 Rotated : 30.00 0 
+Total : 30.00 7 0.05 1.31 0.10 
+COMMENTS
+BHA ID #: 10 
+Coring Assembly - 2 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.28m PDC Coring 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Coring Stabilizer 
+7.13" 5.33m CoreBarrel 
+7.13" 0.76m 8-7/16" Integral Blade Stabilizer 
+7.13" 0.61m Top Head 
+6.75" 74.97m 7 x 8x 6-3/4" Spiral Drill collar 
+6.75" 9.91m 6-3/4" Drilling Jar 
+6.75" 28.21m 3 x 3x 6-3/4"Spiral Drill collar 
+5" 141.13m 15 x 5" HWDP 
+BHA Schematic 
+PDC Coring 
+Pin 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Coring Stabilizer 
+Box 4" Mod 
+CoreBarrel 
+Box 4" Mod 
+8-7/16" Integral Blade 
+Stabilizer 
+Box 4" Mod 
+Top Head 
+Box 4-1/2" IF 
+7 x 8x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-3/4" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-3/4"Spiral Drill 
+collar 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ Customer : Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report Job # : AU-DD-0006714148 BHA# 11 
+BHA# 11 : Date In :17/11/2009MD In (m) : 3175 TVD In (m) : 3174 Date Cur: 19/11/2009MD Cur (m): 3235 TVD Cur (m): 3234 
+BIT DATA
+Bit # OD (in) MFR Style Serial# Nozzles (/32's) TFA (in²) Dull Condition 
+5rr3 8.500 Smith Mi616VBPX TX2104 6x14 0.902 
+MOTOR DATA
+Run # OD (in) MFR Model Serial# Bend Nzl (/32's) Avg Dif (psi) Cum Circ Hrs 
+COMPONENT DATA 
+Item Description Serial OD ID Gauge Weight Top Con Length Bit - Center 
+# # (in) (in) (in) (lbs/ft) (m) Blade (m) 
+1 Smith Mi616VBPX PDC TX2104 8.500 2.500 8.500 176.66 P 4-1/2" Reg 0.28 
+2 8-3/8" NB IB Stab w/Float 700172 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.50 1.03 
+3 6-3/4" RLL w/DGR + EWR 90222505 6.750 1.920 112.09 B 4-1/2" IF 7.07 
+4 6-3/4" PM/DM w/Dir 1025744 6.750 1.920 112.09 B 4-1/2" IF 2.81 
+5 6-3/4" ALD + CTN 9022683 6.750 1.920 8.250 112.09 B 4-1/2" IF 9.20 
+6 6-3/4" BAT-Sonic 90227155 6.750 1.920 112.09 B 4-1/2" IF 6.76 
+7 6-3/4" HOC w/TM 302842 6.750 1.920 112.09 B 4-1/2" IF 3.03 
+8 6-3/4" ACAL 90223063 6.750 1.920 112.09 B 4-1/2" IF 1.81 
+9 8-3/8" Integral Blade Stabilizer 700802 6.750 2.813 8.375 100.77 B 4-1/2" IF 1.70 33.46 
+10 8x 6-3/4" Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 74.97 
+11 6-3/4" Drilling Jar 17602018 6.750 2.750 101.71 B 4-1/2" IF 9.91 
+12 3x 6-3/4"Spiral Drill collar Rig 6.750 2.810 100.82 B 4-1/2" IF 28.21 
+13 15 x 5" HWDP 5.000 3.000 42.83 B 4-1/2" IF 141.13 
+________ 
+288.38 
+Parameter Min Max Ave Activity Hrs BHA Weight (lb) Drill String OD(in) Len(m) 
+WOB (lbs) : Drilling : 11.50 in Air (Total) : 69768 DP(S)-NC50(XH)-19.50# 5.000 2947 
+RPM (rpm) : Reaming : 1.50 in Mud (Total) : 59772 
+Flow (gpm) : Circ-Other : 2.50 in Air (Bel Jars) : 37301 
+SPP (psi) : Total : 15.50 in Mud (Bel Jars) : 31956 
+PERFORMANCE 
+In Out Distance(m) ROP (m/hr) Build (°/100') Turn (°/100') DLS (°/100') 
+Inclination (deg) 3.81 4.33 Oriented : 0.00 0 
+Azimuth (deg) 83.86 83.41 Rotated : 60.00 0 
+Total : 60.00 5 0.26 -0.23 0.26 
+COMMENTS
+ : Customer Origin Energy Services 
+Well : Trefoil-2 
+Field : Australia 
+Slot : Bass Basin 
+Rig : Kan Tan IV 
+BHA Report page 2 Job # : AU-DD-0006714148 BHA# 11 
+OBJECTIVES: 
+To log the cored interval and drill to TD 
+RESULTS: 
+Logged and drilled to TD without any problems.
+BHA ID #: 11 
+8-1/2" Rotary FEWDTD BHA 
+Origin Energy Services 
+Trefoil-2 
+BHA Configuration 
+O.D. Length Description 
+8.5" 0.28m Smith Mi616VBPX PDC 
+6.75" 1.5m 8-3/8" NB IB Stab w/Float 
+6.75" 7.07m 6-3/4" RLL w/DGR + EWR 
+6.75" 2.81m 6-3/4" PM/DM w/Dir 
+6.75" 9.2m 6-3/4" ALD + CTN 
+6.75" 6.76m 6-3/4" BAT-Sonic 
+6.75" 3.03m 6-3/4" HOC w/TM 
+6.75" 1.81m 6-3/4" ACAL 
+6.75" 1.7m 8-3/8" Integral Blade Stabilizer 
+6.75" 74.97m 7 x 8x 6-3/4" Spiral Drill collar 
+6.75" 9.91m 6-3/4" Drilling Jar 
+6.75" 28.21m 3 x 3x 6-3/4"Spiral Drill collar 
+5" 141.13m 15 x 5" HWDP 
+BHA Schematic 
+Smith Mi616VBPX PDC 
+Pin 4-1/2" Reg 
+8-3/8" NB IB Stab 
+w/Float 
+Box 4-1/2" IF 
+6-3/4" RLL w/DGR + 
+EWR 
+Box 4-1/2" IF 
+6-3/4" PM/DM w/Dir 
+Box 4-1/2" IF 
+6-3/4" ALD + CTN 
+Box 4-1/2" IF 
+6-3/4" BAT-Sonic 
+Box 4-1/2" IF 
+6-3/4" HOC w/TM 
+Box 4-1/2" IF 
+6-3/4" ACAL 
+Box 4-1/2" IF 
+8-3/8" Integral Blade 
+Stabilizer 
+Box 4-1/2" IF 
+7 x 8x 6-3/4" Spiral Drill 
+collar 
+Box 4-1/2" IF 
+6-3/4" Drilling Jar 
+Box 4-1/2" IF 
+3 x 3x 6-3/4"Spiral Drill 
+collar 
+Box 4-1/2" IF 
+15 x 5" HWDP 
+Box 4-1/2" IF
+ LWD End of Well Report 
+For 
+Origin Energy Resources Ltd 
+Trefoil-2 
+Rig: Kan Tan IV 
+Field: Trefoil 
+Country: Australia 
+Job No: AU-FE-0006714148 
+Date: 03-OCT-09 
+
+Table of Contents 
+1. General Information 
+2. Operational Overview 
+3. Summary of MWD Runs 
+4. Bitrun Summary 
+5. Directional Survey Data 
+6. Service Interrupt Report 
+AU-FE-0006714148 Trefoil-2 2
+General Information 
+Company: Origin Energy Resources Ltd 
+Rig: Kan Tan IV 
+Well: Trefoil-2 
+Field: Trefoil 
+Lease Name: T/18P 
+State: Tasmania 
+County: 
+Country: Australia 
+API Number: 
+Sperry Job Number: AU-FE-0006714148 
+Job start date: 03-Oct-09 
+Job end date: 05-Oct-09 
+North reference: Grid 
+Declination: 12.497 deg 
+Dip angle: -70.484 deg 
+Total magnetic field: 61022 nT 
+Date of magnetic data: 06 October, 2009 
+Wellhead coordinates N: 39 deg. 53 min 7.93 sec South 
+Wellhead coordinates E: 145 deg. 22 min 14.62 sec East 
+Vertical section direction: 0.00 deg 
+Unit Number: SSH-40 
+MWD Engineers: J. Lau, A. Nijhof, M. Dillon, T. Oborne, M. 
+Ward 
+Company Representatives: J. McGarrity, B. Houston 
+Company Geologist: D. Archer, L. Hansen 
+AU-FE-0006714148 Trefoil-2 3
+Operational Overview 
+Sperry Drilling was contracted by Origin Energy Resources Ltd to provide Logging While Drilling (LWD) services for the drilling of Trefoil- 
+2. The well was drilled in permit T/18P by the Maersk MODU Kan Tan IV. 
+17 1/2" (445mm) Hole Section: 
+This section was drilled in one bit run using a conventional rotary assembly. 
+A Pressure Case Gamma (PCG) was utilised for formation evaluation. Additionally a Pressure Case Directional (PCDC) was run for 
+wellbore surveying. 
+The section was drilled from 155.0 mMDRT to section TD at 935.0 mMDRT. Pulled out of hole to run 340mm casing. 
+12 1/4" (311mm) Hole Section: 
+This section was drilled in two bit runs using a SperryDrill Motor assembly. LWD tools comprised of the following : 
+Drilling String Dynamics (DDSr-DGR) for drilling optimisation, Dual Gamma Ray (DGR) and Electromagnetic Wave Resistivity (EWR-P4) 
+for formation evaluation. Additionally a Pressure Case Directional (PCDC) was utilised for wellbore surveying. 
+The first run was drilled from 935.0 to 2271.0 mMDRT. 
+The second run was drilled from 2271.0 mMDRT to section TD at 2520.0 mMDRT. Pulled out of hole to run 244mm casing. 
+8 1/2" (216mm) Hole Section: 
+This section was drilled in four bit runs using a conventional rotary assembly. LWD tools comprised of the following : 
+Drilling String Dynamics (DDS) for drilling optimisation, Dual Gamma Ray (DGR), Electromagnetic Wave Resistivity (EWR-P4), 
+Compensated Thermal Neutron (CTN), Azimuthal Litho-Density (ALD) and Bi-Modal Acoustic (BAT) for formation evaluation. Acoustic 
+Caliper (ACAL) was run in recorded mode to determine hole size. Additionally a Pressure Case Directional (PCDC) was utilised for 
+wellbore surveying. 
+The first run was drilled from 2520.0 to 2633.0 mMDRT and pulled out of hole for LWD failure. 
+The second run was drilled from 2633.0 mMDRT to the first coring point at 2983.0 mMDRT. 
+The third run logged the core section from 2983.0 to 3013.0 mMDRT and continued drilling to the second coring point at 3145.0 mMDRT. 
+The fourth run logged the core section from 3145.0 to 3175.0 mMDRT and continued drilling to well TD at 3235.0 mMDRT. 
+AU-FE-0006714148 Trefoil-2 4
+Summary of MWD runs 
+Run 
+No. 
+Bit 
+No. 
+Hole 
+Size 
+MWD Service Start 
+Depth 
+End 
+Depth 
+Drill/Wipe 
+Distance 
+Run Start Date 
+Time 
+Run End Date 
+Time 
+BRT 
+Hrs. 
+Oper. 
+Hrs. 
+Circ. 
+Hrs. 
+Max 
+Temp. 
+Serv. 
+Int. 
+Trip 
+for 
+MWD 
+Failure Type 
+(mm) (m) (m) (m) (degC) 
+100 2 445.00 D/GWD 155.000 935.000 780.000 08-Oct-09 09:00 11-Oct-09 01:30 64.50 64.500 34.850 21.10 No No 
+200 3 311.00 P4M 935.000 2271.000 1336.000 15-Oct-09 05:02 20-Oct-09 02:09 117.11 117.110 71.570 65.30 No No 
+300 4 311.00 P4M 2271.000 2520.000 249.000 20-Oct-09 11:03 22-Oct-09 09:34 46.51 46.510 23.730 86.70 No No 
+400 6 216.00 P4M 2519.000 2633.000 114.000 08-Nov-09 01:55 09-Nov-09 12:21 34.44 34.440 15.820 96.00 Yes Yes ALD,PCM 
+500 7 216.00 P4M 2633.000 2983.000 350.000 09-Nov-09 22:43 12-Nov-09 08:34 57.84 57.840 33.710 101.00 No No 
+600 9 216.00 P4M 2983.000 3145.000 162.000 13-Nov-09 18:59 15-Nov-09 12:03 41.08 41.080 18.190 109.30 No No 
+700 11 216.00 P4M 3145.000 3235.000 90.000 16-Nov-09 21:11 18-Nov-09 14:30 41.30 41.300 11.480 112.90 No No 
+AU-FE-0006714148 Trefoil-2 5
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 100 Run Start 08-Oct-09 09:00 BRT Hrs 64.50 hr Circ. Hrs 34.85 hr 
+Rig Bit No 2 Run End 11-Oct-09 01:30 Hole Size 445.00 mm Oper. Hrs 64.50 hr 
+DRILLING DATA 
+Start Depth 155.00 m Footage 780.00 m Avg RPM 90 rpm Avg ROP 30.34 m/hr 
+End Depth 935.00 m Avg Flow Rate 1157.00 gpm Avg WOB 8.0 klb Avg SPP 2185 psig 
+Drilling Hours 25.710 hr 
+MUD DATA 
+Mud Type Sea Water 
+Weight 8.76 ppg Viscosity 0.00 spqt PV 0 cP YP 0.00 lhf2 
+Chlorides 0.00 ppm Max Temp. 21.10 degC % Solids 0.00 % % Sand 0.00 % 
+pH 0.00 pH Fluid Loss 0 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 9.50 in Type D/GWD Min. Inc. 0.00 deg Min. Inc. Depth 95.000 m 
+Final Az. 183.94 deg Max Op. Press. 1398 psig Max Inc. 1.03 deg Max Inc. Depth 896.770 m 
+MWD Real-time % 99 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+5" X 3" HWDP #49.3 - NC50(IF) 
+5.00 in OD / 3.00 in ID 113.22 
+244.52 
+X-Over Sub 
+6.75 in OD / 3.00 in ID 1.09 131.30 
+8 1/4" X 2.8125'' - 160.6# Drill Collar 
+8.25 in OD / 2.81 in ID 75.33 
+130.21 
+Jar 
+8.00 in OD / 3.00 in ID 9.68 
+54.88 
+8 1/4" X 2.8125'' - 160.6# Drill Collar 
+8.25 in OD / 2.81 in ID 18.63 
+45.20 
+X-Over Sub 
+8.25 in OD / 3.00 in ID 1.13 26.57 
+Stabilizer 
+9.50 in OD / 3.00 in ID 2.05 
+25.44 
+Spiral Drill Collar 
+9.50 in OD / 3.00 in ID 9.45 
+23.39 
+Stabilizer 
+9.50 in OD / 3.00 in ID 2.51 
+13.94 
+MWD 9.77 
+11.43 
+Bit Sub 
+9.50 in OD / 3.00 in ID 1.22 1.66 
+Tricone 
+9.50 in OD / 3.00 in ID 0.44 0.44 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+HOC 
+9.50 in OD / 4.13 in ID 
+* Positive Pulser - SN : 10608131 
+* PCM Sonde - SN : 11226946 
+* PCDC Sonde - SN : 300348 
+* PCG Sonde - SN : PCGR624 
+9.77 
+0.00 
+7.76 
+5.62 
+COMMENTS 
+Drill 445mm hole from 155.0 mMDRT to section TD at 935.0 mMDRT. POOH to run 340mm casing. All recorded data recovered on 
+surface. 
+AU-FE-0006714148 Trefoil-2 6
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 200 Run Start 15-Oct-09 05:02 BRT Hrs 117.11 hr Circ. Hrs 71.57 hr 
+Rig Bit No 3 Run End 20-Oct-09 02:09 Hole Size 311.00 mm Oper. Hrs 117.11 hr 
+DRILLING DATA 
+Start Depth 935.00 m Footage 1336.00 m Avg RPM 107 rpm Avg ROP 34.08 m/hr 
+End Depth 2271.00 m Avg Flow Rate 1000.00 gpm Avg WOB 11.3 klb Avg SPP 2485 psig 
+Drilling Hours 39.200 hr 
+MUD DATA 
+Mud Type KCL/Polymer 
+Weight 9.10 ppg Viscosity 50.00 spqt PV 15 cP YP 27.00 lhf2 
+Chlorides 38000.00 ppm Max Temp. 65.30 degC % Solids 2.90 % % Sand 0.25 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 8.00 in Type P4M Min. Inc. 0.48 deg Min. Inc. Depth 1963.220 m 
+Final Az. 82.85 deg Max Op. Press. 3527 psig Max Inc. 1.44 deg Max Inc. Depth 1500.560 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+15 x 5" Heavy Weight Drill Pipe 
+5.00 in OD / 3.00 in ID 141.54 
+252.71 
+Cross-over Sub 
+6.75 in OD / 2.81 in ID 1.09 111.17 
+2 x 8-1/4" Spiral Drill Collar 
+8.25 in OD / 2.88 in ID 18.63 
+110.08 
+8" Drilling Jar 
+8.00 in OD / 3.00 in ID 9.68 
+91.45 
+6 x 8-1/4" Spiral Drill Collar 
+8.25 in OD / 2.88 in ID 56.43 
+81.77 
+12-1/8" Integral Blade Stabilizer 
+8.06 in OD / 2.81 in ID 1.88 
+25.34 
+MWD 12.08 
+23.46 
+12-1/8" Integral Blade Stabilizer 
+8.00 in OD / 2.81 in ID 1.86 
+11.38 
+9-5/8" Sperry Drill Lobe 6/7 - 5.0 stg w/ Float 
+9.63 in OD / 6.14 in ID 9.22 
+9.52 
+12-1/4" Reed RSR616M-A21 PDC Bit 
+12.25 in OD / 3.00 in ID 0.30 0.30 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+8" HOC w/ Pulser & Directional 
+8.06 in OD / 2.38 in ID 
+* Positive Pulser - SN : 10608131 
+* PCM Sonde - SN : 11226946 
+* PCDC Sonde - SN : 300348 
+4.80 
+0.00 
+19.76 
+8" HF HCIM Collar 
+8.00 in OD / 2.38 in ID 
+* HCIM Insert - SN : 245814 
+1.65 
+18.66 
+8" HF EWR-P4 Collar 
+8.00 in OD / 2.38 in ID 
+* EWR-P4 Insert - SN : 11131559 
+3.71 
+14.81 
+8" HF DGR Collar 
+8.00 in OD / 2.38 in ID 
+* DDS Insert 
+* DGR Insert - SN : 11158407 
+1.92 
+12.34 
+COMMENTS 
+Drill 311mm hole from 935.0 to 2271.0 mMDRT. POOH due to pressure drop. All recorded data recovered on surface. 
+AU-FE-0006714148 Trefoil-2 7
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 300 Run Start 20-Oct-09 11:03 BRT Hrs 46.51 hr Circ. Hrs 23.73 hr 
+Rig Bit No 4 Run End 22-Oct-09 09:34 Hole Size 311.00 mm Oper. Hrs 46.51 hr 
+DRILLING DATA 
+Start Depth 2271.00 m Footage 249.00 m Avg RPM 108 rpm Avg ROP 18.12 m/hr 
+End Depth 2520.00 m Avg Flow Rate 949.00 gpm Avg WOB 12.1 klb Avg SPP 2879 psig 
+Drilling Hours 13.690 hr 
+MUD DATA 
+Mud Type KCL/Polymer 
+Weight 9.40 ppg Viscosity 56.00 spqt PV 16 cP YP 32.00 lhf2 
+Chlorides 44000.00 ppm Max Temp. 86.70 degC % Solids 4.00 % % Sand 0.25 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 8.00 in Type P4M Min. Inc. 0.84 deg Min. Inc. Depth 2281.350 m 
+Final Az. 89.94 deg Max Op. Press. 4061 psig Max Inc. 1.08 deg Max Inc. Depth 2426.570 m 
+MWD Real-time % 97 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+15 x 5" Heavy Weight Drill Pipe 
+5.00 in OD / 3.00 in ID 141.54 
+252.71 
+Cross-over Sub 
+6.75 in OD / 2.81 in ID 1.09 111.17 
+2 x 8-1/4" Spiral Drill Collar 
+8.25 in OD / 2.88 in ID 18.63 
+110.08 
+8" Drilling Jar 
+8.00 in OD / 3.00 in ID 9.68 
+91.45 
+6 x 8-1/4" Spiral Drill Collar 
+8.25 in OD / 2.88 in ID 56.43 
+81.77 
+12-1/8" Integral Blade Stabilizer 
+8.06 in OD / 2.81 in ID 1.88 
+25.34 
+MWD 12.08 
+23.46 
+12-1/8" Integral Blade Stabilizer 
+8.00 in OD / 2.81 in ID 1.86 
+11.38 
+9-5/8" Sperry Drill Lobe 6/7 - 5.0 stg w/ Float 
+9.63 in OD / 6.14 in ID 9.22 
+9.52 
+12-1/4" Reed RSR616M-A21 PDC Bit 
+12.25 in OD / 3.00 in ID 0.30 0.30 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+8" HOC w/ Pulser & Directional 
+8.06 in OD / 2.38 in ID 
+* Positive Pulser - SN : 11160935 
+* PCM Sonde - SN : 10921470 
+* PCDC Sonde - SN : 300454 
+4.80 
+0.00 
+19.76 
+8" HF HCIM Collar 
+8.00 in OD / 2.38 in ID 
+* HCIM Insert - SN : 245814 
+1.65 
+18.66 
+8" HF EWR-P4 Collar 
+8.00 in OD / 2.38 in ID 
+* EWR-P4 Insert - SN : 11131559 
+3.71 
+14.81 
+8" HF DGR Collar 
+8.00 in OD / 2.38 in ID 
+* DDS Insert 
+* DGR Insert - SN : 11158407 
+1.92 
+12.34 
+COMMENTS 
+Drill 311mm hole from 2271.0 mMDRT to section TD at 2520.0 mMDRT. POOH to run 244mm casing All recorded data recovered on 
+surface. 
+AU-FE-0006714148 Trefoil-2 8
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 400 Run Start 08-Nov-09 01:55 BRT Hrs 34.44 hr Circ. Hrs 15.82 hr 
+Rig Bit No 6 Run End 09-Nov-09 12:21 Hole Size 216.00 mm Oper. Hrs 34.44 hr 
+DRILLING DATA 
+Start Depth 2519.00 m Footage 114.00 m Avg RPM 110 rpm Avg ROP 17.55 m/hr 
+End Depth 2633.00 m Avg Flow Rate 725.00 gpm Avg WOB 6.7 klb Avg SPP 2516 psig 
+Drilling Hours 6.440 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.30 ppg Viscosity 48.00 spqt PV 12 cP YP 27.00 lhf2 
+Chlorides 42500.00 ppm Max Temp. 96.00 degC % Solids 3.20 % % Sand 0.25 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type P4M Min. Inc. 1.00 deg Min. Inc. Depth 2524.750 m 
+Final Az. 90.35 deg Max Op. Press. 4223 psig Max Inc. 1.30 deg Max Inc. Depth 2588.200 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+15 x 5" HWDP 
+6.63 in OD / 3.00 in ID 141.13 
+287.57 
+3 x 6 4/3" Drill Collar 
+6.75 in OD / 2.88 in ID 28.21 
+146.44 
+Jar 
+6.75 in OD / 2.75 in ID 9.91 
+118.23 
+8 x 6 3/4" Drill Collar 
+6.75 in OD / 2.88 in ID 74.97 
+108.32 
+Stabilizer 
+6.50 in OD / 2.81 in ID 1.70 
+33.35 
+MWD 29.87 
+31.65 
+Stabilizer w/ ported float 
+6.63 in OD / 3.24 in ID 1.50 
+1.78 
+Mi616VBPX PDC 
+8.00 in OD / 2.25 in ID 0.28 
+0.28 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+6 3/4" ACAL 
+6.75 in OD / 1.92 in ID 
+SN : PA90223655B-6 
+* ACAL Insert - SN : 138159 
+1.83 30.20 
+6 3/4" HOC 
+6.75 in OD / 1.92 in ID 
+SN : 203846 
+* Positive Pulser - SN : 11160907 
+* PCM Sonde - SN : 159 
+3.05 0.00 
+6 3/4" BAT 
+6.75 in OD / 1.92 in ID 
+SN : PA90227156O-6 
+* BAT Insert - SN : 11378930 
+6.72 23.36 
+6 3/4" Nuke Collar 
+6.75 in OD / 1.92 in ID 
+SN : PA90219755N2L2-6 
+* CTN Insert - SN : 161970 
+* ALD Insert - SN : 96441 
+8.45 
+18.83 
+14.84 
+6 3/4" PM Sub 
+6.75 in OD / 1.92 in ID 
+SN : 203846 
+* PCDC Sonde - SN : 351 
+2.79 10.02 
+6 3/4" RLL 
+6.75 in OD / 1.92 in ID 
+SN : PA90222557H1RGV2-6 
+* HCIM Insert - SN : 222936 
+* EWR-P4 Insert - SN : 175801 
+* DGR Insert - SN : 218750 
+* DDSr-DGR - SN : 218750 
+7.03 
+5.16 
+2.81 
+0.00 
+COMMENTS 
+Drill 216 mm hole from 2520.0 to 2633.0 mMDRT. POOH for PCM failure. ALD failed during run. All remaining recorded data recovered on 
+surface. 
+AU-FE-0006714148 Trefoil-2 9
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 500 Run Start 09-Nov-09 22:43 BRT Hrs 57.84 hr Circ. Hrs 33.71 hr 
+Rig Bit No 7 Run End 12-Nov-09 08:34 Hole Size 216.00 mm Oper. Hrs 57.84 hr 
+DRILLING DATA 
+Start Depth 2633.00 m Footage 350.00 m Avg RPM 121 rpm Avg ROP 15.40 m/hr 
+End Depth 2983.00 m Avg Flow Rate 702.00 gpm Avg WOB 13.2 klb Avg SPP 2564 psig 
+Drilling Hours 22.730 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.30 ppg Viscosity 46.00 spqt PV 14 cP YP 25.00 lhf2 
+Chlorides 40000.00 ppm Max Temp. 101.00 degC % Solids 3.30 % % Sand 0.25 % 
+pH 9.00 pH Fluid Loss 4 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type P4M Min. Inc. 1.43 deg Min. Inc. Depth 2646.630 m 
+Final Az. 85.15 deg Max Op. Press. 4784 psig Max Inc. 2.93 deg Max Inc. Depth 2963.220 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+15 x 5" HWDP 
+6.63 in OD / 3.00 in ID 141.13 
+288.37 
+3 x 6 4/3" Drill Collar 
+6.75 in OD / 2.88 in ID 28.21 
+147.24 
+Jar 
+6.75 in OD / 2.75 in ID 9.91 
+119.03 
+8 x 6 3/4" Drill Collar 
+6.75 in OD / 2.88 in ID 74.97 
+109.12 
+Stabilizer 
+6.50 in OD / 2.81 in ID 1.70 
+34.15 
+MWD 30.67 
+32.45 
+Stabilizer w/ ported float 
+6.63 in OD / 3.24 in ID 1.50 
+1.78 
+Mi616VBPX PDC 
+8.00 in OD / 2.25 in ID 0.28 
+0.28 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+6 3/4" ACAL 
+6.75 in OD / 1.92 in ID 
+SN : PA902223063B-6 
+* ACAL Insert - SN : 123087 
+1.81 31.02 
+6 3/4" HOC 
+6.75 in OD / 1.92 in ID 
+SN : 302842 
+* Positive Pulser - SN : 10796450 
+* PCM Sonde - SN : 557 
+3.03 0.00 
+6 3/4" BAT 
+6.75 in OD / 1.92 in ID 
+SN : PA90227155O-6 
+* BAT Insert - SN : 11378929 
+6.76 24.20 
+6 3/4" Nuke Collar 
+6.75 in OD / 1.92 in ID 
+SN : PA90222683N2L2-6 
+* CTN Insert - SN : 231177 
+* ALD Insert - SN : 10507525 
+9.20 
+19.64 
+15.59 
+6 3/4" PM Sub 
+6.75 in OD / 1.92 in ID 
+SN : 1025744 
+* PCDC Sonde - SN : 348 
+2.81 10.07 
+6 3/4" RLL 
+6.75 in OD / 1.92 in ID 
+SN : PA90222505H1RG-6 
+* HCIM Insert - SN : 232754 
+* EWR-P4 Insert - SN : 270277 
+* DGR Insert - SN : 176027 
+* DDSr-DGR - SN : 176027 
+7.07 
+5.17 
+2.83 
+0.00 
+COMMENTS 
+Drill 216 mm hole from 2633.0 mMDRT to coring point at 2983.0 mMDRT. All recorded data recovered on surface. 
+AU-FE-0006714148 Trefoil-2 10
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 600 Run Start 13-Nov-09 18:59 BRT Hrs 41.08 hr Circ. Hrs 18.19 hr 
+Rig Bit No 9 Run End 15-Nov-09 12:03 Hole Size 216.00 mm Oper. Hrs 41.08 hr 
+DRILLING DATA 
+Start Depth 2983.00 m Footage 162.00 m Avg RPM 82 rpm Avg ROP 12.82 m/hr 
+End Depth 3145.00 m Avg Flow Rate 725.00 gpm Avg WOB 16.5 klb Avg SPP 2888 psig 
+Drilling Hours 12.640 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.40 ppg Viscosity 50.00 spqt PV 12 cP YP 29.00 lhf2 
+Chlorides 40000.00 ppm Max Temp. 109.30 degC % Solids 3.50 % % Sand 0.25 % 
+pH 9.00 pH Fluid Loss 5 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type P4M Min. Inc. 2.88 deg Min. Inc. Depth 2992.320 m 
+Final Az. 81.59 deg Max Op. Press. 5073 psig Max Inc. 3.75 deg Max Inc. Depth 3130.210 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+15 x 5" HWDP 
+6.63 in OD / 3.00 in ID 141.13 
+288.37 
+3 x 6 4/3" Drill Collar 
+6.75 in OD / 2.88 in ID 28.21 
+147.24 
+Jar 
+6.75 in OD / 2.75 in ID 9.91 
+119.03 
+8 x 6 3/4" Drill Collar 
+6.75 in OD / 2.88 in ID 74.97 
+109.12 
+Stabilizer 
+6.50 in OD / 2.81 in ID 1.70 
+34.15 
+MWD 30.67 
+32.45 
+Stabilizer w/ ported float 
+6.63 in OD / 3.24 in ID 1.50 
+1.78 
+Mi616VBPX PDC 
+8.00 in OD / 2.25 in ID 0.28 
+0.28 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+6 3/4" ACAL 
+6.75 in OD / 1.92 in ID 
+SN : PA902223063B-6 
+* ACAL Insert - SN : 123087 
+1.81 31.02 
+6 3/4" HOC 
+6.75 in OD / 1.92 in ID 
+SN : 302842 
+* Positive Pulser - SN : 10796450 
+* PCM Sonde - SN : 557 
+3.03 0.00 
+6 3/4" BAT 
+6.75 in OD / 1.92 in ID 
+SN : PA90227155O-6 
+* BAT Insert - SN : 11378929 
+6.76 24.20 
+6 3/4" Nuke Collar 
+6.75 in OD / 1.92 in ID 
+SN : PA90222683N2L2-6 
+* CTN Insert - SN : 231177 
+* ALD Insert - SN : 10507525 
+9.20 
+19.64 
+15.59 
+6 3/4" PM Sub 
+6.75 in OD / 1.92 in ID 
+SN : 1025744 
+* PCDC Sonde - SN : 348 
+2.81 10.07 
+6 3/4" RLL 
+6.75 in OD / 1.92 in ID 
+SN : PA90222505H1RG-6 
+* HCIM Insert - SN : 232754 
+* EWR-P4 Insert - SN : 270277 
+* DGR Insert - SN : 176027 
+* DDSr-DGR - SN : 176027 
+7.07 
+5.17 
+2.83 
+0.00 
+COMMENTS 
+Wipe 216 mm coring interval from 2983.0 to 3013.0 mMDRT. Drill 216 mm hole from 3013.0 mMDRT to coring point at 3145.0 mMDRT. All 
+recorded data recovered on surface. 
+AU-FE-0006714148 Trefoil-2 11
+Bitrun Summary 
+RUN TIME DATA 
+MWD Run 700 Run Start 16-Nov-09 21:11 BRT Hrs 41.30 hr Circ. Hrs 11.48 hr 
+Rig Bit No 11 Run End 18-Nov-09 14:30 Hole Size 216.00 mm Oper. Hrs 41.30 hr 
+DRILLING DATA 
+Start Depth 3145.00 m Footage 90.00 m Avg RPM 91 rpm Avg ROP 0.00 m/hr 
+End Depth 3235.00 m Avg Flow Rate 681.00 gpm Avg WOB 13.8 klb Avg SPP 2771 psig 
+Drilling Hours 7.450 hr 
+MUD DATA 
+Mud Type Polymer 
+Weight 9.40 ppg Viscosity 56.00 spqt PV 14 cP YP 29.00 lhf2 
+Chlorides 38000.00 ppm Max Temp. 112.90 degC % Solids 3.60 % % Sand 0.25 % 
+pH 9.00 pH Fluid Loss 5 mptm % Oil 0.00 % O:W 0:100 
+MWD PERFORMANCE 
+Tool OD 6.75 in Type P4M Min. Inc. 3.79 deg Min. Inc. Depth 3167.650 m 
+Final Az. 83.41 deg Max Op. Press. 5188 psig Max Inc. 4.33 deg Max Inc. Depth 3223.600 m 
+MWD Real-time % 100 % MWD Recorded % 100 % 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+15 x 5" HWDP 
+6.63 in OD / 3.00 in ID 141.13 
+288.37 
+3 x 6 4/3" Drill Collar 
+6.75 in OD / 2.88 in ID 28.21 
+147.24 
+Jar 
+6.75 in OD / 2.75 in ID 9.91 
+119.03 
+8 x 6 3/4" Drill Collar 
+6.75 in OD / 2.88 in ID 74.97 
+109.12 
+Stabilizer 
+6.50 in OD / 2.81 in ID 1.70 
+34.15 
+MWD 30.67 
+32.45 
+Stabilizer w/ ported float 
+6.63 in OD / 3.24 in ID 1.50 
+1.78 
+Mi616VBPX PDC 
+8.00 in OD / 2.25 in ID 0.28 
+0.28 
+Length 
+(m) 
+Dist From 
+Bit (m) 
+6 3/4" ACAL 
+6.75 in OD / 1.92 in ID 
+SN : PA902223063B-6 
+* ACAL Insert - SN : 123087 
+1.81 31.02 
+6 3/4" HOC 
+6.75 in OD / 1.92 in ID 
+SN : 302842 
+* Positive Pulser - SN : 10796450 
+* PCM Sonde - SN : 557 
+3.03 0.00 
+6 3/4" BAT 
+6.75 in OD / 1.92 in ID 
+SN : PA90227155O-6 
+* BAT Insert - SN : 11378929 
+6.76 24.20 
+6 3/4" Nuke Collar 
+6.75 in OD / 1.92 in ID 
+SN : PA90222683N2L2-6 
+* CTN Insert - SN : 231177 
+* ALD Insert - SN : 10507525 
+9.20 
+19.64 
+15.59 
+6 3/4" PM Sub 
+6.75 in OD / 1.92 in ID 
+SN : 1025744 
+* PCDC Sonde - SN : 348 
+2.81 10.07 
+6 3/4" RLL 
+6.75 in OD / 1.92 in ID 
+SN : PA90222505H1RG-6 
+* HCIM Insert - SN : 232754 
+* EWR-P4 Insert - SN : 270277 
+* DGR Insert - SN : 176027 
+* DDSr-DGR - SN : 176027 
+7.07 
+5.17 
+2.83 
+0.00 
+COMMENTS 
+Wipe 216 mm coring interval from 3145.0 to 3175.0 mMDRT. Drill 216 mm hole from 3175.0 mMDRT to well TD at 3235.0 mMDRT. All 
+recorded data recovered on surface. 
+AU-FE-0006714148 Trefoil-2 12
+Directional Survey Data 
+UTM Zone 55S, GDA 1994 
+All depths are taken from driller's pipe tally unless otherwise noted 
+RT-MSL = 26.0m 
+Final Survey Projected to TD. 
+0.000 0.00 0.00 0.000 0.000 N 0.000 E *** 
+Measured 
+Depth Inclination Direction Vertical 
+Depth Latitude Departure Vertical 
+Section Dogleg 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) 
+95.000 0.00 0.00 95.000 0.000 N 0.000 E 0.000 0.00 
+204.920 0.58 282.17 204.920 0.120 N 0.540 W -0.520 0.16 
+289.500 0.55 277.88 289.490 0.260 N 1.360 W -1.280 0.02 
+376.490 0.32 238.01 376.480 0.190 N 1.980 W -1.760 0.13 
+435.080 0.35 232.40 435.070 0.000 N 2.260 W -1.890 0.02 
+521.950 0.72 199.02 521.940 0.680 S 2.650 W -1.830 0.16 
+547.830 0.73 193.58 547.810 1.000 S 2.740 W -1.740 0.08 
+579.000 0.69 195.91 578.980 1.370 S 2.840 W -1.610 0.05 
+665.440 0.36 203.20 665.420 2.120 S 3.090 W -1.410 0.12 
+782.280 0.67 192.10 782.250 3.120 S 3.380 W -1.090 0.08 
+812.120 0.66 196.82 812.090 3.460 S 3.470 W -0.980 0.06 
+868.190 0.30 224.95 868.160 3.870 S 3.660 W -0.920 0.22 
+896.770 1.03 195.99 896.740 4.170 S 3.790 W -0.850 0.82 
+925.970 0.71 183.94 925.930 4.610 S 3.870 W -0.680 0.38 
+952.440 0.80 188.49 952.400 4.950 S 3.910 W -0.530 0.12 
+981.350 0.74 192.99 981.310 5.330 S 3.980 W -0.370 0.09 
+1010.200 0.83 198.72 1010.160 5.710 S 4.090 W -0.260 0.12 
+1067.210 0.87 190.96 1067.160 6.530 S 4.310 W 0.020 0.06 
+1095.870 0.84 194.49 1095.820 6.950 S 4.400 W 0.170 0.06 
+1153.510 1.11 191.81 1153.450 7.900 S 4.620 W 0.510 0.14 
+1182.360 1.27 187.06 1182.290 8.490 S 4.720 W 0.760 0.20 
+1211.300 0.97 182.63 1211.230 9.060 S 4.770 W 1.030 0.32 
+1240.320 1.00 184.76 1240.240 9.550 S 4.800 W 1.270 0.05 
+1269.440 0.96 179.68 1269.360 10.050 S 4.820 W 1.530 0.10 
+1298.710 1.13 178.12 1298.620 10.580 S 4.810 W 1.840 0.18 
+1327.950 1.27 184.82 1327.860 11.200 S 4.830 W 2.160 0.20 
+1357.120 1.31 184.97 1357.020 11.850 S 4.880 W 2.470 0.04 
+1385.950 1.43 187.08 1385.840 12.530 S 4.950 W 2.790 0.14 
+1414.800 1.33 186.15 1414.680 13.220 S 5.030 W 3.110 0.11 
+1443.260 1.42 189.23 1443.140 13.900 S 5.130 W 3.400 0.12 
+1471.760 1.41 188.55 1471.630 14.600 S 5.240 W 3.700 0.02 
+1500.560 1.44 186.77 1500.420 15.310 S 5.330 W 4.010 0.06 
+1529.740 1.02 177.87 1529.590 15.930 S 5.360 W 4.320 0.47 
+1559.000 1.11 183.32 1558.850 16.470 S 5.370 W 4.620 0.14 
+1588.150 1.05 181.86 1587.990 17.020 S 5.400 W 4.900 0.07 
+1617.270 1.14 175.03 1617.110 17.580 S 5.380 W 5.220 0.16 
+1646.320 1.17 184.16 1646.150 18.160 S 5.380 W 5.550 0.19 
+1675.150 1.31 182.99 1674.970 18.780 S 5.410 W 5.860 0.15 
+1703.610 1.02 183.90 1703.430 19.360 S 5.450 W 6.150 0.31 
+1731.980 1.12 176.27 1731.790 19.890 S 5.450 W 6.440 0.18 
+1760.710 1.20 179.48 1760.520 20.470 S 5.430 W 6.780 0.11 
+1790 080 1 13 181 99 1789 880 21 070 S 5 430 W 7 100 0 09 
+AU-FE-0006714148 Trefoil-2 13
+Directional Survey Data 
+Measured 
+Depth Inclination Direction Vertical 
+Depth Latitude Departure Vertical 
+Section Dogleg 
+(m) (deg) (deg) (m) (m) (m) (m) (°/30m) 
+1790.080 1.13 181.99 1789.880 21.070 S 5.430 W 7.100 0.09 
+1819.450 1.17 182.73 1819.240 21.660 S 5.460 W 7.410 0.04 
+1848.520 1.17 190.32 1848.310 22.250 S 5.530 W 7.680 0.16 
+1877.800 1.13 190.92 1877.580 22.820 S 5.630 W 7.910 0.04 
+1906.650 1.23 192.98 1906.430 23.400 S 5.760 W 8.120 0.11 
+1934.670 1.08 194.42 1934.440 23.950 S 5.890 W 8.320 0.16 
+1963.220 0.48 64.50 1962.990 24.160 S 5.850 W 8.470 1.51 
+1992.330 0.56 59.70 1992.100 24.040 S 5.620 W 8.590 0.09 
+2021.460 0.59 61.98 2021.230 23.900 S 5.360 W 8.730 0.04 
+2050.740 0.64 78.76 2050.500 23.790 S 5.070 W 8.910 0.19 
+2080.190 0.61 81.26 2079.950 23.740 S 4.750 W 9.150 0.04 
+2102.200 0.68 80.27 2101.960 23.700 S 4.510 W 9.330 0.10 
+2138.040 0.69 75.36 2137.800 23.610 S 4.090 W 9.630 0.05 
+2195.190 0.63 82.85 2194.940 23.480 S 3.440 W 10.090 0.06 
+2253.190 0.62 89.29 2252.940 23.440 S 2.810 W 10.600 0.04 
+2281.350 0.84 88.95 2281.100 23.430 S 2.460 W 10.890 0.23 
+2310.290 0.91 90.74 2310.040 23.430 S 2.010 W 11.260 0.08 
+2339.670 0.80 84.68 2339.410 23.410 S 1.580 W 11.620 0.15 
+2398.220 0.81 98.78 2397.960 23.440 S 0.760 W 12.310 0.10 
+2426.570 1.08 93.16 2426.300 23.480 S 0.300 W 12.720 0.30 
+2454.950 0.96 91.77 2454.680 23.510 S 0.210 E 13.160 0.13 
+2484.550 1.06 89.94 2484.270 23.510 S 0.730 E 13.590 0.11 
+2524.750 1.00 97.22 2524.470 23.560 S 1.450 E 14.220 0.11 
+2557.550 1.13 91.00 2557.260 23.600 S 2.060 E 14.750 0.16 
+2588.200 1.30 90.35 2587.900 23.610 S 2.710 E 15.290 0.17 
+2646.630 1.43 86.39 2646.320 23.560 S 4.100 E 16.430 0.08 
+2674.000 1.51 91.33 2673.680 23.550 S 4.800 E 17.010 0.16 
+2702.980 1.62 88.34 2702.650 23.550 S 5.590 E 17.670 0.14 
+2732.910 1.69 88.47 2732.570 23.520 S 6.450 E 18.370 0.07 
+2762.560 1.85 89.89 2762.200 23.510 S 7.370 E 19.130 0.17 
+2791.490 1.82 85.29 2791.120 23.470 S 8.300 E 19.880 0.16 
+2819.890 1.94 85.21 2819.500 23.400 S 9.220 E 20.610 0.13 
+2847.720 2.06 83.71 2847.310 23.300 S 10.190 E 21.360 0.14 
+2876.190 2.24 81.90 2875.760 23.170 S 11.250 E 22.170 0.20 
+2905.640 2.46 85.79 2905.190 23.040 S 12.450 E 23.100 0.28 
+2935.670 2.58 82.74 2935.190 22.910 S 13.760 E 24.120 0.18 
+2963.220 2.93 85.15 2962.710 22.770 S 15.080 E 25.150 0.40 
+2992.320 2.88 83.61 2991.770 22.630 S 16.550 E 26.290 0.10 
+3021.530 3.01 83.20 3020.940 22.450 S 18.040 E 27.440 0.14 
+3051.620 3.07 82.21 3050.990 22.250 S 19.620 E 28.640 0.08 
+3080.660 3.23 81.34 3079.990 22.020 S 21.200 E 29.840 0.17 
+3101.980 3.47 82.50 3101.270 21.850 S 22.430 E 30.770 0.35 
+3130.210 3.75 81.59 3129.440 21.600 S 24.190 E 32.100 0.30 
+3167.650 3.79 84.07 3166.800 21.290 S 26.640 E 33.960 0.13 
+3194.790 3.87 83.32 3193.880 21.090 S 28.440 E 35.360 0.10 
+3223.600 4.33 83.41 3222.620 20.860 S 30.480 E 36.930 0.48 
+3235.000 4.33 83.41 3233.990 20.760 S 31.340 E 37.590 0.00 
+AU-FE-0006714148 Trefoil-2 14
+Directional Survey Data 
+CALCULATION BASED ON MINIMUM CURVATURE METHOD 
+SURVEY COORDINATES RELATIVE TO WELL SYSTEM REFERENCE POINT 
+TVD VALUES GIVEN RELATIVE TO DRILLING MEASUREMENT POINT 
+VERTICAL SECTION RELATIVE TO WELL HEAD 
+VERTICAL SECTION IS COMPUTED ALONG A DIRECTION OF 0.00 DEGREES(GRID) 
+A TOTAL CORRECTION OF 11.45 DEG FROM MAGNETIC NORTH TO GRID NORTH HAS BEEN APPLIED 
+HORIZONTAL DISPLACEMENT IS RELATIVE TO THE WELL HEAD 
+HORIZONTAL DISPLACEMENT(CLOSURE) AT 3235.00 METRES 
+IS 37.59 METRES ALONG 123.52 DEGREES (GRID) 
+Final Survey Projected to TD 
+AU-FE-0006714148 Trefoil-2 15
+Service Interrupt Report 
+MWD Run Number 400 Time/Date of Failure 08-Nov-09 12:10 
+Rig Bit Number 5 Depth at time of Failure 2510.000 m 
+MWD Run start time/date 08-Nov-09 01:55 Lost Rig Hours hr 
+MWD Run end time/date 09-Nov-09 12:21 
+RIG ACTIVITY 
+Drilling 8 1/2" hole. Coming out of the 9 5/8" casing shoe. 
+DESCRIPTION OF FAILURE 
+Density (DLC) pulses up TOOL FAILURE or either a constant value of 1.200 g/cc (137 counts). 
+Delta Rho (RLC) pulses up TOOL FAILURE or either a constant value of -0.250 g/cc (0 counts). 
+Photoelectric Effect (PLC) pulses up TOOL FAILURE or either a variable value. 
+ACTION TAKEN 
+The pumps were cycled and a mode switch was performed. 
+OPERATION IMPACT 
+It was decided to drill ahead. 
+REASON FOR FAILURE 
+Once on surface it was determined the far detector had failed. 
+AU-FE-0006714148 Trefoil-2 16
+Service Interrupt Report 
+MWD Run Number 400 Time/Date of Failure 08-Nov-09 01:40 
+Rig Bit Number 5 Depth at time of Failure 0.000 m 
+MWD Run start time/date 08-Nov-09 01:55 Lost Rig Hours hr 
+MWD Run end time/date 09-Nov-09 12:21 
+RIG ACTIVITY 
+Drilling 8 1/2" hole. 
+DESCRIPTION OF FAILURE 
+Tool stopped pulsing. 
+ACTION TAKEN 
+The pumps were cycled and a mode switch was performed. Confirmed functioning of the pressure transducers. 
+OPERATION IMPACT 
+Pulled out of hole and change out BHA. 
+REASON FOR FAILURE 
+Once on surface it was determined from the parameter report that communication between the FE tools and the PCM had been lost at the 
+time of the failure. 
+Upon plugging in to the tool initially the PCM could not be polled. However, on second attempt communication was established and the PCM 
+successfully passed the post run confidence test. The cause of the loss of communication down hole is unknown. 
+AU-FE-0006714148 Trefoil-2 17
+AU-FE-0006714148 Trefoil-2 18
+Run No. Borehole Record (MD) 
+Size From To Run No. Borehole Record (MD) 
+Size From To 
+Casing Record (MD) 
+Size Weight From To 
+100 445.000 mm 155.00 m 935.00 m 
+200 311.000 mm 935.00 m 2,271.00 m 
+300 311.000 mm 2,271.00 m 2,520.00 m 
+400 216.000 mm 2,520.00 m 2,633.00 m 
+500 216.000 mm 2,633.00 m 2,983.00 m 
+600 216.000 mm 2,983.00 m 3,145.00 m 
+700 216.000 mm 3,145.00 m 3,235.00 m 
+30.000 in 458.00 kgpm 95.00 m 153.00 m 
+13.375 in 101.00 kgpm 95.00 m 930.00 m 
+9.625 in 70.00 kgpm 95.00 m 2,520.00 m 
+Depth Logged : To 
+Date Logged : To 
+Total Depth MD : TVD : 
+Spud Date : 
+Unit No. : Job No. : 
+Plot Type : 
+Plot Date : 
+155.00 m 3,235.00 m 
+03-Oct-09 05-Oct-09 
+3,235.00 m 3,233.99 m 
+06-Oct-09 
+SSH-40 AU-FE-0006714148 
+Final 
+09-Dec-09 
+MD LOG 
+: 
+Field : 
+Location : 
+Well : 
+Company : 
+Rig : 
+Company : 
+Rig : 
+Well : 
+Field :
+:
+: 
+LOCATION 
+Latitude : 
+Longitude : 
+Other Services 
+Permanent Datum : Elevation : 
+Log Measured From : Above Permanent Datum 
+Drilling Measured From : 
+Elev. KB 
+DF 
+GL 
+WD 
+Country Australia 
+Trefoil 
+Lat: 39° 53' 7.93" South GDA94 
+Long: 145° 22' 14.62" East GDA94 
+Trefoil-2 
+Origin Energy Resources Ltd 
+Kan Tan IV 
+Origin Energy Resources Ltd 
+Kan Tan IV 
+Trefoil-2 
+Trefoil 
+Country Australia 
+DOE Number 
+Lat: 39° 53' 7.93" South GDA94 
+Long: 145° 22' 14.62" East GDA94 
+UTM Easting = 360,690.38 m 
+UTM Northing = 5,583,676.58 m 
+Directional Drilling 
+Mean Sea Level 0.00 m 
+Drill Floor 26.00 m 
+Drill Floor 
+26.00 m 
+69.00 m 
+1 : 500 
+DGR Dual Gamma Ray 
+EWR Electromagnetic Wave Resistivity 
+CTN Compensated Thermal Neutron 
+ALD Azimuthal Lithodensity 
+BAT Bi-Modal Acoustic 
+WELL INFORMATION 
+100 
+11-Oct-09 
+2 
+445 
+241 
+155.00 
+935.00 
+Drilling 
+08-Oct-09 18:33 
+10-Oct-09 06:17 
+0 @ 95.00 
+1.03 @ 896.77 
+1.24 / Smith XR+VCPS 
+1,157 
+0.7 / 0.9 
+Sea Water 
+8.76 / N/A 
+N/A 
+N/A / N/A 
+N/A / N/A 
+0 / 0 
+0 / 0:100 
+N/A @ N/A 
+N/A @ N/A 
+N/A @ N/A 
+21.10 / PCM 
+N/A @ N/A 
+J. Lau 
+J. McGarrity 
+200 
+20-Oct-09 
+3 
+311 
+203 
+935.00 
+2,271.00 
+Drilling 
+15-Oct-09 15:53 
+19-Oct-09 05:33 
+0.30 @ 868.19 
+1.44 @ 1,500.56 
+1.04 / Reed RSX616M 
+1,000 
+1.7 / 2.0 
+KCL/Polymer 
+9.10 / 50.00 
+38,000 
+9.00 / 4.4 
+15 / 27.00 
+2.9 / 0.25 
+0 / 0:100 
+0.04 @ 17.80 
+0.03 @ 17.80 
+0.08 @ 16.70 
+65.30 / EWR-P4 
+0.02 @ 65.30 
+J. Lau 
+J. McGarrity 
+300 
+22-Oct-09 
+4 
+311 
+203 
+2,271.00 
+2,520.00 
+Drilling 
+20-Oct-09 23:21 
+21-Oct-09 18:43 
+0.62 @ 2,253.19 
+1.08 @ 2,426.57 
+1.04 / Reed RSX616M 
+949 
+1.5 / 2.1 
+KCL/Polymer 
+9.40 / 56.00 
+44,000 
+9.00 / 3.8 
+16 / 32.00 
+4.0 / 0.25 
+0 / 0:100 
+0.08 @ 23.30 
+0.06 @ 21.70 
+0.18 @ 22.20 
+86.70 / EWR-P4 
+0.03 @ 86.70 
+J. Lau 
+J. McGarrity 
+400 
+09-Nov-09 
+6 
+216 
+171 
+2,520.00 
+2,633.00 
+Drilling 
+08-Nov-09 12:18 
+09-Nov-09 02:33 
+1.00 @ 2,524.750 
+1.30 @ 2,588.200 
+0.90 / Smith Mi16VBPX 
+725 
+3.4 / 2.4 
+KCl/Polymer 
+9.30 / 48.00 
+42,500 
+9.00 / 4.0 
+12 / 27.00 
+3.2 / 0.25 
+0 / 0:100 
+0.07 @ 19.80 
+0.08 @ 21.00 
+0.04 @ 21.00 
+96.00 / EWR-P4 
+0.02 @ 96.00 
+T. Oborne 
+B. Houston 
+500 
+12-Nov-09 
+7 
+216 
+171 
+2,633.00 
+2,983.00 
+Drilling 
+10-Nov-09 10:17 
+11-Nov-09 20:16 
+1.43 @ 2,646.630 
+2.93 @ 2,963.220 
+0.90 / Smith Mi16VBPX 
+702.00 
+3.5 / 2.3 
+KCl/Polymer 
+9.30 / 46.00 
+40,000 
+9.00 / 4 
+14 / 25.00 
+3.3 / 0.25 
+0 / 0:100 
+0.07 @ 25.60 
+0.06 @ 26.70 
+0.09 @ 25.60 
+101.00 / EWR-P4 
+0.04 @ 101.00 
+T. Oborne 
+B. Houston 
+MWD Run Number 
+Date run completed 
+Rig Bit Number 
+Bit Size (mm) 
+Tool Nominal OD (in) 
+Log Start Depth (MD, m) 
+Log End Depth (MD, m) 
+Drill or Wipe 
+Drill/Wipe Start Date and Time 
+Drill/Wipe End Date and Time 
+Min Inc (deg) @ Depth (MD, m) 
+Max Inc (deg) @ Depth (MD, m) 
+Bit TFA(in2) / Bit Type 
+Flow Rate (gpm) 
+Max AV (mps) / CV (mps) @ MWD 
+Fluid Type 
+Density (ppg) / Viscosity (spqt) 
+Filtrate CL (ppm) 
+pH / Fluid Loss (mptm) 
+PV (cP) / YP (lhf2) 
+% Solids / % Sand 
+% Oil / Oil:Water Ratio 
+Rm @ Measured Temp (degC) 
+Rmf @ Measured Temp (degC) 
+Rmc @ Measured Temp (degC) 
+Max Tool Temp (degC) / Source 
+Rm @ Max Tool Temp (degC) 
+Lead MWD Engineer 
+Customer Representative 
+SENSOR INFORMATION
+Downhole Processor Information 
+PCM 
+5.28 
+46811 
+11226946 
+07-Oct-09 08:43 
+11-Oct-09 02:33 
+N/A 
+HCIM 
+88.20 
+245814 
+103485 
+15-Oct-09 05:03 
+12-Oct-09 05:27 
+N/A 
+HCIM 
+88.20 
+245814 
+103485 
+20-Oct-09 11:04 
+22-Oct-09 09:34 
+N/A 
+HCIM 
+88.20 
+222936 
+10911832 
+08-Nov-09 01:56 
+09-Nov-09 12:21 
+N/A 
+HCIM 
+88.20 
+232754 
+10943320 
+09-Nov-09 22:44 
+12-Nov-09 08:34 
+N/A 
+Tool Type 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Date and Time Initialized 
+Date and Time Read 
+ECMB SW Version 
+Directional Sensor Information 
+PCDC 
+7.760 
+6.09 
+46811 
+300348 
+10993464 
+N/A 
+PCDC 
+19.760 
+6.09 
+246906 
+300348 
+10993464 
+49.40 
+PCDC 
+19.760 
+6.09 
+246907 
+300454 
+11062084 
+311.11 
+PCDC 
+10.022 
+6.09 
+194443 
+300351 
+10993467 
+N/A 
+PCDC 
+10.070 
+6.09 
+1025744 
+300348 
+10993464 
+N/A 
+Tool Type 
+Distance From Bit (m) 
+Software Version 
+Sub Serial Number 
+Sonde Serial Number 
+Sensor ID Number 
+Toolface Offset (deg) 
+Gamma Ray Sensor Information 
+PCG 
+5.621 
+10 
+8.11 
+46811 
+PCGR624 
+DGR 
+12.340 
+10 
+N/A 
+11158407 
+263664 
+DGR 
+12.340 
+10 
+N/A 
+11158407 
+263664 
+DGR 
+2.806 
+10 
+N/A 
+218750 
+254375 
+DGR 
+2.830 
+10 
+N/A 
+176027 
+126021 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Insert/Sonde Serial Number 
+Resistivity Sensor Information 
+EWR-P4 
+14.810 
+12 
+1.50 
+11131559 
+11079093 
+11072204 
+Down 
+EWR-P4 
+14.810 
+10 
+1.50 
+11131559 
+11079093 
+11072204 
+Down 
+EWR-P4 
+5.160 
+10 
+1.50 
+175801 
+113356 
+225155 
+Down 
+EWR-P4 
+5.170 
+10 
+1.50 
+270277 
+261331 
+11194015 
+Down 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Receiver Insert Serial Number 
+Transmitter Insert Serial Number 
+Receiver Orientation 
+Neutron Sensor Information 
+CTN 
+18.830 
+14 
+161970 
+175364 
+0102NN 
+N/A 
+Up 
+CTN 
+19.640 
+14 
+231177 
+230786 
+0102NN 
+N/A 
+Up 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Sub Serial Number 
+Insert Serial Number 
+Source Serial Number 
+Source Factor 
+Pin Orientation 
+Density Sensor Information 
+ALD 
+14.845 
+14 
+3.04 
+96441 
+240578 
+12055 
+2434GW 
+Up 
+209.6 
+0 
+ALD 
+15.590 
+14 
+3.04 
+10507525 
+10718194 
+32033 
+39382B 
+Up 
+209.6 
+0 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Sensor ID Number 
+Source Serial Number 
+Pin Orientation 
+Stabilizer Blade O.D. (mm) 
+DPA Offset 
+Caliper Sensor Information 
+ACAL 
+30.200 
+ACAL 
+31.020 
+Tool Type 
+Distance From Bit (m)
+30.200 
+0.19 
+138159 
+132768 
+31.020 
+0.19 
+123087 
+113327 
+Distance From Bit (m) 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Sonic Sensor Information 
+- 
+/ 
+- 
+/ 
+- 
+/ 
+BAT 
+23.365 
+18 
+11378930 
+11215928 
+11215907 
+QBAT_ggss_d11_q 
+R5Listen_512_DS 
+75 - 110 
+231589 
+20.02 
+20.01 / 20.01 
+36.65 
+BAT 
+24.200 
+18 
+11378929 
+11215930 
+133714 
+QBAT_ggss_d11_q 
+R5Listen_512_DS 
+75 - 110 
+157179 
+20.02 
+20.01 / 20.01 
+36.65 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Sub Serial Number 
+Receiver Insert Serial Number 
+Transmitter Insert Serial Number 
+MIT File 
+Config File 
+Real-Time Window (uspf) 
+Battery Insert Serial Number 
+MCM Software Version 
+DAQ1/DAQ2 Software Version 
+DSM Software Version 
+Pulser Controller Sensor Information 
+PCM 
+5.28 
+1.20 / 
+46811 
+11226946 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+PCM 
+8.04 
+1.20 / 
+246906 
+11226946 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+PCM 
+8.04 
+1.20 / 
+246907 
+10921470 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+PCM 
+8.04 
+1.20 / 
+203846 
+10921384 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+PCM 
+8.04 
+1.20 / 
+302842 
+11226946 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+Tool Type 
+Software Version 
+PIC Software Version 
+Sub/HOC Serial Number 
+Insert/Probe/Module SN 
+Battery Serial Number 
+Valve Insert SN 
+DC Insert Serial Number 
+Choke Size (32nd) 
+Driver Current (uA) 
+Driver SMI Current (uA) 
+Boot Strap Version 
+DDSr-DGR Sensor Information 
+DDSr-DGR 
+0 
+12 
+10.49 
+11158407 
+263664 
+5970 
+DDSr-DGR 
+0 
+12 
+10.49 
+11158407 
+263664 
+5970 
+DDSr-DGR 
+0 
+12 
+10.49 
+218750 
+254375 
+5729 
+DDSr-DGR 
+0 
+12 
+10.49 
+176027 
+126021 
+6261 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Sensor ID Number 
+WELL INFORMATION 
+600 
+15-Nov-09 
+9 
+216 
+171 
+2,983.000 
+3,145.000 
+Wipe/Drilling 
+14-Nov-09 07:40 
+15-Nov-09 01:25 
+2.88 @ 2,992.320 
+3.75 @ 3,130.210 
+0.90 / Smith Mi16VBPX 
+725 
+3.4 / 2.5 
+KCl/Polymer 
+9.40 / 50.00 
+40,000 
+9.00 / 5 
+12 / 29.00 
+3 5 / 25 
+700 
+18-Nov-09 
+11 
+216 
+171 
+3,145.000 
+3,235.000 
+Wipe/Drilling 
+17-Nov-09 17:44 
+18-Nov-09 03:09 
+3.79 @ 3,167.650 
+4.33 @ 3,223.600 
+0.90 / Smith Mi16VBPX 
+681 
+3.3 / 2.5 
+KCl/Polymer 
+9.40 / 56.00 
+38,000 
+9.00 / 5 
+14 / 29.00 
+3 6 / 0 25 
+MWD Run Number 
+Date run completed 
+Rig Bit Number 
+Bit Size (mm) 
+Tool Nominal OD (in) 
+Log Start Depth (MD, m) 
+Log End Depth (MD, m) 
+Drill or Wipe 
+Drill/Wipe Start Date and Time 
+Drill/Wipe End Date and Time 
+Min Inc (deg) @ Depth (MD, m) 
+Max Inc (deg) @ Depth (MD, m) 
+Bit TFA(in2) / Bit Type 
+Flow Rate (gpm) 
+Max AV (mps) / CV (mps) @ MWD 
+Fluid Type 
+Density (ppg) / Viscosity (spqt) 
+Filtrate CL (ppm) 
+pH / Fluid Loss (mptm) 
+PV (cP) / YP (lhf2) 
+% Solids / % Sand
+3.5 / .25 
+0 / 0:100 
+.12 @ 22.20 
+.10 @ 21.10 
+.18 @ 24.40 
+109.30 / EWR-P4 
+.05 @ 109.30 
+J. Lau 
+B. Houston 
+3.6 / 0.25 
+0 / 0:100 
+.11 @ 21.50 
+.10 @ 21.00 
+.16 @ 23.80 
+112.90 / EWR-P4 
+.04 @ 112.90 
+J. Lau 
+B. Houston 
+% Solids / % Sand 
+% Oil / Oil:Water Ratio 
+Rm @ Measured Temp (degC) 
+Rmf @ Measured Temp (degC) 
+Rmc @ Measured Temp (degC) 
+Max Tool Temp (degC) / Source 
+Rm @ Max Tool Temp (degC) 
+Lead MWD Engineer 
+Customer Representative 
+SENSOR INFORMATION 
+Downhole Processor Information 
+HCIM 
+88.20 
+232754 
+10943320 
+13-Nov-09 19:00 
+15-Nov-09 12:04 
+N/A 
+HCIM 
+88.20 
+232754 
+10943320 
+16-Nov-09 21:13 
+18-Nov-09 16:24 
+N/A 
+Tool Type 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Date and Time Initialized 
+Date and Time Read 
+ECMB SW Version 
+Directional Sensor Information 
+PCDC 
+10.070 
+1025744 
+300348 
+10993464 
+N/A 
+PCDC 
+10.070 
+1025744 
+300348 
+10993464 
+N/A 
+Tool Type 
+Distance From Bit (m) 
+Software Version 
+Sub Serial Number 
+Sonde Serial Number 
+Sensor ID Number 
+Toolface Offset (deg) 
+Gamma Ray Sensor Information 
+DGR 
+2.830 
+10 
+N/A 
+176027 
+126021 
+DGR 
+2.830 
+10 
+N/A 
+176027 
+126021 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Insert/Sonde Serial Number 
+Resistivity Sensor Information 
+EWR-P4 
+5.170 
+10 
+1.50 
+270277 
+261331 
+11194015 
+Down 
+EWR-P4 
+5.170 
+10 
+1.50 
+270277 
+261331 
+11194015 
+Down 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Receiver Insert Serial Number 
+Transmitter Insert Serial Number 
+Receiver Orientation 
+Neutron Sensor Information 
+CTN 
+19.640 
+14 
+231177 
+230786 
+0102NN 
+N/A 
+Up 
+CTN 
+19.640 
+14 
+231177 
+230786 
+0102NN 
+N/A 
+Up 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Sub Serial Number 
+Insert Serial Number 
+Source Serial Number 
+Source Factor 
+Pin Orientation 
+Density Sensor Information 
+ALD 
+15.590 
+14 
+3 04 
+ALD 
+15.590 
+14 
+3 04 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+S ft V i
+3.04 
+10507525 
+10718194 
+32033 
+39382B 
+Up 
+209.6 
+0 
+3.04 
+10507525 
+10718194 
+32033 
+39382B 
+Up 
+209.6 
+0 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Sensor ID Number 
+Source Serial Number 
+Pin Orientation 
+Stabilizer Blade O.D. (mm) 
+DPA Offset 
+Caliper Sensor Information 
+ACAL 
+31.020 
+0.19 
+123087 
+113327 
+ACAL 
+31.020 
+0.19 
+123087 
+113327 
+Tool Type 
+Distance From Bit (m) 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Sonic Sensor Information 
+BAT 
+24.200 
+18 
+11378929 
+11215930 
+133714 
+QBAT_ggss_m12_m 
+R5Listen_512_DS 
+75 - 110 
+157179 
+20.02 
+20.01 / 20.01 
+36.65 
+BAT 
+24.200 
+18 
+11378929 
+11215930 
+133714 
+QBAT_ggss_m12_m 
+R5Listen_512_DS 
+75 - 110 
+157179 
+20.02 
+20.01 / 20.01 
+36.65 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Sub Serial Number 
+Receiver Insert Serial Number 
+Transmitter Insert Serial Number 
+MIT File 
+Config File 
+Real-Time Window (uspf) 
+Battery Insert Serial Number 
+MCM Software Version 
+DAQ1/DAQ2 Software Version 
+DSM Software Version 
+Pulser Controller Sensor Information 
+PCM 
+8.04 
+1.20 / 
+302842 
+11226946 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+PCM 
+8.04 
+1.20 / 
+302842 
+11226946 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+N/A 
+1022 
+Tool Type 
+Software Version 
+PIC Software Version 
+Sub/HOC Serial Number 
+Insert/Probe/Module SN 
+Battery Serial Number 
+Valve Insert SN 
+DC Insert Serial Number 
+Choke Size (32nd) 
+Driver Current (uA) 
+Driver SMI Current (uA) 
+Boot Strap Version 
+DDSr-DGR Sensor Information 
+DDSr-DGR 
+0 
+12 
+10.49 
+176027 
+126021 
+6261 
+DDSr-DGR 
+0 
+12 
+10.49 
+176027 
+126021 
+6261 
+Tool Type 
+Distance From Bit (m) 
+Recorded Sample Period (sec) 
+Software Version 
+Sub Serial Number 
+Insert Serial Number 
+Sensor ID Number 
+REMARKS 
+1. All depths are bit depths and referenced to the drillers pipe tally. 
+2. AV/CV is calculated at the MWD collar using the Power Law for water based mud. 
+3. Curve Mnemonics are: 
+ACAL - Smoothed Acoustic Caliper, in 
+SROP - Smoothed Rate of Penetration, m/hr 
+SGRC - Smoothed Gamma Ray Combined, api 
+SEDP - Smoothed Deep Phase-Shift Derived Resistivity, ohm-m 
+f
+ SEMP - Smoothed Medium Phase-Shift Derived Resistivity, ohm-m 
+SESP - Smoothed Shallow Phase-Shift Derived Resistivity, ohm-m 
+SEXP - Smoothed Extra Shallow Phase-Shift Derived Resistivity, ohm-m 
+SCO2 - Smoothed Low Count Rate Stand-off Correction, g/cc 
+SBD2 - Smoothed Low Count Rate Bulk Density, g/cc 
+TNPL - Smoothed Thermal Neutron Porosity, v/v 
+BATC - Smoothed Bi-Modal Acoustic Compressional Slowness, us/ft 
+SNP2 - Smoothed Near Detector Photoelectric Factor, b/e 
+4. CTN data has been processed based on Limestone matrix and using the following 
+parameters: 
+MW = 9.00 - 9.50 sg 
+Formation Salinity = 15,500 - 26,500 ppm Cl 
+Matrix Density = 2.71 g/cc 
+Fluid Density = 1.00 g/cc 
+5. Formation Evaluation data has been processed using hole size from Acoustic 
+Caliper. 
+6. Gamma Ray from 150 to 929.6 mMDRT is obtained by Pressure Case Gamma (PCG). 
+7. Gamma Ray (DGR) logged through casing from 2507.0 to 2518.5 mMDRT. 
+8. No Azimuthal Litho Density (ALD) data between 2510.0 to 2619.5 mMDRT due to 
+tool failure. 
+9. Missing data at 2631.9 to 2634.8 mMDRT due to depth tracking issue. 
+10. Wiped 216 mm coring interval from 2983.0 to 3013.0 mMDRT. 
+11. Wiped 216 mm coring interval from 3145.0 to 3175.0 mMDRT. 
+SEMP - Smoothed Medium Phase-Shift Derived Resistivity, ohm-m 
+SESP - Smoothed Shallow Phase-Shift Derived Resistivity, ohm-m 
+SEXP - Smoothed Extra Shallow Phase-Shift Derived Resistivity, ohm-m 
+SCO2 - Smoothed Low Count Rate Stand-off Correction, g/cc 
+SBD2 - Smoothed Low Count Rate Bulk Density, g/cc 
+TNPL - Smoothed Thermal Neutron Porosity, v/v 
+BATC - Smoothed Bi-Modal Acoustic Compressional Slowness, us/ft 
+SNP2 - Smoothed Near Detector Photoelectric Factor, b/e 
+4. CTN data has been processed based on Limestone matrix and using the following 
+parameters: 
+MW = 9.00 - 9.50 sg 
+Formation Salinity = 15,500 - 26,500 ppm Cl 
+Matrix Density = 2.71 g/cc 
+Fluid Density = 1.00 g/cc 
+5. Formation Evaluation data has been processed using hole size from Acoustic 
+Caliper. 
+6. Gamma Ray from 150 to 929.6 mMDRT is obtained by Pressure Case Gamma (PCG). 
+7. Gamma Ray (DGR) logged through casing from 2507.0 to 2518.5 mMDRT. 
+8. No Azimuthal Litho Density (ALD) data between 2510.0 to 2619.5 mMDRT due to 
+tool failure. 
+9. Missing data at 2631.9 to 2634.8 mMDRT due to depth tracking issue. 
+10. Wiped 216 mm coring interval from 2983.0 to 3013.0 mMDRT. 
+11. Wiped 216 mm coring interval from 3145.0 to 3175.0 mMDRT. 
+WARRANTY 
+HALLIBURTON WILL USE ITS BEST EFFORTS TO FURNISH CUSTOMERS WITH ACCURATE INFORMATION AND INTERPRETATIONS 
+THAT ARE PART OF, AND INCIDENT TO, THE SERVICES PROVIDED. HOWEVER, HALLIBURTON CANNOT AND DOES NOT 
+WARRANT THE ACCURACY OR CORRECTNESS OF SUCH INFORMATION AND INTERPRETATIONS. UNDER NO CIRCUMSTANCES 
+SHOULD ANY SUCH INFORMATION OR INTERPRETATION BE RELIED UPON AS THE SOLE BASIS FOR ANY DRILLING, 
+COMPLETION, PRODUCTION, OR FINANCIAL DECISION OR ANY PROCEDURE INVOLVING ANY RISK TO THE SAFETY OF ANY 
+DRILLING VENTURE, DRILLING RIG OR ITS CREW OR ANY OTHER THIRD PARTY. THE CUSTOMER HAS FULL RESPONSIBILITY 
+FOR ALL DRILLING, COMPLETION AND PRODUCTION OPERATION. HALLIBURTON MAKES NO REPRESENTATIONS OR WARRANTIES, 
+EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR 
+FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SERVICES RENDERED. IN NO EVENT WILL HALLIBURTON 
+BE LIABLE FOR FAILURE TO OBTAIN ANY PARTICULAR RESULTS OR FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, 
+INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES, RESULTING FROM THE USE OF ANY INFORMATION OR INTERPRETATION 
+PROVIDED BY HALLIBURTON. 
+0.2 (SEDP) 200 
+Deep Phase Res 
+ohmm 
+(ACAL) 
+inches 
+6 16 
+Acoustic Caliper Best Bin Delta Rho 
+-0.75 (SCO2) 0.25 
+g/cc 
+Medium Phase Res 
+0.2 (SEMP) 200 
+ohmm 
+100 (SROP) 0 
+Rate of Penetration 
+m/hr 
+Best Bin Bulk Density 
+1.95 (SBD2) 2.95 
+g/cc 
+Comp Slowness 
+140 (BATC) 40 
+uspf 
+(SESP) 
+Shallow Phase Res 
+0.2 200 
+ohmm 
+Depth 
+1 : 500 
+(SGRC) MD 
+Gamma Ray 
+api 
+0 200 0.45 (TNPL) -0.15 
+Neutron Porosity 
+v/v 
+0 (SNP2) 10 
+Photoelectric Effect 
+b/e 
+0.2 (SEXP) 200 
+X-Shallow Phase Res 
+ohmm 
+150 
+SGRC R k6
+175 
+200 
+225 
+250 
+275 
+300 
+SGRC Remark 6 762mm casing shoe 
+set at 153.0 mMD 
+SROP 
+300 
+200 
+225 
+250 
+275 
+300 
+275 
+300
+300 
+325 
+350 
+375 
+300 
+325 
+350 
+375 
+400 
+425 
+350 
+375 
+400 
+425
+450 
+475 
+500 
+525 
+450 
+475 
+500 
+525 
+550 
+575 
+500 
+525 
+550 
+575
+600 
+625 
+650 
+675 
+600 
+625 
+650 
+675 
+700 
+725 
+650 
+675 
+700 
+725
+750 
+775 
+800 
+825 
+850 
+825 
+850 
+750 
+775 
+800 
+825 
+850 
+875 
+825 
+850 
+875
+900 
+925 
+900 
+925 
+950 
+975 
+1000 
+900 
+925 
+950 
+975 
+1000 
+1025 
+340mm casing shoe 
+set at 933.0 mMD 
+SGRC 
+SROP EWR-P4 
+975 
+1000 
+1025
+1050 
+1075 
+1050 
+1075 
+1100 
+1125 
+1150 
+1050 
+1075 
+1100 
+1125 
+1150 
+1175 
+1125 
+1150 
+1175
+1200 
+1225 
+1200 
+1225 
+1250 
+1275 
+1300 
+1200 
+1225 
+1250 
+1275 
+1300 
+1325 
+1275 
+1300 
+1325
+1350 
+1375 
+1350 
+1375 
+1400 
+1425 
+1450 
+1350 
+1375 
+1400 
+1425 
+1450 
+1475 
+1425 
+1450 
+1475
+1500 
+1525 
+1500 
+1525 
+1550 
+1575 
+1600 
+1500 
+1525 
+1550 
+1575 
+1600 
+1625 
+1575 
+1600 
+1625
+1650 
+1675 
+1650 
+1675 
+1700 
+1725 
+1750 
+1650 
+1675 
+1700 
+1725 
+1750 
+1775 
+1725 
+1750 
+1775
+1800 
+1825 
+1800 
+1825 
+1850 
+1875 
+1900 
+1800 
+1825 
+1850 
+1875 
+1900 
+1925 
+1875 
+1900 
+1925
+1950 
+1975 
+1950 
+1975 
+2000 
+2025 
+2050 
+1950 
+1975 
+2000 
+2025 
+2050 
+2075 
+2025 
+2050 
+2075
+2100 
+2125 
+2100 
+2125 
+2150 
+2175 
+2200 
+2100 
+2125 
+2150 
+2175 
+2200 
+2225 
+2175 
+2200 
+2225
+2250 
+2275 
+2250 
+2275 
+2300 
+2325 
+2350 
+2250 
+2275 
+2300 
+2325 
+2350 
+2375 
+2325 
+2350 
+2375
+2400 
+2425 
+2450 
+2400 
+2425 
+2450 
+2475 
+2500 
+2525 
+2425 
+2450 
+2475 
+2500 
+2525 
+SGRC EWR-P4 
+2500 
+2525 
+SGRC EWR-P4 
+Remark 7 
+SROP 244mm casing shoe TNPL 
+set at 2520.0 mMD 
+Remark 8 
+BATC 
+ACAL EWR-P4
+2550 
+2575 
+2600 
+2550 
+2575 
+2600 
+2625 
+2650 
+2675 
+2575 
+2600 
+2625 
+2650 
+2675 
+SGRC 
+ACAL 
+SROP 
+BATC 
+TNPL 
+EWR-P4 
+SCO2 
+SNP2 
+SBD2 
+Remark 9 
+2650 
+2675
+2675 
+2700 
+2725 
+2750 
+2675 
+2700 
+2725 
+2750 
+2775 
+2800 
+2725 
+2750 
+2775 
+2800
+2825 
+2850 
+2875 
+2900 
+2825 
+2850 
+2875 
+2900 
+2925 
+2950 
+2875 
+2900 
+2925 
+2950
+2975 
+3000 
+3025 
+3050 
+2975 
+3000 
+3025 
+3050 
+3075 
+3100 
+Remark 10 
+3025 
+3050 
+3075 
+3100
+3125 
+3150 
+3175 
+3200 
+3125 
+3150 
+3175 
+3200 
+3225 
+Remark 11 
+3175 
+3200 
+3225 
+ACAL SCO2 
+BATC 
+TNPL 
+SBD2 SNP2 
+SGRC EWR-P4 
+SROP 
+Trefoil-2 TD at 3235.0 mMDRT 
+Depth 
+1 : 500 
+(SGRC) MD 
+Gamma Ray 
+api 
+0 200 0.45 (TNPL) -0.15 
+Neutron Porosity 
+v/v 
+0 (SNP2) 10 
+Photoelectric Effect 
+b/e 
+0.2 (SEXP) 200 
+X-Shallow Phase Res 
+ohmm 
+100 (SROP) 0 
+Rate of Penetration 
+m/hr 
+Best Bin Bulk Density 
+1.95 (SBD2) 2.95 
+g/cc 
+Comp Slowness 
+140 (BATC) 40 
+uspf 
+(SESP) 
+Shallow Phase Res 
+0.2 200 
+ohmm 
+(ACAL) 
+inches 
+6 16 
+Acoustic Caliper Best Bin Delta Rho 
+-0.75 (SCO2) 0.25 
+g/cc 
+Medium Phase Res 
+0.2 (SEMP) 200 
+ohmm 
+D Ph R
+0.2 (SEDP) 200 
+Deep Phase Res 
+ohmm 
+DIRECTIONAL SURVEY REPORT 
+Origin Energy Resources Ltd 
+Trefoil-2 
+Trefoil 
+Tasmania 
+Australia 
+AU-FE-000671414 
+UTM Zone 55S, GDA 1994 
+RT-MSL = 26.0m 
+Measured Vertical Vertical 
+Depth Inclination Direction Depth Latitude Departure Section Dogleg 
+(metres) (degrees) (degrees) (metres) (metres) (metres) (metres) (deg/30m) 
+0.000 0.00 0.00 0.000 0.000 N 0.000 E 0.000 TIE-IN 
+95.000 0.00 0.00 95.000 0.000 N 0.000 E 0.000 0.00 
+204.920 0.58 282.17 204.920 0.120 N 0.540 W -0.520 0.16 
+289.500 0.55 277.88 289.490 0.260 N 1.360 W -1.280 0.02 
+376.490 0.32 238.01 376.480 0.190 N 1.980 W -1.760 0.13 
+435.080 0.35 232.40 435.070 0.000 N 2.260 W -1.890 0.02 
+521.950 0.72 199.02 521.940 0.680 S 2.650 W -1.830 0.16 
+547.830 0.73 193.58 547.810 1.000 S 2.740 W -1.740 0.08 
+579.000 0.69 195.91 578.980 1.370 S 2.840 W -1.610 0.05 
+665.440 0.36 203.20 665.420 2.120 S 3.090 W -1.410 0.12 
+782.280 0.67 192.10 782.250 3.120 S 3.380 W -1.090 0.08 
+812.120 0.66 196.82 812.090 3.460 S 3.470 W -0.980 0.06 
+868.190 0.30 224.95 868.160 3.870 S 3.660 W -0.920 0.22 
+896.770 1.03 195.99 896.740 4.170 S 3.790 W -0.850 0.82 
+925.970 0.71 183.94 925.930 4.610 S 3.870 W -0.680 0.38 
+952.440 0.80 188.49 952.400 4.950 S 3.910 W -0.530 0.12 
+981.350 0.74 192.99 981.310 5.330 S 3.980 W -0.370 0.09 
+1010.200 0.83 198.72 1010.160 5.710 S 4.090 W -0.260 0.12 
+1067.210 0.87 190.96 1067.160 6.530 S 4.310 W 0.020 0.06 
+1095.870 0.84 194.49 1095.820 6.950 S 4.400 W 0.170 0.06 
+1153.510 1.11 191.81 1153.450 7.900 S 4.620 W 0.510 0.14 
+1182.360 1.27 187.06 1182.290 8.490 S 4.720 W 0.760 0.20 
+1211.300 0.97 182.63 1211.230 9.060 S 4.770 W 1.030 0.32 
+1240.320 1.00 184.76 1240.240 9.550 S 4.800 W 1.270 0.05 
+1269.440 0.96 179.68 1269.360 10.050 S 4.820 W 1.530 0.10 
+1298.710 1.13 178.12 1298.620 10.580 S 4.810 W 1.840 0.18 
+1327.950 1.27 184.82 1327.860 11.200 S 4.830 W 2.160 0.20 
+1357.120 1.31 184.97 1357.020 11.850 S 4.880 W 2.470 0.04 
+1385.950 1.43 187.08 1385.840 12.530 S 4.950 W 2.790 0.14 
+1414.800 1.33 186.15 1414.680 13.220 S 5.030 W 3.110 0.11 
+1443.260 1.42 189.23 1443.140 13.900 S 5.130 W 3.400 0.12 
+1471.760 1.41 188.55 1471.630 14.600 S 5.240 W 3.700 0.02 
+1500.560 1.44 186.77 1500.420 15.310 S 5.330 W 4.010 0.06 
+1529.740 1.02 177.87 1529.590 15.930 S 5.360 W 4.320 0.47 
+1559.000 1.11 183.32 1558.850 16.470 S 5.370 W 4.620 0.14 
+1588.150 1.05 181.86 1587.990 17.020 S 5.400 W 4.900 0.07 
+1617.270 1.14 175.03 1617.110 17.580 S 5.380 W 5.220 0.16 
+1646.320 1.17 184.16 1646.150 18.160 S 5.380 W 5.550 0.19 
+1675.150 1.31 182.99 1674.970 18.780 S 5.410 W 5.860 0.15 
+1703.610 1.02 183.90 1703.430 19.360 S 5.450 W 6.150 0.31 
+1731.980 1.12 176.27 1731.790 19.890 S 5.450 W 6.440 0.18 
+1760.710 1.20 179.48 1760.520 20.470 S 5.430 W 6.780 0.11 
+1790.080 1.13 181.99 1789.880 21.070 S 5.430 W 7.100 0.09 
+1819.450 1.17 182.73 1819.240 21.660 S 5.460 W 7.410 0.04 
+1848.520 1.17 190.32 1848.310 22.250 S 5.530 W 7.680 0.16 
+1877.800 1.13 190.92 1877.580 22.820 S 5.630 W 7.910 0.04 
+1906.650 1.23 192.98 1906.430 23.400 S 5.760 W 8.120 0.11 
+1934.670 1.08 194.42 1934.440 23.950 S 5.890 W 8.320 0.16 
+1963.220 0.48 64.50 1962.990 24.160 S 5.850 W 8.470 1.51 
+1992.330 0.56 59.70 1992.100 24.040 S 5.620 W 8.590 0.09 
+2021.460 0.59 61.98 2021.230 23.900 S 5.360 W 8.730 0.04 
+2050 740 0 64 78 76 2050 500 23 790 S 5 070 W 8 910 0 19
+2050.740 0.64 78.76 2050.500 23.790 S 5.070 W 8.910 0.19 
+2080.190 0.61 81.26 2079.950 23.740 S 4.750 W 9.150 0.04 
+2102.200 0.68 80.27 2101.960 23.700 S 4.510 W 9.330 0.10 
+2138.040 0.69 75.36 2137.800 23.610 S 4.090 W 9.630 0.05 
+2195.190 0.63 82.85 2194.940 23.480 S 3.440 W 10.090 0.06 
+2253.190 0.62 89.29 2252.940 23.440 S 2.810 W 10.600 0.04 
+2281.350 0.84 88.95 2281.100 23.430 S 2.460 W 10.890 0.23 
+2310.290 0.91 90.74 2310.040 23.430 S 2.010 W 11.260 0.08 
+2339.670 0.80 84.68 2339.410 23.410 S 1.580 W 11.620 0.15 
+2398.220 0.81 98.78 2397.960 23.440 S 0.760 W 12.310 0.10 
+2426.570 1.08 93.16 2426.300 23.480 S 0.300 W 12.720 0.30 
+2454.950 0.96 91.77 2454.680 23.510 S 0.210 E 13.160 0.13 
+2484.550 1.06 89.94 2484.270 23.510 S 0.730 E 13.590 0.11 
+2524.750 1.00 97.22 2524.470 23.560 S 1.450 E 14.220 0.11 
+2557.550 1.13 91.00 2557.260 23.600 S 2.060 E 14.750 0.16 
+2588.200 1.30 90.35 2587.900 23.610 S 2.710 E 15.290 0.17 
+2646.630 1.43 86.39 2646.320 23.560 S 4.100 E 16.430 0.08 
+2674.000 1.51 91.33 2673.680 23.550 S 4.800 E 17.010 0.16 
+2702.980 1.62 88.34 2702.650 23.550 S 5.590 E 17.670 0.14 
+2732.910 1.69 88.47 2732.570 23.520 S 6.450 E 18.370 0.07 
+2762.560 1.85 89.89 2762.200 23.510 S 7.370 E 19.130 0.17 
+2791.490 1.82 85.29 2791.120 23.470 S 8.300 E 19.880 0.16 
+2819.890 1.94 85.21 2819.500 23.400 S 9.220 E 20.610 0.13 
+2847.720 2.06 83.71 2847.310 23.300 S 10.190 E 21.360 0.14 
+2876.190 2.24 81.90 2875.760 23.170 S 11.250 E 22.170 0.20 
+2905.640 2.46 85.79 2905.190 23.040 S 12.450 E 23.100 0.28 
+2935.670 2.58 82.74 2935.190 22.910 S 13.760 E 24.120 0.18 
+2963.220 2.93 85.15 2962.710 22.770 S 15.080 E 25.150 0.40 
+2992.320 2.88 83.61 2991.770 22.630 S 16.550 E 26.290 0.10 
+3021.530 3.01 83.20 3020.940 22.450 S 18.040 E 27.440 0.14 
+3051.620 3.07 82.21 3050.990 22.250 S 19.620 E 28.640 0.08 
+3080.660 3.23 81.34 3079.990 22.020 S 21.200 E 29.840 0.17 
+3101.980 3.47 82.50 3101.270 21.850 S 22.430 E 30.770 0.35 
+3130.210 3.75 81.59 3129.440 21.600 S 24.190 E 32.100 0.30 
+3167.650 3.79 84.07 3166.800 21.290 S 26.640 E 33.960 0.13 
+3194.790 3.87 83.32 3193.880 21.090 S 28.440 E 35.360 0.10 
+3223.600 4.33 83.41 3222.620 20.860 S 30.480 E 36.930 0.48 
+3235.000 4.33 83.41 3233.990 20.760 S 31.340 E 37.590 0.00 
+CALCULATION BASED ON MINIMUM CURVATURE METHOD 
+SURVEY COORDINATES RELATIVE TO WELL SYSTEM REFERENCE POINT 
+TVD VALUES GIVEN RELATIVE TO DRILLING MEASUREMENT POINT 
+VERTICAL SECTION RELATIVE TO WELL HEAD 
+VERTICAL SECTION IS COMPUTED ALONG A CLOSURE OF 123.52 DEGREES (GRID) 
+A TOTAL CORRECTION OF 11.45 DEG FROM MAGNETIC NORTH TO GRID NORTH HAS BEEN APPLIED 
+HORIZONTAL DISPLACEMENT IS RELATIVE TO THE WELL HEAD. 
+HORIZONTAL DISPLACEMENT(CLOSURE) AT 3235.000 METRES 
+IS 37.592 METRES ALONG 123.52 DEGREES (GRID) 
+Final Survey Projected to TD. 
+Date Printed:09 December 2009 
+Heavy Weight 
+113.220 
+244.52 
+X-Over Sub 
+1.090 
+131.30 
+Drill Collar 
+75.330 
+130.21 
+Positive Pulser 
+MWD RUN 100 - BHA MWD RUN 100 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+75.330 
+Jar 
+9.680 
+54.88 
+Drill Collar 
+18.630 
+45.20 
+PCM Sonde 
+PCDC Sonde 
+7.760 
+Drill Collar 
+18.630 
+45.20 
+X-Over Sub 
+1.130 
+26.57 
+Stabilizer 
+2.050 
+25.44 
+Spiral Drill Collar 
+9.450 
+23.39 
+Stabilizer 
+2.510 
+13.94 
+MWD 
+9.770 
+11.43 
+Bit Sub 
+1.220 
+1.66 
+Tricone 
+.440 
+0.44 
+PCDC Sonde 
+7.760 
+PCG Sonde 
+5.621 
+Heavy Weight 
+141.540 
+252.71 
+X-Over Sub 
+1.090 
+111.17 
+Spiral Drill Collar 
+18 630 
+110.08 
+Positive Pulser 
+PCM Sonde 
+MWD RUN 200 - BHA MWD RUN 200 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+18.630 
+Jar 
+9.680 
+91.45 
+Spiral Drill Collar 
+56.430 
+81.77 
+PCDC Sonde 
+19.760 
+HCIM Insert 
+Spiral Drill Collar 
+56.430 
+81.77 
+Integral Blade 
+1.880 
+25.34 
+MWD 
+12.08 
+23.46 
+Integral Blade 
+1.860 
+11.38 
+Mud Motor 
+9.220 
+9.52 
+PDC 
+.300 
+0.30 
+HCIM Insert 
+EWR-P4 Insert 
+14.810 
+DDS Insert 
+DGR Insert 
+12.340 
+Heavy Weight 
+141.540 
+252.71 
+X-Over Sub 
+1.090 
+111.17 
+Spiral Drill Collar 
+18.630 
+110.08 
+Positive Pulser 
+PCM Sonde 
+MWD RUN 300 - BHA MWD RUN 300 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+Jar 
+9.680 
+91.45 
+Spiral Drill Collar 
+56.430 
+81.77 
+PCDC Sonde 
+19.760 
+HCIM Insert 
+Spiral Drill Collar 
+56.430 
+81.77 
+Integral Blade 
+1.880 
+25.34 
+MWD 
+12.08 
+23.46 
+Integral Blade 
+1.860 
+11.38 
+Mud Motor 
+9.220 
+9.52 
+PDC 
+.300 
+0.30 
+HCIM Insert 
+EWR-P4 Insert 
+14.810 
+DDS Insert 
+DGR Insert 
+12.340 
+Heavy Weight 
+141.130 
+282.54 
+Drill Collar 
+28.210 
+141.41 
+ACAL Insert 
+30.200 
+Positive Pulser 
+PCM Sonde 
+MWD RUN 400 - BHA MWD RUN 400 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+Jar 
+9.910 
+113.20 
+BAT Insert 
+23.365 
+CTN Insert 
+18.830 
+ALD Insert 
+14.845 
+Jar 
+9.910 
+113.20 
+Drill Collar 
+74.970 
+103.29 
+Stabilizer 
+1.700 
+28.32 
+MWD 
+24.84 
+26.62 
+Stabilizer 
+1.500 
+1.78 
+PDC 
+.280 
+0.28 
+ALD Insert 
+14.845 
+PCDC Sonde 
+10.022 
+HCIM Insert 
+EWR-P4 Insert 
+5.160 
+DGR Insert 
+2.806 
+DDSr-DGR 
+0 
+Heavy Weight 
+141.130 
+288.37 
+Drill Collar 
+28.210 
+147.24 
+ACAL Insert 
+31.020 
+Positive Pulser 
+PCM Sonde 
+BAT Insert 
+MWD RUN 500 - BHA MWD RUN 500 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+Jar 
+9.910 
+119.03 
+BAT Insert 
+24.200 
+CTN Insert 
+19.640 
+ALD Insert 
+15.590 
+Jar 
+9.910 
+119.03 
+Drill Collar 
+74.970 
+109.12 
+Stabilizer 
+1.700 
+34.15 
+MWD 
+30.67 
+32.45 
+Stabilizer 
+1.500 
+1.78 
+PDC 
+.280 
+0.28 
+ALD Insert 
+15.590 
+PCDC Sonde 
+10.070 
+HCIM Insert 
+EWR-P4 Insert 
+5.170 
+DGR Insert 
+2.830 
+DDSr-DGR 
+0 
+Heavy Weight 
+141.130 
+288.37 
+Drill Collar 
+28.210 
+147.24 
+119 03 
+ACAL Insert 
+31.020 
+Positive Pulser 
+PCM Sonde 
+BAT Insert 
+24.200 
+MWD RUN 600 - BHA MWD RUN 600 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+Jar 
+9.910 
+119.03 
+CTN Insert 
+19.640 
+ALD Insert 
+15.590 
+Jar 
+9.910 
+119.03 
+Drill Collar 
+74.970 
+109.12 
+Stabilizer 
+1.700 
+34.15 
+MWD 
+30.67 
+32.45 
+Stabilizer 
+1.500 
+1.78 
+PDC 
+.280 
+0.28 
+ALD Insert 
+15.590 
+PCDC Sonde 
+10.070 
+HCIM Insert 
+EWR-P4 Insert 
+5.170 
+DGR Insert 
+2.830 
+DDSr-DGR 
+0 
+Heavy Weight 
+141.130 
+288.37 
+Drill Collar 
+28.210 
+147.24 
+119.03 
+ACAL Insert 
+31.020 
+Positive Pulser 
+PCM Sonde 
+BAT Insert 
+24.200 
+MWD RUN 700 - BHA MWD RUN 700 - MWD 
+Sensor 
+Measure 
+Point 
+Distance 
+To Bit 
+(m) 
+Component 
+Length 
+(m) 
+Cumulative 
+Length 
+(m) 
+
+Jar 
+9.910 CTN Insert 
+19.640 
+ALD Insert 
+15.590 
+Jar 
+9.910 
+Drill Collar 
+74.970 
+109.12 
+Stabilizer 
+1.700 
+34.15 
+MWD 
+30.67 
+32.45 
+Stabilizer 
+1.500 
+1.78 
+PDC 
+.280 
+0.28 
+ALD Insert 
+15.590 
+PCDC Sonde 
+10.070 
+HCIM Insert 
+EWR-P4 Insert 
+5.170 
+DGR Insert 
+2.830 
+DDSr-DGR 
+0 
+Jar 
+9.910 CTN Insert 
+19.640 
+ALD Insert 
+15.590 
+Jar 
+9.910 
+Drill Collar 
+74.970 
+109.12 
+Stabilizer 
+1.700 
+34.15 
+MWD 
+30.67 
+32.45 
+Stabilizer 
+1.500 
+1.78 
+PDC 
+.280 
+0.28 
+ALD Insert 
+15.590 
+PCDC Sonde 
+10.070 
+HCIM Insert 
+EWR-P4 Insert 
+5.170 
+DGR Insert 
+2.830 
+DDSr-DGR 
+0 
+Jar 
+9.910 CTN Insert 
+19.640 
+ALD Insert 
+15.590 
+Jar 
+9.910 
+Drill Collar 
+74.970 
+109.12 
+Stabilizer 
+1.700 
+34.15 
+MWD 
+30.67 
+32.45 
+Stabilizer 
+1.500 
+1.78 
+PDC 
+.280 
+0.28 
+ALD Insert 
+15.590 
+PCDC Sonde 
+10.070 
+HCIM Insert 
+EWR-P4 Insert 
+5.170 
+DGR Insert 
+2.830 
+DDSr-DGR 
+0 
